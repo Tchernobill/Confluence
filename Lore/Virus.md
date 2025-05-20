@@ -1,0 +1,5 @@
+Neural Nightmare is a nano-bot virus prototype designed for psychological warfare. Injected into cerebrospinal fluid, the micron-sized bots infiltrate the brain, mapping neural pathways and establishing control points. They probe dreamscapes to learn hosts' fears, then manipulate perceptions to induce nightmarish hallucinations.
+
+The virus prevents self-harm by intercepting voluntary movement signals, trapping victims in perpetual torment. It exploits paranoia and mistrust to isolate infected individuals from society and loved ones. In extreme cases, Neural Nightmare can override inhibitions, compelling hosts to harm their own kin.
+
+Neural Nightmare employs encrypted C2 architectures for secure communication and coordination among infected hosts. A mysterious organization called Neural Shield claims to offer deactivation keys for specific instances of the virus, but each key is unique and must be applied within a limited time frame. The ethical implications of using these expensive countermeasures are complex.
