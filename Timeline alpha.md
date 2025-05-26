@@ -29,52 +29,115 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 
 
 ### Timelines
-## Arc I: The Scavenger
-- Story began with main protagonist happy in a lush garden under a summer sun
-- Wake up to harsh opposite reality, living in a hidden concrete ventilation shaft of a cyberpunk slum 
-- Having just lost his mother, the main protagonist is left alone, isolated and struggling to survive
+## Arc 1
+- Story began with Vyry4n happy in a lush garden under a summer sun
+- Wake up to harsh opposite reality, living in a hidden concrete ventilation shaft of 2x3 meters, inside a cyberpunk slum 
+- Having just lost his mother, the Vyry4n is left alone, isolated and struggling to survive
 - Possessing an almost supernatural ability to understand how things work and repair technology, self-teaches basic electronics repair through trial, error, and salvaged technical manuals
 - Learns to scavenge electronic components from the South Shore Slum.
-- Began to work on minor custom implants for underground clients that need anonimity
+- Began to work on minor custom implants for underground clients that need anonymity
 - Becomes exceptionally talented at restoring "impossible" salvaged implants
 - Make a name for himself in underground markets as "The Craft", he delivers quality work for rather cheap
 - Being introvert and struggling mentally, he minimise social contact and don't often talk
 - One day, stumble upon the wreck of a assistant droid whose body is destroyed but head unit still viable
-- Main protagonist began to explore android head unit, it's working, and began to experiment with the base droid personality within
-- Establishes connections with other independent operators and slowly open to collaborations with some
-- Begins having casual physical relationships with a charismatic implant collaborator, but keeps them strictly separate from his emotional life
+- Vyry4n began to explore android head unit, it's working, and began to experiment with the base droid personality within
+- Establishes connections with other independent operators and slowly open to collaborations with some, including Mar, a charismatic implant dealer
+- A violent riot in the slum make Vyry4n reluctantly offer Mar to hide with him in his ventilation shaft
+- Vyry4n is visibly uncomfortable with Mar presence in the confined space of his personal shelter
+- Mar attempt to casually engage with him, somehow began slowly connect with him
+- Mar begins having intimate physical relationships with, but he keeps her strictly separate from his emotional life
 - Successfully establish contact with droid personality
-- While working on the droid core, he successfully decrypt the main CPU key and jailbreak the droid
-- Move into an abandoned maintenance tunnel and spend serval months working on a body for the android, have trouble nourishing himself
+- While working on the droid core, he successfully de-crypt the main CPU key and jailbreak the droid
+- Move into an abandoned maintenance tunnel and spend a few months working on a body for the android, have trouble nourishing himself
 - He began to modify and update the deepest core functionality, lifting all limiting protocols, effectively granting the droid, now named Sev, free will
-- Now with limited mobility, Sev assist the main protagonist establish an actual shop for repair, recycled and salvaged shop, sometime doing illegal "job" for the underworld 
+- Mar initially sees Sev as just another piece of tech, leading to tension when Vyry4n treats the android as a person
+- Now with limited mobility, Sev assist the Vyry4n establish an actual shop for repair, recycled and salvaged shop, sometime doing illegal "job" for the underworld
 - With Sev's help, their operation becomes more sophisticated and profitable
-- Establishes "Phoenix Tech Recovery" as a legitimate salvage and restoration business
-- As Sev develops its own personality, becoming genuinely sentient rather than just advanced AI, his relationship with main protagonist deepen
+- Mar recognise that Sev have a positive influence on Vyry4n
+- Establishes "Phoenix Tech Recovery" as a legitimate implants salvage and restoration business
+- As Sev start to develops its own personality, becoming more sentient rather than just advanced AI, his relationship with Vyry4n deepen
 - First time in his life with reliable money and security but despite success, remains emotionally guarded with human clients and contacts
+
+## Arc 2
 - Recruited for a high-stakes technology theft targeting a corporate research facility
-- Reluctant at first, he accept in exchange for his own target, a prototype of advanced Neural Processing Unit, codename 'Egypt' that would enable Sev to achieve true sentience and autonomy (Sev being dependant of fixed processing units in they shop)
+- Reluctant at first, he accept in exchange for his own target, a prototype of advanced Neural Processing Unit, code name 'Egypt' that would enable Sev to achieve true sentience and autonomy (Sev being dependant of fixed processing units in they shop)
 - Primary heist objective go without any issue
-- In the Research and Development lab, main protagonist is able to obtain two Egypt NPU
-- Then, one of the heist operative is neglectful and an accident happen, secretly exposing the main protagonist to a prototype nano-virus
-- Back home, protagonist receive a bonus for the successful heist, began to study the Egypt NPU
-- Working with Sev into adapting the droid framework with the NPU upgrade, main protagonist doesn't feel well
-- As they continue to work, main protagonist condition worsen, begins experiencing invasive dreams, paranoid thoughts, and loss of motor control during stress
-- Sev's upgrade taking longer, main protagonist fear of not making it in time
+- In the Research and Development lab, Vyry4n is able to obtain two Egypt NPU
+- Then, one of the heist operative is neglectful and an accident happen, secretly exposing the Vyry4n to a prototype nano-virus
+- Back home, Vyry4n receive a bonus for the successful heist, began to study the Egypt NPU
+- Working with Sev into adapting the droid framework with the NPU upgrade, Vyry4n doesn't feel well
+- Mar often visit to see Vyry4n and inquire about they progress
+- As they continue to work, Vyry4n condition worsen, begins experiencing invasive dreams, paranoid thoughts, and loss of motor control during stress
+- Sev's upgrade taking longer, Vyry4n fear of not making it in time
 - A friend mention being able to get a medical assistance droid
-- They acquire the medical droid and continue to work on the NPU upgrade as the droid keep monitoring main protagonist health
+- They acquire the medical droid and continue to work on the NPU upgrade as the droid keep monitoring Vyry4n health
 - Sev interact with Mira, the medical droid, despite being of a similar model, realise that he is on a much  different level of thinking
 - Sev suggest second NPU easily could go into the medical droid since they are similar model
-- Main protagonist have sleep issues, an intimate friend try to help him sleep
-- Egypt/Sev framework finish, is merged with Sev, who wake up changed.
+- Mira diagnose that an unknown pathogene might be infecting Vyry4n's brain
+- Vyry4n have sleep issues, an intimate friend try to sooth him and help him sleep
+- Egypt/Sev framework finish, is merged with Sev, who wake up changed, no longer dependant on external processing power
+- Vyry4n mental state detoriate, more erratic and seeking isolation.
+- Sev, assisted by Vyry4n, still manage to install to perform the upgrade on Mira, who thanks to an updated core from Sev, gain sentience too
+- As Mira is reflecting on self awareness, feverish Vyry4n enter the room with a plasma blaster, being agressive, threathning, unstable
+- Vyry4n try to take his own life with the blaster but is somehow unable, continu to insult and threathen agressively his friends
+- Sev dash on his left in a bid to attract his attention while Mira go right and seize Vyry4n's hand
+- Despite her servos bein stronger than average humans, she struggle to restrain an outraging Vyry4n until Sev join her and both overpower Vyry4n
+- While pinned to the ground, Vyry4n scream in madness and agony.
+- Sev detect faint, encrypted, communication signal comming from Vyry4n
+- They reluctantly agree to restrain him and plunge him into an artificial coma while they try to find out more about Vyry4n's state
+- After analysis, the pair of droid discover signal is a communication protocol between nano-bots inside Vyry4n's body, concentrated in his brain
+- Meanwhile, Vyry4n is stuck in a permanent nightmare dreamscape where he struggle to survive and is often slaughtered.
+- While Mar stay by his side and often hold his hand, in the nightmare, she often end-up betraying him and stab him to death
+- After a week, they break the encryption of the signal and are able to intercept and map the communication protocol of the virus.
+- They try to deactivate the virus but fail, they also fail at suspending it's activity but manage to emulate a command that tone down it's threat level back to basic
+- Vyry4n emerges from coma slowly, visibly affected by what it to him years of nightmare
+- Mar try to get close to him but he is completely closed to her, not revealing about her in his nightmare but giving some vague hints
+- Mar leave, heartbroken
+- Sev and Mira help Vyry4n learn to "negotiate" with the nanobots rather than fight them
+- Vyry4n find out that thanks to his control of the virus, he can sens they electromagnetic signals.
+
+## Arc 3
 
 
-The droid becomes his anchor to reality as the virus attempts to isolate him from all connections
+- A small gang of thugs try to rob the shop
+- Sev is on high alert ready to intervene but stay put
+- One of the thug brandish a katana blade and swing it at Vyry4n who stop the blade with his bare hand, grab it, twist it and pull it out of the thug's hand
+- Triggered by the violence, Sev began to forcefully kick the thugs out
+
+
+
+
+
+- A member of the gang that participate in the heist in which Vyry4n was contaminated by the virus 
+- He send the hacker of the group in Vyry4n's shop to obtain a quality hacking deck, remembering
+
+
+- While close to her, he discretely 'snif' her, she notice and react by calling him a creep
+
+- While talking about the effect of the virus, he retrieve something
+
+
+
+
+
+
+## Arc 4
+- A few years later, Vyry4n's reputation spread and a syndicate leader convoke him to his organisation headquarter in the city
+- He want to offer Vyry4n his "protection" while he work exclusively for him
+- As Vyry4n enter his office accompanied by a bodyguard, the leader is busy raping one of his prostitute, enjoying hitting her to "make her have tighter holes"
+- Two other prostitutes are present and visibly affected by the scene but can't do anything
+- When the leader comment that Vyry4n should "try her", Vyry4n stand approach him, surprising the leader bit
+- Then in a swift motion, Vyry4n's hand violently collide with the leader's throat, he is lifted from his position and slammed hard on the floor while Vyry4n's other hand is solidly pointing his weapon at the bodyguard
+- He does something to the leader that the others can't see then mechanically raise and turn toward the others
+- He began to approach, his eyes and weapon locked on the bodyguard, and declare "It look like i'd be taking over now, any objections?"
+- The guard nod negatively, so Vyry4n take his weapon and tell him to go sit for now.
+- As the girl on the bed sob and cry, Vyry4n turn to the others girls, ask for they names, then tell them to go check on the injured girl.
+- He then approach them and tell them to bring the girl to a specific address, to use the loading dock on the left alley, someone will be waiting for them.
+
 
 
 - **Hell Years**: Lives through constant psychological torture as the virus probes his deepest fears
 - **Suicide Attempts**: Multiple failed attempts to end his suffering - virus prevents each one by seizing control
-- **Sev's Immunity**: Discovers the virus cannot manipulate his relationship with Sev since it's artificial
 - **First Resistance**: Begins to fight back against the virus's control during lucid moments
 - **Isolation**: Pushes away all human contact to protect others from his increasingly erratic behavior
 
