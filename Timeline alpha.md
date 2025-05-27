@@ -45,7 +45,8 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 - A violent riot in the slum make Vyry4n reluctantly offer Mar to hide with him in his ventilation shaft
 - Vyry4n is visibly uncomfortable with Mar presence in the confined space of his personal shelter
 - Mar attempt to casually engage with him, somehow began slowly connect with him
-- Mar begins having intimate physical relationships with, but he keeps her strictly separate from his emotional life
+- Mar initiate physical intimacy with him, while it is casual and usual for her, he's unconfirmable but let her guide him and end up being ok with it
+- Despite opening more after intimacy, he remain somehow naturally distant 
 - Successfully establish contact with droid personality
 - While working on the droid core, he successfully de-crypt the main CPU key and jailbreak the droid
 - Move into an abandoned maintenance tunnel and spend a few months working on a body for the android, have trouble nourishing himself
@@ -54,19 +55,24 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 - Now with limited mobility, Sev assist the Vyry4n establish an actual shop for repair, recycled and salvaged shop, sometime doing illegal "job" for the underworld
 - With Sev's help, their operation becomes more sophisticated and profitable
 - Mar recognise that Sev have a positive influence on Vyry4n
-- Establishes "Phoenix Tech Recovery" as a legitimate implants salvage and restoration business
+- Establishes "Phoenix Recovery" as a legitimate implants salvage and restoration business
 - As Sev start to develops its own personality, becoming more sentient rather than just advanced AI, his relationship with Vyry4n deepen
 - First time in his life with reliable money and security but despite success, remains emotionally guarded with human clients and contacts
 
 ## Arc 2
-- Recruited for a high-stakes technology theft targeting a corporate research facility
+- Frank, the leader of a 'contractor' team, want to recruit Vyry4n for a high-stakes technology theft targeting a corporate research facility
 - Reluctant at first, he accept in exchange for his own target, a prototype of advanced Neural Processing Unit, code name 'Egypt' that would enable Sev to achieve true sentience and autonomy (Sev being dependant of fixed processing units in they shop)
+- Mar arrive at the shop, find it empty, go back to her place
 - Primary heist objective go without any issue
-- In the Research and Development lab, Vyry4n is able to obtain two Egypt NPU
-- Then, one of the heist operative is neglectful and an accident happen, secretly exposing the Vyry4n to a prototype nano-virus
-- Back home, Vyry4n receive a bonus for the successful heist, began to study the Egypt NPU
+- On the way down, in the Research and Development lab, Vyry4n is able to obtain two Egypt NPU
+- Then, one of the heist operative is neglectful, security trigger and a crewmember named Frank go all gun blazing in the lab. A grenade explode near Vyry4n, nearly killing him, and breach a containment system and it's content, secretly exposing Vyry4n to a prototype nano-virus
+- Frank leave a DeathPack on the floor and they all ran for the door while Vyry4n is still on the floor, dazed by the explosion
+- At the last minute, a different crew member come back and pull Vyry4n by the hand, dragging him out in the stairwell where they escape
+- As the timer of the DeathPack reach zero, the entire floor of the building is purged in a giant detonation (later causing the downfall of the whole company)
+- Back home, Vyry4n is still dazed by the explosions, receive a bonus for the successful heist.
+- The next day, he began to study the Egypt NPU
 - Working with Sev into adapting the droid framework with the NPU upgrade, Vyry4n doesn't feel well
-- Mar often visit to see Vyry4n and inquire about they progress
+- Mar often visit to see Vyry4n and inquire about him
 - As they continue to work, Vyry4n condition worsen, begins experiencing invasive dreams, paranoid thoughts, and loss of motor control during stress
 - Sev's upgrade taking longer, Vyry4n fear of not making it in time
 - A friend mention being able to get a medical assistance droid
@@ -98,23 +104,60 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 
 ## Arc 3
 
-
+- The Phoenix Recovery shop is doing well for a few months
 - A small gang of thugs try to rob the shop
-- Sev is on high alert ready to intervene but stay put
+- Sev is pretending to be just an average assistant droid but is on high alert ready to intervene
 - One of the thug brandish a katana blade and swing it at Vyry4n who stop the blade with his bare hand, grab it, twist it and pull it out of the thug's hand
-- Triggered by the violence, Sev began to forcefully kick the thugs out
+- Triggered by the sudden act of violence, Sev began to forcefully kick the thugs out and they flee
+- The blade craft is too much valuable to be owed by a mere thug which make Vyry4n speculate on it's origin
+-  
 
 
 
 
 
-- A member of the gang that participate in the heist in which Vyry4n was contaminated by the virus 
-- He send the hacker of the group in Vyry4n's shop to obtain a quality hacking deck, remembering
+- Frank, a member of the gang that participate in the heist in which Vyry4n was contaminated by the virus need some good quality hardware for a job
+- Having a strained relationship with Vyry4n, he send one of his crew member in the shop to obtain a quality hacking deck
 
 
-- While close to her, he discretely 'snif' her, she notice and react by calling him a creep
 
-- While talking about the effect of the virus, he retrieve something
+- Vyry4n have an issue with one of the member of the crew, who is disrespectful to him, ask him to calm down and be more polite
+- Attempting to project dominance, the crew member go straight into confrontation and pull his weapon on Vyry4n's head
+- Vyry4n scold him for thinking he's top just because he have lightning-fast enhanced muscle, all those credits wasted because he simply cannot move anymore, his fancy implants being delivered with a backdoor for those who pay even more than him
+- As he move around the paralysed gunman, he explain that his main problem with him is his lack of manners. He point out to the other gunwoman that from a single look at her face, she doesn't like him either, but keep it for herself and dont act like she's his boss
+- And since the crew is in Vyry4n's place, that make him the host, and as a good host, if the gunwoman would declare being thirsty, she would be entitled to a cold beverage from the fridge.
+- Now, if the gunman were to declare being thirsty, the best he'd get with that rude attitude would be half a glass of warm water with some spit in it.
+- He turn to Frank and tell him that "the dog" will have to wait in the car if they want to talk
+- Frank object, get upset and raise his voice, they are the clients
+- Vyry4n try to keep his calm as Frank start to get rude as well
+- Vyry4n's internal pressure burst and he shout back at Frank, exposing him to the others for the previous job they did together, nearly killing him with a grenade, running out leaving him behind to die to an explosion he set himself and ultimately exposing him to something far worst than death
+- After a few second of silence, Vyry4n storm out of the room, and the automatic gun turrets that nobody notices being deployed retract in the walls and the paralysed gunman is released
+
+
+
+
+
+
+
+- Frank mention having an errand to run in Jerz and then they'll be ready for the job
+
+- 
+- While close to Flux, he briefly 'snif' her, she notice and react strongly and call him a creep
+
+
+
+- Later, Vyryan call Flux in his workshop, to which she refuse to get 'alone with the creep'
+- He insist, that it is for her own good, so Frank and the others come too
+- Vyry4n ask her how are her dreams, does the have strangely repetitive dreams or did she reach the warm and confortable dreams that make her want to sleep more?
+- Flux stay silent, as she's wondering how can he know about her dreams 
+- He then start to talk about the progressively nightmarish effect of the virus, promising it's host something worst than death (this cue somehow shake Frank as he began to understand about Vyry4n)
+- Vyry4n state that he suspect that Frank is going to Jerz because she's infected with DarkNight, a nanobot virus, and that there is a shady contact in Jerz that pretend he can cure it
+- Flux want to know how he know, Vyry4n vaguely reply that he can smell it off her
+- He put her hand into a device that seal over it, there is a pneumatic sound as a needle collect a blood sample
+- He tell them that the Jerz contact is a scam, there is no cure and they will just take half of the credit upfront and either kill her if she's alone or sideline her long enough to be too late for her.
+- While talking, he retrieve a box from a safe and put it next to the machine running the analysis
+- The machine confirm the presence of the virus in Flux blood and is attempting to decrypt it's key, which fail after a few minutes
+- 
 
 
 
