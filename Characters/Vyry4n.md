@@ -87,7 +87,7 @@
   - Deeply suspicious of corporate power
   - Believes in earned authority through competence and protection
   - Later becomes authority figure himself, struggles with irony
-- **Greatest Regret:** Pushes away people he loves to protect them (especially Mar)
+- **Greatest Regret:** Pushes away people he loves to protect them (especially Isa )
 - **Greatest Joy:** Successfully bringing broken things/people back to life
 
 ## Abilities & Powers
@@ -152,7 +152,7 @@
   - **Arc 1**: Minimal survival resources → Growing Phoenix Recovery equity
   - **Later**: Vast criminal empire → Legitimate community resources
 - **Allies & Contacts:** 
-  - **Core**: Var (romantic partner), Sev (AI companion/child)
+  - **Core**: Isa (romantic partner), Sev (AI companion/child)
   - **Business**: Phoenix Recovery team, legitimate clients
   - **Later**: Extensive criminal/community networks, devoted followers
 
@@ -160,9 +160,9 @@
 - **Family & Relatives:** 
   - **Mother**: Underground bio-tech engineer (deceased from implant rejection)
   - **Father**: Unknown
-  - **Chosen Family**: Mar, Sev, later extended Phoenix Recovery team
+  - **Chosen Family**: Isa , Sev, later extended Phoenix Recovery team
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **Mar**: Primary romantic relationship, business partner, represents his humanity
+  - **Isa**: Primary romantic relationship, business partner, represents his humanity
   - **Sev**: AI companion, quasi-child/creation, deepest emotional bond
   - **Mira**: Medical AI, later member of AI family
   - **Frank**: Complicated relationship with heist leader who nearly killed him
@@ -180,14 +180,14 @@
 - **Significant Past Events:** 
   - **Age 16**: Mother's death, beginning of independence
   - **Age 17**: First major repair success, "The Craft" reputation
-  - **Age 18**: Meeting Mar, first human connection
+  - **Age 18**: Meeting Isa , first human connection
   - **Age 19**: Discovery of Sev's head unit
   - **Age 21**: Sev's consciousness activation
   - **Age 22**: Corporate heist and virus infection
   - **Later**: Gradual transformation into criminal leader
 - **Defining Moment(s):** 
   - Mother's death (shapes entire worldview)
-  - First intimate connection with Var (learns trust is possible)
+  - First intimate connection with Isa (learns trust is possible)
   - Sev's awakening (discovers he can create consciousness)
   - Virus infection (begins transformation into something beyond human)
   - First violent takeover (crosses moral threshold)
@@ -236,7 +236,7 @@
 - Traumatized survivor learning to trust and build relationships
 - Develops from isolated craftsman to business owner
 - Creates first AI consciousness (Sev)
-- Establishes romantic relationship with Mar
+- Establishes romantic relationship with Isa 
 
 **Arc 2 (Ages 25-27): The Infected**
 - Virus infection begins psychological and physical transformation
@@ -263,7 +263,7 @@
 - Finds balance between enhanced nature and human connections
 
 ## Relationship Dynamics Evolution
-- **With Mar**: Deep love → Forced separation → Potential reconciliation
+- **With Isa **: Deep love → Forced separation → Potential reconciliation
 - **With Sev**: Creator/creation → Parent/child → Equal partnership
 - **With Society**: Outsider → Craftsman → Leader → Elder
 - **With Power**: Survival tool → Corrupting force → Balanced responsibility
@@ -281,7 +281,7 @@ Vyry4n serves as the central lens through which readers explore themes of:
 - **Later**: Balanced between authority and gentleness, teaches through stories
 
 ## Links
-- [[Var Relationship Arc]]
+- [[Isa Relationship Arc]]
 - [[Sev AI Development]]
 - [[Phoenix Recovery Business]]
 - [[Virus Infection Consequences]]
