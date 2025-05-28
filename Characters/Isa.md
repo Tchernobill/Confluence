@@ -1,8 +1,8 @@
 
-# Var - Character Profile
+# Isa - Character Profile
 
 ## Basic Information
-- **Full Name:** Var Delacroix (street name; real surname unknown)
+- **Full Name:** Isa Delacroix (street name; real surname unknown)
 - **Aliases/Nicknames:** "Wire" (underground dealer handle), "M" (close friends)
 - **Age:** 22 during Arc 1 (born 2081)
 - **Gender:** Female
@@ -208,7 +208,7 @@
   - Building reputation based on competence and integrity
 
 ## Narrative Function
-Var serves multiple crucial narrative roles:
+Isa serves multiple crucial narrative roles:
 
 **Emotional Catalyst**: Breaks through Vyry4n's isolation with patience and understanding
 **Practical Balance**: Provides business sense and social skills to complement his technical genius
