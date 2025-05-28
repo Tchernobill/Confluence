@@ -41,20 +41,20 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 - Being introvert and struggling mentally, he minimise social contact and don't often talk
 - One day, stumble upon the wreck of a assistant droid whose body is destroyed but head unit still viable
 - Vyry4n began to explore android head unit, it's working, and began to experiment with the base droid personality within
-- Establishes connections with other independent operators and slowly open to collaborations with some, including Mar, a charismatic implant dealer
-- A violent riot in the slum make Vyry4n reluctantly offer Mar to hide with him in his ventilation shaft
-- Vyry4n is visibly uncomfortable with Mar presence in the confined space of his personal shelter
-- Mar attempt to casually engage with him, somehow began slowly connect with him
-- Mar initiate physical intimacy with him, while it is casual and usual for her, he's unconfirmable but let her guide him and end up being ok with it
+- Establishes connections with other independent operators and slowly open to collaborations with some, including Isa, a charismatic implant dealer
+- A violent riot erupt in the slum make Vyry4n reluctantly offer Isa to hide with him in his ventilation shaft
+- Vyry4n is visibly uncomfortable with Isa presence in the confined space of his personal shelter
+- Isa attempt to casually engage with him, somehow began slowly connect with him
+- Isa initiate physical intimacy with him, while it is casual and usual for her, he's unconfirmable but let her guide him and end up being ok with it
 - Despite opening more after intimacy, he remain somehow naturally distant 
 - Successfully establish contact with droid personality
 - While working on the droid core, he successfully de-crypt the main CPU key and jailbreak the droid
 - Move into an abandoned maintenance tunnel and spend a few months working on a body for the android, have trouble nourishing himself
 - He began to modify and update the deepest core functionality, lifting all limiting protocols, effectively granting the droid, now named Sev, free will
-- Mar initially sees Sev as just another piece of tech, leading to tension when Vyry4n treats the android as a person
+- Isa initially sees Sev as just another piece of tech, leading to tension when Vyry4n treats the android as a person
 - Now with limited mobility, Sev assist the Vyry4n establish an actual shop for repair, recycled and salvaged shop, sometime doing illegal "job" for the underworld
 - With Sev's help, their operation becomes more sophisticated and profitable
-- Mar recognise that Sev have a positive influence on Vyry4n
+- Isa recognise that Sev have a positive influence on Vyry4n
 - Establishes "Phoenix Recovery" as a legitimate implants salvage and restoration business
 - As Sev start to develops its own personality, becoming more sentient rather than just advanced AI, his relationship with Vyry4n deepen
 - First time in his life with reliable money and security but despite success, remains emotionally guarded with human clients and contacts
@@ -62,7 +62,7 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 ## Arc 2
 - Frank, the leader of a 'contractor' team, want to recruit Vyry4n for a high-stakes technology theft targeting a corporate research facility
 - Reluctant at first, he accept in exchange for his own target, a prototype of advanced Neural Processing Unit, code name 'Egypt' that would enable Sev to achieve true sentience and autonomy (Sev being dependant of fixed processing units in they shop)
-- Mar arrive at the shop, find it empty, go back to her place
+- Isa arrive at the shop, find it empty, go back to her place
 - Primary heist objective go without any issue
 - On the way down, in the Research and Development lab, Vyry4n is able to obtain two Egypt NPU
 - Then, one of the heist operative is neglectful, security trigger and a crewmember named Frank go all gun blazing in the lab. A grenade explode near Vyry4n, nearly killing him, and breach a containment system and it's content, secretly exposing Vyry4n to a prototype nano-virus
@@ -72,7 +72,7 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 - Back home, Vyry4n is still dazed by the explosions, receive a bonus for the successful heist.
 - The next day, he began to study the Egypt NPU
 - Working with Sev into adapting the droid framework with the NPU upgrade, Vyry4n doesn't feel well
-- Mar often visit to see Vyry4n and inquire about him
+- Isa often visit to see Vyry4n and inquire about him
 - As they continue to work, Vyry4n condition worsen, begins experiencing invasive dreams, paranoid thoughts, and loss of motor control during stress
 - Sev's upgrade taking longer, Vyry4n fear of not making it in time
 - A friend mention being able to get a medical assistance droid
@@ -93,12 +93,12 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 - They reluctantly agree to restrain him and plunge him into an artificial coma while they try to find out more about Vyry4n's state
 - After analysis, the pair of droid discover signal is a communication protocol between nano-bots inside Vyry4n's body, concentrated in his brain
 - Meanwhile, Vyry4n is stuck in a permanent nightmare dreamscape where he struggle to survive and is often slaughtered.
-- While Mar stay by his side and often hold his hand, in the nightmare, she often end-up betraying him and stab him to death
+- While Isa stay by his side and often hold his hand, in the nightmare, she often end-up betraying him and stab him to death
 - After a week, they break the encryption of the signal and are able to intercept and map the communication protocol of the virus.
 - They try to deactivate the virus but fail, they also fail at suspending it's activity but manage to emulate a command that tone down it's threat level back to basic
 - Vyry4n emerges from coma slowly, visibly affected by what it to him years of nightmare
-- Mar try to get close to him but he is completely closed to her, not revealing about her in his nightmare but giving some vague hints
-- Mar leave, heartbroken
+- Isa try to get close to him but he is completely closed to her, not revealing about her in his nightmare but giving some vague hints
+- Isa leave, heartbroken
 - Sev and Mira help Vyry4n learn to "negotiate" with the nanobots rather than fight them
 - Vyry4n find out that thanks to his control of the virus, he can sens they electromagnetic signals.
 
@@ -176,6 +176,17 @@ Dual linear timeline, main protagonist as primary and arc protagonist as seconda
 - The guard nod negatively, so Vyry4n take his weapon and tell him to go sit for now.
 - As the girl on the bed sob and cry, Vyry4n turn to the others girls, ask for they names, then tell them to go check on the injured girl.
 - He then approach them and tell them to bring the girl to a specific address, to use the loading dock on the left alley, someone will be waiting for them.
+
+
+
+
+
+
+
+
+- Vyry4n intent to destroy the corporation
+- The tall building stand in the middle of a multi-layered defences
+
 
 
 
