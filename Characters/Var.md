@@ -1,21 +1,8 @@
----
-title:
-  - Mar Character Profile
-tags:
-  - Novel
-  - Vyry4n
-  - Character Development
-  - Mar
-version: "0.2"
-status: enhanced
-last_updated: 2025-05-27 21:35
-type: Reference
----
 
-# Mar - Character Profile
+# Var - Character Profile
 
 ## Basic Information
-- **Full Name:** Mar Delacroix (street name; real surname unknown)
+- **Full Name:** Var Delacroix (street name; real surname unknown)
 - **Aliases/Nicknames:** "Wire" (underground dealer handle), "M" (close friends)
 - **Age:** 22 during Arc 1 (born 2081)
 - **Gender:** Female
@@ -221,7 +208,7 @@ type: Reference
   - Building reputation based on competence and integrity
 
 ## Narrative Function
-Mar serves multiple crucial narrative roles:
+Var serves multiple crucial narrative roles:
 
 **Emotional Catalyst**: Breaks through Vyry4n's isolation with patience and understanding
 **Practical Balance**: Provides business sense and social skills to complement his technical genius
