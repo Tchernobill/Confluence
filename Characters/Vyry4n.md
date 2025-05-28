@@ -1,16 +1,3 @@
----
-title:
-  - Vyry4n Character Profile
-tags:
-  - Novel
-  - Vyry4n
-  - Main Character
-  - Character Development
-version: "0.1"
-status: comprehensive
-last_updated: 2025-05-27 21:45
-type: Reference
----
 
 # Vyry4n - Character Profile
 
@@ -165,7 +152,7 @@ type: Reference
   - **Arc 1**: Minimal survival resources → Growing Phoenix Recovery equity
   - **Later**: Vast criminal empire → Legitimate community resources
 - **Allies & Contacts:** 
-  - **Core**: Mar (romantic partner), Sev (AI companion/child)
+  - **Core**: Var (romantic partner), Sev (AI companion/child)
   - **Business**: Phoenix Recovery team, legitimate clients
   - **Later**: Extensive criminal/community networks, devoted followers
 
@@ -200,7 +187,7 @@ type: Reference
   - **Later**: Gradual transformation into criminal leader
 - **Defining Moment(s):** 
   - Mother's death (shapes entire worldview)
-  - First intimate connection with Mar (learns trust is possible)
+  - First intimate connection with Var (learns trust is possible)
   - Sev's awakening (discovers he can create consciousness)
   - Virus infection (begins transformation into something beyond human)
   - First violent takeover (crosses moral threshold)
@@ -294,7 +281,7 @@ Vyry4n serves as the central lens through which readers explore themes of:
 - **Later**: Balanced between authority and gentleness, teaches through stories
 
 ## Links
-- [[Mar Relationship Arc]]
+- [[Var Relationship Arc]]
 - [[Sev AI Development]]
 - [[Phoenix Recovery Business]]
 - [[Virus Infection Consequences]]
