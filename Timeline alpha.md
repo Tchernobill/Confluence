@@ -135,17 +135,33 @@
 
 
 ## Arc 4
-- A few years later, Vyry4n's reputation spread and a syndicate leader convoke him to his organisation headquarter in the city
+- A few years later, Vyry4n's reputation and business spread and a syndicate leader, Rico "The Grip" Vasquez, convoke him to his organisation headquarter in the South Shore Slum
 - He want to offer Vyry4n his "protection" while he work exclusively for him
-- As Vyry4n enter his office accompanied by a bodyguard, the leader is busy raping one of his prostitute, enjoying hitting her to "make her have tighter holes"
-- Two other prostitutes are present and visibly affected by the scene but can't do anything
+- As Vyry4n enter his office accompanied by a bodyguard, "The Grip" is busy having violent sex with one of his prostitute, enjoying hitting her to "make her have tighter holes"
+- Two other prostitutes are present and visibly affected by the scene but wouldn't say or do anything
 - When the leader comment that Vyry4n should "try her", Vyry4n stand approach him, surprising the leader bit
-- Then in a swift motion, Vyry4n's hand violently collide with the leader's throat, he is lifted from his position and slammed hard on the floor while Vyry4n's other hand is solidly pointing his weapon at the bodyguard
-- He does something to the leader that the others can't see then mechanically raise and turn toward the others
-- He began to approach, his eyes and weapon locked on the bodyguard, and declare "It look like i'd be taking over now, any objections?"
-- The guard nod negatively, so Vyry4n take his weapon and tell him to go sit for now.
-- As the girl on the bed sob and cry, Vyry4n turn to the others girls, ask for they names, then tell them to go check on the injured girl.
-- He then approach them and tell them to bring the girl to a specific address, to use the loading dock on the left alley, someone will be waiting for them.
+- Then in a swift motion, Vyry4n's hand violently collide with the Rico's throat, he is lifted from his position and slammed hard on the floor while Vyry4n's other hand is solidly pointing his weapon at the bodyguard
+- He does something to the leader that the others can't see (secretly injecting his version of the virus) then mechanically raise and turn toward the others
+- He began to approach, his eyes and weapon locked on the bodyguard, and declare "Any objections?"
+- The guard nod negatively, so Vyry4n ask his name (it's Marcus), take his weapon and tell him to go sit for now.
+- As the girl on the bed sob and cry, Vyry4n turn to the two others girls, ask for they names (Jenna and Gillian), then tell them to go check on the injured girl.
+- He then ask them how is she (she is in bad shape) and so he tell them to bring the girl to a specific address, to use the loading dock on the left alley, someone will be waiting for them, giving them what apear to be a plain card with a serial number on it (it's a medical policy number)
+- They proceed without questions (they know better than discussing orders)
+- After they leave, Marcus dare ask where are they bringing the girl.
+- Vyry4n reply to a underground medical care center where he have a premium account
+- Marcus have mixed feelings, unpleased about the take over but somehow toutched by the medical care
+- He say "What now, Boss" (implying Vyry4n is now in charge)
+
+
+
+
+- While exploring the structure of the whole criminal organisation, he conclude that it is a complexe and very efficient system to collect power (in the form of money, information, coercion, any kind of levage on others), but also a system that live and feed from other's suffering, creating and maintaining misery.
+- The first display of this is how the street workers are threated, not like employees but disposable asset that degrade with 'usage' (violence, drug, living considions)
+- His first change will be to change the organisation rules, not only forbidding violent acts against the prostitute but also making it clear that the rule will be enforced with prejudice
+
+- 
+
+
 
 
 
