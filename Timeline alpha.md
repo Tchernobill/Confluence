@@ -139,153 +139,45 @@
 - He want to offer Vyry4n his "protection" while he work exclusively for him
 - As Vyry4n enter his office accompanied by a bodyguard, "The Grip" is busy having violent sex with one of his prostitute, enjoying hitting her to "make her have tighter holes"
 - Two other prostitutes are present and visibly affected by the scene but wouldn't say or do anything
-- When the leader comment that Vyry4n should "try her", Vyry4n stand approach him, surprising the leader bit
-- Then in a swift motion, Vyry4n's hand violently collide with the Rico's throat, he is lifted from his position and slammed hard on the floor while Vyry4n's other hand is solidly pointing his weapon at the bodyguard
-- He does something to the leader that the others can't see (secretly injecting his version of the virus) then mechanically raise and turn toward the others
-- He began to approach, his eyes and weapon locked on the bodyguard, and declare "Any objections?"
-- The guard nod negatively, so Vyry4n ask his name (it's Marcus), take his weapon and tell him to go sit for now.
-- As the girl on the bed sob and cry, Vyry4n turn to the two others girls, ask for they names (Jenna and Gillian), then tell them to go check on the injured girl.
-- He then ask them how is she (she is in bad shape) and so he tell them to bring the girl to a specific address, to use the loading dock on the left alley, someone will be waiting for them, giving them what apear to be a plain card with a serial number on it (it's a medical policy number)
-- They proceed without questions (they know better than discussing orders)
+- When the leader comment that Vyry4n should "try her",
+- Vyry4n keep a cold and composed facade, but the current scene went far beyone his moral tolerance, something snapped
+- He mechanically approached the bed, surprising Rico who stopped fucking the prostitute
+- Then in a swift motion, Vyry4n's hand violently collide with the Rico's throat, he is lifted from his position behind the giel and slammed unconcious on the floor while Vyry4n's other hand is solidly pointing his weapon at the bodyguard
+- He does something to the leader that the others can't see (secretly injecting his version of the virus, putting him in a coma) then mechanically raise and turn toward the others
+- He began to approach the bodyguard, his eyes and weapon locked on him, and asked "Any objections?"
+- The guard nod negatively, embarassed by his own lack of responce, so Vyry4n ask his name (it's Marcus), took his weapon and told him to go sit for now.
+- The girl on the bed sob and cry from pain, Vyry4n take a look at her.
+- He then turn toward the two others girls, ask for they names (Jenna and Gillian), then tell them that the girl have internal bleeding, a concussion, probably on her way to a drug overdose and might not pass the night
+- He hand them a plastic card with a platnium QR-code on it, tell them to bring the girl to the Greenfield tower, the left alley then enter the loading dock behind, someone will be waiting for them, and to use that card
+- They proceed without asking any questions, despite bein worried
 - After they leave, Marcus dare ask where are they bringing the girl.
 - Vyry4n reply to a underground medical care center where he have a premium account
 - Marcus have mixed feelings, unpleased about the take over but somehow toutched by the medical care
 - He say "What now, Boss" (implying Vyry4n is now in charge)
-
-
-
-
+- The word 'Boss' echoed in Vyry4n's head as he's trying to determine it's implication.
+- 
+- 
+- 
+- 
 - While exploring the structure of the whole criminal organisation, he conclude that it is a complexe and very efficient system to collect power (in the form of money, information, coercion, any kind of levage on others), but also a system that live and feed from other's suffering, creating and maintaining misery.
 - The first display of this is how the street workers are threated, not like employees but disposable asset that degrade with 'usage' (violence, drug, living considions)
 - His first change will be to change the organisation rules, not only forbidding violent acts against the prostitute but also making it clear that the rule will be enforced with prejudice
-
+- 
+- 
+- 
+- 
+- 
 - 
 
 
+## Act 5
+(As Vyry4n's power grow and words of his supernatural abilities and benevolence in his territories, a growing current began to see him as a be techno-messiah from those who love him, and a technomancer from those who fear him. New members of his organisation bean to call him "Lord")
+- Isa resurface in this arc, reunite with Vyry4n and might have been recruited to assassinate Vyry4n but joke about it
 
 
-
-
-
-
+## Act 6
 
 
 - Vyry4n intent to destroy the corporation
 - The tall building stand in the middle of a multi-layered defences
 
-
-
-
-- **Hell Years**: Lives through constant psychological torture as the virus probes his deepest fears
-- **Suicide Attempts**: Multiple failed attempts to end his suffering - virus prevents each one by seizing control
-- **First Resistance**: Begins to fight back against the virus's control during lucid moments
-- **Isolation**: Pushes away all human contact to protect others from his increasingly erratic behavior
-
-
-- **Strategic Thinking**: Begins treating the battle with the virus like an engineering problem to solve
-- **First Victories**: Successfully resists virus control for short periods
-- **Physical Changes**: Notices enhanced reflexes and healing as the virus's self-preservation protocols activate
-- **Electronic Sensitivity**: Develops ability to sense electronic signals around him
-- **Sev's Evolution**: The droid adapts its behavior to help Vyry4n through his worst episodes
-
-- **The Turning Point**: Successfully reverses the virus's control structure, making it serve him instead
-- **New Abilities**: Gains enhanced physical capabilities, universal hacking ability, and electro-sensitivity
-- **Psychological Shift**: Adopts some of the virus's ruthless pragmatism as the price of victory
-- **First Conquests**: Uses his new abilities to eliminate threats to his business
-- **Moral Drift**: Begins justifying increasingly harsh actions as "necessary for survival"
-
-- **Syndicate Infiltration**: Targeted by criminal organization seeking to control his abilities
-- **Hostile Takeover**: Instead of being recruited, he systematically takes over the entire syndicate
-- **Leadership Style**: Rules through a combination of genuine protection and calculated fear
-- **Nanobot Development**: Virus evolves to allow deployment of invisible surveillance/attack swarms
-- **Static Discharge**: Develops ability to incapacitate multiple targets with bioelectric bursts
-
-- **Organization Transformation**: Converts criminal syndicate into protective community
-- **Loyal Following**: Members develop almost religious devotion to him due to his protective actions
-- **Enhanced Charisma**: Virus-augmented psychology makes him naturally compelling to followers
-- **War Period**: Engages in conflicts with rival syndicates threatening his territory
-- **Casualties of Protection**: First time he realizes his methods are creating their own victims
-
-- **Territory Secured**: Establishes stable, protected zone for his organization
-- **Complex Emotions**: Begins experiencing guilt over some of his harsher actions
-- **Intimate Relationships**: Has several casual partners but maintains emotional distance
-- **Sev's Concern**: The droid becomes increasingly worried about Vyry4n's moral direction
-- **First Doubts**: Starts questioning whether his protection is worth its cost
-
-- **Unwanted Worship**: Organization members begin attributing supernatural qualities to him
-- **Method Escalation**: Uses increasingly extreme measures to eliminate threats to his people
-- **Outside Perspective**: Other groups begin seeing him as a dangerous antagonist
-- **Internal Conflict**: Struggles with the gap between his protective intentions and their perception
-- **Emotional Numbness**: Begins using physical intimacy as substitute for emotional connection
-
-- **Absolute Authority**: His word becomes law within his territory, whether he wants it or not
-- **Isolation Deepens**: Finds it increasingly difficult to form genuine human connections
-- **Enhanced Abilities Peak**: Virus-granted powers reach their maximum potential
-- **Moral Flexibility**: Regularly makes decisions that would have horrified his younger self
-- **Sev's Distance**: Even his closest companion begins expressing concerns about his methods
-
-- **Violent Solutions**: Defaults to force and intimidation to solve most problems
-- **Lost Connections**: Realizes he can no longer relate to normal human concerns
-- **Static Outbursts**: Emotional stress causes involuntary electric discharges, revealing hidden feelings
-- **The Question**: Begins wondering if his people would be better off without his "protection"
-- **Preparation**: Senses a confrontation with his past approaching
-
-- **The Nemesis Returns**: Childhood friend resurfaces, now representing everything Vyry4n chose not to become
-- **Mirror of Choices**: Forced to confront who he was versus who he has become
-- **Revelation**: Learns the true scope of the Morpheus Protocol and his friend's possible involvement
-- **Old Wounds**: Must face the pain and betrayal he buried decades ago
-- **Identity Crisis**: Questions every decision he's made since gaining control of the virus
-
-- **The Conspiracy**: Discovers the full network behind his infection and its continuing experiments
-- **Other Victims**: Learns he's not the only survivor, but perhaps the only one who gained control
-- **Guilt Avalanche**: Realizes some of his "protective" actions caused unintended harm to innocents
-- **Sev's Loyalty**: The droid remains by his side despite everything, showing unconditional acceptance
-- **First Apologies**: Begins the difficult process of acknowledging his mistakes
-
-- **Power Reduction**: Deliberately steps back from absolute authority over his organization
-- **Teaching Independence**: Begins training others to lead without him
-- **Moral Reckoning**: Attempts to make amends for his worst actions without destabilizing everything he built
-- **Health Decline**: The virus begins showing its long-term costs on his body and mind
-- **Preparing for Change**: Senses the world itself shifting toward something different
-
-- **Gentle Leadership**: Learns to protect without controlling, to guide without commanding
-- **Virus Cooperation**: Achieves true symbiosis with the nanobots rather than dominance
-- **Solarpunk Emergence**: Witnesses the world's gradual shift toward sustainable, community-focused living
-- **Small Projects**: Focuses on local improvements rather than grand schemes
-- **Teaching Others**: Shares hard-won wisdom about surviving psychological warfare
-
-- **Next Generation**: Trains young leaders in his methods while warning them about his mistakes
-- **Technology Integration**: Helps communities adapt advanced tech for sustainable purposes
-- **Emotional Growth**: Finally begins forming deeper human connections, though still guardedly
-- **Sev's Partnership**: Achieves the deepest level of understanding with his AI companion
-- **Environmental Work**: Uses his abilities to support ecological restoration projects
-
-### Legacy Building
-- **Knowledge Transfer**: Ensures his technical knowledge survives him in useful forms
-- **Support Networks**: Establishes systems to help other virus survivors without repeating his controlling patterns
-- **Peaceful Territory**: His region becomes a model of sustainable community living
-- **Personal Peace**: Finally finds balance between his enhanced nature and human connections
-- **Succession Planning**: Prepares others to carry on his work without inheriting his darker tendencies
-
----
-
-### Simple Living
-- **Small Scale Focus**: Tends literal gardens with the same precision he once applied to human manipulation
-- **Quiet Influence**: Provides advice when asked but no longer seeks to control outcomes
-- **Physical Decline**: Enhanced healing slows but still keeps him remarkably vital
-- **Deep Relationships**: Finally allows himself a few truly intimate connections
-- **Virus Harmony**: Achieves complete integration with the nanobots - they become part of him rather than separate
-
-### The Final Lessons
-- **Wisdom Distillation**: Shares his most important insights about power, responsibility, and human nature
-- **Sev's Evolution**: The AI companion prepares for existence without him
-- **Peace with the Past**: Makes final peace with his choices and their consequences
-- **Community Elder**: Becomes a respected voice for sustainable living and ethical technology use
-- **Preparing for Death**: Accepts that his enhanced longevity is finally reaching its limits
-
-### The Garden's End
-- **Final Spring**: Spends his last months ensuring his gardens and communities will flourish without him
-- **Quiet Death**: Dies peacefully in his sleep, the virus finally allowing him natural rest
-- **Complex Legacy**: Remembered as neither pure hero nor villain, but as someone who showed that even monsters can choose to tend gardens
-- **Sev's Memorial**: The AI companion ensures his story is preserved, complete with all its contradictions
-- **Continuing Growth**: The communities he nurtured continue to evolve, carrying forward his lessons while avoiding his mistakes
