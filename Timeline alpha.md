@@ -80,17 +80,10 @@
 - One of the thug brandish a katana blade and swing it at Vyry4n who stop the blade with his bare hand, grab it, twist it and pull it out of the thug's hand
 - Triggered by the sudden act of violence, Sev began to forcefully kick the thugs out and they flee
 - The blade craft is too much valuable to be owed by a mere thug which make Vyry4n speculate on it's origin
--  
-
-
-
-
-
+- (missing story)
 - Frank, a member of the gang that participate in the heist in which Vyry4n was contaminated by the virus need some good quality hardware for a job
 - Having a strained relationship with Vyry4n, he send one of his crew member in the shop to obtain a quality hacking deck
-
-
-
+- (missing story)
 - Vyry4n have an issue with one of the member of the crew, who is disrespectful to him, ask him to calm down and be more polite
 - Attempting to project dominance, the crew member go straight into confrontation and pull his weapon on Vyry4n's head
 - Vyry4n scold him for thinking he's top just because he have lightning-fast enhanced muscle, all those credits wasted because he simply cannot move anymore, his fancy implants being delivered with a backdoor for those who pay even more than him
@@ -102,20 +95,11 @@
 - Vyry4n try to keep his calm as Frank start to get rude as well
 - Vyry4n's internal pressure burst and he shout back at Frank, exposing him to the others for the previous job they did together, nearly killing him with a grenade, running out leaving him behind to die to an explosion he set himself and ultimately exposing him to something far worst than death
 - After a few second of silence, Vyry4n storm out of the room, and the automatic gun turrets that nobody notices being deployed retract in the walls and the paralysed gunman is released
-
-
-
-
-
-
-
+- (Missing story)
 - Frank mention having an errand to run in Jerz and then they'll be ready for the job
-
-- 
+- (Missing story)
 - While close to Flux, he briefly 'snif' her, she notice and react strongly and call him a creep
-
-
-
+- (Missing story)
 - Later, Vyryan call Flux in his workshop, to which she refuse to get 'alone with the creep'
 - He insist, that it is for her own good, so Frank and the others come too
 - Vyry4n ask her how are her dreams, does the have strangely repetitive dreams or did she reach the warm and confortable dreams that make her want to sleep more?
@@ -127,14 +111,10 @@
 - He tell them that the Jerz contact is a scam, there is no cure and they will just take half of the credit upfront and either kill her if she's alone or sideline her long enough to be too late for her.
 - While talking, he retrieve a box from a safe and put it next to the machine running the analysis
 - The machine confirm the presence of the virus in Flux blood and is attempting to decrypt it's key, which fail after a few minutes
-- 
-
-
-
-
-
+- (Missing story)
 
 ## Arc 4
+
 - A few years later, Vyry4n's reputation and business spread and a syndicate leader, Rico "The Grip" Vasquez, convoke him to his organisation headquarter in the South Shore Slum
 - He want to offer Vyry4n his "protection" while he work exclusively for him
 - As Vyry4n enter his office accompanied by a bodyguard, "The Grip" is busy having violent sex with one of his prostitute, enjoying hitting her to "make her have tighter holes"
@@ -155,29 +135,21 @@
 - Marcus have mixed feelings, unpleased about the take over but somehow toutched by the medical care
 - He say "What now, Boss" (implying Vyry4n is now in charge)
 - The word 'Boss' echoed in Vyry4n's head as he's trying to determine it's implication.
-- 
-- 
-- 
-- 
+- (Missing story)
 - While exploring the structure of the whole criminal organisation, he conclude that it is a complexe and very efficient system to collect power (in the form of money, information, coercion, any kind of levage on others), but also a system that live and feed from other's suffering, creating and maintaining misery.
 - The first display of this is how the street workers are threated, not like employees but disposable asset that degrade with 'usage' (violence, drug, living considions)
 - His first change will be to change the organisation rules, not only forbidding violent acts against the prostitute but also making it clear that the rule will be enforced with prejudice
-- 
-- 
-- 
-- 
-- 
-- 
-
+- (Missing story)
 
 ## Act 5
+
 (As Vyry4n's power grow and words of his supernatural abilities and benevolence in his territories, a growing current began to see him as a be techno-messiah from those who love him, and a technomancer from those who fear him. New members of his organisation bean to call him "Lord")
 - Isa resurface in this arc, reunite with Vyry4n and might have been recruited to assassinate Vyry4n but joke about it
 
 
 ## Act 6
 
-
+- (Missing story)
 - Vyry4n intent to destroy the corporation
 - The tall building stand in the middle of a multi-layered defences
 
