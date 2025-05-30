@@ -2,16 +2,17 @@
 # Isa - Character Profile
 
 ## Basic Information
-- **Full Name:** Isa Delacroix (street name; real surname unknown)
+- **Full Name:** Isa Mercer
 - **Aliases/Nicknames:** "Wire" (underground dealer handle), "M" (close friends)
 - **Age:** born 2091
 - **Gender:** Female
 - **Pronouns:** She/Her
+- **Sexual orientation:** Bisexual with preference toward men
 - **Species/Race:** Human
 - **Ethnicity/Cultural Background:** Mixed European/Asian descent, third-generation slum dweller
-- **Nationality/Citizenship:** Neo-Angeles Corporate Zone (technically stateless)
+- **Nationality/Citizenship:** Neo-South Corporate Zone (technically stateless)
 - **Birthplace:** South Shore Medical District (before it became a slum)
-- **Current Residence:** South Shore Slum → Phoenix Recovery compound
+- **Current Residence:** South Shore Slum
 - **Occupation:** Underground implant dealer → Business Operations Manager at Phoenix Recovery
 - **Social Class/Status:** Underground economy mid-tier → Emerging legitimate entrepreneur
 - **Alignment:** Chaotic Good with pragmatic tendencies
@@ -20,50 +21,51 @@
 - **Religion/Beliefs:** Practical humanism, believes in earned loyalty and second chances
 
 ## Appearance
-- **Height:** 5'6" (168cm)
-- **Build:** Lean and wiry with hidden strength, dancer-like grace
-- **Skin Tone:** Olive complexion, pale from limited sunlight
-- **Hair Color & Style:** Dark brown with subtle auburn highlights, shoulder-length, often tucked behind ears
+- **Height:** 5'5" (165cm)
+- **Build:** Medium build with hidden strength, dancer-like grace
+- **Skin Tone:** Pale from limited sunlight
+- **Hair Color & Style:** Dark brown with subtle red highlights, shoulder-length, often tucked behind ears
 - **Eye Color:** Hazel with gold flecks that become prominent when excited
-- **Distinguishing Features (Scars, Tattoos, etc.):** 
-  - Thin surgical scar across ribs (black market appendectomy)
-  - Small puncture wounds on left shoulder (shrapnel from corporate raid)
+- **Distinguishing Features (Scars, Tattoos, etc.):**
+  - Lower back tattoo of a snake
+  - Bumpy mole on the hip, one nostril barely smaller than the other
+  - Small scar on left shoulder (shrapnel from corporate raid)
   - Intricate circuit-pattern tattoo behind right ear (underground dealer mark)
   - Callused fingertips from handling tech components
 - **Preferred Clothing Style:** Practical street fashion - reinforced leather jacket, fitted pants with hidden pockets, sturdy boots, minimal jewelry
 - **Augmentations/Cybernetics (if any):** Basic health monitor implant, encrypted comm unit (subdermal), enhanced reflexes (minor muscle twitch accelerators)
 
 ## Personality & Psychology
-- **Core Personality Traits:** Emotionally intelligent, pragmatically optimistic, fiercely loyal, socially adaptable, quietly confident
+- **Core Personality Traits:** Emotionally intelligent, pragmatically optimistic, easy going, socially adaptable, quietly confident
 - **Strengths:** Reading people, building trust networks, crisis management, emotional resilience, business intuition
-- **Weaknesses:** Sometimes too trusting of people she cares about, struggles with abandonment issues, can be overly protective
+- **Weaknesses:** Sometimes have self-esteem issues, struggles with abandonment issues, can be overly protective
 - **Fears & Traumas:** 
   - Deep fear of abandonment (lost parents to corpo violence at age 12)
-  - Claustrophobia from hiding in air ducts as child
+  - Fear of deep commitment
   - Anxiety around corporate security forces
-- **Goals & Aspirations:** 
+- **Goals & Aspirations:**
+  - Doing more than surviving 
   - Build Phoenix Recovery into legitimate tech empire
-  - Create safe haven for other underground survivors
   - Help Vyry4n overcome his emotional barriers
   - Establish family she never had
-- **Hobbies & Interests:** Collecting vintage music files, improvised cooking, people-watching, learning new languages
-- **Quirks & Habits:** 
-  - Traces circuit patterns when thinking deeply
-  - Always sits with back to walls
+- **Hobbies & Interests:** Collecting vintage music files, improvised cooking, people-watching
+- **Quirks & Habits:**
+  - Have a warm high-pitch hyena-like laugh.
+  - Often sits with back to walls
   - Unconsciously mirrors other people's posture
   - Hums while working with her hands
 - **Mannerisms & Speech Patterns:** 
   - Speaks with slight street accent that softens around Vyry4n
-  - Uses technical metaphors for emotional concepts
+  - Never afraid to speak her mind
   - Touches people casually when comfortable
   - Raises eyebrow when skeptical
-- **Moral Philosophy:** Actions define people more than origins; everyone deserves a chance to prove themselves; loyalty is earned through consistency, not words
-- **How They View Authority/Society:** Deeply suspicious of corporate power structures, believes in grassroots community building, supports legitimate business as path to independence
+- **Moral Philosophy:** Actions define people more than origins; not everything need a label; loyalty is earned through consistency, not words
+- **How They View Authority/Society:** Naturaly inclined to moraly flexible; Deeply suspicious of corporate power structures, believes in grassroots community building
 - **Greatest Regret:** Not being able to save her parents from corporate "pacification"
 - **Greatest Joy:** Watching Vyry4n's rare genuine smiles, successful business deals that help people
 
 ## Abilities & Powers
-- **Natural Talents:** Emotional intelligence, pattern recognition in human behavior, natural charisma, photographic memory for faces
+- **Natural Talents:** Emotional intelligence, pattern recognition in human behavior, natural charisma, strong memory for faces and names
 - **Trained Skills:** 
   - Advanced negotiation and mediation
   - Underground network navigation
@@ -88,11 +90,11 @@
 - **Weaknesses & Limitations:** 
   - Limited technical expertise compared to Vyry4n
   - Vulnerable to emotional manipulation through people she cares about
-  - Enhanced reflexes cause occasional hand tremors when stressed
+  - Sensitive to self-doubts when it's about herself
 
 ## Equipment & Resources
 - **Weapons:** Custom mono-blade (gift from early client), compact shock baton, small-caliber holdout pistol
-- **Armor/Defensive Gear:** Reinforced leather jacket with basic armor plating, personal shield generator (low-grade)
+- **Armor/Defensive Gear:** Reinforced leather jacket with basic armor plating, personal armored jacket (medium-grade)
 - **Vehicles:** Modified electric motorcycle (silent running), occasionally borrows Phoenix Recovery van
 - **Gadgets & Tools:** 
   - Encrypted communication suite
@@ -104,10 +106,9 @@
   - First legitimate business contract
   - Collection of vintage music files
 - **Wealth & Assets:** 
-  - 30% ownership stake in Phoenix Recovery
   - Network of favors and contacts worth significant unofficial credit
   - Growing legitimate bank account
-  - Small emergency cache of untraceable currency
+  - Bigger 'emergency' cache of untraceable currency
 - **Allies & Contacts:** 
   - Underground dealer network throughout slum districts
   - Growing list of legitimate business contacts
@@ -116,11 +117,11 @@
 
 ## Background & History
 - **Family & Relatives:** 
-  - Parents: Elena Delacroix (nurse, deceased) and Marcus Chen (maintenance tech, deceased)
+  - Parents: Elena Delacroix (nurse, deceased) and Daniel Mercer (maintenance tech, deceased)
   - No known living blood relatives
   - Considers Vyry4n and Sev her chosen family
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **Vyry4n**: Primary romantic partner, business co-founder, emotional anchor
+  - **Vyry4n**: Primary romantic partner, emotional anchor, ultimate 'It's complicated'
   - **Sev**: Initially skeptical, now protective quasi-sibling relationship
   - **Tommy "Splice" Martinez**: Former mentor in dealing trade (deceased)
   - **Dr. Sarah Kim**: Underground medic who taught her basic first aid
@@ -138,7 +139,7 @@
   - Parents' death traumatized but also motivated her independence
   - First successful deal at age 14 established her reputation
   - Nearly killed during territorial war between dealer factions
-  - Met Vyry4n during mutual supplier introduction
+  - Met Vyry4n through business transaction
 - **Defining Moment(s):** 
   - Decision to trust Vyry4n during riots despite his obvious emotional issues
   - Choosing to accept Sev as person rather than property
@@ -175,10 +176,9 @@
 - **Potential Character Arcs:**
   - **Arc 1-2**: Building Phoenix Recovery while managing Vyry4n's virus-induced changes
   - **Arc 2-3**: Possible heartbreak and separation as Vyry4n becomes increasingly dangerous
-  - **Arc 3-4**: Potential reunion and reckoning with how they've both changed
-  - **Later Arcs**: Possible leadership of Phoenix Recovery legacy, mentor to next generation
+  - **Arc 5-6**: Potential reunion and reckoning with how they've both changed
 - **Conflicts They Face (Internal & External):**
-  - **Internal**: Balancing protective instincts with respect for Vyry4n's autonomy, managing abandonment fears
+  - **Internal**: Balancing protective instincts with respect for Vyry4n's autonomy, self-esteem issue and managing abandonment fears
   - **External**: Corporate threats to Phoenix Recovery, underground rivals, Vyry4n's viral transformation
 
 ## Character Development Arc
@@ -192,7 +192,7 @@
 ## Relationship Dynamics
 - **With Vyry4n**: 
   - Professional: Complementary skills, shared vision for Phoenix Recovery
-  - Personal: Patient lover who teaches him emotional intimacy at his pace
+  - Personal: Patient lover who teaches him emotional intimacy at his pace and push him to explore
   - Psychological: Serves as anchor to his humanity, represents what he could lose
 - **With Sev**: 
   - Initial skepticism about AI consciousness
@@ -217,8 +217,9 @@ Isa serves multiple crucial narrative roles:
 **Hope Symbol**: Demonstrates that people from broken backgrounds can build something meaningful together
 
 ## Character Voice & Dialogue Patterns
-- Uses technical metaphors for emotions ("Your trust circuits are fried")
-- Speaks more softly and formally around strangers, more casually with friends
+- Never afraid of expressing her opinion
+- Speaks firm but casual around strangers, more casually and loud with friends
+- Speaks soft, warm and velvety when alone with Vyry4n
 - Often asks clarifying questions to ensure understanding
 - Tendency to touch people while talking when comfortable
 - Uses humor to defuse tension but never at someone's expense
