@@ -1,3 +1,16 @@
+---
+title: Isa - Character Profile
+tags:
+  - Novel
+  - Vyry4n
+  - Characters
+  - Isa
+  - Arc protagonist
+version: "0.4"
+status: in progress
+last_updated: 2025-05-30 15:43
+type: Character Sheet
+---
 
 # Isa - Character Profile
 
