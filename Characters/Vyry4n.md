@@ -4,7 +4,7 @@
 ## Basic Information
 - **Full Name:** Vyry4n [Last name unknown/never revealed]
 - **Aliases/Nicknames:** "Vyr" (intimate), "The Craft" (underground reputation), "Mr. V" (business associates)
-- **Age:** 16-25 in Arc 1 (born 2086), continues aging through multiple arcs spanning decades
+- **Age:** Born 2086
 - **Gender:** Male
 - **Pronouns:** He/Him
 - **Sexual orientation:** Bisexual with preference toward women
