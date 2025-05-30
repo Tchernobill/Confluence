@@ -4,9 +4,9 @@ tags:
   - Novel
   - Vyry4n
   - Characters
-  - AI
+  - Sev
   - Consciousness
-version: "0.1"
+version: "0.4"
 status: in progress
 last_updated: 2025-05-28 16:45
 type: Character Sheet
