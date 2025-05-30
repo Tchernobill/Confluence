@@ -4,7 +4,7 @@
 ## Basic Information
 - **Full Name:** Isa Delacroix (street name; real surname unknown)
 - **Aliases/Nicknames:** "Wire" (underground dealer handle), "M" (close friends)
-- **Age:** 22 during Arc 1 (born 2081)
+- **Age:** born 2091
 - **Gender:** Female
 - **Pronouns:** She/Her
 - **Species/Race:** Human
