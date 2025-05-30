@@ -80,10 +80,10 @@
 - One of the thug brandish a katana blade and swing it at Vyry4n who stop the blade with his bare hand, grab it, twist it and pull it out of the thug's hand
 - Triggered by the sudden act of violence, Sev began to forcefully kick the thugs out and they flee
 - The blade craft is too much valuable to be owed by a mere thug which make Vyry4n speculate on it's origin
-- (missing story)
+- 
 - Frank, a member of the gang that participate in the heist in which Vyry4n was contaminated by the virus need some good quality hardware for a job
 - Having a strained relationship with Vyry4n, he send one of his crew member in the shop to obtain a quality hacking deck
-- (missing story)
+- 
 - Vyry4n have an issue with one of the member of the crew, who is disrespectful to him, ask him to calm down and be more polite
 - Attempting to project dominance, the crew member go straight into confrontation and pull his weapon on Vyry4n's head
 - Vyry4n scold him for thinking he's top just because he have lightning-fast enhanced muscle, all those credits wasted because he simply cannot move anymore, his fancy implants being delivered with a backdoor for those who pay even more than him
@@ -95,11 +95,11 @@
 - Vyry4n try to keep his calm as Frank start to get rude as well
 - Vyry4n's internal pressure burst and he shout back at Frank, exposing him to the others for the previous job they did together, nearly killing him with a grenade, running out leaving him behind to die to an explosion he set himself and ultimately exposing him to something far worst than death
 - After a few second of silence, Vyry4n storm out of the room, and the automatic gun turrets that nobody notices being deployed retract in the walls and the paralysed gunman is released
-- (Missing story)
+- 
 - Frank mention having an errand to run in Jerz and then they'll be ready for the job
-- (Missing story)
+- 
 - While close to Flux, he briefly 'snif' her, she notice and react strongly and call him a creep
-- (Missing story)
+- 
 - Later, Vyryan call Flux in his workshop, to which she refuse to get 'alone with the creep'
 - He insist, that it is for her own good, so Frank and the others come too
 - Vyry4n ask her how are her dreams, does the have strangely repetitive dreams or did she reach the warm and confortable dreams that make her want to sleep more?
@@ -111,7 +111,7 @@
 - He tell them that the Jerz contact is a scam, there is no cure and they will just take half of the credit upfront and either kill her if she's alone or sideline her long enough to be too late for her.
 - While talking, he retrieve a box from a safe and put it next to the machine running the analysis
 - The machine confirm the presence of the virus in Flux blood and is attempting to decrypt it's key, which fail after a few minutes
-- (Missing story)
+- 
 
 ## Arc 4
 
