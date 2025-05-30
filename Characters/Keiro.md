@@ -1,6 +1,6 @@
-#### KEIRO "KAI" NAKAMURA
+#### Mark "Vyry4n"
 
-- **Demographics**: Male, Mixed Japanese-European ancestry, Born 2087, Dies 2187 (Age 100)
+- **Demographics**: Male, Mixed European ancestry, Born 2087, Dies 2187 (Age 100)
   - **Sexuality**: Bisexual with a preference for women
   - **Relationship Style**: Capable of physical intimacy without emotional attachment; generally uninterested in romantic relationships or emotional vulnerability
   - *Note: A survivor, not a savior - his story unfolds within a changing world rather than shaping it*
@@ -95,7 +95,7 @@
   - **Final**: Coming to terms with the fact that some of his "villainous" actions may have been necessary, while others were simply him becoming what he fought against
 
 - **Character Arc**: 
-  **The Victorious Monster**: Kai evolves from victim to master to someone questioning the cost of mastery. His journey is about learning that conquering your demons sometimes means becoming them, and the hardest battle is retaining your humanity after gaining the power to abandon it. He becomes an antagonist to some, a protector to others, and must ultimately decide what kind of legacy that creates.
+  **The Victorious Monster**: Vyry4n evolves from victim to master to someone questioning the cost of mastery. His journey is about learning that conquering your demons sometimes means becoming them, and the hardest battle is retaining your humanity after gaining the power to abandon it. He becomes an antagonist to some, a protector to others, and must ultimately decide what kind of legacy that creates.
 
 - **Chapter-by-Chapter Evolution**:
 
