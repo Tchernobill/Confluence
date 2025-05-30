@@ -1,3 +1,15 @@
+---
+title: Sev - Character Profile
+tags:
+  - Novel
+  - Vyry4n
+  - Characters
+  - Main Protagonist
+version: "0.4"
+status: in progress
+last_updated: 2025-05-28 16:45
+type: Character Sheet
+---
 
 # Vyry4n - Character Profile
 
