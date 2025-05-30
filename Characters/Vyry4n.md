@@ -7,7 +7,7 @@ tags:
   - Main Protagonist
 version: "0.4"
 status: in progress
-last_updated: 2025-05-28 16:45
+last_updated: 2025-05-30 16:45
 type: Character Sheet
 ---
 
