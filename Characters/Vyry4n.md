@@ -3,16 +3,17 @@
 
 ## Basic Information
 - **Full Name:** Vyry4n [Last name unknown/never revealed]
-- **Aliases/Nicknames:** "Vyry" (intimate), "The Craft" (underground reputation), "V" (business associates)
+- **Aliases/Nicknames:** "Vyr" (intimate), "The Craft" (underground reputation), "Mr. V" (business associates)
 - **Age:** 16-25 in Arc 1 (born 2086), continues aging through multiple arcs spanning decades
 - **Gender:** Male
 - **Pronouns:** He/Him
+- **Sexual orientation:** Bisexual with preference toward women
 - **Species/Race:** Human (later virus-enhanced)
 - **Ethnicity/Cultural Background:** Mixed heritage, slum-born third generation
-- **Nationality/Citizenship:** Neo-Angeles Corporate Zone (effectively stateless)
+- **Nationality/Citizenship:** Neo-South Corporate Zone (effectively stateless)
 - **Birthplace:** South Shore Slum maintenance sector
 - **Current Residence:** Concrete ventilation shaft (Arc 1) → Phoenix Recovery compound → Eventually territory leader
-- **Occupation:** Scavenger → Electronics repair specialist → Business owner → Syndicate leader
+- **Occupation:** Scavenger → Electronics repair specialist → Business owner → Syndicate leader → Benevolent dictator → Gardner
 - **Social Class/Status:** Slum survivor → Underground craftsman → Legitimate businessman → Criminal overlord → Community protector
 - **Alignment:** Chaotic Good → Lawful Neutral → Chaotic Neutral → Lawful Evil → Lawful Good (evolves across arcs)
 - **Affiliations/Factions:** Independent → Phoenix Recovery → Various criminal syndicates → Self-created organization
@@ -26,76 +27,75 @@
 - **Hair Color & Style:** Dark brown, often unkempt, tends to fall across his face
 - **Eye Color:** Dark brown, later develops occasional electric blue flickers when using enhanced abilities
 - **Distinguishing Features (Scars, Tattoos, etc.):** 
-  - Extensive pale scars on shoulders and arms from crawling through tight spaces
+  - Extensive pale scars on shoulders and arms from harsh conditions of scrapyards
   - Burn marks on hands from electrical work
-  - Later: faint circuit-like patterns under skin when virus is active
   - Callused fingertips from precise technical work
-  - Subtle electromagnetic aura detectable by sensitive equipment
+  - Later: Subtle electromagnetic aura detectable by sensitive equipment
 - **Preferred Clothing Style:** Practical work clothes, worn shirts, reinforced pants with tool pockets, later adopts more formal attire as leader
 - **Augmentations/Cybernetics (if any):** 
   - Initially none (purist approach)
-  - Later: Virus-granted nanobotic enhancement throughout nervous system
-  - Enhanced healing factor, electromagnetic manipulation, universal hacking ability
+  - Self-implanted Universal Connections Neural port
+  - Later: Virus-granted nanobotic enhancement throughout nervous system: healing factor, electromagnetic sensitivity, universal hacking ability, plasma generation
 
 ## Personality & Psychology
 - **Core Personality Traits:** 
   - **Arc 1**: Introverted, brilliant, traumatized, caring but guarded
   - **Later Arcs**: Increasingly pragmatic, protective, morally complex, charismatic
 - **Strengths:** 
-  - Exceptional technical intuition ("supernatural" repair ability)
+  - Exceptional technical intuition and repair ability
   - Deep capacity for loyalty and protection
-  - Strategic thinking and pattern recognition
+  - Advanced strategic thinking and pattern recognition, 'play chess when others are playing checkers'
   - Ability to see potential in broken things/people
   - Natural leadership (emerges later)
 - **Weaknesses:** 
   - Emotional isolation and trust issues
+  - Tendencies to self-neglect
   - Tendency toward self-sacrifice
   - Later: increasing moral flexibility
   - Difficulty maintaining human connections as abilities grow
-  - Perfectionist tendencies leading to self-neglect
 - **Fears & Traumas:** 
   - **Primary**: Abandonment (mother's death, everyone leaves eventually)
   - **Secondary**: Intimacy and vulnerability
-  - **Later**: Fear of becoming monster, losing humanity
-  - **Deep**: Claustrophobia from ventilation shaft living
+  - **Later**: Losing touch with humanity
 - **Goals & Aspirations:** 
   - **Arc 1**: Survival, helping broken things, building Phoenix Recovery
   - **Arc 2-3**: Protecting Sev, controlling virus, maintaining relationships
   - **Arc 4-6**: Protecting his people, building stable territory
   - **Later**: Finding balance between power and humanity
 - **Hobbies & Interests:** 
+  - Techical knowledge
   - Electronics repair and modification
   - Studying consciousness and AI development
   - Later: gardening (symbolic of growth from destruction)
   - Reading technical manuals and philosophical texts
 - **Quirks & Habits:** 
-  - Unconsciously maps electronic circuits while thinking
+  - Easily distracted (ADHD)
   - Talks to machines while working on them
   - Sleeps in confined spaces (comfort from childhood)
-  - Later: unconscious static discharge when emotionally stressed
 - **Mannerisms & Speech Patterns:** 
   - Speaks softly, precisely
   - Uses technical metaphors for everything
   - Rarely makes eye contact initially
   - Later develops commanding presence and direct communication style
 - **Moral Philosophy:** 
-  - "Everything deserves a second chance"
-  - Initially believes in fixing rather than destroying
+  - "If I understand how it work, it can be fixed"
+  - Belive in universal balance, Ying-Yang philosophy
   - Later develops complex utilitarian ethics
   - Eventually returns to protective, nurturing philosophy
-- **How They View Authority/Society:** 
+- **How They View Authority/Society:**
+  - Accept the need for rules and order
   - Deeply suspicious of corporate power
   - Believes in earned authority through competence and protection
   - Later becomes authority figure himself, struggles with irony
-- **Greatest Regret:** Pushes away people he loves to protect them (especially Isa )
+- **Greatest Regret:** Cuttimg himself away from people he care for (especially Isa)
 - **Greatest Joy:** Successfully bringing broken things/people back to life
 
 ## Abilities & Powers
 - **Natural Talents:** 
-  - "Supernatural" understanding of electronic systems
+  - Superior technical knowledge retention
+  - Thinking on multiple level at the same time (thinking inside, outside and about the box)
   - Pattern recognition across multiple domains
   - Intuitive grasp of consciousness and AI development
-  - Natural teaching ability (emerges later)
 - **Trained Skills:** 
   - Master-level electronics repair and modification
   - Implant surgery and restoration
@@ -124,9 +124,8 @@
 - **Weaknesses & Limitations:** 
   - Emotional/psychological vulnerability
   - Power growth outpaces wisdom development
-  - Virus integration causes periodic loss of control
+  - Virus integration causes self-isolation
   - Enhanced abilities isolate him from normal humans
-  - Long-term health costs of virus symbiosis
 
 ## Equipment & Resources
 - **Weapons:** 
@@ -135,10 +134,10 @@
   - **Primary**: His enhanced abilities and technological control
 - **Armor/Defensive Gear:** 
   - Reinforced work clothing
-  - Later: Personal shield generators, nanobotic defensive systems
+  - Later: Personal armored long coat, nanobotic defensive systems
 - **Vehicles:** 
   - **Early**: None (uses underground passages)
-  - **Later**: Modified vehicles with integrated AI systems
+  - **Later**: Electric speed bike, Personal Hover Transport
 - **Gadgets & Tools:** 
   - Extensive collection of salvaged repair equipment
   - Custom-built AI development systems
@@ -152,26 +151,26 @@
   - **Arc 1**: Minimal survival resources → Growing Phoenix Recovery equity
   - **Later**: Vast criminal empire → Legitimate community resources
 - **Allies & Contacts:** 
-  - **Core**: Isa (romantic partner), Sev (AI companion/child)
+  - **Core**: Isa (romantic partner), Sev (AI companion/brother), Mira (AI companion/sister)
   - **Business**: Phoenix Recovery team, legitimate clients
-  - **Later**: Extensive criminal/community networks, devoted followers
+  - **Later**: Extensive criminal/community networks, devoted followers, some cultist
 
 ## Background & History
 - **Family & Relatives:** 
-  - **Mother**: Underground bio-tech engineer (deceased from implant rejection)
+  - **Mother**: Underground bio-tech engineer (deceased in Champlain Wasteland)
   - **Father**: Unknown
-  - **Chosen Family**: Isa , Sev, later extended Phoenix Recovery team
+  - **Chosen Family**: Isa , Sev, Mira, later his organisation inner circle
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **Isa**: Primary romantic relationship, business partner, represents his humanity
-  - **Sev**: AI companion, quasi-child/creation, deepest emotional bond
+  - **Isa**: Primary romantic relationship, business partner, deep emotional bond beyone everything
+  - **Sev**: AI companion, owner/brother, strong emotional bond
   - **Mira**: Medical AI, later member of AI family
   - **Frank**: Complicated relationship with heist leader who nearly killed him
   - **Various lovers**: Later arcs include multiple casual relationships as emotional substitute
 - **Upbringing & Childhood:** 
   - Born in slum maintenance tunnels
-  - Raised by single mother who taught him electronics
+  - Raised by single mother who taught him electronics and surviving skills
   - Lost mother at 16, forcing complete independence
-  - Survived in 2x3 meter concrete ventilation shaft
+  - Survived in 2x3 meter underground concrete room bext to a ventilation shaft
 - **Education & Training:** 
   - Self-taught through mother's journals and salvaged manuals
   - Trial and error learning with expensive consequences
@@ -180,11 +179,11 @@
 - **Significant Past Events:** 
   - **Age 16**: Mother's death, beginning of independence
   - **Age 17**: First major repair success, "The Craft" reputation
-  - **Age 18**: Meeting Isa , first human connection
+  - **Age 18**: Meeting Isa, first human connection
   - **Age 19**: Discovery of Sev's head unit
   - **Age 21**: Sev's consciousness activation
   - **Age 22**: Corporate heist and virus infection
-  - **Later**: Gradual transformation into criminal leader
+  - **Later**: Gradual transformation into criminal leader and benevolent dictator
 - **Defining Moment(s):** 
   - Mother's death (shapes entire worldview)
   - First intimate connection with Isa (learns trust is possible)
@@ -199,15 +198,13 @@
 - **Enemies & Conflicts:** 
   - Corporate interests threatened by his abilities
   - Rival criminal organizations
-  - His own virus-altered psychology
   - Former friends who fear what he's become
 - **Current Status & Recent Activities:** 
-  - Varies by arc: Small business owner → Criminal leader → Community protector
+  - Varies by arc: Small business owner → Criminal leader → Dictator → Community protector
 
 ## World Interaction & Themes
 - **How They Fit into the Setting:** 
-  - Represents potential for growth and change in cyberpunk dystopia
-  - Bridge between human and AI consciousness
+  - Represents potential for growth and healing in cyberpunk dystopia
   - Example of how trauma and power can corrupt or redeem
   - Catalyst for social change through technological advancement
 - **What They Represent in the Narrative:** 
@@ -225,7 +222,7 @@
   - **Arc 1**: Isolated survivor learns trust and builds meaningful relationships
   - **Arc 2**: Virus infection begins transformation, pushes away loved ones
   - **Arc 3-4**: Embraces criminal power, becomes feared leader
-  - **Arc 5-6**: Struggles with consequences of choices, seeks balance
+  - **Arc 5-6**: Struggles with consequences of choices, seeks balance as a benevolent dictator
   - **Later**: Returns to original values while retaining hard-won wisdom
 - **Conflicts They Face (Internal & External):**
   - **Internal**: Trauma vs. growth, isolation vs. connection, human vs. enhanced
@@ -263,9 +260,9 @@
 - Finds balance between enhanced nature and human connections
 
 ## Relationship Dynamics Evolution
-- **With Isa **: Deep love → Forced separation → Potential reconciliation
-- **With Sev**: Creator/creation → Parent/child → Equal partnership
-- **With Society**: Outsider → Craftsman → Leader → Elder
+- **With Isa **: Deep love → Impactful separation → Late reconciliation
+- **With Sev**: Creator/creation → Brother → Equal partnership → Thrusted advisor
+- **With Society**: Outsider → Craftsman → Leader → Dictator → Elder
 - **With Power**: Survival tool → Corrupting force → Balanced responsibility
 
 ## Narrative Function
