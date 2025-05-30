@@ -1,3 +1,5 @@
+## Chapter 01.01 - [title of the capter]
+
 - **Summary**: [Brief synopsis]
 - **POV Character(s)**: [Whose perspective]
 - **Timeline**: [When in story chronology]
@@ -12,3 +14,5 @@
 - **Chapter Goal**: [Purpose of this chapter in the overall structure]
 - **Chapter Mood/Tone**: [Emotional atmosphere]
 - **Transition to Next Chapter**: [How it leads to Chapter 2]
+
+## Text
