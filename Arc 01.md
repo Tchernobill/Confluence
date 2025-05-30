@@ -16,7 +16,7 @@
 End with Vyry4n discovering the damaged assistant droid head unit in the scrapyard, realizing it's still operational when a faint light blinks in its optical sensor as he holds it.
 ### Chapter 2: The Craft
 
-End with the violent riot erupting in the slum, chaos everywhere, and Isa appearing at Vyry4n's hidden doorway, desperate and bleeding from a minor wound, asking for shelter.
+End with the violent riot erupting in the slum, chaos everywhere, Vyry4n find Isa desperate and bleeding from a minor wound, asking for shelter.
 ### Chapter 3: Confined Spaces
 
 End with Vyry4n finally decrypting the droid's core protocols after days of work, the screen displaying "SECURITY OVERRIDE SUCCESSFUL" as the droid's eyes suddenly illuminate with full awareness for the first time.
