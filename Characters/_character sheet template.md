@@ -22,6 +22,7 @@
 - **Skin Tone:**
 - **Hair Color & Style:**
 - **Eye Color:**
+- **Intimate parts (including bresasts for females):**
 - **Distinguishing Features (Scars, Tattoos, etc.):**
 - **Preferred Clothing Style:**
 - **Augmentations/Cybernetics (if any):**
@@ -39,6 +40,7 @@
 - **How They View Authority/Society:**
 - **Greatest Regret:**
 - **Greatest Joy:**
+- **Sexual preferences:**
 ### Abilities & Powers
 
 - **Natural Talents:**
