@@ -28,7 +28,7 @@ type: Character Sheet
 - **Birthplace:** South Shore Slum maintenance sector
 - **Current Residence:** Concrete ventilation shaft (Arc 1) → Phoenix Recovery compound → Eventually territory leader's quarters
 - **Occupation:** Scavenger → Electronics repair specialist → Business owner → Syndicate leader → Benevolent dictator → Community protector
-- **Social Class/Status:** Slum survivor and underground craftsman → Criminal overlord → Mythical protector 
+- **Social Class/Status:** Slum survivor and underground craftsman → Criminal overlord → Mythical protector
 - **Alignment:** True Neutral
 - **Affiliations/Factions:** Independent → Phoenix Recovery → Various criminal syndicates → Self-created organization
 - **Languages Spoken:** Corporate Standard, Tech Cant, Machine Code (literally - secret), Street Slang, later develops universal electronic communication (secret ability)
@@ -46,7 +46,7 @@ type: Character Sheet
   - Burn marks on hands from electrical work
   - Callused fingertips from precise technical work
 - **Preferred Clothing Style:** Practical work clothes, worn shirts, reinforced pants with tool pockets, later adopts armored long coat
-- **Augmentations/Cybernetics (if any):** 
+- **Augmentations/Cybernetics (if any):**
   - Self-implanted Universal Connection Neural port (publicly known)
   - **Secret**: Virus-granted nanobotic enhancement throughout nervous system
   - **Secret**: Enhanced healing factor, electromagnetic sensitivity, universal hacking ability, limited bioelectric generation, microwave generation
@@ -144,7 +144,6 @@ type: Character Sheet
   - Power growth constantly threatens to outpace his ability to conceal it
 
 ### Equipment & Resources
-
 - **Weapons:** 
   - **Public**: Basic plasma blaster, improvised tools
   - **Private**: Advanced energy weapons for emergency use
@@ -202,7 +201,8 @@ type: Character Sheet
   - **Later**: Gradual transformation into leader while hiding true nature
 - **Defining Moment(s):** 
   - Mother's death (shapes worldview and trust issues)
-  - **SECRET**: Virus infection (fundamental transformation hidden from world)
+  - First intimate connection with Isa
+    - **SECRET**: Virus infection (fundamental transformation hidden from world)
 - **Criminal Record (if any):** 
   - **Public**: Underground electronics dealing
   - Later: Extensive criminal empire activities

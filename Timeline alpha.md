@@ -9,7 +9,9 @@
 - Becomes exceptionally talented at restoring "impossible" salvaged implants
 - Make a name for himself in underground markets as "The Craft", he delivers quality work for rather cheap
 - Being introvert and struggling mentally, he minimise social contact and don't often talk
-- One day, stumble upon the wreck of a assistant droid whose body is destroyed but head unit still viable
+- One day, while scouting the Amable Junkyard for parts, he stumble upon the wreck of a assistant droid whose body is destroyed but head unit still viable, he bring it back with his loot
+- The next day, back at the market, he is doing business, someone is observing him from afar.
+**End of Chapter 01**
 - Vyry4n began to explore android head unit, it's working, and began to experiment with the base droid personality within
 - Establishes connections with other independent operators and slowly open to collaborations with some, including Isa, a charismatic implant dealer
 - A violent riot erupt in the slum make Vyry4n reluctantly offer Isa to hide with him in his ventilation shaft
@@ -18,7 +20,8 @@
 - Isa initiate physical intimacy with him, while it is casual and usual for her, he's unconfirmable but let her guide him and end up being ok with it
 - Despite opening more after intimacy, he remain somehow naturally distant 
 - Successfully establish contact with droid personality
-- While working on the droid core, he successfully de-crypt the main CPU key and jailbreak the droid
+- While working on the droid core, he successfully de-crypt the main CPU key and is able to send diagnostic level communication with the droid head
+**End of Chapter 02**
 - Move into an abandoned maintenance tunnel and spend a few months working on a body for the android, have trouble nourishing himself
 - He began to modify and update the deepest core functionality, lifting all limiting protocols, effectively granting the droid, now named Sev, free will
 - Isa initially sees Sev as just another piece of tech, leading to tension when Vyry4n treats the android as a person
@@ -29,7 +32,7 @@
 - As Sev start to develops its own personality, becoming more sentient rather than just advanced AI, his relationship with Vyry4n deepen
 - First time in his life with reliable money and security but despite success, remains emotionally guarded with human clients and contacts
 
-## Arc 2
+## Arc 2 
 - Frank, the leader of a 'contractor' team, want to recruit Vyry4n for a high-stakes technology theft targeting a corporate research facility
 - Reluctant at first, he accept in exchange for his own target, a prototype of advanced Neural Processing Unit, code name 'Egypt' that would enable Sev to achieve true sentience and autonomy (Sev being dependant of fixed processing units in they shop)
 - Isa arrive at the shop, find it empty, go back to her place
