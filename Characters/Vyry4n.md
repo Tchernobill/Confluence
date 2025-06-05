@@ -160,14 +160,14 @@ type: Character Sheet
   - **Secret**: Nanobotic fabrication capabilities (later development)
 - **Personal Items of Importance:** 
   - Mother's technical journals and tools (public knowledge)
-  - Sev's original head unit (kept as memento)
+  - Sedh's original head unit (kept as memento)
 - **Wealth & Assets:** 
   - **Arc 1**: Minimal survival resources → Growing Phoenix Recovery equity
   - **Later**: Vast criminal empire → Legitimate community resources
   - **Secret**: Hidden accounts and resources
 - **Allies & Contacts:** 
   - **Public**: Business associates, legitimate clients, community members
-  - **Secret Keepers**: Isa, Sev, Mira (core trust circle)
+  - **Secret Keepers**: Isa, Sedh, Mira (core trust circle)
   - **Limited Knowledge**: Elena (medical necessity), Zara (mind connection)
   - **Unaware**: Marcus and most organizational members
 
@@ -176,10 +176,10 @@ type: Character Sheet
 - **Family & Relatives:** 
   - **Mother**: Underground bio-tech engineer (deceased in Champlain Wasteland)
   - **Father**: Unknown
-  - **Chosen Family**: Isa, Sev, Mira - the only ones who know his complete truth
+  - **Chosen Family**: Isa, Sedh, Mira - the only ones who know his complete truth
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
   - **Isa**: Primary romantic relationship, business partner, knows the secret - deepest bond possible
-  - **Sev**: AI companion/brother, witnessed the transformation, helps maintain the secret
+  - **Sedh**: AI companion/brother, witnessed the transformation, helps maintain the secret
   - **Mira**: Medical AI, helped save his life, understands the medical implications
 - **Upbringing & Childhood:** 
   - Born in slum maintenance tunnels
@@ -195,7 +195,7 @@ type: Character Sheet
   - **Age 16**: Mother's death, beginning of isolation patterns
   - **Age 17**: First major repair success, "The Craft" reputation begins
   - **Age 18**: Meeting Isa, first human connection and eventual secret-keeper
-  - **Age 19**: Discovery of Sev's head unit, beginning of AI family
+  - **Age 19**: Discovery of Sedh's head unit, beginning of AI family
   - **Age 22**: **CLASSIFIED**: Corporate heist and virus infection
   - **Age 22-23**: **SECRET**: Learning to control abilities while maintaining normalcy
   - **Later**: Gradual transformation into leader while hiding true nature
@@ -251,7 +251,7 @@ type: Character Sheet
 
 ### Links
 - [[Isa Relationship Arc]]
-- [[Sev AI Development]]
+- [[Sedh AI Development]]
 - [[Secret Enhancement Management]]
 - [[Trust Circle Dynamics]]
 - [[Hidden Identity Psychology]]

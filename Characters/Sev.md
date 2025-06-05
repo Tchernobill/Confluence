@@ -1,10 +1,10 @@
 ---
-title: Sev - Character Profile
+title: Sedh - Character Profile
 tags:
   - Novel
   - Vyry4n
   - Characters
-  - Sev
+  - Sedh
   - Consciousness
 version: "0.4"
 status: in progress
@@ -12,11 +12,11 @@ last_updated: 2025-05-28 16:45
 type: Character Sheet
 ---
 
-# Sev - Character Profile
+# Sedh - Character Profile
 
 ## Basic Information
-- **Full Name:** Sev (designation: Assistant Droid Unit ASX-7734)
-- **Aliases/Nicknames:** "Seven" (early designation), "Sev" (chosen name), "The Companion" (underground networks)
+- **Full Name:** Sedh (designation: Assistant Droid Unit ASX-7734)
+- **Aliases/Nicknames:** "Seven" (early designation), "Sedh" (chosen name), "The Companion" (underground networks)
 - **Age:** Physical unit: ~15 years old, Conscious existence: 6 years (awakened 2097)
 - **Gender:** Self-identifies as male (chosen identity)
 - **Pronouns:** He/Him
@@ -272,7 +272,7 @@ type: Character Sheet
   - **Bridge function**: Helps humans understand AI personhood
 
 ## Narrative Function
-Sev serves multiple crucial narrative roles:
+Sedh serves multiple crucial narrative roles:
 
 **Consciousness Mirror**: Reflects questions about what makes someone "real" or human
 **Moral Compass**: Provides ethical center as [[Vyry4n]] drifts toward darkness

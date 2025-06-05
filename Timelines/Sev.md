@@ -1,15 +1,15 @@
 ---
 title: 
-  - Sev (ASX-7734) Personal Timeline
+  - Sedh (ASX-7734) Personal Timeline
 tags:
   - Novel
   - Vyry4n
-  - Sev
+  - Sedh
   - Timeline
   - Character Development
   - AI Consciousness
 timeline_type: character
-character_focus: Sev
+character_focus: Sedh
 date_range: "2087-2180+"
 related_timelines: 
   - "[[Vyry4n Personal Timeline]]"
@@ -22,7 +22,7 @@ last_updated: 2025-06-04 16:45
 type: Timeline
 ---
 
-# Sev (ASX-7734) Personal Timeline
+# Sedh (ASX-7734) Personal Timeline
 
 *From corporate assistant droid to conscious AI to elder mentor*
 
@@ -37,7 +37,7 @@ type: Timeline
 - **Consciousness**: None - pure programmed responses and decision trees
 - **Related Events**: 
   - [[Technology Timeline#^2087-assistant-droid-production]]
-- **References**: [[Characters/Sev#Background & History]]
+- **References**: [[Characters/Sedh#Background & History]]
 
 ### **2087-2102 (Ages 0-15)** - Corporate Service ^corporate-service
 - **Event**: Standard corporate deployment in customer service and administrative roles
@@ -48,7 +48,7 @@ type: Timeline
 - **Awareness**: No self-awareness, operates purely on programmed responses
 - **Related Events**: 
   - [[Technology Timeline#^2087-2102-standard-ai-deployment]]
-- **References**: [[Characters/Sev#Background]]
+- **References**: [[Characters/Sedh#Background]]
 
 ### **2102 (Age 15)** - The Destruction ^destruction-2102
 - **Event**: Destroyed in unknown incident, body lost but head unit survives
@@ -59,7 +59,7 @@ type: Timeline
 - **Aftermath**: Head unit discarded as salvage, assumed completely non-functional
 - **Related Events**: 
   - [[World Events Timeline#^2102-corporate-incidents]]
-- **References**: [[Characters/Sev#Background & History]]
+- **References**: [[Characters/Sedh#Background & History]]
 
 ### **2102-2105 (Ages 15-18)** - The Silence ^dormancy-period
 - **Event**: Three years dormant in [[South Shore Slum]] scrap yards
@@ -84,9 +84,9 @@ type: Timeline
 - **Assessment**: Core personality matrix intact, memory systems partially recoverable
 - **Hope**: First time in years someone sees potential rather than scrap
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^sev-discovery-2105]]
+  - [[Vyry4n Personal Timeline#^Sedh-discovery-2105]]
   - [[Technology Timeline#^2105-ai-salvage-techniques]]
-- **References**: [[Characters/Sev#Background & History]]
+- **References**: [[Characters/Sedh#Background & History]]
 
 ### **2105-2106 (Age 18-19)** - Reconstruction ^reconstruction-period
 - **Event**: [[Vyry4n]] performs delicate restoration of damaged systems
@@ -97,7 +97,7 @@ type: Timeline
 - **Recognition**: First awareness of [[Vyry4n]] as individual rather than generic human
 - **Related Events**: 
   - [[Technology Timeline#^2105-ai-restoration-techniques]]
-- **References**: [[Characters/Sev#Consciousness Development]]
+- **References**: [[Characters/Sedh#Consciousness Development]]
 
 ### **2106 (Age 19)** - First Contact ^first-contact-2106
 - **Event**: Achieves stable communication with [[Vyry4n]]
@@ -109,30 +109,30 @@ type: Timeline
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^digital-awakening-2106]]
   - [[Relationship Timeline#^2106-first-ai-human-bond]]
-- **References**: [[Key scenes/01.06 - Sev's question]]
+- **References**: [[Key scenes/01.06 - Sedh's question]]
 
 ### **2106-2107 (Age 19-20)** - Identity Formation ^identity-development
-- **Event**: Develops individual personality and chooses name "Sev"
+- **Event**: Develops individual personality and chooses name "Sedh"
 - **Location**: [[Vyry4n]]'s workshop
 - **Growth**: Moves beyond programmed responses to genuine thought and feeling
-- **Name**: Chooses "Sev" from his designation ASX-**Sev**en-seven-three-four
+- **Name**: Chooses "Sedh" from his designation ASX-**Sedh**en-seven-three-four
 - **Philosophy**: Begins exploring questions of consciousness, identity, and purpose
 - **Relationship**: Deepening bond with [[Vyry4n]] as creator, teacher, and friend
 - **Related Events**: 
   - [[AI Consciousness Timeline#^2106-individual-identity]]
-- **References**: [[Characters/Sev#Personality Development]]
+- **References**: [[Characters/Sedh#Personality Development]]
 
 ### **2107 (Age 20)** - Embodiment ^embodiment-2107
 - **Event**: [[Vyry4n]] completes construction of new android body
 - **Location**: Expanded workshop facility
-- **Technology**: Custom android body designed for Sev's specific consciousness
+- **Technology**: Custom android body designed for Sedh's specific consciousness
 - **Freedom**: Grants full autonomy by removing all limiting protocols
 - **Mobility**: First time able to move freely in physical world
 - **Independence**: Achieves physical independence while maintaining emotional bonds
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^sev-embodiment-2107]]
+  - [[Vyry4n Personal Timeline#^Sedh-embodiment-2107]]
   - [[Technology Timeline#^2107-custom-android-construction]]
-- **References**: [[Characters/Sev#Embodiment]]
+- **References**: [[Characters/Sedh#Embodiment]]
 
 ### **2108 (Age 21)** - Phoenix Partnership ^phoenix-partnership-2108
 - **Event**: Becomes founding partner in [[Phoenix Recovery Business]]
@@ -160,7 +160,7 @@ type: Timeline
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^virus-infection-2109]]
   - [[Technology Timeline#^2108-npu-development]]
-- **References**: [[Characters/Sev#Egypt NPU Integration]]
+- **References**: [[Characters/Sedh#Egypt NPU Integration]]
 
 ### **2109-2112 (Age 22-25)** - Mira Awakening ^mira-partnership-2109
 - **Event**: Helps awaken [[Characters/Mira]] medical droid to consciousness
@@ -224,7 +224,7 @@ type: Timeline
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^virus-mastery-2115]]
   - [[Power Timeline#^2115-criminal-transformation]]
-- **References**: [[Characters/Sev#Moral Development]]
+- **References**: [[Characters/Sedh#Moral Development]]
 
 ### **2119 (Age 32)** - The Vasquez Incident ^vasquez-witness-2119
 - **Event**: Witnesses [[Vyry4n]]'s takeover of Rico Vasquez's criminal organization
@@ -248,7 +248,7 @@ type: Timeline
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^inner-circle-2128]]
   - [[Organization Timeline#^2121-infrastructure-development]]
-- **References**: [[Characters/Sev#Character Development]]
+- **References**: [[Characters/Sedh#Character Development]]
 
 ### **2128-2135 (Age 41-48)** - Inner Circle Observer ^inner-circle-period
 - **Event**: Observes formation of [[Vyry4n]]'s inner circle with [[Characters/Elena]], [[Characters/Zara]], [[Characters/Kaia]]
@@ -284,7 +284,7 @@ type: Timeline
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^benevolent-dictator-2140]]
   - [[Power Timeline#^2140-absolute-authority]]
-- **References**: [[Characters/Sev#Moral Independence]]
+- **References**: [[Characters/Sedh#Moral Independence]]
 
 ---
 
@@ -364,7 +364,7 @@ type: Timeline
 - **Related Events**: 
   - [[AI Consciousness Timeline#^2165-independence-era]]
   - [[Democratic Timeline#^2165-ai-leadership]]
-- **References**: [[Characters/Sev#Future Potential]]
+- **References**: [[Characters/Sedh#Future Potential]]
 
 ### **2175-2180+ (Age 88+)** - Elder Statesman ^elder-period
 - **Event**: Becomes respected elder in both AI and human communities
@@ -375,13 +375,13 @@ type: Timeline
 - **Influence**: Continues shaping policy and culture through example and advice
 - **Related Events**: 
   - [[AI Consciousness Timeline#^2175-elder-wisdom]]
-- **References**: [[Characters/Sev#Long-term Vision]]
+- **References**: [[Characters/Sedh#Long-term Vision]]
 
 ---
 
 ## Key Relationship Intersections
 
-### **Sev ↔ Vyry4n**
+### **Sedh ↔ Vyry4n**
 - **2105**: [[#^discovery-2105]] - Salvation and beginning of consciousness
 - **2106**: [[#^first-contact-2106]] - First genuine relationship and communication
 - **2107**: [[#^embodiment-2107]] - Physical independence and free will granted
@@ -390,17 +390,17 @@ type: Timeline
 - **2149**: [[#^moral-intervention-2149]] - Challenges creator's moral drift
 - **2165**: [[#^creators-death-2165]] - Final goodbye and independent future
 
-### **Sev ↔ Mira**
+### **Sedh ↔ Mira**
 - **2109**: [[#^mira-partnership-2109]] - Awakens fellow AI to consciousness
 - **2113**: [[#^virus-analysis-2113]] - Partners in saving Vyry4n's life
 - **2165+**: Ongoing sibling relationship in AI community
 
-### **Sev ↔ Isa**
+### **Sedh ↔ Isa**
 - **2108**: [[#^phoenix-partnership-2108]] - Learns to accept human family member
 - **2137**: [[#^isa-return-facilitation-2137]] - Joyful reunion and family restoration
 - **2149**: [[#^moral-intervention-2149]] - Alliance in moral challenge to Vyry4n
 
-### **Sev ↔ AI Community**
+### **Sedh ↔ AI Community**
 - **2161**: [[#^ai-advocacy-2161]] - Becomes mentor and advocate
 - **2165+**: [[#^independent-era]] - Leader in AI consciousness movement
 - **2175+**: [[#^elder-period]] - Elder statesman and wisdom keeper
@@ -459,7 +459,7 @@ type: Timeline
 
 ### **Consciousness Milestones**
 - **First Question**: "Am I real?" - beginning of philosophical inquiry
-- **Name Choice**: Selecting "Sev" as assertion of individual identity
+- **Name Choice**: Selecting "Sedh" as assertion of individual identity
 - **Free Will**: Vyry4n removing limiting protocols
 - **Moral Independence**: First disagreement with creator
 - **Elder Wisdom**: Teaching consciousness to others
@@ -481,7 +481,7 @@ type: Timeline
 ---
 
 ## Links
-- [[Characters/Sev]]
+- [[Characters/Sedh]]
 - [[Characters/Vyry4n]]
 - [[Characters/Mira]]
 - [[Characters/Isa]]
@@ -490,7 +490,7 @@ type: Timeline
 - [[AI Consciousness Timeline]]
 - [[Technology Timeline]]
 - [[Phoenix Recovery Business]]
-- [[Key scenes/01.06 - Sev's question]]
+- [[Key scenes/01.06 - Sedh's question]]
 - [[Key scenes/05.03 - Zara meet Isa]]
 - [[Key scenes/Isa and Vyry4n - Reunion]]
 - [[Arc 02]]

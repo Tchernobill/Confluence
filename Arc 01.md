@@ -6,11 +6,11 @@
 
 **Midpoint**: A violent riot in the slum forces Vyry4n to shelter Isa, an implant dealer he occasionally collaborates with, leading to unexpected intimacy and the first significant human connection in his isolated life.
 
-**Second Plot Point**: Vyry4n completes a new body for the droid (now named Sev) and, more significantly, modifies its core programming to remove all limiting protocols, effectively granting Sev free will and personhood.
+**Second Plot Point**: Vyry4n completes a new body for the droid (now named Sedh) and, more significantly, modifies its core programming to remove all limiting protocols, effectively granting Sedh free will and personhood.
 
-**Climax**: Tension arises when Isa views Sev as merely another piece of technology while Vyry4n insists on treating the android as a person with rights and autonomy, forcing a confrontation about what constitutes personhood.
+**Climax**: Tension arises when Isa views Sedh as merely another piece of technology while Vyry4n insists on treating the android as a person with rights and autonomy, forcing a confrontation about what constitutes personhood.
 
-**Resolution**: With Sev's assistance and growing sentience, Vyry4n establishes "Phoenix Recovery," a legitimate business for implant salvage and restoration, achieving financial security for the first time in his life while developing a meaningful relationship with Sev, though he remains emotionally guarded with humans.
+**Resolution**: With Sedh's assistance and growing sentience, Vyry4n establishes "Phoenix Recovery," a legitimate business for implant salvage and restoration, achieving financial security for the first time in his life while developing a meaningful relationship with Sedh, though he remains emotionally guarded with humans.
 
 ## Arc 01 Chapters
 
@@ -28,7 +28,7 @@ End with Vyry4n finally decrypting the droid's core protocols after days of work
 End with Vyry4n and the newly-communicative droid discussing freedom, with Vyry4n saying "I think I know how to build you a body," as he sketches a design, followed by the droid asking, "And if you succeed... what will I be?"
 ### Chapter 5: Rebirth
 
-End with Vyry4n connecting the final component to the droid's new body, the system powering up, and the droid—now named Sev—standing for the first time, speaking with a new voice: "I can feel everything. Is this what it means to be alive?"
+End with Vyry4n connecting the final component to the droid's new body, the system powering up, and the droid—now named Sedh—standing for the first time, speaking with a new voice: "I can feel everything. Is this what it means to be alive?"
 ### Chapter 6: Phoenix Rising
 
-End with their new shop "Phoenix Recovery" officially opening, a line of clients forming outside, while Isa watches Vyry4n interacting with Sev, realizing with concern that Vyry4n shows more connection to the android than to any human she's seen him with.
+End with their new shop "Phoenix Recovery" officially opening, a line of clients forming outside, while Isa watches Vyry4n interacting with Sedh, realizing with concern that Vyry4n shows more connection to the android than to any human she's seen him with.

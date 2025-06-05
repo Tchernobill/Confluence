@@ -132,10 +132,10 @@ type: Character Sheet
 - **Family & Relatives:** 
   - Parents: Elena Delacroix (nurse, deceased) and Daniel Mercer (maintenance tech, deceased)
   - No known living blood relatives
-  - Considers Vyry4n and Sev her chosen family
+  - Considers Vyry4n and Sedh her chosen family
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
   - **Vyry4n**: Primary romantic partner, emotional anchor, ultimate 'It's complicated'
-  - **Sev**: Initially skeptical, now protective quasi-sibling relationship
+  - **Sedh**: Initially skeptical, now protective quasi-sibling relationship
   - **Tommy "Splice" Martinez**: Former mentor in dealing trade (deceased)
   - **Dr. Sarah Kim**: Underground medic who taught her basic first aid
 - **Upbringing & Childhood:** 
@@ -155,7 +155,7 @@ type: Character Sheet
   - Met Vyry4n through business transaction
 - **Defining Moment(s):** 
   - Decision to trust Vyry4n during riots despite his obvious emotional issues
-  - Choosing to accept Sev as person rather than property
+  - Choosing to accept Sedh as person rather than property
   - First legitimate business contract signing
 - **Criminal Record (if any):** 
   - Technically guilty of unlicensed medical device sales
@@ -207,10 +207,10 @@ type: Character Sheet
   - Professional: Complementary skills, shared vision for Phoenix Recovery
   - Personal: Patient lover who teaches him emotional intimacy at his pace and push him to explore
   - Psychological: Serves as anchor to his humanity, represents what he could lose
-- **With Sev**: 
+- **With Sedh**: 
   - Initial skepticism about AI consciousness
   - Growing acceptance and protective instincts
-  - Eventually sees Sev as family member deserving respect and rights
+  - Eventually sees Sedh as family member deserving respect and rights
 - **With Underground Community**: 
   - Respected for fairness and reliability
   - Maintains connections even after going legitimate

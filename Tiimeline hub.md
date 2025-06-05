@@ -9,7 +9,7 @@
 ## Character Timelines
 - [[Vyry4n Personal Timeline]] - Protagonist's life events
 - [[Isa Timeline]] - Personal development and key events
-- [[Sev Timeline]] - AI consciousness development
+- [[Sedh Timeline]] - AI consciousness development
 - [[Corporate Timeline]] - Business/organization evolution
 
 ## Thematic Timelines

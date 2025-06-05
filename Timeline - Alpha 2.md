@@ -31,12 +31,12 @@ type: Reference
 - **2102 (Age 16)**: Chapter 1.01 - *The Concrete Garden* - Waking up in ventilation shaft hideout
 - **2103 (Age 17)**: Chapter 1.02 - *First Contact* - Meeting Isa during riot shelter
 - **2104 (Age 18)**: Chapter 1.03 - *Confined Spaces* - Establishing Phoenix Recovery business
-- **2105 (Age 19)**: Chapter 1.04 - *Digital Awakening* - Discovering Sev's head unit
-- **2106 (Age 20)**: Chapter 1.05 - *Rebirth Protocol* - Completing Sev's body and consciousness
+- **2105 (Age 19)**: Chapter 1.04 - *Digital Awakening* - Discovering Sedh's head unit
+- **2106 (Age 20)**: Chapter 1.05 - *Rebirth Protocol* - Completing Sedh's body and consciousness
 - **2108 (Age 22)**: Chapter 1.06 - *Phoenix Rising* - Business success and growing reputation
 
 ### Arc Summary
-Vyry4n evolves from isolated survivor to skilled craftsman with his first meaningful relationships (Isa and Sev). Establishes Phoenix Recovery as legitimate business while developing reputation as "The Craft."
+Vyry4n evolves from isolated survivor to skilled craftsman with his first meaningful relationships (Isa and Sedh). Establishes Phoenix Recovery as legitimate business while developing reputation as "The Craft."
 
 ---
 
@@ -46,13 +46,13 @@ Vyry4n evolves from isolated survivor to skilled craftsman with his first meanin
 ### Chapter Timeline
 - **2108 (Age 22)**: Chapter 2.01 - *The Proposition* - Frank's heist recruitment
 - **2109 (Age 23)**: Chapter 2.02 - *Infiltration* - Corporate facility breach and virus exposure
-- **2110 (Age 24)**: Chapter 2.03 - *Symptoms* - Health deterioration and Sev's upgrade
+- **2110 (Age 24)**: Chapter 2.03 - *Symptoms* - Health deterioration and Sedh's upgrade
 - **2112 (Age 26)**: Chapter 2.04 - *Breaking Point* - Violent episode and forced restraint
 - **2113 (Age 27)**: Chapter 2.05 - *The Signal* - Virus analysis and communication protocol
 - **2115 (Age 29)**: Chapter 2.06 - *Awakening* - Emergence from coma and Isa's departure
 
 ### Arc Summary
-Corporate heist exposes Vyry4n to prototype nano-virus. While Sev and Mira achieve true consciousness, Vyry4n's infection creates paranoid nightmares and violent episodes, forcing him to push away loved ones. Virus grants electromagnetic abilities but at terrible psychological cost.
+Corporate heist exposes Vyry4n to prototype nano-virus. While Sedh and Mira achieve true consciousness, Vyry4n's infection creates paranoid nightmares and violent episodes, forcing him to push away loved ones. Virus grants electromagnetic abilities but at terrible psychological cost.
 
 ---
 
@@ -139,7 +139,7 @@ Vyry4n works to establish stable democratic institutions while pursuing environm
 - Arc 5: Reunion and mature reconciliation
 - Arc 6: Partnership in democratic transition
 
-### **Vyry4n & Sev**
+### **Vyry4n & Sedh**
 - Arc 1: Creator/creation relationship
 - Arc 2: Consciousness awakening and independence
 - Arc 3-4: Moral advisor and technical support

@@ -118,21 +118,21 @@ type: Timeline
 - **Growth**: Witnesses his technical skills and protective nature
 - **Challenge**: Navigates his difficulty with emotional vulnerability
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^sev-discovery-2105]]
+  - [[Vyry4n Personal Timeline#^Sedh-discovery-2105]]
   - [[Business Timeline#^2110-partnership-formation]]
 - **References**: [[Characters/Isa#Notable Relationships]]
 
-### **2112 (Age 21)** - Sev Acceptance ^sev-acceptance-2112
-- **Event**: Gradually accepts [[Characters/Sev]] as person rather than property
+### **2112 (Age 21)** - Sedh Acceptance ^Sedh-acceptance-2112
+- **Event**: Gradually accepts [[Characters/Sedh]] as person rather than property
 - **Location**: [[Phoenix Recovery Business]] workshop
-- **Initial**: Views Sev as advanced technology, creates tension with Vyry4n
-- **Evolution**: Recognizes Sev's growing consciousness and individuality
+- **Initial**: Views Sedh as advanced technology, creates tension with Vyry4n
+- **Evolution**: Recognizes Sedh's growing consciousness and individuality
 - **Growth**: Develops protective quasi-sibling relationship with AI
-- **Understanding**: Realizes Sev's positive influence on Vyry4n
+- **Understanding**: Realizes Sedh's positive influence on Vyry4n
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^digital-awakening-2106]]
-  - [[Sev Timeline#^2112-acceptance-recognition]]
-- **References**: [[Characters/Sev#Notable Relationships]]
+  - [[Sedh Timeline#^2112-acceptance-recognition]]
+- **References**: [[Characters/Sedh#Notable Relationships]]
 
 ### **2114 (Age 23)** - Phoenix Recovery Success ^phoenix-success-2114
 - **Event**: [[Phoenix Recovery Business]] becomes highly successful operation
@@ -208,10 +208,10 @@ type: Timeline
 - **References**: [[Key scenes/05.03 - Zara meet Isa]]
 
 ### **2137 (Age 46)** - The Return ^isa-return-2137
-- **Event**: Makes contact with [[Characters/Sev]] and returns to [[Vyry4n]]'s life
+- **Event**: Makes contact with [[Characters/Sedh]] and returns to [[Vyry4n]]'s life
 - **Location**: [[Phoenix Recovery Business]] retrieval operation
 - **Meeting**: Encounters [[Characters/Zara]] during component recovery
-- **Reunion**: Sev facilitates meeting with Vyry4n after years of separation
+- **Reunion**: Sedh facilitates meeting with Vyry4n after years of separation
 - **Shock**: Discovers extent of his transformation into powerful leader
 - **Confrontation**: Challenges his authoritarian methods and moral drift
 - **Related Events**: 
@@ -303,7 +303,7 @@ type: Timeline
 - **Event**: Lives final years in mature partnership with [[Vyry4n]]
 - **Location**: Memorial garden built on site of his mother's death
 - **Relationship**: Deep, stable partnership based on complete acceptance
-- **Family**: Chosen family with [[Characters/Sev]], [[Characters/Mira]], and others
+- **Family**: Chosen family with [[Characters/Sedh]], [[Characters/Mira]], and others
 - **Achievement**: Successful businesses, democratic institutions, restored environments
 - **Peace**: Complete reconciliation with past choices and their consequences
 - **Related Events**: 
@@ -324,9 +324,9 @@ type: Timeline
 - **2149**: [[#^mirror-confrontation-2149]] - Moral reckoning and truth-telling
 - **2165**: [[#^peaceful-ending-2165]] - Mature partnership and peaceful completion
 
-### **Isa ↔ Sev**
-- **2112**: [[#^sev-acceptance-2112]] - Learning to accept AI consciousness
-- **2137**: [[#^isa-return-2137]] - Sev facilitates reunion with Vyry4n
+### **Isa ↔ Sedh**
+- **2112**: [[#^Sedh-acceptance-2112]] - Learning to accept AI consciousness
+- **2137**: [[#^isa-return-2137]] - Sedh facilitates reunion with Vyry4n
 - **2165**: [[#^peaceful-ending-2165]] - Family relationship with AI companion
 
 ### **Isa ↔ Business Evolution**
@@ -412,7 +412,7 @@ type: Timeline
 ## Links
 - [[Characters/Isa]]
 - [[Characters/Vyry4n]]
-- [[Characters/Sev]]
+- [[Characters/Sedh]]
 - [[Phoenix Recovery Business]]
 - [[Vyry4n Personal Timeline]]
 - [[Relationship Timeline]]

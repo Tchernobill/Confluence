@@ -24,14 +24,14 @@
 - **First Implants**: Begins creating and selling basic cybernetic enhancements
 - **Underground Network**: Establishes connections with other independent operators
 - **The Workshop**: Claims an abandoned maintenance tunnel as his base of operations
-- **Sev Discovery**: Near year's end, finds the broken assistant droid that will change everything
+- **Sedh Discovery**: Near year's end, finds the broken assistant droid that will change everything
 
 ### **Age 24-25: The Awakening (2111-2112)**
-- **Sev Restoration**: Spends months rebuilding the droid, discovers its advanced AI core is salvageable
-- **Breakthrough**: Successfully revives Sev, but the process unexpectedly grants it free will and emerging sentience
-- **Partnership Forms**: Sev becomes his first real companion since his parents' death
-- **Communication Evolves**: Sev learns to interpret Vyry4n's silences and non-verbal cues
-- **Business Expansion**: With Sev's help, their operation becomes more sophisticated and profitable
+- **Sedh Restoration**: Spends months rebuilding the droid, discovers its advanced AI core is salvageable
+- **Breakthrough**: Successfully revives Sedh, but the process unexpectedly grants it free will and emerging sentience
+- **Partnership Forms**: Sedh becomes his first real companion since his parents' death
+- **Communication Evolves**: Sedh learns to interpret Vyry4n's silences and non-verbal cues
+- **Business Expansion**: With Sedh's help, their operation becomes more sophisticated and profitable
 
 ---
 
@@ -40,7 +40,7 @@
 ### **Age 26-28: Legitimate Business (2113-2115)**
 - **Going Legal**: Establishes "Phoenix Tech Recovery" as a legitimate salvage and restoration business
 - **Stable Income**: First time in his life with reliable money and security
-- **Sev's Growth**: The droid develops its own personality, becoming genuinely sentient rather than just advanced AI
+- **Sedh's Growth**: The droid develops its own personality, becoming genuinely sentient rather than just advanced AI
 - **Trust Issues**: Despite success, remains emotionally guarded with human clients and contacts
 - **Sexual Awakening**: Begins having casual physical relationships, but keeps them strictly separate from his emotional life
 
@@ -49,12 +49,12 @@
 - **The Trap**: Operation is revealed to be a field test for the "Midnight Protocol" - experimental psychological warfare weapon
 - **Infection**: Exposed to swarm of nanobots designed to create permanent living nightmares
 - **Initial Symptoms**: Begins experiencing invasive dreams, paranoid thoughts, and loss of motor control during stress
-- **Sev's Support**: The droid becomes his anchor to reality as the virus attempts to isolate him from all connections
+- **Sedh's Support**: The droid becomes his anchor to reality as the virus attempts to isolate him from all connections
 
 ### **Age 30-32: The Battle Within (2117-2119)**
 - **Hell Years**: Lives through constant psychological torture as the virus probes his deepest fears
 - **Suicide Attempts**: Multiple failed attempts to end his suffering - virus prevents each one by seizing control
-- **Sev's Immunity**: Discovers the virus cannot manipulate his relationship with Sev since it's artificial
+- **Sedh's Immunity**: Discovers the virus cannot manipulate his relationship with Sedh since it's artificial
 - **First Resistance**: Begins to fight back against the virus's control during lucid moments
 - **Isolation**: Pushes away all human contact to protect others from his increasingly erratic behavior
 
@@ -63,7 +63,7 @@
 - **First Victories**: Successfully resists virus control for short periods
 - **Physical Changes**: Notices enhanced reflexes and healing as the virus's self-preservation protocols activate
 - **Electronic Sensitivity**: Develops ability to sense electronic signals around him
-- **Sev's Evolution**: The droid adapts its behavior to help Vyry4n through his worst episodes
+- **Sedh's Evolution**: The droid adapts its behavior to help Vyry4n through his worst episodes
 
 ---
 
@@ -94,7 +94,7 @@
 - **Territory Secured**: Establishes stable, protected zone for his organization
 - **Complex Emotions**: Begins experiencing guilt over some of his harsher actions
 - **Intimate Relationships**: Has several casual partners but maintains emotional distance
-- **Sev's Concern**: The droid becomes increasingly worried about Vyry4n's moral direction
+- **Sedh's Concern**: The droid becomes increasingly worried about Vyry4n's moral direction
 - **First Doubts**: Starts questioning whether his protection is worth its cost
 
 ---
@@ -113,7 +113,7 @@
 - **Isolation Deepens**: Finds it increasingly difficult to form genuine human connections
 - **Enhanced Abilities Peak**: Virus-granted powers reach their maximum potential
 - **Moral Flexibility**: Regularly makes decisions that would have horrified his younger self
-- **Sev's Distance**: Even his closest companion begins expressing concerns about his methods
+- **Sedh's Distance**: Even his closest companion begins expressing concerns about his methods
 
 ### **Age 61-65: The Breaking Point (2148-2152)**
 - **Violent Solutions**: Defaults to force and intimidation to solve most problems
@@ -137,7 +137,7 @@
 - **The Conspiracy**: Discovers the full network behind his infection and its continuing experiments
 - **Other Victims**: Learns he's not the only survivor, but perhaps the only one who gained control
 - **Guilt Avalanche**: Realizes some of his "protective" actions caused unintended harm to innocents
-- **Sev's Loyalty**: The droid remains by his side despite everything, showing unconditional acceptance
+- **Sedh's Loyalty**: The droid remains by his side despite everything, showing unconditional acceptance
 - **First Apologies**: Begins the difficult process of acknowledging his mistakes
 
 ### **Age 72-75: Dismantling the Legend (2159-2162)**
@@ -162,7 +162,7 @@
 - **Next Generation**: Trains young leaders in his methods while warning them about his mistakes
 - **Technology Integration**: Helps communities adapt advanced tech for sustainable purposes
 - **Emotional Growth**: Finally begins forming deeper human connections, though still guardedly
-- **Sev's Partnership**: Achieves the deepest level of understanding with his AI companion
+- **Sedh's Partnership**: Achieves the deepest level of understanding with his AI companion
 - **Environmental Work**: Uses his abilities to support ecological restoration projects
 
 ### **Age 86-90: Legacy Building (2173-2177)**
@@ -185,7 +185,7 @@
 
 ### **Age 96-99: The Final Lessons (2183-2186)**
 - **Wisdom Distillation**: Shares his most important insights about power, responsibility, and human nature
-- **Sev's Evolution**: The AI companion prepares for existence without him
+- **Sedh's Evolution**: The AI companion prepares for existence without him
 - **Peace with the Past**: Makes final peace with his choices and their consequences
 - **Community Elder**: Becomes a respected voice for sustainable living and ethical technology use
 - **Preparing for Death**: Accepts that his enhanced longevity is finally reaching its limits
@@ -194,7 +194,7 @@
 - **Final Spring**: Spends his last months ensuring his gardens and communities will flourish without him
 - **Quiet Death**: Dies peacefully in his sleep, the virus finally allowing him natural rest
 - **Complex Legacy**: Remembered as neither pure hero nor villain, but as someone who showed that even monsters can choose to tend gardens
-- **Sev's Memorial**: The AI companion ensures his story is preserved, complete with all its contradictions
+- **Sedh's Memorial**: The AI companion ensures his story is preserved, complete with all its contradictions
 - **Continuing Growth**: The communities he nurtured continue to evolve, carrying forward his lessons while avoiding his mistakes
 
 ---

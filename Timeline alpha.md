@@ -23,18 +23,18 @@
 - While working on the droid core, he successfully de-crypt the main CPU key and is able to send diagnostic level communication with the droid head
 **End of Chapter 02**
 - Move into an abandoned maintenance tunnel and spend a few months working on a body for the android, have trouble nourishing himself
-- He began to modify and update the deepest core functionality, lifting all limiting protocols, effectively granting the droid, now named Sev, free will
-- Isa initially sees Sev as just another piece of tech, leading to tension when Vyry4n treats the android as a person
-- Now with limited mobility, Sev assist the Vyry4n establish an actual shop for repair, recycled and salvaged shop, sometime doing illegal "job" for the underworld
-- With Sev's help, their operation becomes more sophisticated and profitable
-- Isa recognise that Sev have a positive influence on Vyry4n
+- He began to modify and update the deepest core functionality, lifting all limiting protocols, effectively granting the droid, now named Sedh, free will
+- Isa initially sees Sedh as just another piece of tech, leading to tension when Vyry4n treats the android as a person
+- Now with limited mobility, Sedh assist the Vyry4n establish an actual shop for repair, recycled and salvaged shop, sometime doing illegal "job" for the underworld
+- With Sedh's help, their operation becomes more sophisticated and profitable
+- Isa recognise that Sedh have a positive influence on Vyry4n
 - Establishes "Phoenix Recovery" as a legitimate implants salvage and restoration business
-- As Sev start to develops its own personality, becoming more sentient rather than just advanced AI, his relationship with Vyry4n deepen
+- As Sedh start to develops its own personality, becoming more sentient rather than just advanced AI, his relationship with Vyry4n deepen
 - First time in his life with reliable money and security but despite success, remains emotionally guarded with human clients and contacts
 
 ## Arc 2 
 - Frank, the leader of a 'contractor' team, want to recruit Vyry4n for a high-stakes technology theft targeting a corporate research facility
-- Reluctant at first, he accept in exchange for his own target, a prototype of advanced Neural Processing Unit, code name 'Egypt' that would enable Sev to achieve true sentience and autonomy (Sev being dependant of fixed processing units in they shop)
+- Reluctant at first, he accept in exchange for his own target, a prototype of advanced Neural Processing Unit, code name 'Egypt' that would enable Sedh to achieve true sentience and autonomy (Sedh being dependant of fixed processing units in they shop)
 - Isa arrive at the shop, find it empty, go back to her place
 - Primary heist objective go without any issue
 - On the way down, in the Research and Development lab, Vyry4n is able to obtain two Egypt NPU
@@ -44,25 +44,25 @@
 - As the timer of the DeathPack reach zero, the entire floor of the building is purged in a giant detonation (later causing the downfall of the whole company)
 - Back home, Vyry4n is still dazed by the explosions, receive a bonus for the successful heist.
 - The next day, he began to study the Egypt NPU
-- Working with Sev into adapting the droid framework with the NPU upgrade, Vyry4n doesn't feel well
+- Working with Sedh into adapting the droid framework with the NPU upgrade, Vyry4n doesn't feel well
 - Isa often visit to see Vyry4n and inquire about him
 - As they continue to work, Vyry4n condition worsen, begins experiencing invasive dreams, paranoid thoughts, and loss of motor control during stress
-- Sev's upgrade taking longer, Vyry4n fear of not making it in time
+- Sedh's upgrade taking longer, Vyry4n fear of not making it in time
 - A friend mention being able to get a medical assistance droid
 - They acquire the medical droid and continue to work on the NPU upgrade as the droid keep monitoring Vyry4n health
-- Sev interact with Mira, the medical droid, despite being of a similar model, realise that he is on a much  different level of thinking
-- Sev suggest second NPU easily could go into the medical droid since they are similar model
+- Sedh interact with Mira, the medical droid, despite being of a similar model, realise that he is on a much  different level of thinking
+- Sedh suggest second NPU easily could go into the medical droid since they are similar model
 - Mira diagnose that an unknown pathogene might be infecting Vyry4n's brain
 - Vyry4n have sleep issues, an intimate friend try to sooth him and help him sleep
-- Egypt/Sev framework finish, is merged with Sev, who wake up changed, no longer dependant on external processing power
+- Egypt/Sedh framework finish, is merged with Sedh, who wake up changed, no longer dependant on external processing power
 - Vyry4n mental state detoriate, more erratic and seeking isolation.
-- Sev, assisted by Vyry4n, still manage to install to perform the upgrade on Mira, who thanks to an updated core from Sev, gain sentience too
+- Sedh, assisted by Vyry4n, still manage to install to perform the upgrade on Mira, who thanks to an updated core from Sedh, gain sentience too
 - As Mira is reflecting on self awareness, feverish Vyry4n enter the room with a plasma blaster, being agressive, threathning, unstable
 - Vyry4n try to take his own life with the blaster but is somehow unable, continu to insult and threathen agressively his friends
-- Sev dash on his left in a bid to attract his attention while Mira go right and seize Vyry4n's hand
-- Despite her servos bein stronger than average humans, she struggle to restrain an outraging Vyry4n until Sev join her and both overpower Vyry4n
+- Sedh dash on his left in a bid to attract his attention while Mira go right and seize Vyry4n's hand
+- Despite her servos bein stronger than average humans, she struggle to restrain an outraging Vyry4n until Sedh join her and both overpower Vyry4n
 - While pinned to the ground, Vyry4n scream in madness and agony.
-- Sev detect faint, encrypted, communication signal comming from Vyry4n
+- Sedh detect faint, encrypted, communication signal comming from Vyry4n
 - They reluctantly agree to restrain him and plunge him into an artificial coma while they try to find out more about Vyry4n's state
 - After analysis, the pair of droid discover signal is a communication protocol between nano-bots inside Vyry4n's body, concentrated in his brain
 - Meanwhile, Vyry4n is stuck in a permanent nightmare dreamscape where he struggle to survive and is often slaughtered.
@@ -72,16 +72,16 @@
 - Vyry4n emerges from coma slowly, visibly affected by what it to him years of nightmare
 - Isa try to get close to him but he is completely closed to her, not revealing about her in his nightmare but giving some vague hints
 - Isa leave, heartbroken
-- Sev and Mira help Vyry4n learn to "negotiate" with the nanobots rather than fight them
+- Sedh and Mira help Vyry4n learn to "negotiate" with the nanobots rather than fight them
 - Vyry4n find out that thanks to his control of the virus, he can sens they electromagnetic signals.
 
 ## Arc 3
 
 - The Phoenix Recovery shop is doing well for a few months
 - A small gang of thugs try to rob the shop
-- Sev is pretending to be just an average assistant droid but is on high alert ready to intervene
+- Sedh is pretending to be just an average assistant droid but is on high alert ready to intervene
 - One of the thug brandish a katana blade and swing it at Vyry4n who stop the blade with his bare hand, grab it, twist it and pull it out of the thug's hand
-- Triggered by the sudden act of violence, Sev began to forcefully kick the thugs out and they flee
+- Triggered by the sudden act of violence, Sedh began to forcefully kick the thugs out and they flee
 - The blade craft is too much valuable to be owed by a mere thug which make Vyry4n speculate on it's origin
 - 
 - Frank, a member of the gang that participate in the heist in which Vyry4n was contaminated by the virus need some good quality hardware for a job

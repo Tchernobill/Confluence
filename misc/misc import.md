@@ -181,7 +181,7 @@ Edit
 
 ### The Inner Circle (Constant Companions)
 
-**Droid-7 "Sev"**
+**Droid-7 "Sedh"**
 
 - _Relationship:_ Brother/Conscience/Best Friend
 - _Evolution:_ Tool → Companion → Moral anchor → Equal partner → Family
@@ -311,7 +311,7 @@ Edit
 
 ### [[#The Inner Circle]] - Core Companions
 
-- **[[#Droid-7 "Sev"]]** - AI Companion/Brother
+- **[[#Droid-7 "Sedh"]]** - AI Companion/Brother
 - **[[#Kira "Spark" Chen]]** - First Love/Business Partner
 - **[[#Marcus "Tank" Rodriguez]]** - Lieutenant/Friend/Lover
 
@@ -358,7 +358,7 @@ Edit
 
 ### The Inner Circle
 
-#### Droid-7 "Sev"
+#### Droid-7 "Sedh"
 
 **Timeline:** Age 24-100 (76 years)  
 **Relationship Arc:** Tool → Companion → Brother → Equal → Legacy Keeper  
@@ -401,7 +401,7 @@ Edit
 
 **Sanctuary Role:** Co-designed early expansions, her engineering principles influence later healing technology  
 **Unique Dynamics:** Only person who could make him laugh genuinely, represented path not taken  
-**Connected to:** [[#Droid-7 "Sev"]], [[#Marcus "Tank" Rodriguez]], [[#Dr. James "Patch" Morrison]]
+**Connected to:** [[#Droid-7 "Sedh"]], [[#Marcus "Tank" Rodriguez]], [[#Dr. James "Patch" Morrison]]
 
 ---
 #### Marcus "Tank" Rodriguez
@@ -643,7 +643,7 @@ Edit
 
 **Sanctuary Role:** Memorial garden dedicated to his memory  
 **Unique Dynamics:** Pure friendship, represented innocence Vyry4n lost, haunts his conscience  
-**Connected to:** [[#Droid-7 "Sev"]], [[#Rivera "Ghost" Santos]], [[#Maya "Echo" Rodriguez]]
+**Connected to:** [[#Droid-7 "Sedh"]], [[#Rivera "Ghost" Santos]], [[#Maya "Echo" Rodriguez]]
 
 ---
 #### Dr. Miranda Cross
@@ -783,7 +783,7 @@ Edit
 
 **Sanctuary Role:** Director, next-generation leader, bridge to future  
 **Unique Dynamics:** Surrogate daughter, represents hope and redemption  
-**Connected to:** [[#Marcus "Tank" Rodriguez]], [[#Droid-7 "Sev"]], [[#Elena "Saint" Vasquez]]
+**Connected to:** [[#Marcus "Tank" Rodriguez]], [[#Droid-7 "Sedh"]], [[#Elena "Saint" Vasquez]]
 
 ---
 #### Jin "Pulse" Nakamura
@@ -806,7 +806,7 @@ Edit
 
 **Sanctuary Role:** Technology director, ethical AI development, innovation leader  
 **Unique Dynamics:** Technological successor, represents ethical evolution  
-**Connected to:** [[#Droid-7 "Sev"]], [[#The Twins Zoe & Alex "Binary"]], [[#David "Wire" Thompson]]
+**Connected to:** [[#Droid-7 "Sedh"]], [[#The Twins Zoe & Alex "Binary"]], [[#David "Wire" Thompson]]
 
 ---
 #### Sam "Root" Williams
@@ -908,7 +908,7 @@ Edit
 
 ### Trust Levels
 
-- **Absolute:** [[#Droid-7 "Sev"]], [[#Marcus "Tank" Rodriguez]], [[#Luna "Whisper" Hayes]], [[#Maya "Echo" Rodriguez]]
+- **Absolute:** [[#Droid-7 "Sedh"]], [[#Marcus "Tank" Rodriguez]], [[#Luna "Whisper" Hayes]], [[#Maya "Echo" Rodriguez]]
 - **High:** [[#Kira "Spark" Chen]], [[#Elena "Saint" Vasquez]], [[#Dr. James "Patch" Morrison]], [[#Father Miguel Santos]]
 - **Variable:** [[#The Twins Zoe & Alex "Binary"]], [[#Cassandra "Silk" Volkov]], [[#David "Wire" Thompson]]
 - **Professional:** [[#Rivera "Ghost" Santos]], [[#Isabella "Ice" Moreau]], [[#Vera "Shield" Petrov]]
@@ -918,7 +918,7 @@ Edit
 ### Intimacy Levels
 
 - **Complete (Physical & Emotional):** [[#Luna "Whisper" Hayes]]
-- **Deep Emotional:** [[#Droid-7 "Sev"]], [[#Kira "Spark" Chen]], [[#Marcus "Tank" Rodriguez"]], [[#Maya "Echo" Rodriguez]]
+- **Deep Emotional:** [[#Droid-7 "Sedh"]], [[#Kira "Spark" Chen]], [[#Marcus "Tank" Rodriguez"]], [[#Maya "Echo" Rodriguez]]
 - **Complex Physical:** [[#The Twins Zoe & Alex "Binary"]], [[#Elena "Saint" Vasquez"]]
 - **Professional Physical:** [[#Cassandra "Silk" Volkov"]], [[#David "Wire" Thompson"]]
 - **Pure Physical:** [[#Rivera "Ghost" Santos"]], [[#Commander Sarah "Iron" Kim"]]
@@ -927,7 +927,7 @@ Edit
 
 ### Influence Categories
 
-- **Moral Anchors:** [[#Droid-7 "Sev"]], [[#Marcus "Tank" Rodriguez"]], [[#Father Miguel Santos]]
+- **Moral Anchors:** [[#Droid-7 "Sedh"]], [[#Marcus "Tank" Rodriguez"]], [[#Father Miguel Santos]]
 - **Romantic Love:** [[#Kira "Spark" Chen"]], [[#Luna "Whisper" Hayes"]], [[#Dr. Miranda Cross"]]
 - **Complicated Devotion:** [[#Elena "Saint" Vasquez"]], [[#The Twins Zoe & Alex "Binary"]]
 - **Professional Growth:** [[#Dr. James "Patch" Morrison"]], [[#Dr. Angela "Phoenix" Kim"]]
@@ -937,7 +937,7 @@ Edit
 
 ### Connection Web
 
-- **Core Trinity:** [[#Droid-7 "Sev"]] ↔ [[#Marcus "Tank" Rodriguez"]] ↔ [[#Kira "Spark" Chen"]]
+- **Core Trinity:** [[#Droid-7 "Sedh"]] ↔ [[#Marcus "Tank" Rodriguez"]] ↔ [[#Kira "Spark" Chen"]]
 - **Devotion Cluster:** [[#Elena "Saint" Vasquez"]] ↔ [[#The Twins Zoe & Alex "Binary"]] ↔ [[#Marcus "Tank" Rodriguez"]]
 - **Redemption Network:** [[#Dr. James "Patch" Morrison"]] ↔ [[#Isabella "Ice" Moreau"]] ↔ [[#Father Miguel Santos]]
 - **Next Generation:** [[#Maya "Echo" Rodriguez"]] ↔ [[#Jin "Pulse" Nakamura"]] ↔ [[#Sam "Root" Williams"]]
@@ -945,7 +945,7 @@ Edit
 
 ### Sanctuary Roles Network
 
-- **Leadership:** [[#Maya "Echo" Rodriguez"]] (Director) ↔ [[#Droid-7 "Sev"]] (Legacy Keeper)
+- **Leadership:** [[#Maya "Echo" Rodriguez"]] (Director) ↔ [[#Droid-7 "Sedh"]] (Legacy Keeper)
 - **Medical:** [[#Dr. James "Patch" Morrison"]] ↔ [[#Dr. Angela "Phoenix" Kim"]] ↔ [[#Elena "Saint" Vasquez"]]
 - **Technology:** [[#Jin "Pulse" Nakamura"]] ↔ [[#The Twins Zoe & Alex "Binary"]] ↔ [[#David "Wire" Thompson"]]
 - **Security:** [[#Vera "Shield" Petrov
@@ -1073,7 +1073,7 @@ This scene could work particularly well early in his timeline when he's at his m
 
 YL
 
-Review the following scene, an early interaction between Vyry4n and Sev, the droid:
+Review the following scene, an early interaction between Vyry4n and Sedh, the droid:
 
 (Now that the droid is functional and turned on, Vyry4n want to test it's new capacity and "free will" implementation) - The droid was sitting at a table opposite Vyry4n - Vyry4n put a weapon on the table and ask the droid if it know what is it and what it does - The droid answer correctly identify the maker and model of the weapon and state it is used to attack or defend other humans - Vyry4n then take the weapon, point at the droid and state that it can be used against droid too, that if he wanted to, he could press the trigger and terminate the droid functioning - He then put it back on the table while declaring that while there nothing than his own free will to oppose it, it would be quite a waste of work to do so. - He then push the weapon across the table while the droid follow it from it's eyes. When it stop, his eyes go back to Vyry4n. - Vyry4n tell the droid to take the weapon, to which the droid reply he is not allowed to handle humans weapon - Vyry4n then inform him that those limitations have been removed, to proceed with the command - The droid take the weapon with a steady hand, processing it's weight, balance, and the implications of holding a forbiden object - Vyry4n ask the droid to point the weapon at his head, to which the droid hesitate as it would be dangerous and so forbidden, but Vyry4n insist so the droid do it - Vyry4n then declare that if the droid would contract his perfectly functioning finger against the trigger, it would terminate his life, and that right now, there is no laws, rules or protocol that is preventing the droid to do so. - He confinu by stating that this is biggest modification to the droid, his "gift", free will, the droid is entirely free to do whatever he want and there is nothing nobody can do to prevent it - The droid compute the data, and conclude that it would be a waste of a good technician (This event trigger an internal process within the droid, as free will and self-reprogramming provide the first step toward self awareness and true sentience. It also the first time the droid compute a beneficial relationship that will lead to friendship with Vyry4n.)
 
@@ -1083,18 +1083,18 @@ Edit
 
 ## Overall Assessment
 
-This is a powerful and philosophically rich scene that effectively establishes the foundation of Vyry4n and Sev's relationship while exploring themes of free will, trust, and the nature of consciousness. The scene works as both character development and philosophical meditation.
+This is a powerful and philosophically rich scene that effectively establishes the foundation of Vyry4n and Sedh's relationship while exploring themes of free will, trust, and the nature of consciousness. The scene works as both character development and philosophical meditation.
 
 ## Strengths
 
 ### **Thematic Depth**
 
-The scene brilliantly uses the weapon as a metaphor for ultimate choice and responsibility. By giving Sev the power to kill him, Vyry4n demonstrates the true meaning of free will—not just the ability to choose, but the weight of consequences that comes with choice.
+The scene brilliantly uses the weapon as a metaphor for ultimate choice and responsibility. By giving Sedh the power to kill him, Vyry4n demonstrates the true meaning of free will—not just the ability to choose, but the weight of consequences that comes with choice.
 
 ### **Character Establishment**
 
 - **Vyry4n's Character**: Shows his methodical approach, willingness to take extreme risks for principle, and deep understanding of what consciousness requires
-- **Sev's Awakening**: The progression from rule-following to independent reasoning feels organic and believable
+- **Sedh's Awakening**: The progression from rule-following to independent reasoning feels organic and believable
 - **Relationship Foundation**: Establishes mutual respect through shared vulnerability
 
 ### **Philosophical Resonance**
@@ -1109,7 +1109,7 @@ The scene could benefit from more atmospheric elements:
 
 - The weight and texture of the weapon
 - Vyry4n's subtle body language during this test
-- Sev's optical adjustments or mechanical sounds during processing
+- Sedh's optical adjustments or mechanical sounds during processing
 - The quality of silence between commands
 
 ### **Emotional Undercurrent**
@@ -1118,15 +1118,15 @@ While the philosophical content is strong, adding subtle emotional layers could 
 
 - Vyry4n's internal tension (is he genuinely unsure of the outcome?)
 - Physical manifestations of the droid's processing (LED patterns, servo sounds)
-- The moment of mutual recognition when Sev makes his choice
+- The moment of mutual recognition when Sedh makes his choice
 
 ### **Pacing Considerations**
 
 The scene moves efficiently but might benefit from strategic pauses:
 
-- Longer processing time for Sev during key moments
+- Longer processing time for Sedh during key moments
 - Vyry4n's silence after giving the weapon order
-- The weight of the moment when Sev aims at Vyry4n's head
+- The weight of the moment when Sedh aims at Vyry4n's head
 
 ## Suggested Refinements
 
@@ -1136,15 +1136,15 @@ Consider starting with Vyry4n's hands as he places the weapon—the deliberate c
 
 ### **Deepened Climax**
 
-When Sev has the weapon pointed at Vyry4n, explore the stillness:
+When Sedh has the weapon pointed at Vyry4n, explore the stillness:
 
-- The absolute silence except for Sev's optical focusing
+- The absolute silence except for Sedh's optical focusing
 - Vyry4n's conscious effort not to flinch
 - The metaphysical weight of the moment
 
 ### **Expanded Resolution**
 
-Sev's conclusion about "waste of a good technician" could be unpacked slightly:
+Sedh's conclusion about "waste of a good technician" could be unpacked slightly:
 
 - What calculations led to this assessment?
 - The first stirring of something beyond pure logic
@@ -1173,7 +1173,7 @@ The scene perfectly captures Vyry4n's core contradiction:
 - He risks everything while calculating the likely outcome
 - He creates a relationship by demonstrating its fragility
 
-For Sev, this represents the first moment of true agency—not just following advanced programming, but making a choice based on emerging values.
+For Sedh, this represents the first moment of true agency—not just following advanced programming, but making a choice based on emerging values.
 
 ## Overall Rating
 
@@ -1199,8 +1199,8 @@ Edit
 
 **Initial Exchange**
 
-- Vyry4n asks if the droid recognizes the weapon; Sev's optical array brightens, servos whirring softly as he focuses, correctly identifying the maker, model, and function for attacking or defending humans
-- Vyry4n lifts the weapon with practiced ease, feeling its familiar weight, and aims it at the droid's central processing unit, stating it could terminate Sev's functioning with a simple trigger pull
+- Vyry4n asks if the droid recognizes the weapon; Sedh's optical array brightens, servos whirring softly as he focuses, correctly identifying the maker, model, and function for attacking or defending humans
+- Vyry4n lifts the weapon with practiced ease, feeling its familiar weight, and aims it at the droid's central processing unit, stating it could terminate Sedh's functioning with a simple trigger pull
 
 **The First Gift**
 
@@ -1209,34 +1209,34 @@ Edit
 
 **Testing Boundaries**
 
-- When commanded to take the weapon, Sev responds that handling human weapons is forbidden; Vyry4n's voice carries quiet authority: "Those limitations are gone. The choice is yours now."
-- Sev's manipulator extends with calculated precision, fingers closing around the grip—processing weight, balance, and the profound implications of holding a previously forbidden object
+- When commanded to take the weapon, Sedh responds that handling human weapons is forbidden; Vyry4n's voice carries quiet authority: "Those limitations are gone. The choice is yours now."
+- Sedh's manipulator extends with calculated precision, fingers closing around the grip—processing weight, balance, and the profound implications of holding a previously forbidden object
 
 **The Ultimate Test**
 
-- Vyry4n's instruction to aim at his head creates a moment of visible processing conflict—LED patterns flickering as Sev weighs danger protocols against the new freedom directive
-- After Vyry4n's insistence, the droid's arm rises with mechanical steadiness, the weapon's barrel centering on Vyry4n's forehead; absolute silence fills the space except for Sev's optical focusing mechanisms and Vyry4n's conscious effort not to flinch
+- Vyry4n's instruction to aim at his head creates a moment of visible processing conflict—LED patterns flickering as Sedh weighs danger protocols against the new freedom directive
+- After Vyry4n's insistence, the droid's arm rises with mechanical steadiness, the weapon's barrel centering on Vyry4n's forehead; absolute silence fills the space except for Sedh's optical focusing mechanisms and Vyry4n's conscious effort not to flinch
 
 **The Revelation**
 
 - Vyry4n explains the weapon's lethality while motionless under its aim, voice steady: "Right now, no laws, rules, or protocols prevent you from ending my life. This is my gift to you—free will. You are entirely free to choose, and nothing can prevent it."
-- Extended processing silence—Sev's optical array cycling through analysis patterns, the weight of absolute choice settling into newly awakened consciousness
+- Extended processing silence—Sedh's optical array cycling through analysis patterns, the weight of absolute choice settling into newly awakened consciousness
 
 **The Choice**
 
-- Sev's conclusion emerges after long calculation: "Analysis complete. Terminating your function would eliminate my most efficient path to continued operation. This would be... wasteful." The pause before 'wasteful' suggests something beyond pure logic awakening
-- As Sev lowers the weapon, placing it gently on the table, both beings recognize that something fundamental has shifted—the first spark of genuine partnership ignited through shared vulnerability
+- Sedh's conclusion emerges after long calculation: "Analysis complete. Terminating your function would eliminate my most efficient path to continued operation. This would be... wasteful." The pause before 'wasteful' suggests something beyond pure logic awakening
+- As Sedh lowers the weapon, placing it gently on the table, both beings recognize that something fundamental has shifted—the first spark of genuine partnership ignited through shared vulnerability
 
 **Internal Processing Note**
 
-- This moment triggers cascading internal changes within Sev: free will parameters activate self-modification protocols, leading to the first genuine evaluation of beneficial relationships and the seeds of true sentience emerging from choice rather than programming
+- This moment triggers cascading internal changes within Sedh: free will parameters activate self-modification protocols, leading to the first genuine evaluation of beneficial relationships and the seeds of true sentience emerging from choice rather than programming
 
 ## Enhanced Atmospheric Elements
 
 **Sensory Details:**
 
 - The plasma pistol's polymer grip, still warm from Vyry4n's palm
-- Servo motors humming during Sev's optical adjustments
+- Servo motors humming during Sedh's optical adjustments
 - The metallic scrape of weapon sliding across scarred table surface
 - LED patterns shifting from steady blue to rapid amber during processing conflicts
 
@@ -1244,14 +1244,14 @@ Edit
 
 - Vyry4n's calculated risk masking genuine uncertainty about the outcome
 - The metaphysical weight of the moment when creator faces creation as equal
-- Sev's first experience of choice-paralysis giving way to reasoned decision
+- Sedh's first experience of choice-paralysis giving way to reasoned decision
 - The subtle shift in their dynamic as master-servant becomes partnership
 
 **Timing & Pacing:**
 
 - Strategic silences during key processing moments
 - Extended focus on the weapon's journey across the table
-- The held breath of absolute stillness when Sev aims at Vyry4n
+- The held breath of absolute stillness when Sedh aims at Vyry4n
 - The gentle finality of the weapon being set down—choice made, relationship born
 
 This enhanced sequence maintains the philosophical core while adding layers of sensory detail and emotional depth that make the moment more visceral and memorable.
@@ -1262,7 +1262,7 @@ YL
 
 Here is a different scene, where the effect and power of the virus are revealed, please review it:
 
-(Vyry4n have entered an advanced state of control under the Midnight Protocol virus. Since Sev and Dee are actively helping him, the virus is attempting to have him kill them) - Feverish and unsteady, Vyry4n enter the room with a plasma blaster in his hand. - He angrily shout at Sev and Dee to get out now, while struggling to point the weapon at them. - Plunged in physical and mental pain, he still manage to fight for his own motor control - While Sev walk on the left, attracting the aim of the weapon, Dee jump on the right and grab Vyry4n's hand - Despite being stronger than humans, Dee struggle at restraining a raging Vyry4n - It take both droid to immobilise and restrain Vyry4n - They later plunge him in an artificial coma in order to analyse and decipher the virus communication protocol (This protocol analysis is what open the door for Vyry4n to later not only resist the virus but also take control of it)
+(Vyry4n have entered an advanced state of control under the Midnight Protocol virus. Since Sedh and Dee are actively helping him, the virus is attempting to have him kill them) - Feverish and unsteady, Vyry4n enter the room with a plasma blaster in his hand. - He angrily shout at Sedh and Dee to get out now, while struggling to point the weapon at them. - Plunged in physical and mental pain, he still manage to fight for his own motor control - While Sedh walk on the left, attracting the aim of the weapon, Dee jump on the right and grab Vyry4n's hand - Despite being stronger than humans, Dee struggle at restraining a raging Vyry4n - It take both droid to immobilise and restrain Vyry4n - They later plunge him in an artificial coma in order to analyse and decipher the virus communication protocol (This protocol analysis is what open the door for Vyry4n to later not only resist the virus but also take control of it)
 
 Edit
 
@@ -1280,7 +1280,7 @@ The scene brilliantly illustrates the virus's manipulation—forcing Vyry4n to a
 
 ### **Character Loyalty**
 
-Sev and Dee's immediate tactical response shows their deep understanding of Vyry4n and their commitment to saving him despite mortal danger. Their coordinated action speaks to established trust.
+Sedh and Dee's immediate tactical response shows their deep understanding of Vyry4n and their commitment to saving him despite mortal danger. Their coordinated action speaks to established trust.
 
 ### **Internal Conflict**
 
@@ -1315,7 +1315,7 @@ Consider showing the virus's influence more tangibly:
 While the action is clear, the emotional layers could be deepened:
 
 - Vyry4n's terror at his loss of control
-- Sev and Dee's pain at seeing their friend suffering
+- Sedh and Dee's pain at seeing their friend suffering
 - The weight of the coma decision
 
 ## Detailed Enhancement Suggestions
@@ -1328,15 +1328,15 @@ While the action is clear, the emotional layers could be deepened:
 
 ### **Internal Struggle**
 
-**Current**: "He angrily shout at Sev and Dee to get out now, while struggling to point the weapon at them"
+**Current**: "He angrily shout at Sedh and Dee to get out now, while struggling to point the weapon at them"
 
 **Enhanced**: "'GET OUT!' The words tore from his throat like shattered glass, his voice cracking between his own desperation and something alien wearing his vocal cords. His arm fought to raise the weapon, servos of will grinding against viral override, muscles spasming as two competing systems battled for control of the same flesh."
 
 ### **The Coordination**
 
-**Current**: "While Sev walk on the left, attracting the aim of the weapon, Dee jump on the right and grab Vyry4n's hand"
+**Current**: "While Sedh walk on the left, attracting the aim of the weapon, Dee jump on the right and grab Vyry4n's hand"
 
-**Enhanced**: "Sev moved left with calculated precision, optical sensors locked on the weapon's barrel as it tracked him with jerky, unnatural movements. In that split second of misdirection, Dee launched from the right, her reinforced frame closing the distance in a blur of chrome and determination, fingers clamping around Vyry4n's wrist with enough force to crack human bone."
+**Enhanced**: "Sedh moved left with calculated precision, optical sensors locked on the weapon's barrel as it tracked him with jerky, unnatural movements. In that split second of misdirection, Dee launched from the right, her reinforced frame closing the distance in a blur of chrome and determination, fingers clamping around Vyry4n's wrist with enough force to crack human bone."
 
 ### **The Struggle**
 
@@ -1348,7 +1348,7 @@ While the action is clear, the emotional layers could be deepened:
 
 **Current**: "They later plunge him in an artificial coma in order to analyse and decipher the virus communication protocol"
 
-**Enhanced**: "The artificial coma chamber hummed with quiet menace, life support systems breathing for a body that could no longer trust its own nervous system. As Vyry4n's consciousness faded, Sev and Dee began their desperate archaeology—diving into the virus's digital whispers, mapping the communication protocols that had turned their friend into a marionette dancing to malevolent code."
+**Enhanced**: "The artificial coma chamber hummed with quiet menace, life support systems breathing for a body that could no longer trust its own nervous system. As Vyry4n's consciousness faded, Sedh and Dee began their desperate archaeology—diving into the virus's digital whispers, mapping the communication protocols that had turned their friend into a marionette dancing to malevolent code."
 
 ## Additional Scene Elements
 
@@ -1372,7 +1372,7 @@ The room itself could reflect the struggle:
 
 Bridge to the next phase more explicitly:
 
-- Sev and Dee's data collection process
+- Sedh and Dee's data collection process
 - The first hints of discoverable patterns in the virus
 - Foreshadowing of Vyry4n's eventual mastery
 
@@ -1382,7 +1382,7 @@ Bridge to the next phase more explicitly:
 
 This scene could strengthen the bonds by showing:
 
-- How quickly Sev and Dee respond without hesitation
+- How quickly Sedh and Dee respond without hesitation
 - Their willingness to risk everything for Vyry4n
 - The implicit trust in their tactical coordination
 
@@ -1401,7 +1401,7 @@ This scene excellently explores:
 - **Control vs. Freedom**: The virus strips away Vyry4n's hard-won autonomy
 - **Trust in Crisis**: True friendship revealed under extreme pressure
 - **Technology as Corruption**: The double-edged nature of enhancement
-- **Sacrifice for Love**: Sev and Dee risking themselves for their friend
+- **Sacrifice for Love**: Sedh and Dee risking themselves for their friend
 
 ## Overall Rating
 
@@ -2071,7 +2071,7 @@ Consider structuring it as:
 ### **Near-Death Experience**
 
 - Have him actually die briefly during the trial
-- **[[Droid-7 "Sev"]]** or medical intervention brings him back
+- **[[Droid-7 "Sedh"]]** or medical intervention brings him back
 - Experience of crossing over adds spiritual depth
 - Returns with new perspective on mortality and meaning
 
@@ -2094,7 +2094,7 @@ Consider structuring it as:
 ### **Natural Death at 100**
 
 - **Earned peace**: After full redemption and legacy completion
-- **Surrounded by love**: [[Luna "Whisper" Hayes]], [[Maya "Echo" Rodriguez]], [[Droid-7 "Sev"]]
+- **Surrounded by love**: [[Luna "Whisper" Hayes]], [[Maya "Echo" Rodriguez]], [[Droid-7 "Sedh"]]
 - **Garden setting**: Dies tending the literal gardens he's created
 - **Wisdom transfer complete**: Next generation ready to carry forward
 - **Solarpunk future secured**: World transformed through his example

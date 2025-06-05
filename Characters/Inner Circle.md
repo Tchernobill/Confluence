@@ -158,7 +158,7 @@ type: Character Sheet
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
   - **Vyry4n**: Primary professional relationship with underlying attraction she tries to manage ethically, occasional moments of boundary crossing during care
   - **Marcus**: Professional respect and collaboration on security-medical issues
-  - **Sev**: Intellectual fascination with AI consciousness, provides medical consultation
+  - **Sedh**: Intellectual fascination with AI consciousness, provides medical consultation
   - **Former corporate colleagues**: Mixed relationships based on shared experiences and different choices
 - **Upbringing & Childhood:** 
   - Born into prestigious corporate medical family

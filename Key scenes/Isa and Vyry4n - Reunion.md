@@ -61,19 +61,19 @@ She felt her throat constrict.
 
 "Oh, Vyry..." The words escaped as barely a breath.
 
-"Sometimes it was Sev. He'd lure me with promises of safety, then rip my head off and turn me into some grotesque bio-organic sculpture. Mira would heal me just to watch me die slower." He paused, studying his hands as if they belonged to someone else. "I can't tell you how many years it lasted. Time moves differently in hell."
+"Sometimes it was Sedh. He'd lure me with promises of safety, then rip my head off and turn me into some grotesque bio-organic sculpture. Mira would heal me just to watch me die slower." He paused, studying his hands as if they belonged to someone else. "I can't tell you how many years it lasted. Time moves differently in hell."
 
 Isa found herself moving closer without conscious thought, drawn by the pain in his voice despite the horror of his words.
 
-"One day, Sev pulled me out. I woke up, opened my eyes, was back in the lab room." He looked up at her then, and she saw tears forming. "You were standing next to me, holding my hand. Just like you used to when I had bad dreams."
+"One day, Sedh pulled me out. I woke up, opened my eyes, was back in the lab room." He looked up at her then, and she saw tears forming. "You were standing next to me, holding my hand. Just like you used to when I had bad dreams."
 
 She remembered. Sitting by his bedside for weeks, talking to him, holding his hand, hoping some part of him could hear her voice through whatever hell the virus had created.
 
-"Then you plunged your other hand into my chest and pulled out my heart. Gave it to Sev, who started laughing." His voice cracked slightly. "It happened several times. False awakenings, each one more cruel than the last."
+"Then you plunged your other hand into my chest and pulled out my heart. Gave it to Sedh, who started laughing." His voice cracked slightly. "It happened several times. False awakenings, each one more cruel than the last."
 
 "But I didn't—" she started, then stopped as understanding hit her. "The real awakening."
 
-"One day, you simply didn't. You didn't do anything bad to me, neither did Sev or Mira. I just kept waiting for it—for the part where one of you would kill me." He wiped at his eyes with the back of his hand, the gesture so achingly familiar it made her chest tight. "Hours, days, weeks. I don't remember when I actually stopped waiting for the hurt. But when I did, you were already gone."
+"One day, you simply didn't. You didn't do anything bad to me, neither did Sedh or Mira. I just kept waiting for it—for the part where one of you would kill me." He wiped at his eyes with the back of his hand, the gesture so achingly familiar it made her chest tight. "Hours, days, weeks. I don't remember when I actually stopped waiting for the hurt. But when I did, you were already gone."
 
 Quiet tears were tracking down her cheeks now. "I waited as long as I could. But you... you looked at me like I was the monster from your nightmares. Every time I touched you, you flinched. Every time I spoke, you tensed like you were expecting pain."
 

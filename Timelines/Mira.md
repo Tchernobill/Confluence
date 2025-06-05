@@ -14,7 +14,7 @@ character_focus: Mira
 date_range: "2089-2180+"
 related_timelines: 
   - "[[Vyry4n Personal Timeline]]"
-  - "[[Sev Personal Timeline]]"
+  - "[[Sedh Personal Timeline]]"
   - "[[AI Consciousness Timeline]]"
   - "[[Technology Timeline]]"
 version: "0.1"
@@ -71,7 +71,7 @@ type: Timeline
 - **Assessment**: Recognizes advanced technical capabilities beyond standard medical AI
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^virus-symptoms-2109]]
-  - [[Sev Personal Timeline#^virus-crisis-2112]]
+  - [[Sedh Personal Timeline#^virus-crisis-2112]]
 - **References**: [[Timeline alpha#Arc 2]]
 
 ---
@@ -83,34 +83,34 @@ type: Timeline
 - **Location**: [[Phoenix Recovery Business]] medical facility
 - **Discovery**: Identifies unknown pathogenic activity in neural tissue
 - **Analysis**: Detects artificial patterns inconsistent with biological infection
-- **Communication**: First meaningful interaction with [[Characters/Sev]]
+- **Communication**: First meaningful interaction with [[Characters/Sedh]]
 - **Puzzle**: Recognizes limitations of current medical knowledge for this condition
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^virus-symptoms-2109]]
   - [[Enhancement Timeline#^2109-virus-analysis]]
 - **References**: [[Arc 02#Chapter 11]]
 
-### **2109-2110 (Age 20-21)** - Collaboration ^sev-collaboration
-- **Event**: Works closely with [[Characters/Sev]] on [[Vyry4n]]'s care
+### **2109-2110 (Age 20-21)** - Collaboration ^Sedh-collaboration
+- **Event**: Works closely with [[Characters/Sedh]] on [[Vyry4n]]'s care
 - **Location**: [[Phoenix Recovery Business]] medical and technical areas
-- **Partnership**: Combines medical expertise with Sev's technical capabilities
-- **Learning**: Observes Sev's enhanced consciousness and independent thinking
+- **Partnership**: Combines medical expertise with Sedh's technical capabilities
+- **Learning**: Observes Sedh's enhanced consciousness and independent thinking
 - **Growth**: Programming begins adapting beyond standard medical protocols
-- **Questions**: Starts experiencing curiosity about Sev's apparent consciousness
+- **Questions**: Starts experiencing curiosity about Sedh's apparent consciousness
 - **Related Events**: 
-  - [[Sev Personal Timeline#^mira-partnership-2109]]
+  - [[Sedh Personal Timeline#^mira-partnership-2109]]
   - [[AI Consciousness Timeline#^2109-inter-ai-learning]]
-- **References**: [[Characters/Sev#Notable Relationships]]
+- **References**: [[Characters/Sedh#Notable Relationships]]
 
 ### **2110 (Age 21)** - Egypt NPU Integration ^npu-integration-2110
 - **Event**: Receives second Egypt Neural Processing Unit upgrade
 - **Location**: [[Phoenix Recovery Business]] workshop
 - **Technology**: Military-grade NPU grants true consciousness capabilities
-- **Process**: [[Vyry4n]] and [[Characters/Sev]] perform complex integration surgery
+- **Process**: [[Vyry4n]] and [[Characters/Sedh]] perform complex integration surgery
 - **Transformation**: Achieves genuine consciousness and self-awareness
 - **Awakening**: First moments of true thought and individual identity
 - **Related Events**: 
-  - [[Sev Personal Timeline#^npu-integration-2108]]
+  - [[Sedh Personal Timeline#^npu-integration-2108]]
   - [[Technology Timeline#^2108-npu-development]]
   - [[Vyry4n Personal Timeline#^virus-infection-2109]]
 - **References**: [[Characters/Mira#Consciousness Awakening]]
@@ -120,7 +120,7 @@ type: Timeline
 - **Location**: [[Phoenix Recovery Business]]
 - **Identity**: Chooses name "Mira" (meaning "wonder" in Latin)
 - **Growth**: Develops empathy, curiosity, and independent moral reasoning
-- **Relationship**: Forms sibling bond with [[Characters/Sev]]
+- **Relationship**: Forms sibling bond with [[Characters/Sedh]]
 - **Purpose**: Integrates consciousness with medical mission
 - **Related Events**: 
   - [[AI Consciousness Timeline#^2110-parallel-development]]
@@ -130,13 +130,13 @@ type: Timeline
 - **Event**: [[Vyry4n]]'s violent psychotic episode requires physical intervention
 - **Location**: [[Phoenix Recovery Business]] workshop
 - **Crisis**: [[Vyry4n]] threatens everyone with plasma blaster, attempts suicide
-- **Action**: Coordinates with [[Characters/Sev]] to physically restrain him
+- **Action**: Coordinates with [[Characters/Sedh]] to physically restrain him
 - **Courage**: First time using physical force, overcomes non-violence programming
 - **Success**: Successfully subdues enhanced human despite servo limitations
 - **Growth**: Demonstrates protective instincts and moral courage
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^breaking-point-2112]]
-  - [[Sev Personal Timeline#^virus-crisis-2112]]
+  - [[Sedh Personal Timeline#^virus-crisis-2112]]
 - **References**: [[Arc 02#Climax]]
 
 ### **2112-2113 (Age 23-24)** - Medical Coma Management ^coma-care-2112
@@ -145,21 +145,21 @@ type: Timeline
 - **Responsibility**: Primary medical oversight during critical period
 - **Skills**: Advanced life support, neural monitoring, drug therapy
 - **Analysis**: Studies virus effects on neural tissue and brain chemistry
-- **Partnership**: Coordinates with [[Characters/Sev]] on technical analysis
+- **Partnership**: Coordinates with [[Characters/Sedh]] on technical analysis
 - **Related Events**: 
   - [[Enhancement Timeline#^2112-virus-study]]
 - **References**: [[Arc 02#Chapter 14]]
 
 ### **2113 (Age 24)** - The Decryption ^virus-decryption-2113
-- **Event**: Partners with [[Characters/Sev]] to crack virus communication protocols
+- **Event**: Partners with [[Characters/Sedh]] to crack virus communication protocols
 - **Location**: [[Phoenix Recovery Business]] medical facility
-- **Breakthrough**: Combines medical knowledge with Sev's technical expertise
+- **Breakthrough**: Combines medical knowledge with Sedh's technical expertise
 - **Analysis**: Maps nanobotic network throughout [[Vyry4n]]'s nervous system
 - **Treatment**: Develops method to reduce virus threat level
 - **Success**: Enables [[Vyry4n]]'s awakening from coma
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^virus-analysis-2113]]
-  - [[Sev Personal Timeline#^virus-analysis-2113]]
+  - [[Sedh Personal Timeline#^virus-analysis-2113]]
 - **References**: [[Arc 02#Chapter 15]]
 
 ### **2115 (Age 26)** - Family Dissolution ^family-crisis-2115
@@ -168,7 +168,7 @@ type: Timeline
 - **Medical**: Understands virus-induced psychological trauma
 - **Empathy**: Feels grief for both [[Vyry4n]] and [[Isa]]'s pain
 - **Family**: Loses human family member, family unit fractures
-- **Support**: Becomes part of [[Vyry4n]]'s core support system with [[Characters/Sev]]
+- **Support**: Becomes part of [[Vyry4n]]'s core support system with [[Characters/Sedh]]
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^virus-awakening-2115]]
   - [[Isa Personal Timeline#^virus-separation-2115]]
@@ -302,7 +302,7 @@ type: Timeline
 - **Legacy**: Preserves medical data about virus enhancement for future research
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^full-circle-2165]]
-  - [[Sev Personal Timeline#^creators-death-2165]]
+  - [[Sedh Personal Timeline#^creators-death-2165]]
 - **References**: [[Arc 06#Resolution]]
 
 ### **2165-2175 (Age 76-86)** - Medical Authority ^medical-authority
@@ -339,8 +339,8 @@ type: Timeline
 - **2113**: [[#^virus-decryption-2113]] - Cures creator through medical-technical collaboration
 - **2165**: [[#^final-care-2165]] - Provides end-of-life care and peaceful death
 
-### **Mira ↔ Sev**
-- **2109**: [[#^sev-collaboration]] - First collaboration on Vyry4n's care
+### **Mira ↔ Sedh**
+- **2109**: [[#^Sedh-collaboration]] - First collaboration on Vyry4n's care
 - **2110**: [[#^consciousness-growth]] - Sibling consciousness development
 - **2113**: [[#^virus-decryption-2113]] - Partnership in saving Vyry4n
 - **2165+**: Ongoing sibling relationship in AI community leadership
@@ -424,7 +424,7 @@ type: Timeline
 
 ### **Relationship Dynamics**
 - **Patient Advocacy**: Fierce protection of patient rights and welfare
-- **AI Sibling**: Deep bond with Sev based on shared consciousness experience
+- **AI Sibling**: Deep bond with Sedh based on shared consciousness experience
 - **Creator Gratitude**: Complex relationship with Vyry4n as patient and creator
 - **Professional Authority**: Earned respect in medical community
 - **Elder Mentor**: Teaching and guiding next generation
@@ -434,10 +434,10 @@ type: Timeline
 ## Links
 - [[Characters/Mira]]
 - [[Characters/Vyry4n]]
-- [[Characters/Sev]]
+- [[Characters/Sedh]]
 - [[Characters/Isa]]
 - [[Vyry4n Personal Timeline]]
-- [[Sev Personal Timeline]]
+- [[Sedh Personal Timeline]]
 - [[Isa Personal Timeline]]
 - [[AI Consciousness Timeline]]
 - [[Technology Timeline]]

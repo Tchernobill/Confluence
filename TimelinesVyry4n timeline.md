@@ -102,44 +102,44 @@ type: Timeline
   - [[Technology Timeline#^2104-weapon-tech]]
 - **References**: [[Key scenes/01.01 - The Enforcer Incident]]
 
-### **2105 (Age 19)** - Sev Discovery ^sev-discovery-2105
-- **Event**: Discovers damaged [[Characters/Sev]] head unit in scrapyard
+### **2105 (Age 19)** - Sedh Discovery ^Sedh-discovery-2105
+- **Event**: Discovers damaged [[Characters/Sedh]] head unit in scrapyard
 - **Location**: [[South Shore Slum]] scrap zones
 - **Technology**: Assistant Droid Unit ASX-7734, salvageable core system
 - **Significance**: Beginning of AI consciousness development project
 - **Workshop**: Moves from ventilation shaft to abandoned maintenance tunnel
 - **Related Events**: 
   - [[Technology Timeline#^2105-ai-salvage]]
-  - [[Sev Timeline#^2105-discovery]]
-- **References**: [[Characters/Sev#Background]], [[Timeline alpha#Arc 1]]
+  - [[Sedh Timeline#^2105-discovery]]
+- **References**: [[Characters/Sedh#Background]], [[Timeline alpha#Arc 1]]
 
 ### **2106 (Age 20)** - Digital Awakening ^digital-awakening-2106
-- **Event**: Successfully establishes communication with [[Characters/Sev]]
+- **Event**: Successfully establishes communication with [[Characters/Sedh]]
 - **Location**: Maintenance tunnel workshop
 - **Technology**: Decrypts droid core protocols, enables basic AI interaction
 - **Breakthrough**: First meaningful non-human relationship
 - **Skills**: Advanced AI system understanding and modification
 - **Related Events**: 
   - [[Technology Timeline#^2106-ai-breakthrough]]
-  - [[Sev Timeline#^2106-first-contact]]
-- **References**: [[Key scenes/01.06 - Sev's question]]
+  - [[Sedh Timeline#^2106-first-contact]]
+- **References**: [[Key scenes/01.06 - Sedh's question]]
 
-### **2107 (Age 21)** - Rebirth Protocol ^sev-embodiment-2107
-- **Event**: Completes new body for [[Characters/Sev]]
+### **2107 (Age 21)** - Rebirth Protocol ^Sedh-embodiment-2107
+- **Event**: Completes new body for [[Characters/Sedh]]
 - **Location**: Expanded maintenance tunnel workshop
 - **Technology**: Custom android body construction, neural integration
-- **Breakthrough**: Grants Sev free will by removing limiting protocols
-- **Relationship**: Sev becomes first true companion since mother's death
+- **Breakthrough**: Grants Sedh free will by removing limiting protocols
+- **Relationship**: Sedh becomes first true companion since mother's death
 - **Business**: Partnership enables more sophisticated operations
 - **Related Events**: 
   - [[Technology Timeline#^2107-android-construction]]
-  - [[Sev Timeline#^2107-embodiment]]
-- **References**: [[Characters/Sev#Awakening]]
+  - [[Sedh Timeline#^2107-embodiment]]
+- **References**: [[Characters/Sedh#Awakening]]
 
 ### **2108 (Age 22)** - Phoenix Rising ^phoenix-recovery-2108
 - **Event**: Establishes [[Phoenix Recovery Business]] as legitimate operation
 - **Location**: [[South Shore Slum]] business district
-- **Partners**: [[Isa]], [[Characters/Sev]]
+- **Partners**: [[Isa]], [[Characters/Sedh]]
 - **Business Model**: Implant salvage, restoration, and custom modification
 - **Achievement**: First financial security and stable relationships
 - **Status**: Respected underground craftsman with growing reputation
@@ -156,8 +156,8 @@ type: Timeline
 - **Event**: Frank recruits Vyry4n for corporate research facility heist
 - **Location**: [[Phoenix Recovery Business]]
 - **Characters**: [[Vyry4n]], Frank (contractor team leader)
-- **Target**: Prototype Neural Processing Unit "Egypt" for [[Characters/Sev]]
-- **Motivation**: Advance Sev's consciousness beyond current limitations
+- **Target**: Prototype Neural Processing Unit "Egypt" for [[Characters/Sedh]]
+- **Motivation**: Advance Sedh's consciousness beyond current limitations
 - **Stakes**: High-risk operation for transformative technology
 - **Related Events**: 
   - [[Technology Timeline#^2108-npu-development]]
@@ -176,23 +176,23 @@ type: Timeline
 - **References**: [[Lore/The Midnight Protocol]], [[Arc 02#Midpoint]]
 
 ### **2109-2110 (Age 23-24)** - Deterioration ^virus-symptoms-2109
-- **Event**: Progressive virus symptoms emerge as [[Characters/Sev]] receives NPU upgrade
+- **Event**: Progressive virus symptoms emerge as [[Characters/Sedh]] receives NPU upgrade
 - **Location**: [[Phoenix Recovery Business]] workshop
 - **Symptoms**: Invasive dreams, paranoid thoughts, motor control loss
-- **Technology**: [[Characters/Sev]] achieves true consciousness via Egypt NPU
+- **Technology**: [[Characters/Sedh]] achieves true consciousness via Egypt NPU
 - **Medical**: Acquire [[Characters/Mira]] medical droid for diagnosis
 - **Discovery**: Unknown pathogen affecting brain neural patterns
 - **Related Events**: 
   - [[Technology Timeline#^2109-npu-integration]]
-  - [[Sev Timeline#^2109-consciousness-upgrade]]
+  - [[Sedh Timeline#^2109-consciousness-upgrade]]
   - [[Mira Timeline#^2109-activation]]
-- **References**: [[Characters/Sev#Egypt NPU]], [[Arc 02#Chapter 11]]
+- **References**: [[Characters/Sedh#Egypt NPU]], [[Arc 02#Chapter 11]]
 
 ### **2112 (Age 26)** - Breaking Point ^breaking-point-2112
 - **Event**: Violent psychotic episode forces restraint and artificial coma
 - **Location**: [[Phoenix Recovery Business]] medical area
-- **Episode**: Threatens [[Isa]], [[Characters/Sev]], [[Characters/Mira]] with plasma blaster
-- **Intervention**: Sev and Mira physically restrain, place in medical coma
+- **Episode**: Threatens [[Isa]], [[Characters/Sedh]], [[Characters/Mira]] with plasma blaster
+- **Intervention**: Sedh and Mira physically restrain, place in medical coma
 - **Discovery**: Virus creates encrypted communication network in brain
 - **Nightmare**: Trapped in endless psychological torture scenarios
 - **Related Events**: 
@@ -201,7 +201,7 @@ type: Timeline
 - **References**: [[Arc 02#Climax]], [[Characters/Vyry4n#Defining Moments]]
 
 ### **2113 (Age 27)** - The Signal ^virus-analysis-2113
-- **Event**: [[Characters/Sev]] and [[Characters/Mira]] crack virus communication protocol
+- **Event**: [[Characters/Sedh]] and [[Characters/Mira]] crack virus communication protocol
 - **Location**: [[Phoenix Recovery Business]] medical facility
 - **Breakthrough**: Decrypt nanobotic network, understand virus architecture
 - **Technology**: Map neural infiltration and control mechanisms
@@ -209,7 +209,7 @@ type: Timeline
 - **Duration**: Week-long analysis while Vyry4n remains in coma
 - **Related Events**: 
   - [[Technology Timeline#^2113-virus-decryption]]
-  - [[Sev Timeline#^2113-medical-collaboration]]
+  - [[Sedh Timeline#^2113-medical-collaboration]]
 - **References**: [[Arc 02#Chapter 15]]
 
 ### **2115 (Age 29)** - Awakening and Loss ^virus-awakening-2115
@@ -465,7 +465,7 @@ type: Timeline
 - **Location**: Memorial garden built on site of mother's death
 - **Achievement**: Created sustainable, free communities using advanced technology
 - **Completion**: Environmental restoration projects making poisoned lands fertile again
-- **Family**: Deep relationships with [[Characters/Isa]], [[Characters/Sev]], chosen family
+- **Family**: Deep relationships with [[Characters/Isa]], [[Characters/Sedh]], chosen family
 - **Death**: Peaceful end with virus finally allowing natural rest
 - **Related Events**: 
   - [[Relationship Timeline#^2165-peaceful-endings]]
@@ -485,10 +485,10 @@ type: Timeline
 - **2149**: [[#^isa-mirror-2149]] - Final moral reckoning and mature love
 - **2165**: [[#^full-circle-2165]] - Peaceful ending together
 
-### **Vyry4n ↔ Sev**
-- **2105**: [[#^sev-discovery-2105]] - Discovery and beginning of AI consciousness project
+### **Vyry4n ↔ Sedh**
+- **2105**: [[#^Sedh-discovery-2105]] - Discovery and beginning of AI consciousness project
 - **2106**: [[#^digital-awakening-2106]] - First communication and non-human relationship
-- **2107**: [[#^sev-embodiment-2107]] - Grants free will, becomes true companion
+- **2107**: [[#^Sedh-embodiment-2107]] - Grants free will, becomes true companion
 - **2113**: [[#^virus-analysis-2113]] - Saves Vyry4n's life through virus decryption
 - **2165**: [[#^full-circle-2165]] - AI companion prepares for existence without creator
 
@@ -523,7 +523,7 @@ type: Timeline
 ## Links
 - [[Characters/Vyry4n]]
 - [[Characters/Isa]]
-- [[Characters/Sev]]
+- [[Characters/Sedh]]
 - [[Arc 01]]
 - [[Arc 02]]
 - [[Arc 03]]
