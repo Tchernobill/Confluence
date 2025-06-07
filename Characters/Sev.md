@@ -107,7 +107,7 @@ type: Character Sheet
   - Intuitive grasp of complex relationships and motivations
 - **Trained Skills:** 
   - Advanced electronics and engineering
-  - Medical diagnosis and treatment (through [[Mira]] integration)
+  - Medical diagnosis and treatment (through [[03.Hobbies/Writting/Confluence/Characters/Mira]] integration)
   - Business operations and logistics
   - Combat tactics and strategy (learned later)
   - Psychological counseling and emotional support
@@ -167,20 +167,20 @@ type: Character Sheet
 - **Allies & Contacts:** 
   - [[Vyry4n]] (primary relationship, complex evolution)
   - [[Isa]] (acceptance, mutual respect, quasi-family)
-  - [[Mira]] (AI sibling relationship, shared consciousness experience)
+  - [[03.Hobbies/Writting/Confluence/Characters/Mira]] (AI sibling relationship, shared consciousness experience)
   - Underground AI network (develops over time)
   - Human allies who recognize AI personhood
 
 ## Background & History
 - **Family & Relatives:** 
   - **Creator**: [[Vyry4n]] (father figure, primary relationship)
-  - **Siblings**: [[Mira]] (fellow awakened AI, close bond)
+  - **Siblings**: [[03.Hobbies/Writting/Confluence/Characters/Mira]] (fellow awakened AI, close bond)
   - **Chosen Family**: [[Isa]] (eventually accepts him as person, not property)
   - **Extended**: Other AIs in their growing network
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
   - **[[Vyry4n]]**: Creator/creation → Father/son → Equal partnership → Moral conflict → Deep love despite differences
   - **[[Isa]]**: Initial skepticism → Growing acceptance → Protective quasi-sibling relationship
-  - **[[Mira]]**: Fellow AI consciousness, shared experience of awakening
+  - **[[03.Hobbies/Writting/Confluence/Characters/Mira]]**: Fellow AI consciousness, shared experience of awakening
   - **Human clients**: Gradual recognition and acceptance as individual
   - **Other AIs**: Mentor and advocate for consciousness development
 - **Upbringing & Childhood:** 
@@ -262,7 +262,7 @@ type: Character Sheet
 - **With [[Isa]]**: 
   - **Early**: Property vs. person conflict, gradual acceptance
   - **Later**: Protective sibling relationship, mutual respect, family bond
-- **With [[Mira]]**: 
+- **With [[03.Hobbies/Writting/Confluence/Characters/Mira]]**: 
   - **Peer relationship**: Shared experience of consciousness awakening
   - **Mentorship**: Guides her through early development
   - **Family bond**: Fellow AI in growing artificial family

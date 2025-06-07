@@ -25,7 +25,7 @@ _Core Aesthetic and Narrative Framework_
 - **What Makes Someone Human?**: Exploring the boundaries between organic and artificial consciousness
 - **Memory and Self**: How experiences shape identity, especially traumatic ones
 - **Technological Enhancement vs. Humanity**: The cost of improvement and the fear of losing oneself
-- **Created vs. Born Consciousness**: [[Sedh]]'s awakening paralleled with [[Vyry4n]]'s transformation
+- **Created vs. Born Consciousness**: [[Sedh - Detailed]]'s awakening paralleled with [[Vyry4n]]'s transformation
 - **Ghost in the Machine**: The ineffable spark that makes consciousness more than programming
 
 ### Power and Corruption

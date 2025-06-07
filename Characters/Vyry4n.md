@@ -18,7 +18,7 @@ type: Character Sheet
 ### Basic Information
 
 - **Full Name:** Vyry4n [Last name unknown/never revealed]
-- **Aliases/Nicknames:** "Vyr" (intimate), "The Artisant" (underground reputation), "Mr. V" (business associates), "Technomancer" (street legend), "Lord" (later followers)
+- **Aliases/Nicknames:** "Vyr" (intimate), "The Artisan" (underground reputation), "Mr. V" (business associates), "Technomancer" (street legend), "Lord" (later followers)
 - **Age:** Born 2086
 - **Gender:** Male
 - **Pronouns:** He/Him
@@ -193,7 +193,7 @@ type: Character Sheet
   - Business and leadership skills learned through necessity and enhanced cognition
 - **Significant Past Events:** 
   - **Age 16**: Mother's death, beginning of isolation patterns
-  - **Age 17**: First major repair success, "The Craft" reputation begins
+  - **Age 17**: First major repair success, "The Artisan" reputation begins
   - **Age 18**: Meeting Isa, first human connection and eventual secret-keeper
   - **Age 19**: Discovery of Sedh's head unit, beginning of AI family
   - **Age 22**: **CLASSIFIED**: Corporate heist and virus infection

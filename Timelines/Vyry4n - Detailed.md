@@ -1,6 +1,6 @@
 ---
 title: 
-  - Vyry4n Personal Timeline
+  - Vyry4n Detailed Timeline
 tags:
   - Novel
   - Vyry4n
@@ -62,7 +62,7 @@ type: Timeline
 - **Event**: Discovers and claims [[Lore/Vyry4n's Ventilation Shaft Hideout]]
 - **Location**: [[Lore/Vyry4n's Ventilation Shaft Hideout]]
 - **Skills**: Develops scavenging expertise, basic electronics repair
-- **Reputation**: Begins building "The Craft" underground reputation
+- **Reputation**: Begins building "The Artisan" underground reputation
 - **Lifestyle**: Extreme isolation, subsistence living, careful resource management
 - **Related Events**: 
   - [[Technology Timeline#^2102-scavenger-networks]]
@@ -74,7 +74,7 @@ type: Timeline
 - **Characters**: [[Vyry4n]], [[Isa]]
 - **Transaction**: High-precision data recovery job establishes professional respect
 - **Skills Displayed**: Precision repair capabilities, mysterious workshop access
-- **Reputation**: "The Craft" legend begins growing
+- **Reputation**: "The Artisan" legend begins growing
 - **Related Events**: 
   - [[Relationship Timeline#^2103-isa-first-meeting]]
 - **References**: [[Key scenes/01.02 - They first meet]]

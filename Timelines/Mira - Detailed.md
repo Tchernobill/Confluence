@@ -3,12 +3,10 @@ title:
   - Mira (MED-9947) Personal Timeline
 tags:
   - Novel
-  - Vyry4n
   - Mira
   - Timeline
   - Character Development
   - AI Consciousness
-  - Medical AI
 timeline_type: character
 character_focus: Mira
 date_range: "2089-2180+"

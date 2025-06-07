@@ -17,7 +17,7 @@
 ### Chapter 1: The Ventilation Shaft
 
 End with Vyry4n discovering the damaged assistant droid head unit in the scrapyard, realizing it's still operational when a faint light blinks in its optical sensor as he holds it.
-### Chapter 2: The Craft
+### Chapter 2: The Artisan
 
 End with the violent riot erupting in the slum, chaos everywhere, Vyry4n find Isa desperate and bleeding from a minor wound, asking for shelter.
 ### Chapter 3: Confined Spaces

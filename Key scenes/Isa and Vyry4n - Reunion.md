@@ -1,14 +1,18 @@
-## ---
-
+---
 title:
-
-- Isa and Vyry4n - Extended Reunion Scene tags:
-- Novel
-- Vyry4n
-- Isa
-- Key Scenes
-- Emotional Reunion version: "0.2" status: draft last_updated: 2025-05-28 15:30 type: Scene
-
+  - Zara Meets Isa - Phoenix Recovery Retrieval
+tags:
+  - Novel
+  - Zara
+  - Isa
+  - Sedh
+  - Key Scenes
+  - Emotional Conflict
+  - Hidden Knowledge
+version: "0.1"
+status: draft
+last_updated: 2025-06-01 20:15
+type: Scene
 ---
 
 # The Reunion

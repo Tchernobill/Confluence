@@ -36,7 +36,7 @@ type: Reference
 - **2108 (Age 22)**: Chapter 1.06 - *Phoenix Rising* - Business success and growing reputation
 
 ### Arc Summary
-Vyry4n evolves from isolated survivor to skilled craftsman with his first meaningful relationships (Isa and Sedh). Establishes Phoenix Recovery as legitimate business while developing reputation as "The Craft."
+Vyry4n evolves from isolated survivor to skilled craftsman with his first meaningful relationships (Isa and Sedh). Establishes Phoenix Recovery as legitimate business while developing reputation as "The Artisan."
 
 ---
 

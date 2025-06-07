@@ -7,7 +7,7 @@
 - Learns to scavenge electronic components from the South Shore Slum.
 - Began to work on minor custom implants for underground clients that need anonymity
 - Becomes exceptionally talented at restoring "impossible" salvaged implants
-- Make a name for himself in underground markets as "The Craft", he delivers quality work for rather cheap
+- Make a name for himself in underground markets as "The Artisan", he delivers quality work for rather cheap
 - Being introvert and struggling mentally, he minimise social contact and don't often talk
 - One day, while scouting the Amable Junkyard for parts, he stumble upon the wreck of a assistant droid whose body is destroyed but head unit still viable, he bring it back with his loot
 - The next day, back at the market, he is doing business, someone is observing him from afar.

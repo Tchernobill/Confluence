@@ -12,7 +12,6 @@ status: in progress
 last_updated: 2025-05-31 11:30
 type: Chapter
 ---
-
 # Chapter 01.01 - Waking up
 
 ## Chapter Information
@@ -21,7 +20,7 @@ type: Chapter
 - **Timeline**: Arc 1, Age 18 - Six months after mother's death
 - **Location(s)**: Ventilation shaft hideout → South Shore Slum underground market
 - **Key Events**: Dream sequence establishing backstory, morning routine showing current life, setting up at market stall
-- **Character Developments**: Establishes Vyry4n's current isolation, survival skills, and reputation as "The Craft"
+- **Character Developments**: Establishes Vyry4n's current isolation, survival skills, and reputation as "The Artisan"
 - **Plot Advances**: Introduces protagonist's current situation and daily life
 - **Objects/Items Introduced**: Mother's technical journals, repair tools, market stall setup
 - **Chapter Goal**: Establish protagonist's current circumstances and emotional state
@@ -120,7 +119,7 @@ The morning progresses with a steady stream of similar work. Implant calibration
 
 Each interaction follows similar patterns. Brief technical assessment, honest estimate of repair time and cost, careful work performed while the client watches or steps away for privacy. Payment in untraceable credits, no questions asked about device origin or intended use, the only thing that matter is the fix.
 
-The clients call him "The Craft"—a designation that emerged organically from satisfied customers and spread through the underground network of word-of-mouth referrals. What began as deep technical knowledge has evolved through practiced repetition into something approaching artistry, his hands moving by feel and intuition rather than mere methodology. He doesn't just fix things; he understands their deepest functions and guides them back to life with touches so precise they seem almost mystical.
+The clients call him "The Artisan"—a designation that emerged organically from satisfied customers and spread through the underground network of word-of-mouth referrals. What began as deep technical knowledge has evolved through practiced repetition into something approaching artistry, his hands moving by feel and intuition rather than mere methodology. He doesn't just fix things; he understands their deepest functions and guides them back to life with touches so precise they seem almost mystical.
 
 By midday, his portable workstation shows signs of steady business. Several successful repairs, two ongoing projects that will require additional components, and enough credits earned to cover his basic expenses for the next week. Not prosperity by any measure, but survival with a small margin for unexpected opportunities.
 

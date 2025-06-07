@@ -3,7 +3,6 @@ title:
   - Isa Mercer Personal Timeline
 tags:
   - Novel
-  - Vyry4n
   - Isa
   - Timeline
   - Character Development
@@ -89,7 +88,7 @@ type: Timeline
 ### **2109 (Age 18)** - First Contact ^first-contact-2109
 - **Event**: Meets [[Vyry4n]] during [[Underground Tech Market]] investigation
 - **Location**: [[Underground Tech Market]]
-- **Mission**: Investigating rumors about "The Craft" and his impossible repairs
+- **Mission**: Investigating rumors about "The Artisan" and his impossible repairs
 - **Transaction**: Military-grade data recovery job tests his capabilities
 - **Impression**: Professional respect for his exceptional technical skills
 - **Investment**: Provides premium components as business development

@@ -1,6 +1,6 @@
 ---
 title: 
-  - Sedh (ASX-7734) Personal Timeline
+  - Sedh (ASX-7734) Detailed Timeline
 tags:
   - Novel
   - Vyry4n
