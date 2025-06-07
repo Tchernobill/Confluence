@@ -159,7 +159,7 @@ type: Character Sheet
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
   - **Vyry4n**: Intellectual partnership with occasional intimate encounters, mutual respect and strategic collaboration
   - **Marcus**: Professional respect with underlying tension about security vs. intelligence approaches
-  - **Elena**: Sophisticated friendship based on shared professional excellence
+  - **Helene**: Sophisticated friendship based on shared professional excellence
   - **Former Corporate Handler**: Complex relationship of manipulation and counter-manipulation (ongoing)
 - **Upbringing & Childhood:** 
   - Born into corporate academic family with Nigerian cultural pride

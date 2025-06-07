@@ -206,7 +206,7 @@ Edit
 
 ### The Devoted (Followers Who Became Family)
 
-**Elena "Saint" Vasquez** (Met age 39, lifelong devotion)
+**Helene "Saint" Tremblay** (Met age 39, lifelong devotion)
 
 - _Relationship:_ Devoted follower/Lover/Surrogate daughter figure
 - _Background:_ Street orphan saved by Vyry4n's early protection efforts
@@ -317,7 +317,7 @@ Edit
 
 ### [[#The Devoted]] - Followers Who Became Family
 
-- **[[#Elena "Saint" Vasquez]]** - Devoted Follower/Surrogate Daughter
+- **[[#Helene "Saint" Tremblay]]** - Devoted Follower/Surrogate Daughter
 - **[[#The Twins Zoe & Alex "Binary"]]** - Students/Lovers/Philosophical Mirrors
 - **[[#Dr. James "Patch" Morrison]]** - Former Enemy/Medical Advisor
 
@@ -426,12 +426,12 @@ Edit
 
 **Sanctuary Role:** Security chief, helped transition from fortress to hospital, father figure to many residents  
 **Unique Dynamics:** Could call out Vyry4n's bullshit without fear, represented healthy masculinity  
-**Connected to:** [[#Elena "Saint" Vasquez]], [[#Maya "Echo" Rodriguez]], [[#Vera "Shield" Petrov]]
+**Connected to:** [[#Helene "Saint" Tremblay]], [[#Maya "Echo" Rodriguez]], [[#Vera "Shield" Petrov]]
 
 ---
 ### The Devoted
 
-#### Elena "Saint" Vasquez
+#### Helene "Saint" Tremblay
 
 **Timeline:** Age 39-85 (46 years)  
 **Relationship Arc:** Rescued Child → Follower → Lieutenant → Independent Leader  
@@ -443,13 +443,13 @@ Edit
 
 **Key Moments:**
 
-- **Age 39:** Rescues 12-year-old Elena from gang violence
-- **Age 45:** Elena becomes youngest lieutenant in organization
-- **Age 48:** Brief, problematic sexual relationship (Elena 21, Vyry4n 48)
-- **Age 52:** Elena leads first group questioning his methods
+- **Age 39:** Rescues 12-year-old Helene from gang violence
+- **Age 45:** Helene becomes youngest lieutenant in organization
+- **Age 48:** Brief, problematic sexual relationship (Helene 21, Vyry4n 48)
+- **Age 52:** Helene leads first group questioning his methods
 - **Age 60:** Breaks free from worship dynamic, maintains loyalty
 - **Age 75:** Becomes independent leader of sanctuary healing programs
-- **Age 85:** Elena takes over major sanctuary operations
+- **Age 85:** Helene takes over major sanctuary operations
 
 **Sanctuary Role:** Heads addiction recovery programs, specializes in helping former cultists  
 **Unique Dynamics:** Represents both his heroic and predatory potential, complex power dynamics  
@@ -596,7 +596,7 @@ Edit
 
 **Sanctuary Role:** Consultant on trauma therapy, helps design healing programs  
 **Unique Dynamics:** Professional intimacy allowed emotional vulnerability, non-judgmental support  
-**Connected to:** [[#Elena "Saint" Vasquez]], [[#Luna "Whisper" Hayes]], [[#Dr. Angela "Phoenix" Kim]]
+**Connected to:** [[#Helene "Saint" Tremblay]], [[#Luna "Whisper" Hayes]], [[#Dr. Angela "Phoenix" Kim]]
 
 ---
 #### David "Wire" Thompson
@@ -619,7 +619,7 @@ Edit
 
 **Sanctuary Role:** Technical systems manager, bridge to younger generation  
 **Unique Dynamics:** Represents his capacity for nurturing without controlling  
-**Connected to:** [[#Jin "Pulse" Nakamura]], [[#Maya "Echo" Rodriguez]], [[#Elena "Saint" Vasquez]]
+**Connected to:** [[#Jin "Pulse" Nakamura]], [[#Maya "Echo" Rodriguez]], [[#Helene "Saint" Tremblay]]
 
 ---
 ### The Lost
@@ -735,7 +735,7 @@ Edit
 
 **Sanctuary Role:** Spiritual counselor, meditation teacher, funeral officiant  
 **Unique Dynamics:** Challenges him spiritually without requiring conversion  
-**Connected to:** [[#Elena "Saint" Vasquez]], [[#Luna "Whisper" Hayes]], [[#Isabella "Ice" Moreau]]
+**Connected to:** [[#Helene "Saint" Tremblay]], [[#Luna "Whisper" Hayes]], [[#Isabella "Ice" Moreau]]
 
 ---
 #### Dr. Angela "Phoenix" Kim
@@ -783,7 +783,7 @@ Edit
 
 **Sanctuary Role:** Director, next-generation leader, bridge to future  
 **Unique Dynamics:** Surrogate daughter, represents hope and redemption  
-**Connected to:** [[#Marcus "Tank" Rodriguez]], [[#Droid-7 "Sedh"]], [[#Elena "Saint" Vasquez]]
+**Connected to:** [[#Marcus "Tank" Rodriguez]], [[#Droid-7 "Sedh"]], [[#Helene "Saint" Tremblay]]
 
 ---
 #### Jin "Pulse" Nakamura
@@ -909,7 +909,7 @@ Edit
 ### Trust Levels
 
 - **Absolute:** [[#Droid-7 "Sedh"]], [[#Marcus "Tank" Rodriguez]], [[#Luna "Whisper" Hayes]], [[#Maya "Echo" Rodriguez]]
-- **High:** [[#Kira "Spark" Chen]], [[#Elena "Saint" Vasquez]], [[#Dr. James "Patch" Morrison]], [[#Father Miguel Santos]]
+- **High:** [[#Kira "Spark" Chen]], [[#Helene "Saint" Tremblay]], [[#Dr. James "Patch" Morrison]], [[#Father Miguel Santos]]
 - **Variable:** [[#The Twins Zoe & Alex "Binary"]], [[#Cassandra "Silk" Volkov]], [[#David "Wire" Thompson]]
 - **Professional:** [[#Rivera "Ghost" Santos]], [[#Isabella "Ice" Moreau]], [[#Vera "Shield" Petrov]]
 - **Adversarial:** [[#Commander Sarah "Iron" Kim]]
@@ -919,7 +919,7 @@ Edit
 
 - **Complete (Physical & Emotional):** [[#Luna "Whisper" Hayes]]
 - **Deep Emotional:** [[#Droid-7 "Sedh"]], [[#Kira "Spark" Chen]], [[#Marcus "Tank" Rodriguez"]], [[#Maya "Echo" Rodriguez]]
-- **Complex Physical:** [[#The Twins Zoe & Alex "Binary"]], [[#Elena "Saint" Vasquez"]]
+- **Complex Physical:** [[#The Twins Zoe & Alex "Binary"]], [[#Helene "Saint" Tremblay"]]
 - **Professional Physical:** [[#Cassandra "Silk" Volkov"]], [[#David "Wire" Thompson"]]
 - **Pure Physical:** [[#Rivera "Ghost" Santos"]], [[#Commander Sarah "Iron" Kim"]]
 - **Platonic Bond:** [[#Tommy "Kid" Fletcher"]], [[#Father Miguel Santos]]
@@ -929,7 +929,7 @@ Edit
 
 - **Moral Anchors:** [[#Droid-7 "Sedh"]], [[#Marcus "Tank" Rodriguez"]], [[#Father Miguel Santos]]
 - **Romantic Love:** [[#Kira "Spark" Chen"]], [[#Luna "Whisper" Hayes"]], [[#Dr. Miranda Cross"]]
-- **Complicated Devotion:** [[#Elena "Saint" Vasquez"]], [[#The Twins Zoe & Alex "Binary"]]
+- **Complicated Devotion:** [[#Helene "Saint" Tremblay"]], [[#The Twins Zoe & Alex "Binary"]]
 - **Professional Growth:** [[#Dr. James "Patch" Morrison"]], [[#Dr. Angela "Phoenix" Kim"]]
 - **Reality Checks:** [[#Cassandra "Silk" Volkov"]], [[#Isabella "Ice" Moreau"]]
 - **Future Hope:** [[#Maya "Echo" Rodriguez"]], [[#Jin "Pulse" Nakamura"]], [[#Sam "Root" Williams"]]
@@ -938,7 +938,7 @@ Edit
 ### Connection Web
 
 - **Core Trinity:** [[#Droid-7 "Sedh"]] ↔ [[#Marcus "Tank" Rodriguez"]] ↔ [[#Kira "Spark" Chen"]]
-- **Devotion Cluster:** [[#Elena "Saint" Vasquez"]] ↔ [[#The Twins Zoe & Alex "Binary"]] ↔ [[#Marcus "Tank" Rodriguez"]]
+- **Devotion Cluster:** [[#Helene "Saint" Tremblay"]] ↔ [[#The Twins Zoe & Alex "Binary"]] ↔ [[#Marcus "Tank" Rodriguez"]]
 - **Redemption Network:** [[#Dr. James "Patch" Morrison"]] ↔ [[#Isabella "Ice" Moreau"]] ↔ [[#Father Miguel Santos]]
 - **Next Generation:** [[#Maya "Echo" Rodriguez"]] ↔ [[#Jin "Pulse" Nakamura"]] ↔ [[#Sam "Root" Williams"]]
 - **Lost Connections:** [[#Tommy "Kid" Fletcher"]] → [[#Dr. Miranda Cross"]] → [[#Captain Ross "Hammer" Bradley"]]
@@ -946,7 +946,7 @@ Edit
 ### Sanctuary Roles Network
 
 - **Leadership:** [[#Maya "Echo" Rodriguez"]] (Director) ↔ [[#Droid-7 "Sedh"]] (Legacy Keeper)
-- **Medical:** [[#Dr. James "Patch" Morrison"]] ↔ [[#Dr. Angela "Phoenix" Kim"]] ↔ [[#Elena "Saint" Vasquez"]]
+- **Medical:** [[#Dr. James "Patch" Morrison"]] ↔ [[#Dr. Angela "Phoenix" Kim"]] ↔ [[#Helene "Saint" Tremblay"]]
 - **Technology:** [[#Jin "Pulse" Nakamura"]] ↔ [[#The Twins Zoe & Alex "Binary"]] ↔ [[#David "Wire" Thompson"]]
 - **Security:** [[#Vera "Shield" Petrov
 
@@ -1912,7 +1912,7 @@ Critical elements:
 
 ### **Character Reactions**
 
-**[[Elena "Saint" Vasquez]]**: Initial devastation at seeing her "god" defeated, then gradual realization of her own independence and worth.
+**[[Helene "Saint" Tremblay]]**: Initial devastation at seeing her "god" defeated, then gradual realization of her own independence and worth.
 
 **[[Marcus "Tank" Rodriguez]]**: Relief mixed with new respect - he's been waiting for this moment, knowing the cult was destroying his friend.
 

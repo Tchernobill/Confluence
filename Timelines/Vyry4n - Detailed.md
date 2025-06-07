@@ -240,21 +240,21 @@ type: Timeline
   - [[Enhancement Timeline#^2115-control-development]]
 - **References**: [[Characters/Vyry4n#Virus Mastery]]
 
-### **2119 (Age 33)** - The Vasquez Takeover ^vasquez-takeover-2119
-- **Event**: Confrontation with Rico "The Grip" Vasquez leads to syndicate takeover
+### **2119 (Age 33)** - The Tremblay Takeover ^Tremblay-takeover-2119
+- **Event**: Confrontation with Rico "The Grip" Tremblay leads to syndicate takeover
 - **Location**: Rico's headquarters, [[South Shore Slum]]
-- **Trigger**: Vasquez's violent treatment of sex workers
+- **Trigger**: Tremblay's violent treatment of sex workers
 - **Method**: Single combat demonstration, viral nanobotic injection for control
 - **Result**: Assumes leadership of criminal organization
 - **Philosophy**: Protection through control, efficiency over cruelty
 - **Related Events**: 
   - [[Enhancement Timeline#^2119-nanobotic-deployment]]
   - [[Power Timeline#^2119-first-takeover]]
-- **References**: [[Key scenes/04.01 - The Vasquez Takeover]]
+- **References**: [[Key scenes/04.01 - The Tremblay Takeover]]
 
 ### **2121 (Age 35)** - The Lieutenant ^marcus-recruitment-2121
 - **Event**: [[Characters/Marcus]] becomes primary lieutenant and inner circle member
-- **Location**: Former Vasquez territory
+- **Location**: Former Tremblay territory
 - **Organization**: Establishes protection-based governance system
 - **Leadership**: Demonstrates administrative capabilities enhanced by virus
 - **Territory**: Consolidates control over multiple [[South Shore Slum]] sectors
@@ -291,16 +291,16 @@ type: Timeline
 ## Arc 04: The Leader (2125-2140)
 
 ### **2128 (Age 42)** - The Inner Circle ^inner-circle-2128
-- **Event**: Recruits [[Characters/Elena]], [[Characters/Zara]], [[Characters/Kaia]] to core leadership
+- **Event**: Recruits [[Characters/Helene]], [[Characters/Zara]], [[Characters/Kaia]] to core leadership
 - **Location**: Corporate district territories
-- **Team**: Medical (Elena), Security (Zara), Intelligence (Kaia)
+- **Team**: Medical (Helene), Security (Zara), Intelligence (Kaia)
 - **Expansion**: Operations become sophisticated multi-territorial enterprise
 - **Legitimacy**: Begins establishing corporate fronts and legal businesses
 - **Relationships**: First intimate partnerships since Isa separation
 - **Related Events**: 
   - [[Relationship Timeline#^2128-inner-circle-formation]]
   - [[Power Timeline#^2128-professional-expansion]]
-- **References**: [[Characters/Elena]], [[Characters/Zara]], [[Characters/Kaia]]
+- **References**: [[Characters/Helene]], [[Characters/Zara]], [[Characters/Kaia]]
 
 ### **2131 (Age 45)** - Corporate Negotiations ^corporate-negotiations-2131
 - **Event**: Establishes working relationships with legitimate corporate entities
@@ -495,7 +495,7 @@ type: Timeline
 ### **Vyry4n ↔ Enhancement**
 - **2109**: [[#^virus-infection-2109]] - Accidental exposure to psychological warfare nanobots
 - **2115**: [[#^virus-awakening-2115]] - Gains control and electromagnetic abilities
-- **2119**: [[#^vasquez-takeover-2119]] - First use of abilities for large-scale control
+- **2119**: [[#^Tremblay-takeover-2119]] - First use of abilities for large-scale control
 - **2146**: [[#^messiah-complex-2146]] - Peak enhancement abilities and psychological isolation
 - **2165**: [[#^full-circle-2165]] - Final integration and peaceful death
 

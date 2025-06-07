@@ -168,7 +168,7 @@ type: Character Sheet
 - **Allies & Contacts:** 
   - **Public**: Business associates, legitimate clients, community members
   - **Secret Keepers**: Isa, Sedh, Mira (core trust circle)
-  - **Limited Knowledge**: Elena (medical necessity), Zara (mind connection)
+  - **Limited Knowledge**: Helene (medical necessity), Zara (mind connection)
   - **Unaware**: Marcus and most organizational members
 
 ### Background & History

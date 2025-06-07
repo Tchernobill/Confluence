@@ -62,13 +62,13 @@ Corporate heist exposes Vyry4n to prototype nano-virus. While Sedh and Mira achi
 ### Chapter Timeline
 - **2115 (Age 29)**: Chapter 3.01 - *New Frequencies* - Learning to control virus abilities
 - **2117 (Age 31)**: Chapter 3.02 - *Protection Racket* - First territory acquisitions
-- **2119 (Age 33)**: Chapter 3.03 - *Blood and Steel* - Rico Vasquez confrontation and takeover
+- **2119 (Age 33)**: Chapter 3.03 - *Blood and Steel* - Rico Tremblay confrontation and takeover
 - **2121 (Age 35)**: Chapter 3.04 - *Expanding Borders* - Territory consolidation and rule establishment
 - **2123 (Age 37)**: Chapter 3.05 - *The Lieutenant* - Marcus recruitment and inner circle formation
 - **2125 (Age 39)**: Chapter 3.06 - *Syndicate Wars* - Conflict with rival organizations
 
 ### Arc Summary
-Vyry4n begins using his enhanced abilities for territorial control. Violent confrontation with Rico Vasquez leads to criminal organization takeover. Establishes protection-based rule while struggling with increasing moral flexibility and isolation from humanity.
+Vyry4n begins using his enhanced abilities for territorial control. Violent confrontation with Rico Tremblay leads to criminal organization takeover. Establishes protection-based rule while struggling with increasing moral flexibility and isolation from humanity.
 
 ---
 

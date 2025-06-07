@@ -44,24 +44,24 @@ Maya is a fast-talking, socially adept courier who relies on charm and connectio
 ## BOOK II: THE VIRUS BEARER (Ages 26-35)
 **Era**: Corporate Warfare and Biotech Horrors (2113-2122)
 
-### **PROTAGONIST: DR. ELENA VASQUEZ**
+### **PROTAGONIST: DR. Helene Tremblay**
 - **Role**: Rogue neuroscientist investigating illegal human experimentation
 - **Age**: 35-45 during the story
 - **Background**: Former corporate researcher who went underground after discovering the Morpheus Protocol
 - **Relationship to Keiro**: Unwitting observer of his infection and transformation
 
-### **Elena's Story Arc**:
-Elena is hunting for evidence of illegal human trials when she stumbles across the aftermath of Keiro's infection. She doesn't know his identity but becomes obsessed with tracking "Patient Zero" - the only known survivor of the Morpheus Protocol.
+### **Helene's Story Arc**:
+Helene is hunting for evidence of illegal human trials when she stumbles across the aftermath of Keiro's infection. She doesn't know his identity but becomes obsessed with tracking "Patient Zero" - the only known survivor of the Morpheus Protocol.
 
-**Key Scenes from Elena's POV**:
+**Key Scenes from Helene's POV**:
 - Investigating the heist site where Keiro was infected, finding traces of the nanobots
 - Tracking reports of a "ghost hacker" with impossible abilities across the underground
 - Witnessing Keiro's battle with the virus through security footage and medical anomalies
 - Her growing horror as she realizes someone is not just surviving but mastering the torture device
 
-**Elena's Growth**: Evolves from seeking justice for victims to understanding that some situations are too complex for simple moral judgments. Realizes that sometimes the victim and the weapon become indistinguishable.
+**Helene's Growth**: Evolves from seeking justice for victims to understanding that some situations are too complex for simple moral judgments. Realizes that sometimes the victim and the weapon become indistinguishable.
 
-**Keiro as Seen by Elena**: A fascinating case study who becomes increasingly terrifying. She sees his transformation from victim to something potentially more dangerous than the original weapon. To her, he represents the horrifying adaptability of human nature.
+**Keiro as Seen by Helene**: A fascinating case study who becomes increasingly terrifying. She sees his transformation from victim to something potentially more dangerous than the original weapon. To her, he represents the horrifying adaptability of human nature.
 
 ---
 

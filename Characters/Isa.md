@@ -130,7 +130,7 @@ type: Character Sheet
 
 ## Background & History
 - **Family & Relatives:** 
-  - Parents: Elena Delacroix (nurse, deceased) and Daniel Mercer (maintenance tech, deceased)
+  - Parents: Helene Delacroix (nurse, deceased) and Daniel Mercer (maintenance tech, deceased)
   - No known living blood relatives
   - Considers Vyry4n and Sedh her chosen family
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 

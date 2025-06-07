@@ -5,7 +5,7 @@
 - In the South Shore Slum
 ### Phoenix Recovery
 - On the edge of the South Shore Slum
-### Rico "The Grip" Vasquez tower
+### Rico "The Grip" Tremblay tower
 - Middle of Rico's territory in the East sector of the South Shore Slum
 ### Vyry4n's research lab
 - Secret, in an abandonned mine in the wasteland

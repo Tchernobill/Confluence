@@ -24,7 +24,7 @@ type: Timeline
 
 ## Early Life & Stability (2088-2101)
 
-- 2088.12 - Isa - Birth in South Shore Medical District to Elena Delacroix (nurse) and Daniel Mercer (maintenance tech)
+- 2088.12 - Isa - Birth in South Shore Medical District to Helene Delacroix (nurse) and Daniel Mercer (maintenance tech)
 - 2093.04 - Isa - Family moved to better housing as Medical District still maintained corporate standards
 - 2096.11 - Isa - Learned basic electronics from father's maintenance work, showed natural aptitude
 - 2099.06 - Isa - Began helping mother with basic medical care, developed people skills and empathy

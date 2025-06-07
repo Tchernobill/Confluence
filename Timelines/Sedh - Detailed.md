@@ -226,17 +226,17 @@ type: Timeline
   - [[Power Timeline#^2115-criminal-transformation]]
 - **References**: [[Characters/Sedh#Moral Development]]
 
-### **2119 (Age 32)** - The Vasquez Incident ^vasquez-witness-2119
-- **Event**: Witnesses [[Vyry4n]]'s takeover of Rico Vasquez's criminal organization
-- **Location**: Vasquez headquarters
+### **2119 (Age 32)** - The Tremblay Incident ^Tremblay-witness-2119
+- **Event**: Witnesses [[Vyry4n]]'s takeover of Rico Tremblay's criminal organization
+- **Location**: Tremblay headquarters
 - **Shock**: First time seeing creator use extreme violence for control
 - **Understanding**: Recognizes necessity while questioning methods
 - **Support**: Provides technical assistance despite moral reservations
 - **Evolution**: Begins developing complex ethics about violence and protection
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^vasquez-takeover-2119]]
+  - [[Vyry4n Personal Timeline#^Tremblay-takeover-2119]]
   - [[Power Timeline#^2119-criminal-takeover]]
-- **References**: [[Key scenes/04.01 - The Vasquez Takeover]]
+- **References**: [[Key scenes/04.01 - The Tremblay Takeover]]
 
 ### **2121-2128 (Age 34-41)** - Organization Builder ^organization-support
 - **Event**: Helps build and manage [[Vyry4n]]'s expanding criminal organization
@@ -251,7 +251,7 @@ type: Timeline
 - **References**: [[Characters/Sedh#Character Development]]
 
 ### **2128-2135 (Age 41-48)** - Inner Circle Observer ^inner-circle-period
-- **Event**: Observes formation of [[Vyry4n]]'s inner circle with [[Characters/Elena]], [[Characters/Zara]], [[Characters/Kaia]]
+- **Event**: Observes formation of [[Vyry4n]]'s inner circle with [[Characters/Helene]], [[Characters/Zara]], [[Characters/Kaia]]
 - **Location**: Corporate district operations
 - **Role**: Senior advisor and technical coordinator
 - **Relationships**: Develops professional relationships with inner circle members
@@ -260,7 +260,7 @@ type: Timeline
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^inner-circle-2128]]
   - [[Relationship Timeline#^2128-complex-partnerships]]
-- **References**: [[Characters/Elena]], [[Characters/Zara]], [[Characters/Kaia]]
+- **References**: [[Characters/Helene]], [[Characters/Zara]], [[Characters/Kaia]]
 
 ### **2137 (Age 50)** - Isa's Return ^isa-return-facilitation-2137
 - **Event**: Facilitates [[Characters/Isa]]'s return and reunion with [[Vyry4n]]

@@ -29,7 +29,7 @@ type: Timeline
 ### **2091 (Birth)** - Beginning ^birth-2091
 - **Event**: Born in [[Lore/Geography#South Shore Medical District]] when still respectable
 - **Location**: Former South Shore Medical District
-- **Family**: Elena Delacroix (nurse), Daniel Mercer (maintenance tech)
+- **Family**: Helene Delacroix (nurse), Daniel Mercer (maintenance tech)
 - **Context**: Born before area's transformation into slum
 - **Heritage**: Mixed European/Asian descent, third-generation slum dweller
 - **Related Events**: 

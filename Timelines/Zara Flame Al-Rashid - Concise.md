@@ -49,7 +49,7 @@ type: Timeline
 - 2119.05 - Zara - Declared rogue operative by Nexus Industries, corporate death mark placed
 - 2119.06 - Zara - Survived corporate assassination attempts through superior training and violence
 - 2119.07 - Zara - Fled to South Shore Slum underground, began working as independent assassin
-- 2119.08 - Zara - Heard rumors about Rico Vasquez territory takeover by mysterious "Technomancer"
+- 2119.08 - Zara - Heard rumors about Rico Tremblay territory takeover by mysterious "Technomancer"
 - 2119.09 - Zara - Marcus recruited her as potential security asset after observing her eliminate corporate hunters
 - 2119.10 - Zara - First met Vyry4n when hired as personal bodyguard through Marcus recommendation
 

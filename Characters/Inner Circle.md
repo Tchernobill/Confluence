@@ -16,7 +16,7 @@ type: Reference
 
 ## Core Leadership Circle
 
-### 1. **Dr. Elena Vasquez** - Chief Medical Officer
+### 1. **Dr. Helene Tremblay** - Chief Medical Officer
 
 - **Background**: Former corporate bio-engineer who fled after refusing to develop chemical weapons
 - **Gender/Orientation**: Female, Heterosexual
@@ -457,14 +457,14 @@ type: Reference
 
 **Leadership Style Indicators**:
 
-- **Dr. Vasquez**: Direct, medical precision, moral challenges
+- **Dr. Tremblay**: Direct, medical precision, moral challenges
 - **Marcus**: Military respectful, protective, honor-bound
 - **Kaia**: Sophisticated, metaphorical, strategic
 - **Jin**: Enthusiastic, technical, eager to please
 
 **Personality Manifestations**:
 
-- **Formal speakers**: David, Dr. Vasquez, Nadia, Dr. Foster
+- **Formal speakers**: David, Dr. Tremblay, Nadia, Dr. Foster
 - **Street dialect**: Tommy, Carlos, Phoenix
 - **Technical jargon**: Maya, Jin, Jacob
 - **Metaphorical speakers**: Kaia, Fatima, Ahmed, Dr. Memory

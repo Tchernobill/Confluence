@@ -146,7 +146,7 @@ type: Character Sheet
 - **Allies & Contacts:** 
   - Vyry4n (primary relationship and loyalty)
   - Marcus (professional respect, shared security duties)
-  - Dr. Elena Vasquez (mutual professional respect)
+  - Dr. Helene Tremblay (mutual professional respect)
   - Former corporate security contacts (conditional allies)
 
 ### Background & History
