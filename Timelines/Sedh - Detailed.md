@@ -272,7 +272,7 @@ type: Timeline
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^isa-return-2137]]
   - [[Isa Personal Timeline#^isa-return-2137]]
-- **References**: [[Key scenes/05.03 - Zara meet Isa]], [[Key scenes/Isa and Vyry4n - Reunion]]
+- **References**: [[05.06 - Zara meet Isa]], [[Key scenes/Isa and Vyry4n - Reunion]]
 
 ### **2140 (Age 53)** - Benevolent Dictatorship ^authority-concerns-2140
 - **Event**: Expresses concerns about [[Vyry4n]]'s absolute authority and methods
@@ -491,7 +491,7 @@ type: Timeline
 - [[Technology Timeline]]
 - [[Phoenix Recovery Business]]
 - [[Key scenes/01.06 - Sedh's question]]
-- [[Key scenes/05.03 - Zara meet Isa]]
+- [[05.06 - Zara meet Isa]]
 - [[Key scenes/Isa and Vyry4n - Reunion]]
 - [[Arc 02]]
 - [[Arc 05]]

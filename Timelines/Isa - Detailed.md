@@ -204,7 +204,7 @@ type: Timeline
 - **Preparation**: Researches his organization and current activities
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^empire-consolidation-2125]]
-- **References**: [[Key scenes/05.03 - Zara meet Isa]]
+- **References**: [[05.06 - Zara meet Isa]]
 
 ### **2137 (Age 46)** - The Return ^isa-return-2137
 - **Event**: Makes contact with [[Characters/Sedh]] and returns to [[Vyry4n]]'s life
@@ -216,7 +216,7 @@ type: Timeline
 - **Related Events**: 
   - [[Vyry4n Personal Timeline#^isa-return-2137]]
   - [[Relationship Timeline#^2137-reunion-confrontation]]
-- **References**: [[Key scenes/Isa and Vyry4n - Reunion]], [[Key scenes/05.03 - Zara meet Isa]]
+- **References**: [[Key scenes/Isa and Vyry4n - Reunion]], [[05.06 - Zara meet Isa]]
 
 ---
 
@@ -420,7 +420,7 @@ type: Timeline
 - [[Key scenes/01.02 - They first meet]]
 - [[Key scenes/01.02 - Isa intimacy]]
 - [[Key scenes/Isa and Vyry4n - Reunion]]
-- [[Key scenes/05.03 - Zara meet Isa]]
+- [[05.06 - Zara meet Isa]]
 - [[Arc 02]]
 - [[Arc 05]]
 - [[Arc 06]]
