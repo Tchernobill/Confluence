@@ -20,7 +20,7 @@ last_updated: 2025-06-07 13:30
 type: Timeline
 ---
 
-# Zara "Flame" Al-Rashid - Timeline to Meeting Vyry4n
+# Zara "Flame" Al-Rashid - Timeline to Meeting Vyr4n
 
 ## Early Life & Trauma (2100-2112)
 
@@ -51,9 +51,9 @@ type: Timeline
 - 2119.07 - Zara - Fled to South Shore Slum underground, began working as independent assassin
 - 2119.08 - Zara - Heard rumors about Rico Tremblay territory takeover by mysterious "Technomancer"
 - 2119.09 - Zara - Marcus recruited her as potential security asset after observing her eliminate corporate hunters
-- 2119.10 - Zara - First met Vyry4n when hired as personal bodyguard through Marcus recommendation
+- 2119.10 - Zara - First met Vyr4n when hired as personal bodyguard through Marcus recommendation
 
-## Character State at Meeting Vyry4n
+## Character State at Meeting Vyr4n
 
 At age 19, Zara appears as a one-dimensional violent weapon:
 
@@ -64,12 +64,12 @@ At age 19, Zara appears as a one-dimensional violent weapon:
 - **Violence Response**: First and preferred solution to most problems
 - **Trauma Processing**: Completely suppressed, manifests only as hypervigilance and aggression
 
-Her layered complexity, capacity for loyalty, and deeper emotional range will only emerge through prolonged exposure to Vyry4n's unusual leadership style and the organization's protective culture during Arc 4.
+Her layered complexity, capacity for loyalty, and deeper emotional range will only emerge through prolonged exposure to Vyr4n's unusual leadership style and the organization's protective culture during Arc 4.
 
 ## Links
 
 - [[Zara Character Profile]]
-- [[Vyry4n Character Development]]
+- [[Vyr4n Character Development]]
 - [[Marcus Security Operations]]
 - [[Arc 3 Rico Takeover]]
 - [[Corporate Training Programs]]

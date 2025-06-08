@@ -8,4 +8,4 @@ Example:
 
 - 2101.11 - Zara - Birth
     
-- 2120.08 - Zara - First meet Vyry4n when hired to be his bodyguard
+- 2120.08 - Zara - First meet Vyr4n when hired to be his bodyguard

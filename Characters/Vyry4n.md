@@ -1,9 +1,9 @@
 ---
 title: 
-  - Vyry4n - Character Profile (Updated)
+  - Vyr4n - Character Profile (Updated)
 tags:
   - Novel
-  - Vyry4n
+  - Vyr4n
   - Characters
   - Main Protagonist
   - Secret Enhancement
@@ -13,11 +13,11 @@ last_updated: 2025-06-02 23:50
 type: Character Sheet
 ---
 
-# Vyry4n - Character Profile (Updated)
+# Vyr4n - Character Profile (Updated)
 
 ### Basic Information
 
-- **Full Name:** Vyry4n [Last name unknown/never revealed]
+- **Full Name:** Vyr4n [Last name unknown/never revealed]
 - **Aliases/Nicknames:** "Vyr" (intimate), "The Artisan" (underground reputation), "Mr. V" (business associates), "Technomancer" (street legend), "Lord" (later followers)
 - **Age:** Born 2086
 - **Gender:** Male

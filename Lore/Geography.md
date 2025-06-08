@@ -2,7 +2,7 @@
 title: Neo-Montreal Regional Map
 tags:
   - Novel
-  - Vyry4n
+  - Vyr4n
   - Worldbuilding
   - Geography
 version: "0.1"
@@ -66,7 +66,7 @@ The former South Shore suburbs have devolved into a massive shantytown stretchin
 - **The Underground**: Extensive tunnel networks connecting basements, sewers, and abandoned subway lines
 
 **Key Locations:**
-- **Phoenix Recovery District**: [[Vyry4n]]'s territory, known for relatively high safety and quality tech services
+- **Phoenix Recovery District**: [[Vyr4n]]'s territory, known for relatively high safety and quality tech services
 - **The Market Maze**: Sprawling bazaar built in abandoned shopping centers and parking structures
 - **Scavenger Zones**: Dangerous areas where tech salvagers hunt for valuable components
 - **Medical Black Markets**: Underground clinics offering everything from basic healthcare to illegal augmentations
@@ -272,7 +272,7 @@ The fragmented geography reflects the fragmented society, while the underground 
 ---
 
 ## Links
-- [[Vyry4n Character Development]]
+- [[Vyr4n Character Development]]
 - [[Phoenix Recovery Business]]
 - [[South Shore Slum Culture]]
 - [[Cyberpunk Worldbuilding]]

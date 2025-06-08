@@ -1,9 +1,9 @@
 ---
 title:
-  - Vyry4n Complete Life Timeline (2086-2165)
+  - Vyr4n Complete Life Timeline (2086-2165)
 tags:
   - Novel
-  - Vyry4n
+  - Vyr4n
   - Timeline
   - Character Development
   - Story Structure
@@ -13,13 +13,13 @@ last_updated: 2025-06-01 17:30
 type: Reference
 ---
 
-# Vyry4n Complete Life Timeline (2086-2165)
+# Vyr4n Complete Life Timeline (2086-2165)
 
 *From orphaned scavenger to benevolent dictator to democratic restorer*
 
 ## Pre-Arc Timeline (2086-2102)
 
-**2086**: Birth of Vyry4n in South Shore Slum maintenance sector
+**2086**: Birth of Vyr4n in South Shore Slum maintenance sector
 **2102**: Mother's death, beginning of independence (Age 16)
 
 ---
@@ -36,7 +36,7 @@ type: Reference
 - **2108 (Age 22)**: Chapter 1.06 - *Phoenix Rising* - Business success and growing reputation
 
 ### Arc Summary
-Vyry4n evolves from isolated survivor to skilled craftsman with his first meaningful relationships (Isa and Sedh). Establishes Phoenix Recovery as legitimate business while developing reputation as "The Artisan."
+Vyr4n evolves from isolated survivor to skilled craftsman with his first meaningful relationships (Isa and Sedh). Establishes Phoenix Recovery as legitimate business while developing reputation as "The Artisan."
 
 ---
 
@@ -52,7 +52,7 @@ Vyry4n evolves from isolated survivor to skilled craftsman with his first meanin
 - **2115 (Age 29)**: Chapter 2.06 - *Awakening* - Emergence from coma and Isa's departure
 
 ### Arc Summary
-Corporate heist exposes Vyry4n to prototype nano-virus. While Sedh and Mira achieve true consciousness, Vyry4n's infection creates paranoid nightmares and violent episodes, forcing him to push away loved ones. Virus grants electromagnetic abilities but at terrible psychological cost.
+Corporate heist exposes Vyr4n to prototype nano-virus. While Sedh and Mira achieve true consciousness, Vyr4n's infection creates paranoid nightmares and violent episodes, forcing him to push away loved ones. Virus grants electromagnetic abilities but at terrible psychological cost.
 
 ---
 
@@ -68,7 +68,7 @@ Corporate heist exposes Vyry4n to prototype nano-virus. While Sedh and Mira achi
 - **2125 (Age 39)**: Chapter 3.06 - *Syndicate Wars* - Conflict with rival organizations
 
 ### Arc Summary
-Vyry4n begins using his enhanced abilities for territorial control. Violent confrontation with Rico Tremblay leads to criminal organization takeover. Establishes protection-based rule while struggling with increasing moral flexibility and isolation from humanity.
+Vyr4n begins using his enhanced abilities for territorial control. Violent confrontation with Rico Tremblay leads to criminal organization takeover. Establishes protection-based rule while struggling with increasing moral flexibility and isolation from humanity.
 
 ---
 
@@ -84,7 +84,7 @@ Vyry4n begins using his enhanced abilities for territorial control. Violent conf
 - **2140 (Age 54)**: Chapter 4.06 - *The Benevolent Dictator* - Full territorial control established
 
 ### Arc Summary
-Vyry4n transforms from criminal leader to quasi-governmental authority. Builds sophisticated organization with legitimate businesses, humanitarian programs, and efficient governance. Isa's return forces him to confront the gap between his protective intentions and authoritarian methods.
+Vyr4n transforms from criminal leader to quasi-governmental authority. Builds sophisticated organization with legitimate businesses, humanitarian programs, and efficient governance. Isa's return forces him to confront the gap between his protective intentions and authoritarian methods.
 
 ---
 
@@ -100,7 +100,7 @@ Vyry4n transforms from criminal leader to quasi-governmental authority. Builds s
 - **2155 (Age 69)**: Chapter 5.06 - *Abdication* - Choosing democratic restoration over perpetual warfare
 
 ### Arc Summary
-Vyry4n escalates to extreme violence against corporate oppressors and dystopian systems while remaining beloved by his people. His methods become increasingly brutal against enemies (torture, assassination, infrastructure destruction) while maintaining perfect protection for civilians. Isa's return forces him to confront that his war against the system has trapped him in endless cycles of violence, leading to his choice to step down and build democracy instead.
+Vyr4n escalates to extreme violence against corporate oppressors and dystopian systems while remaining beloved by his people. His methods become increasingly brutal against enemies (torture, assassination, infrastructure destruction) while maintaining perfect protection for civilians. Isa's return forces him to confront that his war against the system has trapped him in endless cycles of violence, leading to his choice to step down and build democracy instead.
 
 ---
 
@@ -116,7 +116,7 @@ Vyry4n escalates to extreme violence against corporate oppressors and dystopian 
 - **2165 (Age 79)**: Chapter 6.06 - *Full Circle* - Return to his mother's vision of harmony
 
 ### Arc Summary
-Vyry4n works to establish stable democratic institutions while pursuing environmental restoration projects. Focuses on mentoring others and healing the damage caused by both his rule and the corporate system he opposed. Achieves balance between his enhanced nature and human values.
+Vyr4n works to establish stable democratic institutions while pursuing environmental restoration projects. Focuses on mentoring others and healing the damage caused by both his rule and the corporate system he opposed. Achieves balance between his enhanced nature and human values.
 
 ---
 
@@ -133,19 +133,19 @@ Vyry4n works to establish stable democratic institutions while pursuing environm
 
 ## Key Relationship Arcs
 
-### **Vyry4n & Isa**
+### **Vyr4n & Isa**
 - Arc 1: First love and business partnership
 - Arc 2: Separation due to virus-induced trauma
 - Arc 5: Reunion and mature reconciliation
 - Arc 6: Partnership in democratic transition
 
-### **Vyry4n & Sedh**
+### **Vyr4n & Sedh**
 - Arc 1: Creator/creation relationship
 - Arc 2: Consciousness awakening and independence
 - Arc 3-4: Moral advisor and technical support
 - Arc 5-6: Elder mentor to other AIs
 
-### **Vyry4n & Society**
+### **Vyr4n & Society**
 - Arc 1: Outsider seeking connection
 - Arc 2-3: Predator taking control
 - Arc 4-5: Protector imposing order
@@ -186,7 +186,7 @@ Vyry4n works to establish stable democratic institutions while pursuing environm
 - [[Character Development Arcs]]
 - [[Timeline Alpha]]
 - [[Arc Summaries]]
-- [[Vyry4n Character Profile]]
+- [[Vyr4n Character Profile]]
 - [[Consciousness and AI Themes]]
 - [[Power Corruption Dynamics]]
 - [[Democratic Transition Themes]]

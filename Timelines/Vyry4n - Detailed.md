@@ -1,13 +1,13 @@
 ---
 title: 
-  - Vyry4n Detailed Timeline
+  - Vyr4n Detailed Timeline
 tags:
   - Novel
-  - Vyry4n
+  - Vyr4n
   - Timeline
   - Character Development
 timeline_type: character
-character_focus: Vyry4n
+character_focus: Vyr4n
 date_range: "2086-2165"
 related_timelines: 
   - "[[World Events Timeline]]"
@@ -20,7 +20,7 @@ last_updated: 2025-06-04 15:30
 type: Timeline
 ---
 
-# Vyry4n Personal Timeline
+# Vyr4n Personal Timeline
 
 *From orphaned scavenger to benevolent dictator to democratic gardener*
 
@@ -33,7 +33,7 @@ type: Timeline
 - **Context**: Born into post-collapse cyberpunk dystopia
 - **Related Events**: 
   - [[World Events Timeline#^2086-slum-formation]]
-- **References**: [[Characters/Vyry4n#Background]]
+- **References**: [[Characters/Vyr4n#Background]]
 
 ### **2086-2102 (Ages 0-16)** - Childhood ^childhood-era
 - **Event**: Raised by mother in underground maintenance tunnels
@@ -42,7 +42,7 @@ type: Timeline
 - **Personality Formation**: Learns to hide vulnerabilities, values independence
 - **Related Events**: 
   - [[Technology Timeline#^underground-tech-culture]]
-- **References**: [[Characters/Vyry4n#Upbringing]]
+- **References**: [[Characters/Vyr4n#Upbringing]]
 
 ### **2102 (Age 16)** - The Loss ^mothers-death-2102
 - **Event**: Mother dies from industrial poisoning in [[Lore/The Midnight Protocol#Champlain Wastes]]
@@ -52,15 +52,15 @@ type: Timeline
 - **Emotional Impact**: Foundation of trust issues and protective instincts
 - **Related Events**: 
   - [[World Events Timeline#^2102-industrial-accidents]]
-- **References**: [[Characters/Vyry4n#Defining Moments]], [[Key scenes/01.01 - The Memory Garden]]
+- **References**: [[Characters/Vyr4n#Defining Moments]], [[Key scenes/01.01 - The Memory Garden]]
 
 ---
 
 ## Arc 01: The Scavenger (2102-2108)
 
 ### **2102-2103 (Age 16-17)** - Early Survival ^early-survival
-- **Event**: Discovers and claims [[Lore/Vyry4n's Ventilation Shaft Hideout]]
-- **Location**: [[Lore/Vyry4n's Ventilation Shaft Hideout]]
+- **Event**: Discovers and claims [[Lore/Vyr4n's Ventilation Shaft Hideout]]
+- **Location**: [[Lore/Vyr4n's Ventilation Shaft Hideout]]
 - **Skills**: Develops scavenging expertise, basic electronics repair
 - **Reputation**: Begins building "The Artisan" underground reputation
 - **Lifestyle**: Extreme isolation, subsistence living, careful resource management
@@ -71,7 +71,7 @@ type: Timeline
 ### **2103 (Age 17)** - First Contact ^first-contact-2103
 - **Event**: Meets [[Characters/Isa]] during [[Underground Tech Market]] transaction
 - **Location**: [[Underground Tech Market]]
-- **Characters**: [[Vyry4n]], [[Isa]]
+- **Characters**: [[Vyr4n]], [[Isa]]
 - **Transaction**: High-precision data recovery job establishes professional respect
 - **Skills Displayed**: Precision repair capabilities, mysterious workshop access
 - **Reputation**: "The Artisan" legend begins growing
@@ -81,8 +81,8 @@ type: Timeline
 
 ### **2103 (Age 17)** - The Riot Shelter ^riot-shelter-2103
 - **Event**: [[South Shore Slum]] riots force Isa to seek shelter
-- **Location**: [[Lore/Vyry4n's Ventilation Shaft Hideout]]
-- **Characters**: [[Vyry4n]], [[Isa]]
+- **Location**: [[Lore/Vyr4n's Ventilation Shaft Hideout]]
+- **Characters**: [[Vyr4n]], [[Isa]]
 - **Significance**: First human intimacy and emotional connection
 - **Relationship**: Foundation of romantic partnership with Isa
 - **Personal Growth**: Learns trust and physical intimacy
@@ -94,7 +94,7 @@ type: Timeline
 ### **2104 (Age 18)** - The Enforcer Incident ^enforcer-incident-2104
 - **Event**: Confrontation with corporate enforcer in market
 - **Location**: [[Underground Tech Market]]
-- **Characters**: [[Vyry4n]], [[Isa]], Corporate Enforcer
+- **Characters**: [[Vyr4n]], [[Isa]], Corporate Enforcer
 - **Skills Displayed**: Combat precision, technical problem-solving approach to violence
 - **Weapons**: First use of concealed [[Equipment#PitBull MKIII]]
 - **Reputation**: Demonstrates hidden depths beyond technical skills
@@ -153,9 +153,9 @@ type: Timeline
 ## Arc 02: The Infected (2108-2115)
 
 ### **2108 (Age 22)** - The Proposition ^heist-proposition-2108
-- **Event**: Frank recruits Vyry4n for corporate research facility heist
+- **Event**: Frank recruits Vyr4n for corporate research facility heist
 - **Location**: [[Phoenix Recovery Business]]
-- **Characters**: [[Vyry4n]], Frank (contractor team leader)
+- **Characters**: [[Vyr4n]], Frank (contractor team leader)
 - **Target**: Prototype Neural Processing Unit "Egypt" for [[Characters/Sedh]]
 - **Motivation**: Advance Sedh's consciousness beyond current limitations
 - **Stakes**: High-risk operation for transformative technology
@@ -164,7 +164,7 @@ type: Timeline
 - **References**: [[Arc 02#Chapter 7]], [[Timeline alpha#Arc 2]]
 
 ### **2109 (Age 23)** - The Infection ^virus-infection-2109
-- **Event**: Corporate heist exposes Vyry4n to [[Lore/The Midnight Protocol]] nano-virus
+- **Event**: Corporate heist exposes Vyr4n to [[Lore/The Midnight Protocol]] nano-virus
 - **Location**: Corporate research facility R&D lab
 - **Virus**: Prototype psychological warfare nanobots, designed as "ultimate torture device"
 - **Exposure**: Accidental breach during explosive escape sequence
@@ -198,7 +198,7 @@ type: Timeline
 - **Related Events**: 
   - [[Enhancement Timeline#^2112-virus-control]]
   - [[Relationship Timeline#^2112-forced-separation]]
-- **References**: [[Arc 02#Climax]], [[Characters/Vyry4n#Defining Moments]]
+- **References**: [[Arc 02#Climax]], [[Characters/Vyr4n#Defining Moments]]
 
 ### **2113 (Age 27)** - The Signal ^virus-analysis-2113
 - **Event**: [[Characters/Sedh]] and [[Characters/Mira]] crack virus communication protocol
@@ -206,7 +206,7 @@ type: Timeline
 - **Breakthrough**: Decrypt nanobotic network, understand virus architecture
 - **Technology**: Map neural infiltration and control mechanisms
 - **Treatment**: Reduce virus threat level, enable partial awakening
-- **Duration**: Week-long analysis while Vyry4n remains in coma
+- **Duration**: Week-long analysis while Vyr4n remains in coma
 - **Related Events**: 
   - [[Technology Timeline#^2113-virus-decryption]]
   - [[Sedh Timeline#^2113-medical-collaboration]]
@@ -238,7 +238,7 @@ type: Timeline
 - **Isolation**: Maintains emotional distance from humans
 - **Related Events**: 
   - [[Enhancement Timeline#^2115-control-development]]
-- **References**: [[Characters/Vyry4n#Virus Mastery]]
+- **References**: [[Characters/Vyr4n#Virus Mastery]]
 
 ### **2119 (Age 33)** - The Tremblay Takeover ^Tremblay-takeover-2119
 - **Event**: Confrontation with Rico "The Grip" Tremblay leads to syndicate takeover
@@ -335,7 +335,7 @@ type: Timeline
 - **Related Events**: 
   - [[Relationship Timeline#^2137-isa-confrontation]]
   - [[Power Timeline#^2137-moral-questioning]]
-- **References**: [[Key scenes/Isa and Vyry4n - Reunion]], [[Arc 04#Chapter 4.05]]
+- **References**: [[Key scenes/Isa and Vyr4n - Reunion]], [[Arc 04#Chapter 4.05]]
 
 ### **2140 (Age 54)** - The Benevolent Dictator ^benevolent-dictator-2140
 - **Event**: Achieves total territorial control while maintaining popular support
@@ -476,7 +476,7 @@ type: Timeline
 
 ## Key Relationship Intersections
 
-### **Vyry4n ↔ Isa**
+### **Vyr4n ↔ Isa**
 - **2103**: [[#^first-contact-2103]] - Professional respect and attraction
 - **2103**: [[#^riot-shelter-2103]] - First intimacy and emotional connection
 - **2108**: [[#^phoenix-recovery-2108]] - Business partnership and romantic relationship
@@ -485,14 +485,14 @@ type: Timeline
 - **2149**: [[#^isa-mirror-2149]] - Final moral reckoning and mature love
 - **2165**: [[#^full-circle-2165]] - Peaceful ending together
 
-### **Vyry4n ↔ Sedh**
+### **Vyr4n ↔ Sedh**
 - **2105**: [[#^Sedh-discovery-2105]] - Discovery and beginning of AI consciousness project
 - **2106**: [[#^digital-awakening-2106]] - First communication and non-human relationship
 - **2107**: [[#^Sedh-embodiment-2107]] - Grants free will, becomes true companion
-- **2113**: [[#^virus-analysis-2113]] - Saves Vyry4n's life through virus decryption
+- **2113**: [[#^virus-analysis-2113]] - Saves Vyr4n's life through virus decryption
 - **2165**: [[#^full-circle-2165]] - AI companion prepares for existence without creator
 
-### **Vyry4n ↔ Enhancement**
+### **Vyr4n ↔ Enhancement**
 - **2109**: [[#^virus-infection-2109]] - Accidental exposure to psychological warfare nanobots
 - **2115**: [[#^virus-awakening-2115]] - Gains control and electromagnetic abilities
 - **2119**: [[#^Tremblay-takeover-2119]] - First use of abilities for large-scale control
@@ -521,7 +521,7 @@ type: Timeline
 ---
 
 ## Links
-- [[Characters/Vyry4n]]
+- [[Characters/Vyr4n]]
 - [[Characters/Isa]]
 - [[Characters/Sedh]]
 - [[Arc 01]]

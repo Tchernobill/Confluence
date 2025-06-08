@@ -1,4 +1,4 @@
-# Mark "Vyry4n" NAKAMURA: DETAILED LIFE TIMELINE
+# Mark "Vyr4n" NAKAMURA: DETAILED LIFE TIMELINE
 *Born 2087 - Died 2187 (Age 100)*
 
 ---
@@ -6,7 +6,7 @@
 ## PART I: THE SCAVENGER (Ages 16-25)
 
 ### **Age 16-18: Origins (2103-2105)**
-- **The Loss**: Parents die in factory accident in Neo-Tokyo's industrial ruins. Vyry4n inherits nothing but debt and a small toolkit
+- **The Loss**: Parents die in factory accident in Neo-Tokyo's industrial ruins. Vyr4n inherits nothing but debt and a small toolkit
 - **First Survival**: Learns to scavenge electronic components from the wreckage of the Great Corporate Collapse
 - **Silent Adaptation**: Develops his characteristic silence as a survival mechanism - talking draws attention in dangerous territory
 - **Early Skills**: Self-teaches basic electronics repair through trial, error, and salvaged technical manuals
@@ -30,7 +30,7 @@
 - **Sedh Restoration**: Spends months rebuilding the droid, discovers its advanced AI core is salvageable
 - **Breakthrough**: Successfully revives Sedh, but the process unexpectedly grants it free will and emerging sentience
 - **Partnership Forms**: Sedh becomes his first real companion since his parents' death
-- **Communication Evolves**: Sedh learns to interpret Vyry4n's silences and non-verbal cues
+- **Communication Evolves**: Sedh learns to interpret Vyr4n's silences and non-verbal cues
 - **Business Expansion**: With Sedh's help, their operation becomes more sophisticated and profitable
 
 ---
@@ -63,7 +63,7 @@
 - **First Victories**: Successfully resists virus control for short periods
 - **Physical Changes**: Notices enhanced reflexes and healing as the virus's self-preservation protocols activate
 - **Electronic Sensitivity**: Develops ability to sense electronic signals around him
-- **Sedh's Evolution**: The droid adapts its behavior to help Vyry4n through his worst episodes
+- **Sedh's Evolution**: The droid adapts its behavior to help Vyr4n through his worst episodes
 
 ---
 
@@ -94,7 +94,7 @@
 - **Territory Secured**: Establishes stable, protected zone for his organization
 - **Complex Emotions**: Begins experiencing guilt over some of his harsher actions
 - **Intimate Relationships**: Has several casual partners but maintains emotional distance
-- **Sedh's Concern**: The droid becomes increasingly worried about Vyry4n's moral direction
+- **Sedh's Concern**: The droid becomes increasingly worried about Vyr4n's moral direction
 - **First Doubts**: Starts questioning whether his protection is worth its cost
 
 ---
@@ -127,7 +127,7 @@
 ## PART V: THE RECKONING (Ages 66-75)
 
 ### **Age 66-68: Face to Face with the Past (2153-2155)**
-- **The Nemesis Returns**: Childhood friend resurfaces, now representing everything Vyry4n chose not to become
+- **The Nemesis Returns**: Childhood friend resurfaces, now representing everything Vyr4n chose not to become
 - **Mirror of Choices**: Forced to confront who he was versus who he has become
 - **Revelation**: Learns the true scope of the Midnight Protocol and his friend's possible involvement
 - **Old Wounds**: Must face the pain and betrayal he buried decades ago

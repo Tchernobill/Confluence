@@ -51,7 +51,7 @@ Limited visual input from harsh, unchanging artificial light. No natural rhythms
 
 ### Adaptive Responses
 
-After months in the space, [[Vyry4n]] develops specific behavioral patterns:
+After months in the space, [[Vyr4n]] develops specific behavioral patterns:
 
 - Unconscious ducking even in larger spaces
 - Preference for corners and enclosed areas
@@ -113,7 +113,7 @@ Daily water collection and filtration. Regular waste removal under cover of dark
 
 ### Womb/Tomb Duality
 
-The chamber represents both protection and entrapment—a place of safety that slowly kills through isolation and sensory deprivation. It's a concrete womb that nurtures [[Vyry4n]]'s technical skills while stunting his emotional development.
+The chamber represents both protection and entrapment—a place of safety that slowly kills through isolation and sensory deprivation. It's a concrete womb that nurtures [[Vyr4n]]'s technical skills while stunting his emotional development.
 
 ### Technological Irony
 
@@ -121,21 +121,21 @@ Someone with supernatural understanding of complex technology forced to live in 
 
 ### Transformation Space
 
-The chamber serves as a chrysalis where [[Vyry4n]] transforms from traumatized child into skilled craftsman. The harsh conditions forge resilience while the isolation allows for deep focus on technical mastery.
+The chamber serves as a chrysalis where [[Vyr4n]] transforms from traumatized child into skilled craftsman. The harsh conditions forge resilience while the isolation allows for deep focus on technical mastery.
 
 ### Foundation Metaphor
 
-This lowest point becomes the foundation for everything [[Vyry4n]] builds later. His eventual success is measured against these origins—every improvement feels miraculous compared to the concrete box.
+This lowest point becomes the foundation for everything [[Vyr4n]] builds later. His eventual success is measured against these origins—every improvement feels miraculous compared to the concrete box.
 
 ## Narrative Function
 
 ### Character Development
 
-Forces [[Vyry4n]] to develop self-reliance, technical innovation, and psychological resilience. Creates baseline conditions against which all future improvements are measured. Establishes his willingness to endure extreme hardship for independence.
+Forces [[Vyr4n]] to develop self-reliance, technical innovation, and psychological resilience. Creates baseline conditions against which all future improvements are measured. Establishes his willingness to endure extreme hardship for independence.
 
 ### Plot Device
 
-Provides justification for [[Vyry4n]]'s social isolation and intensive focus on technical skills. Creates dramatic contrast for his eventual success. Establishes stakes for maintaining independence versus accepting help.
+Provides justification for [[Vyr4n]]'s social isolation and intensive focus on technical skills. Creates dramatic contrast for his eventual success. Establishes stakes for maintaining independence versus accepting help.
 
 ### Thematic Reinforcement
 
@@ -143,10 +143,10 @@ Embodies themes of survival, adaptation, and the cost of independence. Demonstra
 
 ### Emotional Baseline
 
-Establishes the reader's emotional investment in [[Vyry4n]]'s eventual escape from these conditions. Creates empathy for his social awkwardness and emotional barriers. Makes his later reluctance to trust others understandable.
+Establishes the reader's emotional investment in [[Vyr4n]]'s eventual escape from these conditions. Creates empathy for his social awkwardness and emotional barriers. Makes his later reluctance to trust others understandable.
 
 ## Exit Circumstances
 
-[[Vyry4n]] eventually abandons the ventilation shaft when he acquires enough resources to rent space in an abandoned maintenance tunnel. The move occurs gradually over several weeks, as he carefully relocates equipment and establishes security in the new location. He never returns to the chamber, but maintains similar environmental preferences—small spaces, limited access, underground locations.
+[[Vyr4n]] eventually abandons the ventilation shaft when he acquires enough resources to rent space in an abandoned maintenance tunnel. The move occurs gradually over several weeks, as he carefully relocates equipment and establishes security in the new location. He never returns to the chamber, but maintains similar environmental preferences—small spaces, limited access, underground locations.
 
 The abandoned chamber becomes part of the underground network used by other desperate individuals. Some scavengers occasionally use it as temporary shelter, finding his improvised systems still partially functional. It serves as a reminder that survival is possible even in the most hostile urban environments, though at tremendous personal cost.

@@ -2,7 +2,7 @@
 title: Isa - Character Profile
 tags:
   - Novel
-  - Vyry4n
+  - Vyr4n
   - Characters
   - Isa
   - Arc protagonist
@@ -59,7 +59,7 @@ type: Character Sheet
 - **Goals & Aspirations:**
   - Doing more than surviving 
   - Build Phoenix Recovery into legitimate tech empire
-  - Help Vyry4n overcome his emotional barriers
+  - Help Vyr4n overcome his emotional barriers
   - Establish family she never had
 - **Hobbies & Interests:** Collecting vintage music files, improvised cooking, people-watching
 - **Quirks & Habits:**
@@ -68,21 +68,21 @@ type: Character Sheet
   - Unconsciously mirrors other people's posture
   - Hums while working with her hands
 - **Mannerisms & Speech Patterns:** 
-  - Speaks with slight street accent that softens around Vyry4n
+  - Speaks with slight street accent that softens around Vyr4n
   - Never afraid to speak her mind
   - Touches people casually when comfortable
   - Raises eyebrow when skeptical
 - **Moral Philosophy:** Actions define people more than origins; not everything need a label; loyalty is earned through consistency, not words
 - **How They View Authority/Society:** Naturaly inclined to moraly flexible; Deeply suspicious of corporate power structures, believes in grassroots community building
 - **Greatest Regret:** Not being able to save her parents from corporate "pacification"
-- **Greatest Joy:** Watching Vyry4n's rare genuine smiles, successful business deals that help people
+- **Greatest Joy:** Watching Vyr4n's rare genuine smiles, successful business deals that help people
 
 ## Abilities & Powers
 - **Natural Talents:** Emotional intelligence, pattern recognition in human behavior, natural charisma, strong memory for faces and names
 - **Trained Skills:** 
   - Advanced negotiation and mediation
   - Underground network navigation
-  - Basic electronics (learned from Vyry4n)
+  - Basic electronics (learned from Vyr4n)
   - Business management and accounting
   - Street survival and urban parkour
 - **Combat Abilities (Melee, Firearms, Magic, etc.):** 
@@ -101,7 +101,7 @@ type: Character Sheet
   - Basic health monitoring system
   - Minor muscle twitch accelerators (legal enhancement)
 - **Weaknesses & Limitations:** 
-  - Limited technical expertise compared to Vyry4n
+  - Limited technical expertise compared to Vyr4n
   - Vulnerable to emotional manipulation through people she cares about
   - Sensitive to self-doubts when it's about herself
 
@@ -132,9 +132,9 @@ type: Character Sheet
 - **Family & Relatives:** 
   - Parents: Helene Delacroix (nurse, deceased) and Daniel Mercer (maintenance tech, deceased)
   - No known living blood relatives
-  - Considers Vyry4n and Sedh her chosen family
+  - Considers Vyr4n and Sedh her chosen family
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **Vyry4n**: Primary romantic partner, emotional anchor, ultimate 'It's complicated'
+  - **Vyr4n**: Primary romantic partner, emotional anchor, ultimate 'It's complicated'
   - **Sedh**: Initially skeptical, now protective quasi-sibling relationship
   - **Tommy "Splice" Martinez**: Former mentor in dealing trade (deceased)
   - **Dr. Sarah Kim**: Underground medic who taught her basic first aid
@@ -152,9 +152,9 @@ type: Character Sheet
   - Parents' death traumatized but also motivated her independence
   - First successful deal at age 14 established her reputation
   - Nearly killed during territorial war between dealer factions
-  - Met Vyry4n through business transaction
+  - Met Vyr4n through business transaction
 - **Defining Moment(s):** 
-  - Decision to trust Vyry4n during riots despite his obvious emotional issues
+  - Decision to trust Vyr4n during riots despite his obvious emotional issues
   - Choosing to accept Sedh as person rather than property
   - First legitimate business contract signing
 - **Criminal Record (if any):** 
@@ -164,11 +164,11 @@ type: Character Sheet
 - **Enemies & Conflicts:** 
   - Former rival dealers who resent her success
   - Corporate interests threatened by Phoenix Recovery's growth
-  - Potential conflicts with Vyry4n's darker developments
+  - Potential conflicts with Vyr4n's darker developments
 - **Current Status & Recent Activities:** 
   - Managing day-to-day Phoenix Recovery operations
   - Building legitimate business network
-  - Supporting Vyry4n through his personal struggles
+  - Supporting Vyr4n through his personal struggles
 
 ## World Interaction & Themes
 - **How They Fit into the Setting:** 
@@ -187,23 +187,23 @@ type: Character Sheet
   - **Adaptation and Growth**: Evolving beyond survival mode to building for the future
   - **Class Mobility**: Moving between social strata while maintaining core values
 - **Potential Character Arcs:**
-  - **Arc 1-2**: Building Phoenix Recovery while managing Vyry4n's virus-induced changes
-  - **Arc 2-3**: Possible heartbreak and separation as Vyry4n becomes increasingly dangerous
+  - **Arc 1-2**: Building Phoenix Recovery while managing Vyr4n's virus-induced changes
+  - **Arc 2-3**: Possible heartbreak and separation as Vyr4n becomes increasingly dangerous
   - **Arc 5-6**: Potential reunion and reckoning with how they've both changed
 - **Conflicts They Face (Internal & External):**
-  - **Internal**: Balancing protective instincts with respect for Vyry4n's autonomy, self-esteem issue and managing abandonment fears
-  - **External**: Corporate threats to Phoenix Recovery, underground rivals, Vyry4n's viral transformation
+  - **Internal**: Balancing protective instincts with respect for Vyr4n's autonomy, self-esteem issue and managing abandonment fears
+  - **External**: Corporate threats to Phoenix Recovery, underground rivals, Vyr4n's viral transformation
 
 ## Character Development Arc
 **Pre-Arc 1**: Successful underground dealer with reputation for fairness and quality
 **Arc 1 Beginning**: Confident professional seeking temporary shelter during riots
 **Arc 1 Middle**: Patient teacher of intimacy and trust, growing business partner
-**Arc 1 End**: Established business co-manager with deep but complex relationship with Vyry4n
-**Arc 2 Projection**: Likely heartbreak as Vyry4n's infection drives them apart
-**Long-term Potential**: Possible reconciliation when Vyry4n learns to balance his enhanced nature with human connections
+**Arc 1 End**: Established business co-manager with deep but complex relationship with Vyr4n
+**Arc 2 Projection**: Likely heartbreak as Vyr4n's infection drives them apart
+**Long-term Potential**: Possible reconciliation when Vyr4n learns to balance his enhanced nature with human connections
 
 ## Relationship Dynamics
-- **With Vyry4n**: 
+- **With Vyr4n**: 
   - Professional: Complementary skills, shared vision for Phoenix Recovery
   - Personal: Patient lover who teaches him emotional intimacy at his pace and push him to explore
   - Psychological: Serves as anchor to his humanity, represents what he could lose
@@ -223,22 +223,22 @@ type: Character Sheet
 ## Narrative Function
 Isa serves multiple crucial narrative roles:
 
-**Emotional Catalyst**: Breaks through Vyry4n's isolation with patience and understanding
+**Emotional Catalyst**: Breaks through Vyr4n's isolation with patience and understanding
 **Practical Balance**: Provides business sense and social skills to complement his technical genius
 **Moral Compass**: Represents ethical business practices and human-centered values
-**Tragic Element**: Her eventual heartbreak will highlight the cost of Vyry4n's transformation
+**Tragic Element**: Her eventual heartbreak will highlight the cost of Vyr4n's transformation
 **Hope Symbol**: Demonstrates that people from broken backgrounds can build something meaningful together
 
 ## Character Voice & Dialogue Patterns
 - Never afraid of expressing her opinion
 - Speaks firm but casual around strangers, more casually and loud with friends
-- Speaks soft, warm and velvety when alone with Vyry4n
+- Speaks soft, warm and velvety when alone with Vyr4n
 - Often asks clarifying questions to ensure understanding
 - Tendency to touch people while talking when comfortable
 - Uses humor to defuse tension but never at someone's expense
 
 ## Links
-- [[Vyry4n Character Development]]
+- [[Vyr4n Character Development]]
 - [[Phoenix Recovery Business Operations]]
 - [[Underground Economy Social Dynamics]]
 - [[Found Family Relationship Patterns]]

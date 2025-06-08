@@ -3,7 +3,7 @@ title:
   - Kaia "Whisper" Okafor - Character Profile
 tags:
   - Novel
-  - Vyry4n
+  - Vyr4n
   - Characters
   - Inner Circle
   - Kaia
@@ -27,11 +27,11 @@ type: Character Sheet
 - **Ethnicity/Cultural Background:** Nigerian heritage, second-generation corporate citizen with strong cultural ties
 - **Nationality/Citizenship:** Neo-South Corporate Zone (former Corporate Data Citizen)
 - **Birthplace:** Lagos Corporate Complex, former Nigeria
-- **Current Residence:** Luxury penthouse in Vyry4n's corporate district territory
+- **Current Residence:** Luxury penthouse in Vyr4n's corporate district territory
 - **Occupation:** Former corporate data analyst → Underground information broker → Intelligence Chief
 - **Social Class/Status:** Corporate middle-management → Underground elite → Criminal organization leadership
 - **Alignment:** Chaotic Neutral with calculated loyalty
-- **Affiliations/Factions:** Former Quantum Dynamics Data Division → Independent Information Networks → Vyry4n's Organization (Inner Circle)
+- **Affiliations/Factions:** Former Quantum Dynamics Data Division → Independent Information Networks → Vyr4n's Organization (Inner Circle)
 - **Languages Spoken:** Yoruba (native), English (native), French (fluent), Portuguese (fluent), Mandarin (conversational), Corporate Standard, Data Languages (various coding systems)
 - **Religion/Beliefs:** Secular with respect for ancestral wisdom, believes information is the ultimate currency and power
 
@@ -63,7 +63,7 @@ type: Character Sheet
   - Deep fear of being considered disposable or replaceable
 - **Goals & Aspirations:**
   - Build the most sophisticated intelligence network in the region
-  - Serve Vyry4n's vision while maintaining her own intellectual independence
+  - Serve Vyr4n's vision while maintaining her own intellectual independence
   - Prove that information mastery is superior to physical force
   - Create lasting legacy through strategic influence
 - **Hobbies & Interests:** Chess (grandmaster level), collecting vintage perfumes and their historical stories, wine tasting and pairing, learning new languages, studying cultural manipulation techniques
@@ -157,7 +157,7 @@ type: Character Sheet
   - No siblings, parents were her only close family
   - Considers her information network her chosen family
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **Vyry4n**: Intellectual partnership with occasional intimate encounters, mutual respect and strategic collaboration
+  - **Vyr4n**: Intellectual partnership with occasional intimate encounters, mutual respect and strategic collaboration
   - **Marcus**: Professional respect with underlying tension about security vs. intelligence approaches
   - **Helene**: Sophisticated friendship based on shared professional excellence
   - **Former Corporate Handler**: Complex relationship of manipulation and counter-manipulation (ongoing)
@@ -175,11 +175,11 @@ type: Character Sheet
   - Parents' assassination when she was 16 (formative trauma and motivation)
   - Discovery of her talent for information gathering and social manipulation
   - First major intelligence coup that established her underground reputation
-  - Meeting Vyry4n and recognizing his potential for large-scale change
+  - Meeting Vyr4n and recognizing his potential for large-scale change
 - **Defining Moment(s):** 
   - Watching her parents die for their principles while feeling powerless
   - First successful manipulation of corporate executives for personal revenge
-  - Decision to join Vyry4n's organization despite lucrative independent career
+  - Decision to join Vyr4n's organization despite lucrative independent career
   - Moment when she realized her intelligence work could serve something greater than revenge
 - **Criminal Record (if any):** 
   - Corporate espionage and data theft
@@ -191,7 +191,7 @@ type: Character Sheet
   - Former targets of her intelligence operations
   - Anyone who threatens the information networks she's built
 - **Current Status & Recent Activities:** 
-  - Chief Intelligence Officer for Vyry4n's organization
+  - Chief Intelligence Officer for Vyr4n's organization
   - Managing extensive surveillance and information gathering operations
   - Developing strategic intelligence for organizational expansion
   - Maintaining complex relationships with multiple power factions
@@ -217,7 +217,7 @@ type: Character Sheet
 - **Potential Character Arcs:**
   - Developing deeper emotional connections while maintaining professional effectiveness
   - Confronting the limits of information-based power
-  - Exploring romantic relationship dynamics with Vyry4n
+  - Exploring romantic relationship dynamics with Vyr4n
   - Building intelligence networks that outlast individual power structures
 - **Conflicts They Face (Internal & External):**
   - **Internal**: Emotional distance vs. genuine connection, revenge motivation vs. constructive goals
@@ -246,7 +246,7 @@ type: Character Sheet
 - "Sometimes I wonder if you see the real me or just the intelligence I provide."
 
 ## Links
-- [[Vyry4n Character Development]]
+- [[Vyr4n Character Development]]
 - [[Inner Circle Character Dynamics]]
 - [[Information Warfare Themes]]
 - [[Cultural Identity in Power Structures]]

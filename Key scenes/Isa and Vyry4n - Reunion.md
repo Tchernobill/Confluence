@@ -25,7 +25,7 @@ She stepped inside with the careful reverence of someone entering a sacred space
 
 "Hey," she said simply.
 
-Time crystallized around that single syllable. Vyry4n's hands stilled on the neural interface he'd been calibrating, his shoulders tensing in a way that spoke of recognition deeper than conscious thought. He didn't turn immediately—couldn't, perhaps—as if movement might shatter whatever fragile moment had just crystallized between them.
+Time crystallized around that single syllable. Vyr4n's hands stilled on the neural interface he'd been calibrating, his shoulders tensing in a way that spoke of recognition deeper than conscious thought. He didn't turn immediately—couldn't, perhaps—as if movement might shatter whatever fragile moment had just crystallized between them.
 
 When he finally pivoted on his stool, their eyes met across five years of silence, and Isa felt her breath catch. He was the same person—lean frame, dark hair falling across angular features—but something fundamental had shifted. His gaze held depths that hadn't existed before, shadows that moved independently of the light.
 
@@ -51,7 +51,7 @@ She blinked. "You've been keeping track."
 
 "What we built," she repeated softly. "Vyry..." She moved closer, close enough to see the faint pattern of lines beneath his skin that definitely hadn't been there before. "What happened to us? Between you and me? I left, but I didn't want to. So why—"
 
-The question hung in the air like a suspended electrical charge. Vyry4n's hands clenched on the workbench, and for a moment the lights flickered—so briefly she might have imagined it.
+The question hung in the air like a suspended electrical charge. Vyr4n's hands clenched on the workbench, and for a moment the lights flickered—so briefly she might have imagined it.
 
 "During the coma..." His voice emerged barely above a whisper. "The virus... it trapped me inside myself, with no way out. The nightmare was endless. Monsters would chase me down, tear me apart, rebuild me just to do it again."
 
@@ -99,7 +99,7 @@ A different kind of smile crossed his features—darker, but strangely more peac
 
 Isa moved closer, close enough to touch if she wanted to. "That's not exactly reassuring."
 
-Vyry4n was quiet for a long moment, studying her face as if seeing it for the first time in years. "Now? Looking at you now?" He shook his head slowly. "Now I see the person who taught me that intimacy didn't have to hurt. Who showed me that broken things could be fixed with patience instead of force." His voice dropped to almost a whisper. "I see the person I was too damaged to keep."
+Vyr4n was quiet for a long moment, studying her face as if seeing it for the first time in years. "Now? Looking at you now?" He shook his head slowly. "Now I see the person who taught me that intimacy didn't have to hurt. Who showed me that broken things could be fixed with patience instead of force." His voice dropped to almost a whisper. "I see the person I was too damaged to keep."
 
 "You didn't lose me," she said softly. "You let me go because you thought it was the right thing to do. There's a difference."
 
@@ -123,7 +123,7 @@ Vyry4n was quiet for a long moment, studying her face as if seeing it for the fi
 
 "Especially you."
 
-For a moment they just looked at each other, the weight of five years of separation and transformation hanging between them. Then Vyry4n's free hand came up to cup her face, his thumb brushing away the tear tracks on her cheek.
+For a moment they just looked at each other, the weight of five years of separation and transformation hanging between them. Then Vyr4n's free hand came up to cup her face, his thumb brushing away the tear tracks on her cheek.
 
 "I missed you," he said simply. "Every enhanced heartbeat, every amplified thought, every moment of clarity the virus gave me—I missed you through all of it."
 
@@ -175,6 +175,6 @@ _Scene establishes: Emotional reunion, acknowledgment of mutual transformation, 
 
 ## Character Notes
 
-- **Vyry4n**: Shows vulnerability while maintaining his enhanced nature, uses technical metaphors to process emotional experience
+- **Vyr4n**: Shows vulnerability while maintaining his enhanced nature, uses technical metaphors to process emotional experience
 - **Isa**: Demonstrates growth and strength while maintaining her core compassion and patience
 - **Relationship Dynamic**: Mature acknowledgment of change, mutual choice to rebuild rather than reclaim

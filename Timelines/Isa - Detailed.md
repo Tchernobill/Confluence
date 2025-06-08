@@ -10,7 +10,7 @@ timeline_type: character
 character_focus: Isa
 date_range: "2091-2165"
 related_timelines: 
-  - "[[Vyry4n Personal Timeline]]"
+  - "[[Vyr4n Personal Timeline]]"
   - "[[World Events Timeline]]"
   - "[[Relationship Timeline]]"
   - "[[Business Timeline]]"
@@ -56,7 +56,7 @@ type: Timeline
 - **Survival**: Taken in by underground dealer networks
 - **Related Events**: 
   - [[World Events Timeline#^2103-corporate-pacification]]
-  - [[Vyry4n Personal Timeline#^2103-slum-riots]]
+  - [[Vyr4n Personal Timeline#^2103-slum-riots]]
 - **References**: [[Characters/Isa#Defining Moments]]
 
 ### **2103-2106 (Ages 12-15)** - Street Education ^street-survival
@@ -83,80 +83,80 @@ type: Timeline
 
 ---
 
-## The Vyry4n Era (2109-2115)
+## The Vyr4n Era (2109-2115)
 
 ### **2109 (Age 18)** - First Contact ^first-contact-2109
-- **Event**: Meets [[Vyry4n]] during [[Underground Tech Market]] investigation
+- **Event**: Meets [[Vyr4n]] during [[Underground Tech Market]] investigation
 - **Location**: [[Underground Tech Market]]
 - **Mission**: Investigating rumors about "The Artisan" and his impossible repairs
 - **Transaction**: Military-grade data recovery job tests his capabilities
 - **Impression**: Professional respect for his exceptional technical skills
 - **Investment**: Provides premium components as business development
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^first-contact-2103]]
+  - [[Vyr4n Personal Timeline#^first-contact-2103]]
   - [[Technology Timeline#^2109-precision-repair-tech]]
 - **References**: [[Key scenes/01.02 - They first meet]]
 
 ### **2109 (Age 18)** - The Riot Shelter ^riot-intimacy-2109
-- **Event**: Seeks shelter with [[Vyry4n]] during [[South Shore Slum]] riots
-- **Location**: [[Lore/Vyry4n's Ventilation Shaft Hideout]]
+- **Event**: Seeks shelter with [[Vyr4n]] during [[South Shore Slum]] riots
+- **Location**: [[Lore/Vyr4n's Ventilation Shaft Hideout]]
 - **Circumstances**: Wounded during corporate security crackdown
-- **Intimacy**: First physical and emotional connection with Vyry4n
+- **Intimacy**: First physical and emotional connection with Vyr4n
 - **Discovery**: Recognizes his emotional isolation and trauma
 - **Teaching**: Guides him through first meaningful intimate experience
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^riot-shelter-2103]]
+  - [[Vyr4n Personal Timeline#^riot-shelter-2103]]
   - [[World Events Timeline#^2109-slum-riots]]
 - **References**: [[Key scenes/01.02 - Isa intimacy]]
 
 ### **2110-2111 (Ages 19-20)** - Partnership Development ^partnership-building
-- **Event**: Develops business and romantic relationship with [[Vyry4n]]
+- **Event**: Develops business and romantic relationship with [[Vyr4n]]
 - **Location**: Expanded workshop operations
 - **Business**: Supplies premium components, manages client relationships
 - **Personal**: Patient partner helping him overcome emotional barriers
 - **Growth**: Witnesses his technical skills and protective nature
 - **Challenge**: Navigates his difficulty with emotional vulnerability
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^Sedh-discovery-2105]]
+  - [[Vyr4n Personal Timeline#^Sedh-discovery-2105]]
   - [[Business Timeline#^2110-partnership-formation]]
 - **References**: [[Characters/Isa#Notable Relationships]]
 
 ### **2112 (Age 21)** - Sedh Acceptance ^Sedh-acceptance-2112
 - **Event**: Gradually accepts [[Characters/Sedh]] as person rather than property
 - **Location**: [[Phoenix Recovery Business]] workshop
-- **Initial**: Views Sedh as advanced technology, creates tension with Vyry4n
+- **Initial**: Views Sedh as advanced technology, creates tension with Vyr4n
 - **Evolution**: Recognizes Sedh's growing consciousness and individuality
 - **Growth**: Develops protective quasi-sibling relationship with AI
-- **Understanding**: Realizes Sedh's positive influence on Vyry4n
+- **Understanding**: Realizes Sedh's positive influence on Vyr4n
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^digital-awakening-2106]]
+  - [[Vyr4n Personal Timeline#^digital-awakening-2106]]
   - [[Sedh Timeline#^2112-acceptance-recognition]]
 - **References**: [[Characters/Sedh#Notable Relationships]]
 
 ### **2114 (Age 23)** - Phoenix Recovery Success ^phoenix-success-2114
 - **Event**: [[Phoenix Recovery Business]] becomes highly successful operation
 - **Location**: [[Phoenix Recovery Business]] expanded facility
-- **Role**: Operations manager handling business side while Vyry4n focuses on technical work
+- **Role**: Operations manager handling business side while Vyr4n focuses on technical work
 - **Achievement**: First time either has experienced genuine financial security
 - **Skills**: Advanced business management, client relationship building
 - **Status**: Respected entrepreneurs in underground economy
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^phoenix-recovery-2108]]
+  - [[Vyr4n Personal Timeline#^phoenix-recovery-2108]]
   - [[Business Timeline#^2114-legitimate-success]]
 - **References**: [[Phoenix Recovery Business]]
 
 ### **2115 (Age 24)** - The Heist Aftermath ^virus-separation-2115
-- **Event**: [[Vyry4n]]'s virus infection forces traumatic separation
+- **Event**: [[Vyr4n]]'s virus infection forces traumatic separation
 - **Location**: [[Phoenix Recovery Business]] medical facility
-- **Crisis**: Vyry4n's violent episode and artificial coma
+- **Crisis**: Vyr4n's violent episode and artificial coma
 - **Support**: Stays by his bedside during week-long treatment
 - **Rejection**: Emerges from coma but emotionally rejects her completely
 - **Heartbreak**: Leaves Phoenix Recovery unable to understand his coldness
 - **Loss**: Loses business partnership, romantic relationship, and chosen family
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^virus-awakening-2115]]
+  - [[Vyr4n Personal Timeline#^virus-awakening-2115]]
   - [[Enhancement Timeline#^2115-relationship-destruction]]
-- **References**: [[Arc 02#Resolution]], [[Key scenes/Isa and Vyry4n - Reunion]]
+- **References**: [[Arc 02#Resolution]], [[Key scenes/Isa and Vyr4n - Reunion]]
 
 ---
 
@@ -198,25 +198,25 @@ type: Timeline
 ### **2136 (Age 45)** - Phoenix Recovery Investigation ^phoenix-investigation-2136
 - **Event**: Investigates abandoned [[Phoenix Recovery Business]] facility
 - **Location**: [[Phoenix Recovery Business]] original site
-- **Discovery**: Finds evidence of continued operations and Vyry4n's survival
+- **Discovery**: Finds evidence of continued operations and Vyr4n's survival
 - **Intelligence**: Learns about his transformation into powerful leader
 - **Decision**: Begins planning potential reunion approach
 - **Preparation**: Researches his organization and current activities
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^empire-consolidation-2125]]
+  - [[Vyr4n Personal Timeline#^empire-consolidation-2125]]
 - **References**: [[05.06 - Zara meet Isa]]
 
 ### **2137 (Age 46)** - The Return ^isa-return-2137
-- **Event**: Makes contact with [[Characters/Sedh]] and returns to [[Vyry4n]]'s life
+- **Event**: Makes contact with [[Characters/Sedh]] and returns to [[Vyr4n]]'s life
 - **Location**: [[Phoenix Recovery Business]] retrieval operation
 - **Meeting**: Encounters [[Characters/Zara]] during component recovery
-- **Reunion**: Sedh facilitates meeting with Vyry4n after years of separation
+- **Reunion**: Sedh facilitates meeting with Vyr4n after years of separation
 - **Shock**: Discovers extent of his transformation into powerful leader
 - **Confrontation**: Challenges his authoritarian methods and moral drift
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^isa-return-2137]]
+  - [[Vyr4n Personal Timeline#^isa-return-2137]]
   - [[Relationship Timeline#^2137-reunion-confrontation]]
-- **References**: [[Key scenes/Isa and Vyry4n - Reunion]], [[05.06 - Zara meet Isa]]
+- **References**: [[Key scenes/Isa and Vyr4n - Reunion]], [[05.06 - Zara meet Isa]]
 
 ---
 
@@ -224,13 +224,13 @@ type: Timeline
 
 ### **2138-2142 (Ages 47-51)** - Difficult Reconnection ^reconnection-period
 - **Event**: Navigates complex process of rebuilding relationship
-- **Location**: [[Vyry4n]]'s organizational territories
+- **Location**: [[Vyr4n]]'s organizational territories
 - **Challenge**: Accepting how both of them have changed over decades
 - **Growth**: Learning to love the person he's become rather than who he was
 - **Conflict**: Ongoing tension about his methods and authority
 - **Progress**: Gradual rebuilding of trust and emotional intimacy
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^inner-circle-2128]]
+  - [[Vyr4n Personal Timeline#^inner-circle-2128]]
   - [[Relationship Timeline#^2138-gradual-reconciliation]]
 - **References**: [[Characters/Isa#Character Development Arc]]
 
@@ -242,19 +242,19 @@ type: Timeline
 - **Resistance**: Faces opposition from those who prefer his authoritarian efficiency
 - **Growth**: Develops sophisticated understanding of power dynamics
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^extreme-measures-2143]]
+  - [[Vyr4n Personal Timeline#^extreme-measures-2143]]
   - [[Power Timeline#^2143-ethical-challenges]]
 - **References**: [[Arc 05#Chapter 5.04]]
 
 ### **2149 (Age 58)** - Mirror Confrontation ^mirror-confrontation-2149
-- **Event**: Forces [[Vyry4n]] to confront that he's become the monster he fought
+- **Event**: Forces [[Vyr4n]] to confront that he's become the monster he fought
 - **Location**: His primary compound
 - **Courage**: Directly challenges him despite his immense power
 - **Truth**: Points out that his war against oppression has trapped him in endless violence
 - **Love**: Demonstrates that true love sometimes means delivering painful truths
 - **Impact**: Catalyzes his decision to step down from absolute power
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^isa-mirror-2149]]
+  - [[Vyr4n Personal Timeline#^isa-mirror-2149]]
   - [[Power Timeline#^2149-moral-awakening]]
 - **References**: [[Arc 05#Chapter 5.04]]
 
@@ -266,7 +266,7 @@ type: Timeline
 - **Partnership**: True equal partnership in both personal and political spheres
 - **Success**: Helps establish stable democratic systems
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^abdication-2155]]
+  - [[Vyr4n Personal Timeline#^abdication-2155]]
   - [[Power Timeline#^2155-democratic-transition]]
 - **References**: [[Arc 05#Resolution]]
 
@@ -282,7 +282,7 @@ type: Timeline
 - **Symbolism**: Creating life together instead of managing systems
 - **Achievement**: Successful restoration of poisoned ecosystems
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^garden-project-2159]]
+  - [[Vyr4n Personal Timeline#^garden-project-2159]]
   - [[Technology Timeline#^2159-environmental-restoration]]
 - **References**: [[Arc 06#Chapter 6.03]]
 
@@ -294,19 +294,19 @@ type: Timeline
 - **Students**: Next generation of entrepreneurs and civic leaders
 - **Legacy**: Ensures democratic and ethical principles survive
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^teaching-moments-2161]]
+  - [[Vyr4n Personal Timeline#^teaching-moments-2161]]
   - [[Education Timeline#^2161-leadership-programs]]
 - **References**: [[Arc 06#Chapter 6.04]]
 
 ### **2164-2165 (Ages 73-74)** - Peaceful Completion ^peaceful-ending
-- **Event**: Lives final years in mature partnership with [[Vyry4n]]
+- **Event**: Lives final years in mature partnership with [[Vyr4n]]
 - **Location**: Memorial garden built on site of his mother's death
 - **Relationship**: Deep, stable partnership based on complete acceptance
 - **Family**: Chosen family with [[Characters/Sedh]], [[Characters/Mira]], and others
 - **Achievement**: Successful businesses, democratic institutions, restored environments
 - **Peace**: Complete reconciliation with past choices and their consequences
 - **Related Events**: 
-  - [[Vyry4n Personal Timeline#^full-circle-2165]]
+  - [[Vyr4n Personal Timeline#^full-circle-2165]]
   - [[Relationship Timeline#^2165-mature-partnership]]
 - **References**: [[Arc 06#Resolution]]
 
@@ -314,7 +314,7 @@ type: Timeline
 
 ## Key Relationship Intersections
 
-### **Isa ↔ Vyry4n**
+### **Isa ↔ Vyr4n**
 - **2109**: [[#^first-contact-2109]] - Professional curiosity and mutual respect
 - **2109**: [[#^riot-intimacy-2109]] - First intimacy and emotional teaching
 - **2114**: [[#^phoenix-success-2114]] - Business partnership and romantic relationship
@@ -325,7 +325,7 @@ type: Timeline
 
 ### **Isa ↔ Sedh**
 - **2112**: [[#^Sedh-acceptance-2112]] - Learning to accept AI consciousness
-- **2137**: [[#^isa-return-2137]] - Sedh facilitates reunion with Vyry4n
+- **2137**: [[#^isa-return-2137]] - Sedh facilitates reunion with Vyr4n
 - **2165**: [[#^peaceful-ending-2165]] - Family relationship with AI companion
 
 ### **Isa ↔ Business Evolution**
@@ -400,7 +400,7 @@ type: Timeline
 - **Educational Leader**: Teaching ethical practices
 
 ### **Relationship Dynamics**
-- **Teacher**: Guides Vyry4n through emotional development
+- **Teacher**: Guides Vyr4n through emotional development
 - **Partner**: Equal contributor to business and personal success
 - **Challenger**: Confronts moral drift and authoritarian tendencies
 - **Supporter**: Facilitates democratic transition and growth
@@ -410,16 +410,16 @@ type: Timeline
 
 ## Links
 - [[Characters/Isa]]
-- [[Characters/Vyry4n]]
+- [[Characters/Vyr4n]]
 - [[Characters/Sedh]]
 - [[Phoenix Recovery Business]]
-- [[Vyry4n Personal Timeline]]
+- [[Vyr4n Personal Timeline]]
 - [[Relationship Timeline]]
 - [[Business Timeline]]
 - [[Underground Economy Timeline]]
 - [[Key scenes/01.02 - They first meet]]
 - [[Key scenes/01.02 - Isa intimacy]]
-- [[Key scenes/Isa and Vyry4n - Reunion]]
+- [[Key scenes/Isa and Vyr4n - Reunion]]
 - [[05.06 - Zara meet Isa]]
 - [[Arc 02]]
 - [[Arc 05]]
