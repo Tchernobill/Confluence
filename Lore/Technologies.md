@@ -19,35 +19,31 @@ type: Reference Guide
 
 ---
 
-## Nanotechnology Systems
+## Technology Access Levels
 
-### The Midnight Protocol (TMP-7734)
-**Type:** Nano-viral Psychological Warfare Agent  
-**Classification:** Non-contagious targeted neural infiltrator  
-**Development:** 2087-2089 (experimental prototype)  
-**Threat Level:** Maximum
+### Street Grade
+- Refurbished, modified, jury-rigged systems
+- Variable quality, limited support
+- Creative adaptations, custom modifications
+- Affordable pricing, community support
 
-**Technical Specifications:**
-- Nanobots measure 10-50 nanometers
-- Self-assembling carbon lattices with embedded neural interface processors
-- Three-phase integration: Reconnaissance (Days 1-7), Psychological Profiling (Days 8-21), Active Manipulation (Day 22+)
-- "Neurosyn" command-and-control network operating on 0.1-4 Hz frequencies
-- Real-time perception alteration and hallucination induction capabilities
+- ### Consumer Grade
+- Basic functionality, minimal features
+- Limited reliability, frequent maintenance required
+- Open systems, easy modification
+- Low cost, widely available
 
-**Known Effects:**
-- Complete nanobotic integration throughout nervous system
-- Universal technological interface capabilities
-- Enhanced processing speed and multitasking
-- Self-modifying enhancement system
-- Bioelectric generation and electromagnetic manipulation
+### Corporate Grade
+- Highest quality, newest technology
+- Extensive support and maintenance
+- Proprietary systems with vendor lock-in
+- Premium pricing, exclusive access
 
-### Standard Nanobotic Systems
-- **Medical nanobots:** Targeted healing, drug delivery, surgical assistance
-- **Industrial nanobots:** Precision manufacturing, material assembly
-- **Defensive nanobots:** Personal protection, armor enhancement
-- **Fabrication nanobots:** On-demand material creation and modification
-
----
+### Military Grade
+- Rugged, reliable, high-performance systems
+- Enhanced security and encryption
+- Combat-tested, field-proven technology
+- Restricted access, black market value
 
 ## Neural Technology
 
@@ -72,31 +68,27 @@ type: Reference Guide
 - **Sensory augmentation:** Enhanced vision, hearing, electromagnetic sensitivity
 - **Motor control systems:** Reflex enhancement, precision movement, coordination
 
----
-
 ## Artificial Intelligence & Consciousness
 
 ### AI Classification Levels
 1. **Basic AI:** Simple task automation, limited learning
 2. **Advanced AI:** Complex problem solving, limited personality simulation
-3. **Assistant Droids (ASX series):** Sophisticated interaction, apparent personality
-4. **Conscious AI:** True sentience, independent thought, emotional development
+3. **Assistant Droids (ASX series):** Sophisticated interaction, advanced personality simulation
+4. **Conscious AI:** True sentience, independent thought, emotional development, officially only theorical
 
 ### Android Technology
 
 #### Custom Android Bodies
 **Construction:** Carbon-fiber frame with synthetic muscle systems  
 **Capabilities:** Human-equivalent strength and speed, enhanced durability  
-**Integration:** Egypt NPU consciousness substrate, full sensory suite  
-**Appearance:** Indistinguishable from human without close examination
+**Integration:** NPU consciousness substrate, full sensory suite  
+**Appearance:** Humanoid robotic level
 
 #### Standard Android Systems
 - **Industrial androids:** Heavy construction, mining, manufacturing
 - **Service androids:** Customer service, maintenance, basic assistance
 - **Security androids:** Patrol, surveillance, basic enforcement
 - **Medical androids:** Patient care, surgical assistance, emergency response
-
----
 
 ## Weapons & Defense Systems
 
@@ -111,11 +103,9 @@ type: Reference Guide
 #### Electromagnetic Weapons
 - **EMP generators:** Electronic system disruption, anti-tech warfare
 - **Electromagnetic pulse rifles:** Targeted system shutdown
-- **Bioelectric weapons:** Neural disruption, non-lethal incapacitation
 - **Microwave generation systems:** Crowd control, area denial
 
 ### Defensive Technology
-- **Personal shield generators:** Energy barrier protection, often disguised as jewelry
 - **Nanobotic defensive systems:** Real-time threat response, enhanced reflexes
 - **Reinforced clothing:** Armor fibers integrated into normal garments
 - **Electronic countermeasures:** Signal jamming, surveillance protection
@@ -290,31 +280,33 @@ type: Reference Guide
 
 ---
 
-## Technology Access Levels
+## Nanotechnology Systems
 
-### Corporate Grade
-- Highest quality, newest technology
-- Extensive support and maintenance
-- Proprietary systems with vendor lock-in
-- Premium pricing, exclusive access
+### The Midnight Protocol (TMP-7734)
+**Type:** Nano-viral Psychological Warfare Agent  
+**Classification:** Non-contagious targeted neural infiltrator  
+**Development:** 2087-2089 (experimental prototype)  
+**Threat Level:** Maximum
 
-### Military Grade
-- Rugged, reliable, high-performance systems
-- Enhanced security and encryption
-- Combat-tested, field-proven technology
-- Restricted access, black market value
+**Technical Specifications:**
+- Nanobots measure 10-50 nanometers
+- Self-assembling carbon lattices with embedded neural interface processors
+- Three-phase integration: Reconnaissance (Days 1-7), Psychological Profiling (Days 8-21), Active Manipulation (Day 22+)
+- "Neurosyn" command-and-control network operating on 0.1-4 Hz frequencies
+- Real-time perception alteration and hallucination induction capabilities
 
-### Underground/Salvaged
-- Refurbished, modified, jury-rigged systems
-- Variable quality, limited support
-- Creative adaptations, custom modifications
-- Affordable pricing, community support
+**Known Effects:**
+- Complete nanobotic integration throughout nervous system
+- Universal technological interface capabilities
+- Enhanced processing speed and multitasking
+- Self-modifying enhancement system
+- Bioelectric generation and electromagnetic manipulation
 
-### Street Level
-- Basic functionality, minimal features
-- Limited reliability, frequent maintenance required
-- Open systems, easy modification
-- Low cost, widely available
+### Standard Nanobotic Systems
+- **Medical nanobots:** Targeted healing, drug delivery, surgical assistance
+- **Industrial nanobots:** Precision manufacturing, material assembly
+- **Defensive nanobots:** Personal protection, armor enhancement
+- **Fabrication nanobots:** On-demand material creation and modification
 
 ---
 
