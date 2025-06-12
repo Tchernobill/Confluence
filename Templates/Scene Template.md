@@ -1,14 +1,14 @@
 ---
 title:
-  - [Format: Arc.chapter.scene - Title Example: 01.01.01 - The Scene] 
+  - Format: Arc.chapter.scene - Title, Example: 01.01.01 - The Scene
 tags:
-  - [tag01]
-  - [tag02]
-  - [tag03]
-  - [tag04]
-version: "0.1" [Increment by 0.1 on each change]
+  - tag01
+  - tag02
+  - tag03
+  - tag04
+version: "0.1" Increment by 0.1 on each change
 status: in progress
-last_updated: [Current date, Format: 2025-05-31 11:30]
+last_updated: Current date, Format: 2025-05-31 11:30
 type: Scene
 ---
 
@@ -25,6 +25,12 @@ type: Scene
 - **Scene Mood/Tone**: 
 - **Transition to Next Scene**: 
 ---
+
+## The Setup
+
+- Concise list of event
+- Those will be used to craft the scene
+- Into proper story text
 
 ## The Scene
 
