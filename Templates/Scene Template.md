@@ -26,7 +26,7 @@ type: Scene
 - **Transition to Next Scene**: 
 ---
 
-## The Setup
+## The Events
 
 - Concise list of event
 - Those will be used to craft the scene
