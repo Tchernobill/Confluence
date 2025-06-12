@@ -1,3 +1,17 @@
+---
+title:
+  - Chapter XX - Summary
+tags:
+  - tag01
+  - tag02
+  - tag03
+  - tag04
+version: "0.1"
+status: in progress
+last_updated: 2025-06-31 11:30
+type: Chapter Summary
+---
+
 #### Chapter [XX]: [Chapter Title]
 
 - **Summary**: [Brief synopsis]
