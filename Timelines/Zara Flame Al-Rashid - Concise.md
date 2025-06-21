@@ -65,12 +65,3 @@ At age 19, Zara appears as a one-dimensional violent weapon:
 - **Trauma Processing**: Completely suppressed, manifests only as hypervigilance and aggression
 
 Her layered complexity, capacity for loyalty, and deeper emotional range will only emerge through prolonged exposure to Vyr4n's unusual leadership style and the organization's protective culture during Arc 4.
-
-## Links
-
-- [[Zara Character Profile]]
-- [[Vyr4n Character Development]]
-- [[Marcus Security Operations]]
-- [[Arc 3 Rico Takeover]]
-- [[Corporate Training Programs]]
-- [[Refugee Camp Trauma]]

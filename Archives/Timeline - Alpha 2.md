@@ -184,7 +184,7 @@ Vyr4n works to establish stable democratic institutions while pursuing environme
 
 ## Links
 - [[Character Development Arcs]]
-- [[Timeline Alpha]]
+- [[Timeline alpha]]
 - [[Arc Summaries]]
 - [[Vyr4n Character Profile]]
 - [[Consciousness and AI Themes]]
