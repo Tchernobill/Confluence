@@ -118,7 +118,7 @@
 
 ## Arc 4
 
-- A few years later, Vyr4n's reputation and business spread and a syndicate leader, Rico "The Grip" Tremblay, convoke him to his organisation headquarter in the South Shore Slum
+- A few years later, Vyr4n's reputation and business spread and a syndicate leader, Rico "The Grip" Vasquez, convoke him to his organisation headquarter in the South Shore Slum
 - He want to offer Vyr4n his "protection" while he work exclusively for him
 - As Vyr4n enter his office accompanied by a bodyguard, "The Grip" is busy having violent sex with one of his prostitute, enjoying hitting her to "make her have tighter holes"
 - Two other prostitutes are present and visibly affected by the scene but wouldn't say or do anything

@@ -37,12 +37,12 @@ type: Reference
 
 - **Background**: Ex-corporate security who witnessed Vyr4n spare his life during Rico's takeover
 - **Gender/Orientation**: Male, Heterosexual (widowed)
-- **Physical**: 6'2", broad shoulders, muscular from combat training, East Asian features, graying black hair in military cut, brown eyes, cybernetic left arm (chrome finish)
+- **Physical**: 6'2", broad shoulders, muscular from combat training, East Asian features, graying black hair in military cut, brown eyes, grey finish cybernetic left arm (after loss of organic one)
 - **Style**: Tactical clothing, armored vest, carries vintage pistol, wedding ring (deceased wife)
 - **Preferences**: Drinks tea instead of coffee, practices traditional martial arts, maintains weapons obsessively, sleeps lightly
 - **Role**: Personal protection, territory defense, training new recruits
 - **Relationship**: Absolute loyalty born from gratitude, father-figure dynamics
-- **Personality**: Stoic, protective, questions orders but follows them, struggles with violent methods
+- **Personality**: Stoic, protective, questions orders but follows them, prefer tactics ofer violent methods
 - **Sample Dialogue**:
   - "Sir, with respect, this plan has too many variables. Let me handle the details."
   - "You spared my life when you had every reason not to. That debt doesn't expire."

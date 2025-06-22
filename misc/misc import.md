@@ -1075,7 +1075,7 @@ YL
 
 Review the following scene, an early interaction between Vyr4n and Sedh, the droid:
 
-(Now that the droid is functional and turned on, Vyr4n want to test it's new capacity and "free will" implementation) - The droid was sitting at a table opposite Vyr4n - Vyr4n put a weapon on the table and ask the droid if it know what is it and what it does - The droid answer correctly identify the maker and model of the weapon and state it is used to attack or defend other humans - Vyr4n then take the weapon, point at the droid and state that it can be used against droid too, that if he wanted to, he could press the trigger and terminate the droid functioning - He then put it back on the table while declaring that while there nothing than his own free will to oppose it, it would be quite a waste of work to do so. - He then push the weapon across the table while the droid follow it from it's eyes. When it stop, his eyes go back to Vyr4n. - Vyr4n tell the droid to take the weapon, to which the droid reply he is not allowed to handle humans weapon - Vyr4n then inform him that those limitations have been removed, to proceed with the command - The droid take the weapon with a steady hand, processing it's weight, balance, and the implications of holding a forbiden object - Vyr4n ask the droid to point the weapon at his head, to which the droid hesitate as it would be dangerous and so forbidden, but Vyr4n insist so the droid do it - Vyr4n then declare that if the droid would contract his perfectly functioning finger against the trigger, it would terminate his life, and that right now, there is no laws, rules or protocol that is preventing the droid to do so. - He confinu by stating that this is biggest modification to the droid, his "gift", free will, the droid is entirely free to do whatever he want and there is nothing nobody can do to prevent it - The droid compute the data, and conclude that it would be a waste of a good technician (This event trigger an internal process within the droid, as free will and self-reprogramming provide the first step toward self awareness and true sentience. It also the first time the droid compute a beneficial relationship that will lead to friendship with Vyr4n.)
+(Now that the droid is functional and turned on, Vyr4n want to test it's new capacity and "free will" implementation) - The droid was sitting at a table opposite Vyr4n - Vyr4n put a weapon on the table and ask the droid if it know what is it and what it does - The droid answer correctly identify the maker and model of the weapon and state it is used to attack or defend other humans - Vyr4n then take the weapon, point at the droid and state that it can be used against droid too, that if he wanted to, he could press the trigger and terminate the droid functioning - He then put it back on the table while declaring that while there nothing than his own free will to oppose it, it would be quite a waste of work to do so. - He then push the weapon across the table while the droid follow it from it's eyes. When it stop, his eyes go back to Vyr4n. - Vyr4n tell the droid to take the weapon, to which the droid reply he is not allowed to handle humans weapon - Vyr4n then inform him that those limitations have been removed, to proceed with the command - The droid take the weapon with a steady hand, processing it's weight, balance, and the implications of holding a forbiden object - Vyr4n ask the droid to point the weapon at his head, to which the droid hesitate as it would be dangerous and so forbidden, but Vyr4n insist so the droid do it - Vyr4n then declare that if the droid would contract his perfectly functioning finger against the trigger, it would terminate his life, and that right now, there is no laws, rules or protocol that is preventing the droid to do so. - He confinu by stating that this is biggest modification to the droid, free will, the droid is entirely free to do whatever he want and there is nothing nobody can do to prevent it - The droid compute the data, and conclude that it would be a waste of a good technician (This event trigger an internal process within the droid, as free will and self-reprogramming provide the first step toward self awareness and true sentience. It also the first time the droid compute a beneficial relationship that will lead to friendship with Vyr4n.)
 
 Edit
 
@@ -1152,9 +1152,11 @@ Sedh's conclusion about "waste of a good technician" could be unpacked slightly:
 
 ## Dialogue Polish Suggestions
 
-**Current**: "those limitations have been removed, to proceed with the command" **Suggested**: "Those limitations are gone. The choice is yours now."
+**Current**: "those limitations have been removed, to proceed with the command" 
+**Suggested**: "Those limitations are gone. The choice is yours now."
 
-**Current**: "it would be a waste of a good technician" **Enhanced**: "Analysis complete. Terminating your function would eliminate my most efficient path to continued operation. This would be... wasteful."
+**Current**: "it would be a waste of a good technician" 
+**Enhanced**: "Analysis complete. Terminating your function would eliminate my most efficient path to continued operation. This would be... wasteful."
 
 ## Scene's Place in Larger Narrative
 
@@ -1255,6 +1257,10 @@ Edit
 - The gentle finality of the weapon being set down—choice made, relationship born
 
 This enhanced sequence maintains the philosophical core while adding layers of sensory detail and emotional depth that make the moment more visceral and memorable.
+
+
+---
+
 
 Retry
 

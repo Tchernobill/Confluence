@@ -240,21 +240,21 @@ type: Timeline
   - [[Enhancement Timeline#^2115-control-development]]
 - **References**: [[Characters/Vyr4n#Virus Mastery]]
 
-### **2119 (Age 33)** - The Tremblay Takeover ^Tremblay-takeover-2119
-- **Event**: Confrontation with Rico "The Grip" Tremblay leads to syndicate takeover
+### **2119 (Age 33)** - The Vasquez Takeover ^Vasquez-takeover-2119
+- **Event**: Confrontation with Rico "The Grip" Vasquez leads to syndicate takeover
 - **Location**: Rico's headquarters, [[South Shore Slum]]
-- **Trigger**: Tremblay's violent treatment of sex workers
+- **Trigger**: Vasquez's violent treatment of sex workers
 - **Method**: Single combat demonstration, viral nanobotic injection for control
 - **Result**: Assumes leadership of criminal organization
 - **Philosophy**: Protection through control, efficiency over cruelty
 - **Related Events**: 
   - [[Enhancement Timeline#^2119-nanobotic-deployment]]
   - [[Power Timeline#^2119-first-takeover]]
-- **References**: [[Key scenes/04.01 - The Tremblay Takeover]]
+- **References**: [[Key scenes/04.01 - The Vasquez Takeover]]
 
 ### **2121 (Age 35)** - The Lieutenant ^marcus-recruitment-2121
 - **Event**: [[Characters/Marcus]] becomes primary lieutenant and inner circle member
-- **Location**: Former Tremblay territory
+- **Location**: Former Vasquez territory
 - **Organization**: Establishes protection-based governance system
 - **Leadership**: Demonstrates administrative capabilities enhanced by virus
 - **Territory**: Consolidates control over multiple [[South Shore Slum]] sectors
@@ -495,7 +495,7 @@ type: Timeline
 ### **Vyr4n ↔ Enhancement**
 - **2109**: [[#^virus-infection-2109]] - Accidental exposure to psychological warfare nanobots
 - **2115**: [[#^virus-awakening-2115]] - Gains control and electromagnetic abilities
-- **2119**: [[#^Tremblay-takeover-2119]] - First use of abilities for large-scale control
+- **2119**: [[#^Vasquez-takeover-2119]] - First use of abilities for large-scale control
 - **2146**: [[#^messiah-complex-2146]] - Peak enhancement abilities and psychological isolation
 - **2165**: [[#^full-circle-2165]] - Final integration and peaceful death
 

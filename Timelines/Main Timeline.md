@@ -81,8 +81,8 @@ First territory acquisitions using enhanced abilities for control
 Characters: Vyr4n, Sedh, local business owners
 
 03.03.01 - Blood and Steel
-Violent confrontation with Rico Tremblay, criminal organization takeover
-Characters: Vyr4n, Rico Tremblay, Sedh, criminal enforcers
+Violent confrontation with Rico Vasquez, criminal organization takeover
+Characters: Vyr4n, Rico Vasquez, Sedh, criminal enforcers
 
 03.04.01 - Expanding Borders
 Territory consolidation and establishing rule through fear and protection
@@ -189,7 +189,7 @@ Characters: Vyr4n, Isa, Sedh, Mira, Mother (memory), community members
 **Arc-Specific Characters:**
 
 - **Frank**: Arc 2 only (heist leader)
-- **Rico Tremblay**: Arc 3 only (criminal boss overthrown)
+- **Rico Vasquez**: Arc 3 only (criminal boss overthrown)
 - **Corporate Executives**: Arc 4-5 (business/assassination targets)
 - **Democratic Leaders**: Arc 6 (transition partners)
 

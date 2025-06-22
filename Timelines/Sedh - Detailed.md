@@ -226,17 +226,17 @@ type: Timeline
   - [[Power Timeline#^2115-criminal-transformation]]
 - **References**: [[Characters/Sedh#Moral Development]]
 
-### **2119 (Age 32)** - The Tremblay Incident ^Tremblay-witness-2119
-- **Event**: Witnesses [[Vyr4n]]'s takeover of Rico Tremblay's criminal organization
-- **Location**: Tremblay headquarters
+### **2119 (Age 32)** - The Vasquez Incident ^Vasquez-witness-2119
+- **Event**: Witnesses [[Vyr4n]]'s takeover of Rico Vasquez's criminal organization
+- **Location**: Vasquez headquarters
 - **Shock**: First time seeing creator use extreme violence for control
 - **Understanding**: Recognizes necessity while questioning methods
 - **Support**: Provides technical assistance despite moral reservations
 - **Evolution**: Begins developing complex ethics about violence and protection
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^Tremblay-takeover-2119]]
+  - [[Vyr4n Personal Timeline#^Vasquez-takeover-2119]]
   - [[Power Timeline#^2119-criminal-takeover]]
-- **References**: [[Key scenes/04.01 - The Tremblay Takeover]]
+- **References**: [[Key scenes/04.01 - The Vasquez Takeover]]
 
 ### **2121-2128 (Age 34-41)** - Organization Builder ^organization-support
 - **Event**: Helps build and manage [[Vyr4n]]'s expanding criminal organization
