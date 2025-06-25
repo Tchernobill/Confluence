@@ -199,12 +199,12 @@ type: Character Sheet
 
 ### World Interaction & Themes
 
-- **How They Fit into the Setting:** 
+- **How They Fit into the Setting:**
   - Represents the disposable people corporate system creates and discards
   - Embodies the violence necessary to protect meaningful things in hostile world
   - Bridge between corporate ruthlessness and personal loyalty
   - Shows how trauma can be channeled into protective strength
-- **What They Represent in the Narrative:** 
+- **What They Represent in the Narrative:**
   - **Violence and Protection**: How force can serve love rather than destruction
   - **Loyalty and Choice**: Choosing who deserves protection and absolute dedication
   - **Power and Vulnerability**: The paradox of ultimate strength seeking ultimate submission
@@ -224,12 +224,4 @@ type: Character Sheet
   - **Internal**: Balancing protective instincts with Vyr4n's autonomy, processing new experiences of vulnerability
   - **External**: Corporate retaliation, rival assassins, threats to Vyr4n, organizational politics
 
-## Links
-- [[Vyr4n Character Development]]
-- [[Inner Circle Character Dynamics]]
-- [[Corporate Security Background]]
-- [[Intimate Power Dynamics]]
-- [[Violence and Protection Themes]]
-- [[Found Family Relationships]]
-- [[Trauma Recovery and Trust]]
-- [[Mind Connection Consequences]]
+Note: Zara consider herself the top predator in any chain of command, way above her most powerful and dangerous employers, including Vyr4n initially. When she witness some of his abilities, she find in him an apex predator
