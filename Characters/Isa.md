@@ -16,26 +16,26 @@ type: Character Sheet
 
 ## Basic Information
 - **Full Name:** Isa Mercer
-- **Aliases/Nicknames:** "Wire" (underground dealer handle), "M" (close friends)
+- **Aliases/Nicknames:** Unknown
 - **Age:** born 2091
 - **Gender:** Female
 - **Pronouns:** She/Her
 - **Sexual orientation:** Bisexual with preference toward men
 - **Species/Race:** Human
-- **Ethnicity/Cultural Background:** Mixed European/Asian descent, third-generation slum dweller
-- **Nationality/Citizenship:** Neo-South Corporate Zone (technically stateless)
-- **Birthplace:** South Shore Medical District (before it became a slum)
+- **Ethnicity/Cultural Background:** European descent, third-generation slum dweller
+- **Nationality/Citizenship:** Sstateless
+- **Birthplace:** South Shore District (before it became a slum)
 - **Current Residence:** South Shore Slum
-- **Occupation:** Underground implant dealer → Business Operations Manager at Phoenix Recovery
+- **Occupation:** Underground implant dealer → Business Operations Manager
 - **Social Class/Status:** Underground economy mid-tier → Emerging legitimate entrepreneur
 - **Alignment:** Chaotic Good with pragmatic tendencies
-- **Affiliations/Factions:** Independent Dealers Network → Phoenix Recovery Partnership → Slum Merchants Guild
-- **Languages Spoken:** Corporate Standard (fluent), Street Cant (native), Basic Mandarin, Tech Shorthand
+- **Affiliations/Factions:** Independent Dealers Network, Slum Merchants Guild
+- **Languages Spoken:** Corporate Standard (fluent), Street Cant (native)
 - **Religion/Beliefs:** Practical humanism, believes in earned loyalty and second chances
 
 ## Appearance
 - **Height:** 5'5" (165cm)
-- **Build:** Medium build with hidden strength, dancer-like grace
+- **Build:** Medium build
 - **Skin Tone:** Pale from limited sunlight
 - **Hair Color & Style:** Dark brown with subtle red highlights, shoulder-length, often tucked behind ears
 - **Eye Color:** Hazel with gold flecks that become prominent when excited
@@ -43,8 +43,7 @@ type: Character Sheet
   - Lower back tattoo of a snake
   - Bumpy mole on the hip, one nostril barely smaller than the other
   - Small scar on left shoulder (shrapnel from corporate raid)
-  - Intricate circuit-pattern tattoo behind right ear (underground dealer mark)
-  - Callused fingertips from handling tech components
+  - Intricate circuit-pattern UV tattoo behind right ear (underground dealer mark)
 - **Preferred Clothing Style:** Practical street fashion - reinforced leather jacket, fitted pants with hidden pockets, sturdy boots, minimal jewelry
 - **Augmentations/Cybernetics (if any):** Basic health monitor implant, encrypted comm unit (subdermal), enhanced reflexes (minor muscle twitch accelerators)
 
@@ -53,7 +52,7 @@ type: Character Sheet
 - **Strengths:** Reading people, building trust networks, crisis management, emotional resilience, business intuition
 - **Weaknesses:** Sometimes have self-esteem issues, struggles with abandonment issues, can be overly protective
 - **Fears & Traumas:** 
-  - Deep fear of abandonment (lost parents to corpo violence at age 12)
+  - Deep fear of abandonment
   - Fear of deep commitment
   - Anxiety around corporate security forces
 - **Goals & Aspirations:**
@@ -64,7 +63,6 @@ type: Character Sheet
 - **Hobbies & Interests:** Collecting vintage music files, improvised cooking, people-watching
 - **Quirks & Habits:**
   - Have a warm high-pitch hyena-like laugh.
-  - Often sits with back to walls
   - Unconsciously mirrors other people's posture
   - Hums while working with her hands
 - **Mannerisms & Speech Patterns:** 
@@ -73,24 +71,23 @@ type: Character Sheet
   - Touches people casually when comfortable
   - Raises eyebrow when skeptical
 - **Moral Philosophy:** Actions define people more than origins; not everything need a label; loyalty is earned through consistency, not words
-- **How They View Authority/Society:** Naturaly inclined to moraly flexible; Deeply suspicious of corporate power structures, believes in grassroots community building
+- **How They View Authority/Society:** Naturaly inclined to moraly flexible
 - **Greatest Regret:** Not being able to save her parents from corporate "pacification"
-- **Greatest Joy:** Watching Vyr4n's rare genuine smiles, successful business deals that help people
+- **Greatest Joy:** Successful business deals that help people
 
 ## Abilities & Powers
 - **Natural Talents:** Emotional intelligence, pattern recognition in human behavior, natural charisma, strong memory for faces and names
 - **Trained Skills:** 
   - Advanced negotiation and mediation
   - Underground network navigation
-  - Basic electronics (learned from Vyr4n)
+  - Basic electronics
   - Business management and accounting
   - Street survival and urban parkour
-- **Combat Abilities (Melee, Firearms, Magic, etc.):** 
+- **Combat Abilities:** 
   - Proficient with mono-blade and shock batons
   - Basic firearms training
   - Excellent at improvised weapons
   - Prefers evasion and de-escalation to direct combat
-- **Supernatural/Magical Abilities (if any):** None
 - **Technological Proficiency (Hacking, Engineering, etc.):** 
   - Basic implant installation and maintenance
   - Business software systems
@@ -101,14 +98,14 @@ type: Character Sheet
   - Basic health monitoring system
   - Minor muscle twitch accelerators (legal enhancement)
 - **Weaknesses & Limitations:** 
-  - Limited technical expertise compared to Vyr4n
+  - Limited technical expertise
   - Vulnerable to emotional manipulation through people she cares about
   - Sensitive to self-doubts when it's about herself
 
 ## Equipment & Resources
 - **Weapons:** Custom mono-blade (gift from early client), compact shock baton, small-caliber holdout pistol
 - **Armor/Defensive Gear:** Reinforced leather jacket with basic armor plating, personal armored jacket (medium-grade)
-- **Vehicles:** Modified electric motorcycle (silent running), occasionally borrows Phoenix Recovery van
+- **Vehicles:** Modified electric motorcycle (silent running)
 - **Gadgets & Tools:** 
   - Encrypted communication suite
   - Basic tech repair kit
@@ -236,12 +233,3 @@ Isa serves multiple crucial narrative roles:
 - Often asks clarifying questions to ensure understanding
 - Tendency to touch people while talking when comfortable
 - Uses humor to defuse tension but never at someone's expense
-
-## Links
-- [[Vyr4n Character Development]]
-- [[Phoenix Recovery Business Operations]]
-- [[Underground Economy Social Dynamics]]
-- [[Found Family Relationship Patterns]]
-- [[Cyberpunk Romance Themes]]
-- [[Business Legitimization Process]]
-- [[Trauma Recovery and Relationships]]
