@@ -32,6 +32,11 @@ type: Scene
 - Those will be used to craft the scene
 - Into proper story text
 
+## Details to observe
+
+- Detail 1
+- Detail 2
+
 ## The Scene
 
 Text of the scene
