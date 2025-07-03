@@ -3,9 +3,13 @@ première impression first reading :
 - key scene : Riot night
 
 la sex scene 💜  
+
 J'aurais aimé que ca soit vary4n qui l'embrasse first ou au moins sentir qu'il y pense ... limite qu'il est surpris ? je sais pas je le sens vraiment passif au moment ou il comprends se qui se passe,  ye comme ni enthousiate, ni vraiment allumé, genre il suit son lead passivement comme s'il navait jamais ressenti aucun désir pour elle pis qu'il sapprete à aller faire un pic nic... jaurais aimé le sentir plus destabilisé ou super hype pis quil se gère genre ?  
+
 mais sinon, j'aime leur dynamique pis le lead doux de Isa.  jaime quelle est hyper attiré par le fait quil essait pas de manipuler la situation pour obtenir du sexe.  jaurais juste voulu le sentir plus consentant, ya presque l'air puceaux, à chaque fois qu'il refere à des experiences passée je suis destabilisée 😆😆😆.
+
 Le clin d'oeil à sa reaction quand ses levres effleurent sa nuque, l'odeur de ses cheveux. le mélange de son regard hyper technique mais la charge hyper sensorielle en meme temps 💜 la façon dont la scene se déroule en éclairs sensuels où ya tout pis rien en meme temps. la charge d'un doigt qui glisse sur une épaule plus significative pis en contrast avec le sexe anonyme et mécanique qu'il connait, j'adore. j'ai deja de la peine de savoir qu'elle va s'effacer du récit. bref la sex scene 🥰😍😍  
+
 j'ai aussi sincèrement sourie a la façon hyper detachée et robotisée dont il s'occupe d'elle sans rien attendre, comme si cetait la seule chose logique à faire dans un monde où, jen comprends, la laisserait mourir sans jeter un oeil pour ne pas sacrifier leur securité.  elle fait visiblement partie de son close circle sans que ce soit dit.  encore une fois wonderfull job sur le show dont tell.
 
 
