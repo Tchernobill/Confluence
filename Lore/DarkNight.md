@@ -1,4 +1,4 @@
-**The Midnight Protocol** (designated **TMP-7734** in classified documentation) is an experimental nano-viral psychological warfare system rumored to have been developed in the late 2080s. Described in underground networks as the "ultimate torture device," TMP represents a convergence of advanced nanotechnology, neural mapping, and psychological manipulation techniques.
+**DarkNight** (designated **TMP-7734** in classified documentation) is an experimental nano-viral psychological warfare system rumored to have been developed in the late 2080s. Described in underground networks as the "ultimate torture device," DN represents a convergence of advanced nanotechnology, neural mapping, and psychological manipulation techniques.
 
 ## Classification and Designation
 
@@ -11,10 +11,10 @@
 ## Technical Specifications
 
 ### Delivery Mechanism
-TMP allegedly utilizes microscopic nanobots engineered for singular host targeting. Unlike traditional biological viruses, TMP is designed as a precision weapon incapable of person-to-person transmission. The nanobots reportedly measure between 10-50 nanometers and are constructed from self-assembling carbon lattices with embedded neural interface processors.
+DarkNight allegedly utilizes microscopic nanobots engineered for singular host targeting. Unlike traditional biological viruses, DarkNight is designed as a single target weapon, not attempting person-to-person transmission. The nanobots reportedly measure between 10-50 nanometers and are constructed from self-assembling carbon lattices with embedded neural interface processors.
 
 ### Neural Integration Process
-Upon introduction to the host's bloodstream, TMP nanobots cross the blood-brain barrier within 6-12 hours. The integration occurs in three documented phases:
+Upon introduction to the host's bloodstream, DarkNight nanobots cross the blood-brain barrier within 6-12 hours. The integration occurs in three documented phases:
 
 **Phase I - Reconnaissance (Days 1-7):**
 - Nanobots map neural pathways using micro-electrical impulse tracking
@@ -32,7 +32,7 @@ Upon introduction to the host's bloodstream, TMP nanobots cross the blood-brain 
 - Implementation of isolation protocols through manufactured paranoia
 
 ### Command and Control Architecture
-TMP employs a sophisticated distributed C2 system utilizing encrypted communications between nanobots. This network, codenamed "Neurosyn," operates on frequencies between 0.1-4 Hz, mimicking natural brainwave patterns to avoid detection by standard neural scanning equipment.
+DarkNight employs a sophisticated distributed C2 system utilizing encrypted communications between nanobots. This network operate in the low-power 10GHz range but is able to operates on frequencies between 0.1-4 Hz, mimicking natural brainwave patterns to avoid detection by standard neural scanning equipment.
 
 The system reportedly includes:
 - **Primary Control Hub:** Located in the host's amygdala
@@ -42,7 +42,7 @@ The system reportedly includes:
 ## Psychological Effects and Symptomatology
 
 ### Primary Effects
-TMP's capabilities center on inducing severe psychological distress through perception manipulation:
+DarkNight's capabilities center on inducing severe psychological distress through perception manipulation:
 
 - **Customized Fear Induction:** Nanobots analyze the host's deepest fears and manifest them as hyper-realistic hallucinations
 - **Temporal Distortion:** Victims report experiencing hours or days of torment within minutes of real time
@@ -50,13 +50,13 @@ TMP's capabilities center on inducing severe psychological distress through perc
 - **Memory Palace Invasion:** The virus allegedly accesses and corrupts cherished memories
 
 ### Safety Protocols
-Perhaps most insidiously, TMP includes built-in safeguards to prevent the host's escape through suicide:
+Perhaps most insidiously, DarkNight includes built-in safeguards to prevent the host's escape through suicide:
 - **Motor Override System:** Intercepts voluntary movement signals directed toward self-harm
 - **Survival Instinct Amplification:** Hijacks primal survival mechanisms to maintain host viability
 - **Pain Threshold Management:** Modulates suffering to remain below levels that might cause psychological shutdown
 
 ### Escalation Patterns
-TMP may override moral inhibitions, compelling hosts to:
+DarkNight may override moral inhibitions, compelling hosts to:
 - Harm loved ones while maintaining awareness of their actions
 - Perform acts that create maximum psychological damage to themselves
 - Become unwilling agents for spreading terror within their social circles
@@ -64,7 +64,7 @@ TMP may override moral inhibitions, compelling hosts to:
 ## Rumored Origins and Development
 
 ### Project Morpheus
-Underground sources reference TMP as the culmination of "Project Morpheus," an alleged black-budget psychological warfare program. Supposed development involved:
+Underground sources reference DarkNight as the culmination of "The Mignight Protocol," an alleged black-budget psychological warfare program. Supposed development involved:
 
 - **Neural mapping data** harvested from illegal human experimentation
 - **Advanced AI algorithms** for real-time psychological modeling
@@ -77,9 +77,9 @@ Speculation within cyberpunk underground networks points to several possible ori
 ## Vulnerabilities
 
 ### The Lazarus Backdoor
-TMP allegedly contains a hidden access point, codenamed "Lazarus," theoretically allowing for system shutdown. This backdoor reportedly requires:
+DarkNight allegedly contains a hidden access point, codenamed "Lazarus," theoretically allowing for system shutdown. This backdoor reportedly requires:
 
-- **Unique Decryption Key:** A 2048-bit encrypted code specific to each TMP instance
+- **Unique Decryption Key:** A 2048-bit encrypted code specific to each DarkNight instance
 - **Neural Interface Access:** Direct connection to the host's neural implants or external brain-computer interface
 - **Administrative Override Protocol:** A specific command sequence that varies per deployment
 
@@ -88,22 +88,22 @@ Access to the Lazarus backdoor remains purely theoretical, as no verified method
 ## Cultural Impact and Urban Legend Status
 
 ### Underground Networks
-TMP has achieved mythical status within cyberpunk subcultures, with numerous claimed "survivor" accounts circulating on darknet forums. These testimonials, while unverified, contribute to the virus's psychological impact even as rumor.
+DarkNight has achieved mythical status within cyberpunk subcultures, with numerous claimed "survivor" accounts circulating on darknet forums. These testimonials, while unverified, contribute to the virus's psychological impact even as rumor.
 
 ### Corporate Implications
 Several major corporations in the cybernetics industry have issued public denials of TMP's existence, leading to increased speculation about cover-ups and black projects.
 
 ### Influence on Digital Security
-Whether real or fictional, TMP has influenced the development of:
+Whether real or fictional, DarkNight has influenced the development of:
 - Advanced neural firewall systems
 - Encrypted brain-computer interfaces
 - Ethical protocols for neurotechnology development
 
 ## Verification Status
 
-No verified instances of TMP infection have been documented by any official medical or security organization. The virus remains classified as:
+No verified instances of DarkNight infection have been documented by any official medical or security organization. The virus remains classified as:
 - **Medical Status:** Unconfirmed/mythical
 - **Security Assessment:** Theoretical threat
 - **Research Classification:** Urban legend with potential basis in classified programs
 
-Intelligence agencies neither confirm nor deny TMP's existence, citing standard policies regarding classified psychological warfare research.
+Intelligence agencies neither confirm nor deny DarkNight's existence, citing standard policies regarding classified psychological warfare research.
