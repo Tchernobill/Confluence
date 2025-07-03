@@ -34,7 +34,7 @@ type: Character Sheet
 - **Religion/Beliefs:** Practical humanism, believes in earned loyalty and second chances
 
 ## Appearance
-- **Height:** 5'5" (165cm)
+- **Height:** 5'6" (168cm)
 - **Build:** Medium build
 - **Skin Tone:** Pale from limited sunlight
 - **Hair Color & Style:** Dark brown with subtle red highlights, shoulder-length, often tucked behind ears
