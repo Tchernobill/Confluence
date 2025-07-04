@@ -23,7 +23,7 @@ type: Character Sheet
 - **Sexual orientation:** Bisexual with preference toward men
 - **Species/Race:** Human
 - **Ethnicity/Cultural Background:** European descent, third-generation slum dweller
-- **Nationality/Citizenship:** Sstateless
+- **Nationality/Citizenship:** Stateless
 - **Birthplace:** South Shore District (before it became a slum)
 - **Current Residence:** South Shore Slum
 - **Occupation:** Underground implant dealer → Business Operations Manager
