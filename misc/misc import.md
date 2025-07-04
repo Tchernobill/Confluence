@@ -22,7 +22,13 @@
 
 ## Physical Evolution Through Time
 
-**Ages 16-25:** Lean scavenger build, calloused hands, wary eyes that rarely make direct contact **Ages 26-35:** Fills out slightly, develops confident bearing, begins to command attention without seeking it **Ages 36-50:** Peak physical condition enhanced by virus, moves with predatory grace, eyes gain electric intensity **Ages 51-65:** Imposing presence, shoulders broader from carrying authority, silver threading through hair **Ages 66-75:** Shows first signs of age but still formidable, eyes softer but deeper **Ages 76-90:** Maintains surprising vitality, develops gentle bearing, silver hair worn longer **Ages 91-100:** Physically diminished but retains dignity, eyes hold century of wisdom
+**Ages 16-25:** Lean scavenger build, calloused hands, wary eyes that rarely make direct contact 
+**Ages 26-35:** Fills out slightly, develops confident bearing, begins to command attention without seeking it 
+**Ages 36-50:** Peak physical condition enhanced by virus, moves with predatory grace, eyes gain electric intensity 
+**Ages 51-65:** Imposing presence, shoulders broader from carrying authority, silver threading through hair 
+**Ages 66-75:** Shows first signs of age but still formidable, eyes softer but deeper 
+**Ages 76-90:** Maintains surprising vitality, develops gentle bearing, silver hair worn longer 
+**Ages 91-100:** Physically diminished but retains dignity, eyes hold century of wisdom
 
 ## Psychological Progression
 
@@ -105,7 +111,11 @@
 
 ## Internal Monologue Evolution
 
-**Early:** _Stay quiet. Stay hidden. Fix what's broken._ **Middle:** _Protect them. Control them. They need me to decide._ **Dark:** _I am their god. I am their monster. Same thing._ **Redemptive:** _What have I done? How do I undo this? Can I still choose differently?_ **Peaceful:** _The garden grows. The silence speaks. Time flows like water._
+**Early:** _Stay quiet. Stay hidden. Fix what's broken._ 
+**Middle:** _Protect them. Control them. They need me to decide._ 
+**Dark:** _I am their god. I am their monster. Same thing._ 
+**Redemptive:** _What have I done? How do I undo this? Can I still choose differently?_ 
+**Peaceful:** _The garden grows. The silence speaks. Time flows like water._
 
 This character framework provides the foundation for a century-spanning narrative where Vyr4n's silence becomes more eloquent than most people's speeches, and his journey from broken scavenger to gentle gardener explores themes of power, responsibility, redemption, and what it truly means to protect those we love.
 
