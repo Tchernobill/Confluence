@@ -2,7 +2,7 @@
 
 ## Exterior Approach
 
-Isa's unit occupies the seventh level of Block 12 in the Brossard Industrial Stack - high enough to avoid the worst of the ground-level chaos but not so high as to draw unwanted attention from gang leaders. The external approach reveals subtle signs of her elevated status: the metal grating walkway outside her door is reinforced with additional welding, and a small security camera - military surplus but functional - watches the corridor with a soft blue LED.
+Isa's unit occupies the seventh level of Block 12 in the Bross Residential Stack - high enough to avoid the worst of the ground-level chaos but not so high as to draw unwanted attention from gang leaders. The external approach reveals subtle signs of her elevated status: the metal grating walkway outside her door is reinforced with additional welding, and a small security camera - military surplus but functional - watches the corridor with a soft blue LED.
 
 Two shipping containers have been joined lengthwise, their adjoining walls removed to create a space roughly 12 meters long and 2.4 meters wide. The exterior still bears the industrial markings of their previous lives: "HAPAG-LLOYD" stenciled in faded orange on one side, "MAERSK" in blue on the other. But the modifications speak of careful planning and available resources.
 
@@ -10,7 +10,7 @@ Two shipping containers have been joined lengthwise, their adjoining walls remov
 
 On the riverside face, two rectangular windows have been professionally cut - not the rough hacksaw work typical of most Stack conversions. Each opening is 1.2 meters wide by 80 centimeters tall, fitted with actual glass panes rather than plastic sheeting. The frames are reinforced aluminum, likely salvaged from a demolished office building, and they actually open and close smoothly on maintenance-free hinges.
 
-During the day, these windows provide a view across the industrial haze toward the gleaming towers of the Citadel. At night, they reveal the constellation of lights from neighboring Stack blocks - thousands of small windows creating a cityscape of vertical communities stretching into the distance.
+During the day, these windows provide a view across the smog haze toward the gleaming towers of the Citadel. At night, they reveal the constellation of lights from neighboring Stack blocks - thousands of small windows creating a cityscape of vertical communities stretching into the distance.
 
 ## Interior Layout
 
@@ -36,7 +36,7 @@ The front container has been converted into a sophisticated business space that 
 Hidden behind what appears to be decorative wall panels, climate-controlled storage maintains optimal conditions for delicate neural hardware. Temperature and humidity sensors ensure inventory remains pristine. The storage system is modular - different compartments for different implant categories, each with its own environmental controls.
 
 ### Living Space (Second Container)
-The rear container feels surprisingly spacious despite the constraints. The ceiling has been raised slightly by cutting into the corrugated roof and installing a flat panel, gaining precious centimeters of headroom. Insulation has been properly installed - not just stuffed into gaps but systematically applied with vapor barriers.
+The rear container feels surprisingly spacious despite the constraints. Insulation has been properly installed - not just stuffed into gaps but systematically applied with vapor barriers.
 
 **Sleeping Area:**
 - A platform bed built into one corner, elevated for secure storage underneath
@@ -89,10 +89,8 @@ Payment processing happens in full view of security systems but shielded from ex
 ## Contrast with Standard Stack Housing
 
 **Typical Stack Commerce:**
-- Open-air market stalls vulnerable to weather and theft
 - No climate control for sensitive inventory
 - Minimal security beyond personal weapons
-- Public transactions with no privacy
 - Crude lighting and environmental conditions
 
 **Isa's Professional Setup:**
