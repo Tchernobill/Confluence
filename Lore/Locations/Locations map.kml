@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>South Shore Slum - Neo-Montreal</name>
+    <description><![CDATA[
+      <h2>The South Shore Slum</h2>
+      <p>A dystopian mega-settlement housing over 3.2 million souls, stretching from the polluted banks of the St. Lawrence River to the toxic mining territories near the US border.</p>
+      <p><b>Total Population:</b> 3.2 million<br/>
+      <b>Stack Population:</b> 1.3 million<br/>
+      <b>Territory:</b> Former suburban Montreal communities</p>
+    ]]></description>
+    
+    <!-- Styles for different types of locations -->
+    <Style id="majorStack">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.5</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/industrial.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+        <scale>1.2</scale>
+      </LabelStyle>
+    </Style>
+    
+    <Style id="mediumStack">
+      <IconStyle>
+        <color>ff00ffff</color>
+        <scale>1.0</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ffff</color>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+    
+    <Style id="smallStack">
+      <IconStyle>
+        <color>ff00ff00</color>
+        <scale>0.8</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ff00</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    
+    <Style id="slumBoundary">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>220000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+
+    <!-- South Shore Slum Boundary -->
+    <Placemark>
+      <name>South Shore Slum Territory</name>
+      <description><![CDATA[
+        <h3>South Shore Slum Boundary</h3>
+        <p>The vast industrial wasteland representing one of North America's largest unincorporated urban zones.</p>
+        <ul>
+          <li><b>Total Area:</b> ~2,000 km²</li>
+          <li><b>Population:</b> 3.2 million</li>
+          <li><b>Status:</b> Unincorporated mega-settlement</li>
+          <li><b>Environment:</b> Heavily polluted industrial zone</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#slumBoundary</styleUrl>
+      <Polygon>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -73.2,45.35,0
+              -72.8,45.35,0
+              -72.8,45.0,0
+              -73.6,45.0,0
+              -73.6,45.25,0
+              -73.2,45.35,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+
+    <!-- Major Stack Complexes -->
+    <Placemark>
+      <name>Longueuil Central Stack</name>
+      <description><![CDATA[
+        <h3>Longueuil Central Stack</h3>
+        <p><b>The largest and most infamous Stack complex</b></p>
+        <ul>
+          <li><b>Size:</b> 30 blocks (5×6 grid)</li>
+          <li><b>Population:</b> ~190,000 residents</li>
+          <li><b>Dimensions:</b> 2km long × 1km wide urban canyon</li>
+          <li><b>Height:</b> 39 meters (13 stories)</li>
+        </ul>
+        <p><b>Features:</b></p>
+        <ul>
+          <li>Central courtyard with underground market access</li>
+          <li>Rooftop gardens and communication arrays</li>
+          <li>The infamous "Stack Exchange" trading post</li>
+          <li>Multiple gang territories with clear boundaries</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#majorStack</styleUrl>
+      <Point>
+        <coordinates>-73.518,45.531,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Brossard Industrial Stack</name>
+      <description><![CDATA[
+        <h3>Brossard Industrial Stack</h3>
+        <p><b>Container blocks integrated with factory infrastructure</b></p>
+        <ul>
+          <li><b>Size:</b> 25 blocks in distributed clusters</li>
+          <li><b>Population:</b> ~160,000 residents</li>
+          <li><b>Function:</b> Housing above, manufacturing below</li>
+        </ul>
+        <p><b>Characteristics:</b></p>
+        <ul>
+          <li>Steam and smoke creating perpetual haze</li>
+          <li>Containers on concrete foundations</li>
+          <li>Heavy electrical networks</li>
+          <li>Constant manufacturing noise</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#majorStack</styleUrl>
+      <Point>
+        <coordinates>-73.465,45.458,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Saint-Hubert Transport Hub</name>
+      <description><![CDATA[
+        <h3>Saint-Hubert Transport Hub</h3>
+        <p><b>Strategic control of transport corridors and mining access</b></p>
+        <ul>
+          <li><b>Size:</b> 20 blocks along transport corridors</li>
+          <li><b>Population:</b> ~125,000 residents</li>
+          <li><b>Location:</b> Former Saint-Hubert airport</li>
+        </ul>
+        <p><b>Features:</b></p>
+        <ul>
+          <li>Linear "container highways"</li>
+          <li>Security towers and observation posts</li>
+          <li>Controlled access checkpoints</li>
+          <li>Famous "Airstrip Market" on old runway</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#majorStack</styleUrl>
+      <Point>
+        <coordinates>-73.414,45.517,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Greenfield Waste Stack</name>
+      <description><![CDATA[
+        <h3>Greenfield Waste Stack</h3>
+        <p><b>The most dangerous and polluted complex</b></p>
+        <ul>
+          <li><b>Size:</b> 15 blocks in defensive formation</li>
+          <li><b>Population:</b> ~95,000 residents</li>
+          <li><b>Environment:</b> Built on toxic contaminated soil</li>
+        </ul>
+        <p><b>Environmental Hazards:</b></p>
+        <ul>
+          <li>Sickly green luminescence visible at night</li>
+          <li>Chemical smell and toxic fog</li>
+          <li>Higher mutation and illness rates</li>
+          <li>Specialized radiation treatment facilities</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#majorStack</styleUrl>
+      <Point>
+        <coordinates>-73.469,45.496,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Medium Stack Clusters -->
+    <Placemark>
+      <name>Boucherville Cluster</name>
+      <description><![CDATA[
+        <h3>Boucherville Medium Stack</h3>
+        <ul>
+          <li><b>Size:</b> 8 blocks in defensive square</li>
+          <li><b>Population:</b> ~50,000 residents</li>
+          <li><b>Specialty:</b> Salvage operations</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#mediumStack</styleUrl>
+      <Point>
+        <coordinates>-73.443,45.591,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Chambly Cluster</name>
+      <description><![CDATA[
+        <h3>Chambly Medium Stack</h3>
+        <ul>
+          <li><b>Size:</b> 6 blocks in L-formation</li>
+          <li><b>Population:</b> ~40,000 residents</li>
+          <li><b>Specialty:</b> Clean water access point</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#mediumStack</styleUrl>
+      <Point>
+        <coordinates>-73.284,45.449,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Varennes Cluster</name>
+      <description><![CDATA[
+        <h3>Varennes Medium Stack</h3>
+        <ul>
+          <li><b>Size:</b> 7 blocks clustered around river access</li>
+          <li><b>Population:</b> ~45,000 residents</li>
+          <li><b>Specialty:</b> Water transport and smuggling</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#mediumStack</styleUrl>
+      <Point>
+        <coordinates>-73.428,45.684,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Border Outposts -->
+    <Placemark>
+      <name>Citadel Border Outpost</name>
+      <description><![CDATA[
+        <h3>Citadel Perimeter Outpost</h3>
+        <ul>
+          <li><b>Size:</b> 3 blocks in watchtower formation</li>
+          <li><b>Population:</b> ~20,000 residents</li>
+          <li><b>Function:</b> Border surveillance and control</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#smallStack</styleUrl>
+      <Point>
+        <coordinates>-73.600,45.400,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Mining Territory Gateway</name>
+      <description><![CDATA[
+        <h3>Mining Territory Access Point</h3>
+        <ul>
+          <li><b>Size:</b> 4 blocks controlling access road</li>
+          <li><b>Population:</b> ~25,000 residents</li>
+          <li><b>Function:</b> Mining operation support base</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#smallStack</styleUrl>
+      <Point>
+        <coordinates>-72.900,45.100,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Small Settlement Stacks -->
+    <Placemark>
+      <name>Scrapyard Outpost Alpha</name>
+      <description><![CDATA[
+        <h3>Rural Scrapyard Outpost</h3>
+        <ul>
+          <li><b>Size:</b> 2 blocks</li>
+          <li><b>Population:</b> ~15,000 residents</li>
+          <li><b>Function:</b> Metal salvage and processing</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#smallStack</styleUrl>
+      <Point>
+        <coordinates>-73.200,45.200,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Agricultural Processing Center</name>
+      <description><![CDATA[
+        <h3>Food Production Outpost</h3>
+        <ul>
+          <li><b>Size:</b> 3 blocks with rooftop gardens</li>
+          <li><b>Population:</b> ~20,000 residents</li>
+          <li><b>Function:</b> Hydroponic farming and food processing</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#smallStack</styleUrl>
+      <Point>
+        <coordinates>-73.100,45.300,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Eastern Wasteland Outpost</name>
+      <description><![CDATA[
+        <h3>Wasteland Defense Position</h3>
+        <ul>
+          <li><b>Size:</b> 2 blocks in defensive formation</li>
+          <li><b>Population:</b> ~18,000 residents</li>
+          <li><b>Function:</b> Anti-raider defense and early warning</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#smallStack</styleUrl>
+      <Point>
+        <coordinates>-72.950,45.250,39</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- St. Lawrence River pollution marker -->
+    <Placemark>
+      <name>Polluted St. Lawrence Shoreline</name>
+      <description><![CDATA[
+        <h3>Contaminated Waterway</h3>
+        <p>Industrial runoff has turned this section of the St. Lawrence River into a toxic waterway that glows with chemical contamination.</p>
+        <ul>
+          <li><b>Pollution Level:</b> Extreme</li>
+          <li><b>Visual Effect:</b> Sickly luminescence</li>
+          <li><b>Usage:</b> Industrial waste disposal</li>
+        </ul>
+      ]]></description>
+      <styleUrl>#smallStack</styleUrl>
+      <Point>
+        <coordinates>-73.400,45.650,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
