@@ -13,37 +13,35 @@ type: Scene
 ---
 
 ## Scene Information
-- **Summary**: 
-- **POV Character(s)**: 
-- **Timeline**: 
-- **Location(s)**: 
-- **Key Events**: 
-- **Character Developments**: 
-- **Plot Advances**: 
-- **Objects/Items Introduced**: 
-- **Scene Goal**: 
-- **Scene Mood/Tone**: 
-- **Transition to Next Scene**: 
+
+- **Summary**:
+- **POV Character(s)**:
+- **Timeline**:
+- **Location(s)**:
+- **Key Events**:
+- **Forshadowing Events**:
+- **Character Developments**:
+- **Plot Advances**:
+- **Objects/Items Introduced**:
+- **Scene Goal**:
+- **Scene Mood/Tone**:
+- **Transition to Next Scene**:
+
 ---
 
 ## The Events
 
 - Concise list of event
 - Those will be used to craft the scene
-- Into proper story text
+- The proper story text will be contain in a different text file
 
 ## Details to observe
 
 - Detail 1
 - Detail 2
 
-## The Scene
-
-Text of the scene
-
----
-
 ## Discutions
+
 **Why this works:**
 
 - [Point 01]
@@ -61,5 +59,7 @@ Text of the scene
 - Element 1
 - Element 2
 - Element 3
+
+**Foreshadowing Elements:**
 
 ---

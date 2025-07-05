@@ -137,57 +137,57 @@ Chapter Summaries
 
 ### **Chapter 1: The Artisan's World** (Establishing Status Quo)
 
-- **1.01** - Vyr4n's morning routine and dream (as written)
-- **1.02** - Market setup and early client interactions (establishing his reputation)
-- **1.03** - Complex repair job showcases his exceptional skills to watching crowd
-- **1.04** - Corporate enforcer harassment (minor confrontation, sets up tension)
-- **1.05** - Return to hideout, maintenance routines, hints of loneliness
-- **1.06** - Evening reflection on his isolated existence, foreshadowing change
+- **01.01** - Vyr4n's morning routine and dream (as written)
+- **01.02** - Market setup and early client interactions (establishing his reputation)
+- **01.03** - Complex repair job showcases his exceptional skills to watching crowd
+- **01.04** - Corporate enforcer harassment (minor confrontation, sets up tension)
+- **01.05** - Return to hideout, maintenance routines, hints of loneliness
+- **01.06** - Evening reflection on his isolated existence, foreshadowing change
 
 ### **Chapter 2: First Contact** (The Catalyst)
 
-- **2.01** - Isa researching "The Artisan" through street contacts and reputation
-- **2.02** - Isa's first approach with the military-grade implant job
-- **2.03** - Vyr4n's careful assessment of the job and Isa's credibility
-- **2.04** - The successful 95% data recovery (proving his worth)
-- **2.05** - Isa's impressed reaction and offer of premium components
-- **2.06** - Professional transaction concluded, both intrigued by the other
+- **02.01** - Isa researching "The Artisan" through street contacts and reputation
+- **02.02** - Isa's first approach with the military-grade implant job
+- **02.03** - Vyr4n's careful assessment of the job and Isa's credibility
+- **02.04** - The successful 95% data recovery (proving his worth)
+- **02.05** - Isa's impressed reaction and offer of premium components
+- **02.06** - Professional transaction concluded, both intrigued by the other
 
 ### **Chapter 3: Professional Partnership** (Building Trust)
 
-- **3.01** - Isa returns with second, more complex commission
-- **3.02** - Vyr4n tackles increasingly sophisticated technical challenges
-- **3.03** - Brief conversations during work reveal mutual respect for competence
-- **3.04** - Third commission - Isa testing Vyr4n's limits and discretion
-- **3.05** - Successful completion, payment in rare components
-- **3.06** - First hints of personal chemistry beneath professional facade
+- **03.01** - Isa returns with second, more complex commission
+- **03.02** - Vyr4n tackles increasingly sophisticated technical challenges
+- **03.03** - Brief conversations during work reveal mutual respect for competence
+- **03.04** - Third commission - Isa testing Vyr4n's limits and discretion
+- **03.05** - Successful completion, payment in rare components
+- **03.06** - First hints of personal chemistry beneath professional facade
 
 ### **Chapter 4: Crossing Lines** (Deepening Connection)
 
-- **4.01** - Isa brings job requiring extended collaboration
-- **4.02** - Working closely together, barriers begin to lower
-- **4.03** - Shared meal during long repair session, personal conversation
-- **4.04** - Corporate enforcers return with escalated threats
-- **4.05** - Vyr4n's combat skills fully revealed defending them both
-- **4.06** - Mutual attraction acknowledged but unacted upon (Vyr4n's guardedness)
+- **04.01** - Isa brings job requiring extended collaboration
+- **04.02** - Working closely together, barriers begin to lower
+- **04.03** - Shared meal during long repair session, personal conversation
+- **04.04** - Corporate enforcers return with escalated threats
+- **04.05** - Vyr4n's combat skills fully revealed defending them both
+- **04.06** - Mutual attraction acknowledged but unacted upon (Vyr4n's guardedness)
 
 ### **Chapter 5: Sanctuary** (Crisis and Intimacy)
 
-- **5.01** - EMP incident triggers full-scale riot across South Shore Slum
-- **5.02** - Isa injured in chaos, Vyr4n makes critical decision to breach his sanctuary
-- **5.03** - Rescue and retreat to ventilation shaft hideout (Sedh discovery)
-- **5.04** - Tending Isa's wounds, sharing limited resources
-- **5.05** - Long night together, intimate conversations about their pasts
-- **5.06** - Isa initiates physical intimacy, breaking Vyr4n's emotional barriers
+- **05.01** - EMP incident triggers full-scale riot across South Shore Slum
+- **05.02** - Isa injured in chaos, Vyr4n makes critical decision to breach his sanctuary
+- **05.03** - Rescue and retreat to ventilation shaft hideout (Sedh discovery)
+- **05.04** - Tending Isa's wounds, sharing limited resources
+- **05.05** - Long night together, intimate conversations about their pasts
+- **05.06** - Isa initiates physical intimacy, breaking Vyr4n's emotional barriers
 
 ### **Chapter 6: Awakening** (Transformation)
 
-- **6.01** - Morning after, new dynamic between them established
-- **6.02** - Sedh's initial activation and first responses
-- **6.03** - Discussion of the mysterious implant: Analysis of the unknown-origin implant Isa brought just before the EMP incident
-- **6.04** - Leaving the sanctuary and assessing riot aftermath from ventilation shaft exit, navigating damaged South Shore Slum streets together, Vyr4n's anxiety about exposing his secret location
-- **6.05** - Journey to The Stack: Traveling through post-riot city to Isa's double container unit in The Stack, Vyr4n seeing her living space and getting glimpse into her world/resources
-- **6.06** - Decision to work together permanently, status quo officially broken
+- **06.01** - Morning after, new dynamic between them established
+- **06.02** - Sedh's initial activation and first responses
+- **06.03** - Discussion of the mysterious implant: Analysis of the unknown-origin implant Isa brought just before the EMP incident
+- **06.04** - Leaving the sanctuary and assessing riot aftermath from ventilation shaft exit, navigating damaged South Shore Slum streets together, Vyr4n's anxiety about exposing his secret location
+- **06.05** - Journey to The Stack: Traveling through post-riot city to Isa's double container unit in The Stack, Vyr4n seeing her living space and getting glimpse into her world/resources
+- **06.06** - Decision to work together permanently, status quo officially broken
 
 **Key Scenes**:
 
