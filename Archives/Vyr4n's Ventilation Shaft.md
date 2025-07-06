@@ -62,7 +62,7 @@ Minimal illumination comes from custom LED strips that produce just enough light
 The shaft remains remarkably quiet despite its urban location. Thick concrete walls muffle most surface noise, while the underground location provides natural sound dampening. The constant whisper of air movement through legitimate building ventilation systems masks any noise from Vyr4n's activities.
 
 ### Air Quality
-A discrete air circulation system maintains breathable atmosphere without announcing human habitation. Activated carbon filters remove odors, while a small oxygen concentrator ensures adequate air quality during extended periods underground.
+A discrete air circulation system maintains breathable atmosphere without announcing human habitation. Activated carbon filters should remove odors but have long been exhausted, making the place smell humid and confined.
 
 ### Personal Atmosphere
 The space feels more like a sophisticated machine than a home. Every object serves multiple purposes, every system has backup redundancy, and nothing exists purely for comfort or aesthetics. It represents survival engineering elevated to an art form.
