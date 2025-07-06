@@ -13,7 +13,7 @@ last_updated: 2025-06-02 23:50
 type: Character Sheet
 ---
 
-# Vyr4n - Character Profile (Updated)
+# Vyr4n - Character Profile
 
 ### Basic Information
 
@@ -26,7 +26,7 @@ type: Character Sheet
 - **Ethnicity/Cultural Background:** Caucassian
 - **Nationality/Citizenship:** Stateless
 - **Birthplace:** South Shore Slum
-- **Current Residence:** Concrete ventilation shaft (Arc 1) → Phoenix Recovery back office → Organisation compound
+- **Current Residence:** Concrete utility room (Arc 1) → Phoenix Recovery back office → Organisation compound
 - **Occupation:** Repairman
 - **Social Class/Status:** Sigma
 - **Alignment:** True Neutral (like Malcolm Reynolds from Firefly)
@@ -183,7 +183,7 @@ type: Character Sheet
   - **Secret**: Nanobotic fabrication capabilities (later development)
 
 - **Personal Items of Importance:** 
-  - Mother's technical journals and tools (public knowledge)
+  - Mother's photo (public knowledge)
   - Sedh's original head unit (kept as memento)
 
 - **Wealth & Assets:** 
@@ -200,7 +200,7 @@ type: Character Sheet
 ### Background & History
 
 - **Family & Relatives:** 
-  - **Mother**: Underground bio-tech engineer (deceased in Champlain Wasteland)
+  - **Mother**: Corporate Biotechnician engineer (deceased in Champlain Wasteland)
   - **Father**: Unknown
   - **Chosen Family**: Isa, Sedh, Mira - the only ones who know his complete truth
 
@@ -211,12 +211,12 @@ type: Character Sheet
 
 - **Upbringing & Childhood:** 
   - Born in slum maintenance tunnels
-  - Raised by single mother who taught him electronics and survival
+  - Raised by single mother who taught him survival
   - Lost mother at 16, forcing complete independence
   - **Formative**: Learned early that survival depends on hiding vulnerabilities
 
 - **Education & Training:** 
-  - Self-taught through mother's journals and salvaged manuals
+  - Self-taught through technical journals and salvaged manuals
   - **Secret**: Post-infection learning accelerated by viral enhancement
   - **Secret**: Ongoing self-experimentation to understand and control abilities
   - Business and leadership skills learned through necessity and enhanced cognition
@@ -233,7 +233,7 @@ type: Character Sheet
 - **Defining Moment(s):** 
   - Mother's death (shapes worldview and trust issues)
   - First intimate connection with Isa
-    - **SECRET**: Virus infection (fundamental transformation hidden from world)
+    - **SECRET**: Virus infection
 
 - **Criminal Record (if any):** 
   - **Public**: Underground electronics dealing
@@ -241,7 +241,7 @@ type: Character Sheet
 
 - **Enemies & Conflicts:** 
   - **Public**: Corporate interests, rival criminal organizations
-  - **Internal**: Constant conflict between desire for connection and need for secrecy
+  - **Internal**: Constant conflict between desire for connection and need for protection
 
 - **Current Status & Recent Activities:** 
   - Varies by arc: Business owner → Criminal leader → Community protector

@@ -123,7 +123,7 @@ Retry
 
 YL
 
-I would like for him to secretly build a sanctuary hidden inside the toxic fields of The Champlains Wastland, where he retreat from time to time to heal, research on his nanobot tech and later expand into a "de-tech" facilities to save those addicted to tech implants.
+I would like for him to secretly build a hideout hidden inside the toxic fields of The Champlains Wastland, where he retreat from time to time to heal, research on his nanobot tech and later expand into a "de-tech" facilities to save those addicted to tech implants.
 
 I would also like to increase the number of his people he have relationships with, some friends, some intimacy partners, some devoted followers, often mixed.
 
@@ -169,11 +169,11 @@ Edit
 - **Medical Wing:** Advanced surgical suites for implant removal
 - **Detox Chambers:** Isolation units for safe withdrawal from neural interfaces
 - **Research Shift:** Focuses on healing rather than enhancement
-- **Open Secret:** Trusted allies learn of sanctuary's existence and true purpose
+- **Open Secret:** Trusted allies learn of hideout's existence and true purpose
 
 **Ages 76-90: The Retreat Center**
 
-- **Healing Community:** Becomes sanctuary for broken souls and former enemies
+- **Healing Community:** Becomes hideout for broken souls and former enemies
 - **Agricultural Expansion:** Vast underground farms using advanced biotech
 - **Teaching Facility:** Trains next generation in ethical technology use
 - **Memorial Garden:** Honors those lost to his darker period
@@ -185,7 +185,7 @@ Edit
 - **Open Doors:** No longer hidden - becomes beacon of hope
 - **Legacy Center:** Archives his century of knowledge for future generations
 - **Peace Haven:** Final resting place where he tends both literal and metaphorical gardens
-- **Transcendence:** The sanctuary itself becomes his greatest creation
+- **Transcendence:** The hideout itself becomes his greatest creation
 
 ## Expanded Relationship Network
 
@@ -293,7 +293,7 @@ Edit
 - **Teaching Circles:** Elder years wisdom sharing
 - **Memorial Visits:** Honoring those lost to his choices
 
-**The Hidden Community:** By his later years, the sanctuary hosts a rotating population of 50-80 people:
+**The Hidden Community:** By his later years, the hideout hosts a rotating population of 50-80 people:
 
 - Former tech addicts in recovery
 - Ex-corporate scientists seeking redemption
@@ -305,7 +305,7 @@ Edit
 
 **Youth (16-25):** Fear-based isolation, first tentative friendships **Business (26-35):** Learning to trust, first love, building chosen family **Power (36-50):** Relationships become tools, love mixed with control **Tyranny (51-65):** Isolation through elevation, worship replacing connection **Redemption (66-75):** Rebuilding broken bonds, seeking forgiveness **Wisdom (76-90):** Deep partnerships, mentoring relationships **Peace (91-100):** Unconditional love, letting go with grace
 
-The sanctuary becomes not just his retreat, but a living symbol of his evolution - from hidden bunker where he plots control to open garden where he nurtures growth. His relationships follow similar arcs, transforming from desperate survival bonds to manipulative power dynamics to finally achieving genuine human connection.
+The hideout becomes not just his retreat, but a living symbol of his evolution - from hidden bunker where he plots control to open garden where he nurtures growth. His relationships follow similar arcs, transforming from desperate survival bonds to manipulative power dynamics to finally achieving genuine human connection.
 
 Retry
 
@@ -382,7 +382,7 @@ Edit
 - **Age 29:** Supports Vyr4n through virus infection
 - **Age 45:** Challenges Vyr4n's tyrannical methods
 - **Age 67:** Facilitates reconciliation with former enemies
-- **Age 100:** Inherits sanctuary and Vyr4n's legacy
+- **Age 100:** Inherits hideout and Vyr4n's legacy
 
 **Sanctuary Role:** Guardian, archivist, bridge between eras  
 **Unique Dynamics:** Only relationship that spans Vyr4n's entire adult life, evolves from master-servant to true brotherhood  
@@ -432,7 +432,7 @@ Edit
 - **Age 52:** Leads internal resistance to Vyr4n's tyrannical methods
 - **Age 58:** Stages intervention with other allies
 - **Age 68:** Reconciliation and renewed friendship
-- **Age 74:** Dies protecting sanctuary from raiders
+- **Age 74:** Dies protecting hideout from raiders
 
 **Sanctuary Role:** Security chief, helped transition from fortress to hospital, father figure to many residents  
 **Unique Dynamics:** Could call out Vyr4n's bullshit without fear, represented healthy masculinity  
@@ -458,8 +458,8 @@ Edit
 - **Age 48:** Brief, problematic sexual relationship (Helene 21, Vyr4n 48)
 - **Age 52:** Helene leads first group questioning his methods
 - **Age 60:** Breaks free from worship dynamic, maintains loyalty
-- **Age 75:** Becomes independent leader of sanctuary healing programs
-- **Age 85:** Helene takes over major sanctuary operations
+- **Age 75:** Becomes independent leader of hideout healing programs
+- **Age 85:** Helene takes over major hideout operations
 
 **Sanctuary Role:** Heads addiction recovery programs, specializes in helping former cultists  
 **Unique Dynamics:** Represents both his heroic and predatory potential, complex power dynamics  
@@ -483,7 +483,7 @@ Edit
 - **Age 50:** Philosophical split mirrors Vyr4n's internal conflict
 - **Age 55:** Zoe supports his tyrannical phase, Alex opposes it
 - **Age 65:** Both facilitate his moral reckoning
-- **Age 75:** Become co-directors of sanctuary programs
+- **Age 75:** Become co-directors of hideout programs
 - **Age 82:** Reconcile their own differences, help Vyr4n find balance
 
 **Sanctuary Role:** Zoe runs technological research, Alex leads healing programs, together represent integration  
@@ -508,7 +508,7 @@ Edit
 - **Age 58:** Genuine partnership forms over shared guilt
 - **Age 65:** Helps design addiction treatment protocols
 - **Age 75:** Co-authors definitive guide to tech addiction recovery
-- **Age 85:** Retires but remains sanctuary advisor
+- **Age 85:** Retires but remains hideout advisor
 
 **Sanctuary Role:** Chief medical officer, specialist in tech addiction, research director  
 **Unique Dynamics:** Shared guilt creates bond, both seeking redemption for past actions  
@@ -534,7 +534,7 @@ Edit
 - **Age 36:** Provides crucial intelligence during territorial wars
 - **Age 38:** Dies in gang ambush, first major loss since Tommy
 
-**Sanctuary Role:** N/A (dies before sanctuary becomes refuge)  
+**Sanctuary Role:** N/A (dies before hideout becomes refuge)  
 **Unique Dynamics:** Pure transaction, no emotional complication, taught healthy boundaries  
 **Connected to:** [[#Tommy "Kid" Fletcher]], [[#Commander Sarah "Iron" Kim]]
 
@@ -574,11 +574,11 @@ Edit
 
 **Key Moments:**
 
-- **Age 72:** Confronts him about sanctuary's militaristic aspects
+- **Age 72:** Confronts him about hideout's militaristic aspects
 - **Age 74:** Alliance forms over shared community goals
 - **Age 77:** Friendship deepens through working together
 - **Age 79:** Love relationship begins naturally
-- **Age 82:** Moves permanently to sanctuary
+- **Age 82:** Moves permanently to hideout
 - **Age 85:** Dies peacefully in his arms
 
 **Sanctuary Role:** Co-director of community programs, emotional healing specialist  
@@ -622,10 +622,10 @@ Edit
 **Key Moments:**
 
 - **Age 63:** Rescues 19-year-old David from neural addiction
-- **Age 65:** Mentorship begins in sanctuary workshops
+- **Age 65:** Mentorship begins in hideout workshops
 - **Age 68:** Brief romantic relationship (problematic age gap)
 - **Age 71:** David establishes independence while maintaining friendship
-- **Age 75:** David becomes sanctuary's chief technical officer
+- **Age 75:** David becomes hideout's chief technical officer
 
 **Sanctuary Role:** Technical systems manager, bridge to younger generation  
 **Unique Dynamics:** Represents his capacity for nurturing without controlling  
@@ -718,7 +718,7 @@ Edit
 - **Age 58:** Temporary alliance against common enemy
 - **Age 62:** Becomes permanent ally after corporate betrayal
 - **Age 70:** Helps facilitate peace negotiations with former enemies
-- **Age 80:** Becomes sanctuary's external relations coordinator
+- **Age 80:** Becomes hideout's external relations coordinator
 
 **Sanctuary Role:** External affairs, negotiations with outside groups  
 **Unique Dynamics:** Enemy-to-ally arc, provides objective viewpoint  
@@ -739,7 +739,7 @@ Edit
 
 - **Age 61:** Public confrontation about organization's violence
 - **Age 65:** Private meeting begins ongoing dialogue
-- **Age 70:** Becomes regular visitor to sanctuary
+- **Age 70:** Becomes regular visitor to hideout
 - **Age 80:** Performs Luna's funeral service
 - **Age 90:** Helps Vyr4n prepare for death
 
@@ -756,15 +756,15 @@ Edit
 **Trust Level:** Complete  
 **Influence on Vyr4n:** Scientific collaboration, ethical framework
 
-**Background:** Brilliant researcher studying tech addiction who initially opposes sanctuary's methods. Becomes collaborator and eventual successor to research programs.
+**Background:** Brilliant researcher studying tech addiction who initially opposes hideout's methods. Becomes collaborator and eventual successor to research programs.
 
 **Key Moments:**
 
-- **Age 69:** Academic criticism of sanctuary's treatment methods
+- **Age 69:** Academic criticism of hideout's treatment methods
 - **Age 71:** Invited to observe and critique programs
 - **Age 75:** Becomes research partner
 - **Age 82:** Co-develops revolutionary addiction treatments
-- **Age 90:** Takes over sanctuary's research division
+- **Age 90:** Takes over hideout's research division
 
 **Sanctuary Role:** Research director, treatment development, scientific ethics  
 **Unique Dynamics:** Intellectual equal, brings academic rigor to healing work  
@@ -781,14 +781,14 @@ Edit
 **Trust Level:** Complete  
 **Influence on Vyr4n:** Hope for future, redemption through mentorship
 
-**Background:** Marcus's daughter who grows up around sanctuary. Represents next generation of ethical leadership. Becomes Vyr4n's chosen successor.
+**Background:** Marcus's daughter who grows up around hideout. Represents next generation of ethical leadership. Becomes Vyr4n's chosen successor.
 
 **Key Moments:**
 
-- **Age 75:** 8-year-old Maya first visits sanctuary
+- **Age 75:** 8-year-old Maya first visits hideout
 - **Age 80:** Begins formal training in leadership and ethics
 - **Age 85:** Takes on increasing responsibility
-- **Age 92:** Becomes official sanctuary director
+- **Age 92:** Becomes official hideout director
 - **Age 100:** Inherits Vyr4n's complete legacy
 
 **Sanctuary Role:** Director, next-generation leader, bridge to future  
@@ -811,7 +811,7 @@ Edit
 - **Age 78:** 16-year-old Jin arrives seeking addiction treatment
 - **Age 82:** Shows exceptional aptitude for ethical tech development
 - **Age 88:** Develops breakthrough in safe AI integration
-- **Age 95:** Becomes sanctuary's chief technology officer
+- **Age 95:** Becomes hideout's chief technology officer
 - **Age 100:** Continues Vyr4n's technological legacy
 
 **Sanctuary Role:** Technology director, ethical AI development, innovation leader  
@@ -827,7 +827,7 @@ Edit
 **Trust Level:** High  
 **Influence on Vyr4n:** Agricultural wisdom, natural harmony
 
-**Background:** Agricultural specialist who helps develop sanctuary's food systems. Represents integration of technology and nature.
+**Background:** Agricultural specialist who helps develop hideout's food systems. Represents integration of technology and nature.
 
 **Key Moments:**
 
@@ -852,14 +852,14 @@ Edit
 **Trust Level:** Military Absolute  
 **Influence on Vyr4n:** Security wisdom, protective strategies
 
-**Background:** Former military specialist who becomes sanctuary's security chief. Helps transition from fortress mentality to protective community.
+**Background:** Former military specialist who becomes hideout's security chief. Helps transition from fortress mentality to protective community.
 
 **Key Moments:**
 
 - **Age 68:** Hired as security consultant during redemption phase
 - **Age 72:** Becomes permanent security chief
 - **Age 80:** Helps design non-violent protection protocols
-- **Age 88:** Trains next generation of sanctuary guardians
+- **Age 88:** Trains next generation of hideout guardians
 - **Age 95:** Retires but remains advisor
 
 **Sanctuary Role:** Security chief, guardian training, protective protocols  
@@ -875,12 +875,12 @@ Edit
 **Trust Level:** Complete  
 **Influence on Vyr4n:** Wasteland wisdom, survival knowledge
 
-**Background:** Expert wasteland navigator who helps expand sanctuary's reach. Knows secret paths through toxic zones.
+**Background:** Expert wasteland navigator who helps expand hideout's reach. Knows secret paths through toxic zones.
 
 **Key Moments:**
 
 - **Age 71:** Guides first major rescue expedition
-- **Age 75:** Becomes sanctuary's primary wasteland scout
+- **Age 75:** Becomes hideout's primary wasteland scout
 - **Age 82:** Helps establish satellite outposts
 - **Age 90:** Trains new generation of guides
 - **Age 98:** Dies on final scouting mission
@@ -899,12 +899,12 @@ Edit
 **Trust Level:** High  
 **Influence on Vyr4n:** Communication wisdom, community building
 
-**Background:** Former corporate communications specialist who becomes sanctuary's voice to the outside world.
+**Background:** Former corporate communications specialist who becomes hideout's voice to the outside world.
 
 **Key Moments:**
 
 - **Age 73:** Arrives as corporate refugee
-- **Age 76:** Develops sanctuary's communication protocols
+- **Age 76:** Develops hideout's communication protocols
 - **Age 82:** Establishes networks with other communities
 - **Age 90:** Becomes chief diplomatic officer
 - **Age 100:** Continues Vyr4n's outreach legacy
@@ -1049,7 +1049,7 @@ But power without wisdom creates monsters, and Vyr4n discovers that saving peopl
 
 - **Century-spanning epic** told through seven distinct periods, each with unique tone
 - **Relationship-centric** plotting where character connections drive major story beats
-- **Hidden sanctuary** serves as both literal and metaphorical space for transformation
+- **Hidden hideout** serves as both literal and metaphorical space for transformation
 - **Dual timeline potential** - present moment reflection paired with chronological storytelling
 - **Themes emerging through action** rather than exposition, trusting readers to find deeper meaning
 
@@ -1601,9 +1601,9 @@ Retry
 
 YL
 
-Here is another scene, this time when Vyr4n is gravely injuried by an assassination attempt and flee to his sanctuary.
+Here is another scene, this time when Vyr4n is gravely injuried by an assassination attempt and flee to his hideout.
 
-(A character named Mar, part of Vyr4n's organisation, is actually working to make him fall, she want to find proof that he is evil and expose him) - Mar enter Vyr4n's dim-lit office with two others, heavily armed and start to search for something. - Vyr4n is at his desk, hidden in the shadow. After observing them for 45 second, then ask them what they are looking for. - Mar freak out and discharge 3 rounds of anti-material rounds at him - After 20 seconds of silence, they cautiously approach the corps when a large bolt of electricity burst out and knock them unconscious. - Vyr4n is heavily injuries but within minutes start healing - After several minutes, he stand up, pick up Mar, and painfully exit his office, head for the elevator, send a message to dispatch assistance for the injuries in his office while he's heading for the room - He load Mar in his vehicle and take off, flying south into the night (Secretly, Mar was being exploited via her cyber implants and pushed into a paranoid psychosis into assassinate Vyr4n. After the failed attempt, instead of killing her, Vyr4n take her to the sanctuary to be downgraded into a "bio", a more natural humans with less tech.)
+(A character named Mar, part of Vyr4n's organisation, is actually working to make him fall, she want to find proof that he is evil and expose him) - Mar enter Vyr4n's dim-lit office with two others, heavily armed and start to search for something. - Vyr4n is at his desk, hidden in the shadow. After observing them for 45 second, then ask them what they are looking for. - Mar freak out and discharge 3 rounds of anti-material rounds at him - After 20 seconds of silence, they cautiously approach the corps when a large bolt of electricity burst out and knock them unconscious. - Vyr4n is heavily injuries but within minutes start healing - After several minutes, he stand up, pick up Mar, and painfully exit his office, head for the elevator, send a message to dispatch assistance for the injuries in his office while he's heading for the room - He load Mar in his vehicle and take off, flying south into the night (Secretly, Mar was being exploited via her cyber implants and pushed into a paranoid psychosis into assassinate Vyr4n. After the failed attempt, instead of killing her, Vyr4n take her to the hideout to be downgraded into a "bio", a more natural humans with less tech.)
 
 Edit
 
@@ -1629,7 +1629,7 @@ Choosing to save Mar rather than eliminate the threat demonstrates Vyr4n's devel
 
 ### **Narrative Setup**
 
-The cyber-manipulation angle provides excellent foundation for exploring tech addiction themes and sanctuary's healing mission.
+The cyber-manipulation angle provides excellent foundation for exploring tech addiction themes and hideout's healing mission.
 
 ## Areas for Enhancement
 
@@ -1640,7 +1640,7 @@ The scene would benefit from deeper sensory details:
 - The office environment and atmosphere
 - Physical impact and pain of the anti-material rounds
 - Healing process sensations
-- The flight to sanctuary
+- The flight to hideout
 
 ### **Emotional Complexity**
 
@@ -1743,7 +1743,7 @@ Establish foundation for her recovery:
 - The depth of manipulation she's endured
 - Her genuine loyalty beneath the programming
 - Potential for redemption through de-tech process
-- Future role in sanctuary operations
+- Future role in hideout operations
 
 ## Thematic Resonance
 
@@ -1752,7 +1752,7 @@ This scene effectively explores:
 - **Technology as Corruption**: Cyber implants used for manipulation
 - **Mercy vs. Justice**: Choosing rehabilitation over revenge
 - **Hidden Enemies**: External forces working through trusted allies
-- **Healing vs. Punishment**: The sanctuary's true purpose revealed
+- **Healing vs. Punishment**: The hideout's true purpose revealed
 
 ## Technical Considerations
 
@@ -1776,7 +1776,7 @@ Expand on how Mar was compromised:
 
 ## Overall Rating
 
-This is a strong scene that effectively demonstrates Vyr4n's tactical abilities while showing his evolution toward mercy and understanding. With enhanced sensory detail and deeper exploration of the manipulation themes, it could become a pivotal moment that sets up both Mar's redemption arc and the sanctuary's role as a healing center.
+This is a strong scene that effectively demonstrates Vyr4n's tactical abilities while showing his evolution toward mercy and understanding. With enhanced sensory detail and deeper exploration of the manipulation themes, it could become a pivotal moment that sets up both Mar's redemption arc and the hideout's role as a healing center.
 
 The scene succeeds in showing Vyr4n's power while emphasizing his growing wisdom—he's strong enough to survive assassination but wise enough to recognize the difference between enemy and victim.
 
@@ -1957,7 +1957,7 @@ Critical elements:
 **Long-term**:
 
 - Sets up his transition to [[The Redeemer]] phase
-- Establishes precedent for sanctuary's non-hierarchical structure
+- Establishes precedent for hideout's non-hierarchical structure
 - Begins his reputation as teacher rather than tyrant
 
 ### **Technical Details**
@@ -1987,7 +1987,7 @@ This scene serves as the crucial bridge between **[[The Dark Protector]]** and *
 - Conscious choice to abandon tyrannical power
 - First major act of teaching through demonstration
 - Beginning of healthy relationship with his followers
-- Foundation for sanctuary's eventual egalitarian structure
+- Foundation for hideout's eventual egalitarian structure
 
 The scene works because it's not about Vyr4n losing power - it's about him choosing to reveal his humanity as the greatest gift he can offer those who love him.
 
@@ -2014,7 +2014,7 @@ While dramatically compelling, having Vyr4n die at The Divinity Trial would unde
 - **[[Redemption Through Time]]** requires actual time to demonstrate change
 - The novel's premise promises a journey "from technological god to gentle gardener" - death at the trial stops at "fallen god"
 - **[[The Evolution of Love]]** theme needs the [[Luna "Whisper" Hayes]] relationship to show true emotional growth
-- The **sanctuary evolution** from fortress to garden would remain incomplete
+- The **hideout evolution** from fortress to garden would remain incomplete
 
 ### **Character Arc Truncation**
 
@@ -2067,7 +2067,7 @@ Consider structuring it as:
 ### **The Garden Metaphor Completion**
 
 - **Literal gardens**: He needs to actually tend physical gardens, not just symbolic ones
-- **Growing things**: The sanctuary's agricultural transformation
+- **Growing things**: The hideout's agricultural transformation
 - **Seasonal cycles**: Multiple years of planting, growing, harvesting wisdom
 
 ### **Mentorship and Legacy**

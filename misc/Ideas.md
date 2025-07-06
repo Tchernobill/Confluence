@@ -15,3 +15,7 @@ Use some misdirection toward the CEO of Nordam to be the lost father Vyr4n never
 - Hint that Vyr4n's mom sometime mention his father being someone important
 - Heavier hint in the bait leaked documents Mat "found" on Vyr4n's past.
 - Lead to big troll moment in 05.06.06 adoption plot
+
+---
+
+Include discreet foreshadowing details, like in mid arc 4, someone looking to pay with 300 used industrial gaw cylinders (used in operation StoneB0ne)

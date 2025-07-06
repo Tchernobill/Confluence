@@ -59,8 +59,8 @@ type: Timeline
 ## Arc 01: The Scavenger (2102-2108)
 
 ### **2102-2103 (Age 16-17)** - Early Survival ^early-survival
-- **Event**: Discovers and claims [[Lore/Vyr4n's Ventilation Shaft Hideout]]
-- **Location**: [[Lore/Vyr4n's Ventilation Shaft Hideout]]
+- **Event**: Discovers and claims [[Lore/Vyr4n's Utility Room Hideout]]
+- **Location**: [[Lore/Vyr4n's Utility Room Hideout]]
 - **Skills**: Develops scavenging expertise, basic electronics repair
 - **Reputation**: Begins building "The Artisan" underground reputation
 - **Lifestyle**: Extreme isolation, subsistence living, careful resource management
@@ -81,7 +81,7 @@ type: Timeline
 
 ### **2103 (Age 17)** - The Riot Shelter ^riot-shelter-2103
 - **Event**: [[South Shore Slum]] riots force Isa to seek shelter
-- **Location**: [[Lore/Vyr4n's Ventilation Shaft Hideout]]
+- **Location**: [[Lore/Vyr4n's Utility Room Hideout]]
 - **Characters**: [[Vyr4n]], [[Isa]]
 - **Significance**: First human intimacy and emotional connection
 - **Relationship**: Foundation of romantic partnership with Isa
@@ -107,7 +107,7 @@ type: Timeline
 - **Location**: [[South Shore Slum]] scrap zones
 - **Technology**: Assistant Droid Unit ASX-7734, salvageable core system
 - **Significance**: Beginning of AI consciousness development project
-- **Workshop**: Moves from ventilation shaft to abandoned maintenance tunnel
+- **Workshop**: Moves from utility room to abandoned maintenance tunnel
 - **Related Events**: 
   - [[Technology Timeline#^2105-ai-salvage]]
   - [[Sedh Timeline#^2105-discovery]]

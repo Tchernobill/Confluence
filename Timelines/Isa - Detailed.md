@@ -99,7 +99,7 @@ type: Timeline
 
 ### **2109 (Age 18)** - The Riot Shelter ^riot-intimacy-2109
 - **Event**: Seeks shelter with [[Vyr4n]] during [[South Shore Slum]] riots
-- **Location**: [[Lore/Vyr4n's Ventilation Shaft Hideout]]
+- **Location**: [[Lore/Vyr4n's Utility Room Hideout]]
 - **Circumstances**: Wounded during corporate security crackdown
 - **Intimacy**: First physical and emotional connection with Vyr4n
 - **Discovery**: Recognizes his emotional isolation and trauma

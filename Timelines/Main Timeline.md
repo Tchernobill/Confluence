@@ -15,7 +15,7 @@ Characters: Vyr4n, Mother (deceased)
 ## Arc 01: The Scavenger (2102-2108)
 
 [[01.01.01 - Waking-up]]
-Waking up in ventilation shaft hideout, establishing daily survival routines
+Waking up in utility room hideout, establishing daily survival routines
 Characters: Vyr4n
 
 [[01.02.01 - They first meet]]

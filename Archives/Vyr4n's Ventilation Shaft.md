@@ -1,14 +1,14 @@
-# Vyr4n's Ventilation Shaft: A Study in Solitary Survival
+# Vyr4n's Utility Room: A Study in Solitary Survival
 
 ## The Hidden Entrance
 
-The access point lies forty meters below street level, concealed within the labyrinthine network of service tunnels that snake beneath the South Shore Slum. What appears to be a standard maintenance grate covers the entry to Vyr4n's sanctuary - the scratches and wear patterns on the metal suggesting routine utility access rather than habitation.
+The access point lies forty meters below street level, concealed within the labyrinthine network of service tunnels that snake beneath the South Shore Slum. What appears to be a standard maintenance grate covers the entry to Vyr4n's hideout - the scratches and wear patterns on the metal suggesting routine utility access rather than habitation.
 
 The approach requires intimate knowledge of the underground infrastructure: navigating flooded passages, avoiding unstable sections where Stack foundations have settled, and slipping past the territorial markers of various underground communities. Only someone with Vyr4n's technical understanding of building systems could have identified this particular shaft as both secure and livable.
 
 ## The Shaft Itself
 
-The ventilation shaft measures exactly 2 meters wide by 4 meters long, with a ceiling height that varies from 2.1 to 2.3 meters due to the building's settling over the decades. Originally designed to circulate air through a mid-rise commercial building that was never completed, the shaft now serves as both home and fortress for its single inhabitant.
+The utility room measures exactly 2 meters wide by 4 meters long, with a ceiling height that varies from 2.1 to 2.3 meters due to the building's settling over the decades. Originally designed to circulate air through a mid-rise commercial building that was never completed, the shaft now serves as both home and fortress for its single inhabitant.
 
 **Structural Adaptation:**
 The concrete walls bear the tool marks of careful modification - not the rough hackwork of desperate scavenging, but precise cuts made with proper equipment over time. Mounting points have been precisely drilled and fitted with threaded inserts, creating secure attachment points for shelving and equipment without compromising structural integrity.
@@ -105,21 +105,21 @@ The shaft represents complete independence from Stack infrastructure and social 
 
 ## The Moment of Sacrifice
 
-When Vyr4n brings Isa to his sanctuary during the riot, he violates the fundamental principle that has kept him safe for years: absolute secrecy. The shaft, designed for solitary survival, suddenly must accommodate another person's presence and needs.
+When Vyr4n brings Isa to his hideout during the riot, he violates the fundamental principle that has kept him safe for years: absolute secrecy. The shaft, designed for solitary survival, suddenly must accommodate another person's presence and needs.
 
 **Physical Constraints:**
 Two people in the 8-square-meter space creates immediate practical challenges. Every movement requires coordination, every system must accommodate doubled demand, and privacy becomes impossible.
 
 **Emotional Vulnerability:**
-Revealing his sanctuary exposes not just his location but his entire survival philosophy. The stark, utilitarian space reveals his isolation, his technical obsessions, and his fundamental disconnection from normal human social patterns.
+Revealing his hideout exposes not just his location but his entire survival philosophy. The stark, utilitarian space reveals his isolation, his technical obsessions, and his fundamental disconnection from normal human social patterns.
 
 **Trust Demonstration:**
 Bringing Isa here represents the first time Vyr4n has prioritized another person's safety over his own security. The decision marks a fundamental shift from pure self-preservation toward collaborative survival.
 
 ## Symbolic Significance
 
-The ventilation shaft represents Vyr4n's entire approach to life: brilliant technical solutions applied to fundamental human problems, but always from a position of isolation. The space works perfectly for one person living alone, but its very efficiency makes it incompatible with human connection.
+The utility room represents Vyr4n's entire approach to life: brilliant technical solutions applied to fundamental human problems, but always from a position of isolation. The space works perfectly for one person living alone, but its very efficiency makes it incompatible with human connection.
 
-When he finally shares this space with Isa, the cramped quarters force physical and emotional intimacy he has avoided for years. The technical perfection of his sanctuary becomes the backdrop for the most human moment of his adult life - proving that even the most sophisticated isolation cannot ultimately substitute for genuine connection.
+When he finally shares this space with Isa, the cramped quarters force physical and emotional intimacy he has avoided for years. The technical perfection of his hideout becomes the backdrop for the most human moment of his adult life - proving that even the most sophisticated isolation cannot ultimately substitute for genuine connection.
 
 The shaft stands as both monument to his technical genius and proof of his fundamental need for something beyond mere survival. It represents what one brilliant mind can achieve alone - and what it cannot.

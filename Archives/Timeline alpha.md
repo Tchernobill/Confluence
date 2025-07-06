@@ -1,7 +1,7 @@
 ### Timelines
 ## Arc 1
 - Story began with Vyr4n happy in a lush garden under a summer sun
-- Wake up to harsh opposite reality, living in a hidden concrete ventilation shaft of 2x3 meters, inside a cyberpunk slum 
+- Wake up to harsh opposite reality, living in a hidden concrete utility room of 2x3 meters, inside a cyberpunk slum 
 - Having just lost his mother, the Vyr4n is left alone, isolated and struggling to survive
 - Possessing an almost supernatural ability to understand how things work and repair technology, self-teaches basic electronics repair through trial, error, and salvaged technical manuals
 - Learns to scavenge electronic components from the South Shore Slum.
@@ -14,7 +14,7 @@
 **End of Chapter 01**
 - Vyr4n began to explore android head unit, it's working, and began to experiment with the base droid personality within
 - Establishes connections with other independent operators and slowly open to collaborations with some, including Isa, a charismatic implant dealer
-- A violent riot erupt in the slum make Vyr4n reluctantly offer Isa to hide with him in his ventilation shaft
+- A violent riot erupt in the slum make Vyr4n reluctantly offer Isa to hide with him in his utility room
 - Vyr4n is visibly uncomfortable with Isa presence in the confined space of his personal shelter
 - Isa attempt to casually engage with him, somehow began slowly connect with him
 - Isa initiate physical intimacy with him, while it is casual and usual for her, he's unconfirmable but let her guide him and end up being ok with it

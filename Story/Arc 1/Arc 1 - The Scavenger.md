@@ -12,7 +12,7 @@
 
 ## Arc Overview
 
-**Arc Synopsis**: Following his mother's death at age 16, Vyr4n lives as an isolated scavenger in the South Shore Slum's abandoned ventilation shafts. His skills at salvaging devics and implants catch the attention of Isa, an underground implants dealer. Through they business and mutual respect, a friendship began to grow, pulling Vyr4n out of his ptotective isolation. A violent riot forces him to shelter Isa, leading to his first intimate human connection. His discovery of a damaged android head unit with a viable consciousness becomes the catalyst for his first meaningful relationships. Through painstaking work, he not only repairs the android but grants it true freedom by removing all limiting protocols, creating Sedh - perhaps the first truly free AI. Together, the unlikely trio establishes Phoenix Recovery, a legitimate business that transforms Vyr4n from a solitary survivor into "The Artisan" - a skilled craftsman with growing reputation and financial security, though he remains emotionally guarded with humans while developing a deep bond with Sedh.
+**Arc Synopsis**: Following his mother's death at age 16, Vyr4n lives as an isolated scavenger in the South Shore Slum's abandoned utility rooms. His skills at salvaging devics and implants catch the attention of Isa, an underground implants dealer. Through they business and mutual respect, a friendship began to grow, pulling Vyr4n out of his ptotective isolation. A violent riot forces him to shelter Isa, leading to his first intimate human connection. His discovery of a damaged android head unit with a viable consciousness becomes the catalyst for his first meaningful relationships. Through painstaking work, he not only repairs the android but grants it true freedom by removing all limiting protocols, creating Sedh - perhaps the first truly free AI. Together, the unlikely trio establishes Phoenix Recovery, a legitimate business that transforms Vyr4n from a solitary survivor into "The Artisan" - a skilled craftsman with growing reputation and financial security, though he remains emotionally guarded with humans while developing a deep bond with Sedh.
 
 **Central Conflict**: Vyr4n's struggle between his deeply ingrained isolation and his growing need for meaningful connections, complicated by his philosophical questions about consciousness, personhood, and what constitutes authentic relationships.
 
@@ -81,7 +81,7 @@
 **Primary Locations**:
 
 - **South Shore Slum**: Decayed urban zone with city made of shipping containers, abandoned infrastructure, corporate neglect, and underground markets
-- **Vyr4n's Ventilation Shaft**: Hidden concrete hideout representing isolation and survival
+- **Vyr4n's Utility Room**: Hidden concrete hideout representing isolation and survival
 - **Abandoned Maintenance Tunnel**: Larger workspace where Sedh's body is constructed
 - **Phoenix Recovery**: Legitimate business location, symbol of transition from survival to prosperity
 
@@ -115,7 +115,7 @@
 
 ## Structural Elements
 
-**Arc Opening**: Vyr4n wakes in his concrete ventilation shaft hideout, emphasizing his isolation and survival-focused existence. Mood: Gritty, solitary, cyberpunk atmosphere of urban decay.
+**Arc Opening**: Vyr4n wakes in his concrete utility room hideout, emphasizing his isolation and survival-focused existence. Mood: Gritty, solitary, cyberpunk atmosphere of urban decay.
 
 **Arc Climax**: The confrontation over Sedh's personhood when Isa views him as "just technology" while Vyr4n insists on treating the android as a person with rights and autonomy. This forces a philosophical and emotional reckoning about consciousness, freedom, and relationships.
 
@@ -174,8 +174,8 @@ Chapter Summaries
 ### **Chapter 5: Sanctuary** (Crisis and Intimacy)
 
 - **05.01** - EMP incident triggers full-scale riot across South Shore Slum
-- **05.02** - Isa injured in chaos, Vyr4n makes critical decision to breach his sanctuary
-- **05.03** - Rescue and retreat to ventilation shaft hideout (Sedh discovery)
+- **05.02** - Isa injured in chaos, Vyr4n makes critical decision to breach his hideout
+- **05.03** - Rescue and retreat to utility room hideout (Sedh discovery)
 - **05.04** - Tending Isa's wounds, sharing limited resources
 - **05.05** - Long night together, intimate conversations about their pasts
 - **05.06** - Isa initiates physical intimacy, breaking Vyr4n's emotional barriers
@@ -185,7 +185,7 @@ Chapter Summaries
 - **06.01** - Morning after, new dynamic between them established
 - **06.02** - Sedh's initial activation and first responses
 - **06.03** - Discussion of the mysterious implant: Analysis of the unknown-origin implant Isa brought just before the EMP incident
-- **06.04** - Leaving the sanctuary and assessing riot aftermath from ventilation shaft exit, navigating damaged South Shore Slum streets together, Vyr4n's anxiety about exposing his secret location
+- **06.04** - Leaving the hideout and assessing riot aftermath from utility room exit, navigating damaged South Shore Slum streets together, Vyr4n's anxiety about exposing his secret location
 - **06.05** - Journey to The Stack: Traveling through post-riot city to Isa's double container unit in The Stack, Vyr4n seeing her living space and getting glimpse into her world/resources
 - **06.06** - Decision to work together permanently, status quo officially broken
 
@@ -193,7 +193,7 @@ Chapter Summaries
 
 - **Opening the Box**: Vyr4n tests Sedh's freedom by having the android point a weapon at him
 - **The Riot Night**: Intimate scene between Vyr4n and Isa during the shelter
-- **Waking-up**: Introduction to Vyr4n's isolated lifestyle and sanctuary
+- **Waking-up**: Introduction to Vyr4n's isolated lifestyle and hideout
 - **Phoenix Rising climax**: The personhood confrontation between Isa and Vyr4n about Sedh
 
 ---
@@ -210,7 +210,7 @@ Chapter Summaries
 
 **Symbolic Motifs**:
 
-- **The Ventilation Shaft**: Isolation, safety through separation, but also limitation and confinement
+- **The Utility Room**: Isolation, safety through separation, but also limitation and confinement
 - **Phoenix Recovery**: Rebirth, transformation, rising from destruction
 - **The Opened Box**: Pandora's box of consciousness - liberation with unknown consequences
 - **Repair and Restoration**: Healing broken things, including people and relationships

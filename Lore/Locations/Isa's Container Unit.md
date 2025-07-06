@@ -122,7 +122,7 @@ Standing at the windows reveals the true scope of the Stack environment while ma
 
 ## Impression on Vyr4n
 
-For someone accustomed to the cramped confines of a ventilation shaft, Isa's container unit represents a completely different approach to Stack survival. Rather than hiding from the world, she has created a space that welcomes it - but on her own terms.
+For someone accustomed to the cramped confines of a utility room, Isa's container unit represents a completely different approach to Stack survival. Rather than hiding from the world, she has created a space that welcomes it - but on her own terms.
 
 The professional atmosphere speaks to her business acumen and the relationships she has built throughout the underground economy. The security measures reveal the dangers inherent in her profession, while the comfort and sophistication demonstrate the rewards of successful entrepreneurship in the gray market.
 

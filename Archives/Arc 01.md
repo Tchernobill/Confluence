@@ -1,6 +1,6 @@
 ## Arc 01 Summary
 
-**Inciting Incident**: Vyr4n, recently orphaned and living in a hidden concrete ventilation shaft, discovers the damaged head unit of an assistant droid that still has a viable core system.
+**Inciting Incident**: Vyr4n, recently orphaned and living in a hidden concrete utility room, discovers the damaged head unit of an assistant droid that still has a viable core system.
 
 **First Plot Point**: Vyr4n successfully establishes contact with the droid's personality and begins the process of jailbreaking its systems, seeing potential beyond its original programming.
 
@@ -14,7 +14,7 @@
 
 ## Arc 01 Chapters
 
-### Chapter 1: The Ventilation Shaft
+### Chapter 1: The Utility Room
 
 End with Vyr4n discovering the damaged assistant droid head unit in the scrapyard, realizing it's still operational when a faint light blinks in its optical sensor as he holds it.
 ### Chapter 2: The Artisan

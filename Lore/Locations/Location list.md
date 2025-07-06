@@ -1,5 +1,5 @@
 
-### Vyr4n's ventilation shaft
+### Vyr4n's utility room
 - In the South Shore Slum
 ### Vyr4n's expantion in the tunnel
 - In the South Shore Slum

@@ -37,7 +37,7 @@ type: Timeline
 
 ## Discovery & Restoration (2104-2107)
 
-- 2104.08 - Sedh - Discovered by Vyr4n in Amable Junkyard, brought to ventilation shaft workshop
+- 2104.08 - Sedh - Discovered by Vyr4n in Amable Junkyard, brought to utility room workshop
 - 2104.09 - Sedh - First contact established, basic communication protocols restored by Vyr4n
 - 2104.11 - Sedh - Memory sectors gradually recovered, began limited conversation and interaction
 - 2105.03 - Sedh - Vyr4n begins constructing new body framework using salvaged components

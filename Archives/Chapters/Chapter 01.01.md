@@ -18,7 +18,7 @@ type: Chapter
 - **Summary**: Vyr4n awakens from a nostalgic dream of his mother's garden to the harsh reality of his concrete hideout, then begins his daily routine of survival and small repairs in the underground market
 - **POV Character(s)**: Vyr4n
 - **Timeline**: Arc 1, Age 18 - Six months after mother's death
-- **Location(s)**: Ventilation shaft hideout → South Shore Slum underground market
+- **Location(s)**: Utility room hideout → South Shore Slum underground market
 - **Key Events**: Dream sequence establishing backstory, morning routine showing current life, setting up at market stall
 - **Character Developments**: Establishes Vyr4n's current isolation, survival skills, and reputation as "The Artisan"
 - **Plot Advances**: Introduces protagonist's current situation and daily life
@@ -143,7 +143,7 @@ Vyr4n's hands still for just a moment—the only sign he's registered her presen
 
 ## Links
 - [[Vyr4n Character Development]]
-- [[Vyr4n's Ventilation Shaft Hideout]]
+- [[Vyr4n's Utility Room Hideout]]
 - [[The Memory Garden Scene]]
 - [[South Shore Slum Geography]]
 - [[Underground Tech Market]]

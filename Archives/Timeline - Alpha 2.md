@@ -28,7 +28,7 @@ type: Reference
 *From isolation to first connections*
 
 ### Chapter Timeline
-- **2102 (Age 16)**: Chapter 1.01 - *The Concrete Garden* - Waking up in ventilation shaft hideout
+- **2102 (Age 16)**: Chapter 1.01 - *The Concrete Garden* - Waking up in utility room hideout
 - **2103 (Age 17)**: Chapter 1.02 - *First Contact* - Meeting Isa during riot shelter
 - **2104 (Age 18)**: Chapter 1.03 - *Confined Spaces* - Establishing Phoenix Recovery business
 - **2105 (Age 19)**: Chapter 1.04 - *Digital Awakening* - Discovering Sedh's head unit
