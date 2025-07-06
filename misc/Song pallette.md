@@ -24,7 +24,7 @@ Mood: Driven, electrifying, optimistic.
 Theme: Pursuing hope and answers, resilience in the face of darkness.
 Feelings: Determination, excitement, motivation, anticipation.
 
-## Darknight taking over Vyr4n
+## DarkNight taking over Vyr4n
 **Calling All Stations** – Ray Wilson
 Music: Dark, atmospheric rock with prominent synths, steady drums, and emotive vocals.
 Tone: Somber, urgent, introspective.
