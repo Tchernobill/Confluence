@@ -150,8 +150,8 @@
 
 **Chapter Summaries**:
 
-- **Chapter 4.01 - Empire Building (2125, Age 39)**: Multi-territory coordination, sophisticated organizational structure. End: Recognition of quasi-governmental authority status by both criminals and corporate powers.
-- **Chapter 4.02 - The Inner Circle (2128, Age 42)**: Elena, Zara, and other key lieutenant recruitment through redemptive conversion. End: Complete loyalty structure established through unique recruitment philosophy.
+- **Chapter 4.01 - Empire Building (2125, Age 39)**: Summoned by the crime boss of the territory, Vyr4n meet Rico "The Grip" Vasquez who inform Vyr4n that he now work for him. Confronted by a genuinly aweful human being, Vyr4n snap and neutralise The Grip.
+- **Chapter 4.02 - The Inner Circle (2128, Age 42)**: Encouraged by Marcus, Vyr4n establish himself as leader of the organisation, work his way into being accepted by others more by cooperation than cohercion.
 - **Chapter 4.03 - Corporate Negotiations (2131, Age 45)**: Legitimate business front establishment, corporate partnership development. End: Legal recognition as efficient service provider bridging criminal and corporate worlds.
 - **Chapter 4.04 - The Underground Railroad (2134, Age 48)**: Humanitarian operations expansion, protection network development. End: Regional humanitarian authority status achieved through efficient service delivery.
 - **Chapter 4.05 - Moral Complications (2137, Age 51)**: Isa's return and initial observations of organizational transformation. End: Recognition that protective intentions have created authoritarian governance structure.
