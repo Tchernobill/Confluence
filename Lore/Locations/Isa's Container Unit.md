@@ -1,8 +1,8 @@
-# Isa's Container Unit: A Study in Underground Commerce
+# Isa's Container Unit
 
 ## Exterior Approach
 
-Isa's unit occupies the seventh level of Block 12 in the Bross Residential Stack - high enough to avoid the worst of the ground-level chaos but not so high as to draw unwanted attention from gang leaders. The external approach reveals subtle signs of her elevated status: the metal grating walkway outside her door is reinforced with additional welding, and a small security camera - military surplus but functional - watches the corridor with a soft blue LED.
+Isa's unit occupies the seventh level of Block 12 in the New Bros Residential Stack - high enough to avoid the worst of the ground-level chaos but not so high as to draw unwanted attention from gang leaders. The external approach reveals subtle signs of her elevated status: the metal grating walkway outside her door is reinforced with additional welding, and a small security camera - military surplus but functional - watches the corridor with a soft blue LED.
 
 Two shipping containers have been joined lengthwise, their adjoining walls removed to create a space roughly 12 meters long and 2.4 meters wide. The exterior still bears the industrial markings of their previous lives: "HAPAG-LLOYD" stenciled in faded orange on one side, "MAERSK" in blue on the other. But the modifications speak of careful planning and available resources.
 
