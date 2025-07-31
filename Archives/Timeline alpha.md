@@ -43,6 +43,11 @@
 - At the last minute, a different crew member come back and pull Vyr4n by the hand, dragging him out in the stairwell where they escape
 - As the timer of the DeathPack reach zero, the entire floor of the building is purged in a giant detonation (later causing the downfall of the whole company)
 - Back home, Vyr4n is still dazed by the explosions, receive a bonus for the successful heist.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/main
 - The next day, he began to study the Egypt NPU
 - Working with Sedh into adapting the droid framework with the NPU upgrade, Vyr4n doesn't feel well
 - Isa often visit to see Vyr4n and inquire about him

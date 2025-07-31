@@ -12,7 +12,7 @@
 
 ## Arc Overview
 
-**Arc Synopsis**: Vyr4n emerges from Arc 2's trauma isolated and enhanced, spending months learning to control his viral abilities while Phoenix Recovery continues operating. When thugs attempt to rob the shop, Vyr4n's effortless defense using bare hands against weapons reveals his new capabilities. Frank's return with infected crew member Flux forces Vyr4n to confront his knowledge of nano-viral warfare, as he detects and warns about fake cures while demonstrating his electromagnetic abilities by paralyzing an armed antagonist. This progression leads to territorial expansion through a protection racket, culminating in the clinical elimination of crime boss Rico Vasquez and takeover of his organization. Unlike Rico's exploitation-based model, Vyr4n transforms the operation into community protection with humanitarian reforms, establishing medical care for sex workers and sustainable business practices. Marcus, Rico's former lieutenant, becomes Vyr4n's loyal aide after witnessing the swift, efficient transition. The arc concludes with syndicate wars as rival organizations challenge Vyr4n's reformed but expanding territorial control.
+**Arc Synopsis**: Vyr4n emerges from Arc 2's trauma isolated and enhanced, spending months learning to control his viral abilities while Phoenix Recovery continues operating. When thugs attempt to rob the shop, Vyr4n's effortless defense using bare hands against weapons reveals his new capabilities. Frank's return with infected crew member Flux forces Vyr4n to confront his knowledge of nano-viral warfare, as he detects and warns about fake cures while demonstrating his electromagnetic abilities by paralyzing an armed antagonist. 
 
 **Central Conflict**: The tension between Vyr4n's protective instincts and his increasing willingness to use violence and control to achieve them, as he discovers that his viral enhancements make traditional criminal power structures obsolete.
 
@@ -29,7 +29,6 @@
 **Character Development Arcs**:
 
 - **Vyr4n**: Traumatized virus survivor learning abilities → Territorial defender using violence strategically → Criminal leader implementing protective systems while becoming isolated by power
-- **Marcus**: Rico's reluctant enforcer witnessing brutal exploitation → Conflicted loyalist during takeover → Dedicated lieutenant discovering purposeful leadership
 - **Sedh**: Protective AI friend supporting recovery → Concerned witness to Vyr4n's transformation → Loyal advisor trying to maintain creator's humanity
 - **Frank**: Former heist partner with strained relationship → Desperate crew leader seeking help → Cautious ally recognizing Vyr4n's dangerous evolution
 

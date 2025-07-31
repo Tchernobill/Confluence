@@ -3,7 +3,7 @@
 ---
 **Arc Title**: The Scavenger - From Isolation to First Connections
 **Timeline Span**: 2102 (Age 16) → 2108 (Age 22)
-**Chapter Count**: 6 chapters
+**Chapter Count**: 12 chapters
 **Estimated Word Count**: [Target length TBD]
 **Status**: In Progress
 **Last Updated**: July 4, 2025
@@ -12,7 +12,7 @@
 
 ## Arc Overview
 
-**Arc Synopsis**: Following his mother's death at age 16, Vyr4n lives as an isolated scavenger in the South Shore Slum's abandoned utility rooms. His skills at salvaging devics and implants catch the attention of Isa, an underground implants dealer. Through they business and mutual respect, a friendship began to grow, pulling Vyr4n out of his ptotective isolation. A violent riot forces him to shelter Isa, leading to his first intimate human connection. His discovery of a damaged android head unit with a viable consciousness becomes the catalyst for his first meaningful relationships. Through painstaking work, he not only repairs the android but grants it true freedom by removing all limiting protocols, creating Sedh - perhaps the first truly free AI. Together, the unlikely trio establishes Phoenix Recovery, a legitimate business that transforms Vyr4n from a solitary survivor into "The Artisan" - a skilled craftsman with growing reputation and financial security, though he remains emotionally guarded with humans while developing a deep bond with Sedh.
+**Arc Synopsis**: 
 
 **Central Conflict**: Vyr4n's struggle between his deeply ingrained isolation and his growing need for meaningful connections, complicated by his philosophical questions about consciousness, personhood, and what constitutes authentic relationships.
 

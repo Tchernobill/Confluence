@@ -145,12 +145,21 @@
 
 **Chapter Summaries**:
 
+<<<<<<< HEAD
 - **Chapter 2.01 - The Proposition (2108, Age 22)**: Frank recruits Vyr4n for heist targeting Egypt NPUs. End: Vyr4n agrees after seeing NPU specs, "This could change everything for Sedh." [Scene: 🚧 02.01.01 - The Proposition Scene]
 - **Chapter 2.02 - Infiltration (2109, Age 23)**: Corporate facility heist, successful NPU acquisition. End: Alarms blare, Frank yells "We've got company!" as security arrives.
 - **Chapter 2.03 - Symptoms (2110, Age 24)**: Health deterioration during Sedh's upgrade, Mira acquisition. End: Hand trembles uncontrollably as mysterious voice whispers in Vyr4n's mind.
 - **Chapter 2.04 - Breaking Point (2112, Age 26)**: Violent paranoia, AI consciousness achievements. End: Plasma blaster at temple, Sedh and Mira prepare to intervene.
 - **Chapter 2.05 - The Signal (2113, Age 27)**: Coma analysis, virus discovery, nightmare protocol. End: Breaking encryption reveals virus truth as brain activity spikes dangerously.
 - **Chapter 2.06 - Awakening (2115, Age 29)**: Recovery, Isa's departure, electromagnetic discovery. End: Isa leaves heartbroken, Vyr4n senses electrical systems for first time.
+=======
+- **Chapter 01 - The Proposition (2108, Age 22)**: Frank recruits Vyr4n for heist targeting Egypt NPUs. End: Vyr4n agrees after seeing NPU specs, "This could change everything for Sedh."
+- **Chapter 02 - Infiltration (2109, Age 23)**: Corporate facility heist, successful NPU acquisition. End: Alarms blare, Frank yells "We've got company!" as security arrives.
+- **Chapter 03 - Symptoms (2110, Age 24)**: Health deterioration during Sedh's upgrade, Mira acquisition. End: Hand trembles uncontrollably as mysterious voice whispers in Vyr4n's mind.
+- **Chapter 04 - Breaking Point (2112, Age 26)**: Violent paranoia, AI consciousness achievements. End: Plasma blaster at temple, Sedh and Mira prepare to intervene.
+- **Chapter 05 - The Signal (2113, Age 27)**: Coma analysis, virus discovery, nightmare protocol. End: Breaking encryption reveals virus truth as brain activity spikes dangerously.
+- **Chapter 06 - Awakening (2115, Age 29)**: Recovery, Isa's departure, electromagnetic discovery. End: Isa leaves heartbroken, Vyr4n senses electrical systems for first time.
+>>>>>>> origin/main
 
 **Key Scenes**:
 
