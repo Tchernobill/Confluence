@@ -1,5 +1,3 @@
-Based on your existing material, here's how Vyr4n's mother would work as a **Biotechnician/Hydroponics Engineer**:
-
 ## **Elena - Biotechnician/Hydroponics Engineer**
 
 ### **Professional Background**
@@ -32,14 +30,25 @@ Based on your existing material, here's how Vyr4n's mother would work as a **Bio
 
 ### **Legacy to Vyr4n**
 
-- **Technical Foundation**: His electronics expertise builds naturally on her bio-tech integration principles
+- **Technical Foundation**: His electronics expertise builds naturally on her bio-tech integration principles and 
 - **Garden Dreams**: His subconscious processes her work environment—likely greenhouse laboratories where technology and nature truly worked in harmony
 - **Philosophical Framework**: Her belief that "everything tells you what it needs" becomes his approach to fixing broken things
-- **Future Sanctuary**: Her closed-loop system designs become the foundation for his hidden refuge in the Champlains Wasteland
-
-This background explains why her journals are so valuable, why Vyr4n dreams of gardens, and provides the technical foundation for his later work creating sanctuaries for the tech-addicted. Her work represents the hopeful possibility of healing damaged environments—something Vyr4n will eventually achieve on a larger scale.
+- **Future Sanctuary**: Her closed-loop system designs become the foundation for his flaura recovery later on. 
 
 ---
+
+## **The Honey Documents Discovery**
+
+### **Setup Context (Early Arc 4)**
+
+- Investing on Vyr4n's past, Mat get his hands on some documents related to his childhood
+- Some documents imply that Vyr4n's dad is a powerful executive in the largest corporation
+- Other documents point to genetic modifications and enhancements before birth
+- Mat inform Elena, there is a conflic, Mat want to approach Vyr4n with the docs, Elena is agains't
+- When Mat push through anyway, Vyr4n fond the document facinating
+- He dismiss them as fabrication, admit he know who his father is (that will never be revealed) and also trust his mother was honnest with him
+- He theorise that the whole cache of document is an attempt to make him reveal his identity, a far reaching trap. 
+
 
 ## **The Garden Documents Discovery**
 
