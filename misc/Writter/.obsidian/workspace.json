@@ -1,0 +1,372 @@
+{
+  "main": {
+    "id": "7260f5860b5a4e65",
+    "type": "split",
+    "children": [
+      {
+        "id": "2884e6f15f5bba23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3a6b1a3e1fa8e3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confluence/Characters/Vyr4n - Details.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Vyr4n - Details"
+            }
+          },
+          {
+            "id": "62c3a064de84d013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confluence/Characters/Isa - Details.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Isa - Details"
+            }
+          },
+          {
+            "id": "0fdf38dd9d0852b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confluence/Characters/Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Characters"
+            }
+          },
+          {
+            "id": "892d8e248d8adb62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optisa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optisa"
+            }
+          },
+          {
+            "id": "9fac2b353519faee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optisa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optisa"
+            }
+          },
+          {
+            "id": "b01044e036580a52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confluence/Story/Raw timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raw timeline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6d31acf47c66da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dab3139d875a9b36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61717e03cf3e73c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "881721bfda7bc04c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2492e545c70a9cc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "729c5a36d58803b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2edd1d53f5d91b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d99b17868e2c8126",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Optisa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Optisa"
+            }
+          },
+          {
+            "id": "5ee32ad78a9a2fa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Optisa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Optisa"
+            }
+          },
+          {
+            "id": "821884153f986b5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "310d9663fe2e18b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Optisa.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Optisa"
+            }
+          },
+          {
+            "id": "fc9c904da0209889",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "2598ba757f6a16a6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Optisa.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Optisa"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "13755e25b4c60cbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d16efaabd683e91",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Optisa.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Optisa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 489.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "892d8e248d8adb62",
+  "lastOpenFiles": [
+    "Arc Evolutions.md",
+    "Optisa.md",
+    "Confluence/Story/Raw timeline.md",
+    "Confluence/Characters/Vyr4n - dataview.md",
+    "Confluence/Characters/Vyr4n.md",
+    "Confluence/Story/Arc 1 - Events.md",
+    "Confluence/Story/Chapter 03.01.md",
+    "Confluence/Story/Chapter 03.02.md",
+    "Confluence/Story/Chapter 03.03.md",
+    "Confluence/Story/Arc 5 - The Protector.md",
+    "Confluence/Story/Arc 4 - The Leader.md",
+    "Confluence/Story/Arc 3 - The Criminal.md",
+    "Confluence/Story/Arc 2 - The Infected.md",
+    "Confluence/Story/Arc 1 - The Scavenger.md",
+    "Confluence/Story/Arc 6 - The Guardian.md",
+    "Confluence/Characters/Characters.md",
+    "Confluence/Story/Chapter 03.09.md",
+    "Confluence/Characters/Vyr4n - Summary.md",
+    "Confluence/misc/Quotes to use.md",
+    "Confluence/misc/Quotes.md",
+    "Confluence/Characters/Isa - Details.md",
+    "Confluence/Story/Untitled",
+    "Confluence/Characters/Zara - Details.md",
+    "Confluence/Lore/DarkNight.md",
+    "Confluence/Characters/Zara - Summary.md",
+    "Confluence/Lore/Sedh Awakening.md",
+    "Confluence/Lore/Zara's trauma.md",
+    "Confluence/misc/yan",
+    "Confluence/misc",
+    "Confluence/Locations/Locations map.kml",
+    "Confluence/Story",
+    "Confluence/New folder",
+    "Confluence/Lore",
+    "Confluence/Locations",
+    "Confluence/Characters",
+    "Confluence/Templates"
+  ]
+}

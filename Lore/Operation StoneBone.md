@@ -22,19 +22,19 @@ Operation StoneBone represents a kinetic response to imminent Citadel tactical n
 ## THREAT ASSESSMENT
 
 ### Citadel Orbital Threat
-- **Imminent tactical orgital kinetic bombardment** against South Shore Slum (estimated 1500 casualties)
+- **Imminent tactical orbital kinetic bombardment** against South Shore Slum (estimated 1500 casualties)
 - Corporate Collective seeks to eliminate resistance while preserving workforce
 - Response window: 48-72 hours maximum
 
-### Crown Defense Grid Capabilities
+### Crown Defence Grid Capabilities
 - **Automated gun turrets** - perimeter wall integrated systems
 - **Swarm interceptor drone launchpads** - distributed across island
-- **Missile defense systems** - kinetic and directed energy
+- **Missile defence systems** - kinetic and directed energy
 - **Observatory sensor network** - Crown Mountain primary + alternate site
 - **Reinforced access points** - bridge and tunnel checkpoints
 - **Phalanx CIWS systems** - 20mm rounds ineffective against 1000kg solid mass
 - **Interception rate for drones** - 30 target per second sustained for approximatively 72 hours
-- **Interception rate for balistic** - 10 target per minutes sustained for approximatively 2 hours
+- **Interception rate for ballistic** - 10 target per minutes sustained for approximatively 2 hours
 
 ---
 

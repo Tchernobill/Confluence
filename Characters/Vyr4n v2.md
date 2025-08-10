@@ -15,6 +15,7 @@ type: Character Sheet
 # Character Name: Vyr4n
 
 ## Quick Reference
+
 - **Role in Story:** Main Protagonist
 - **One-Line Summary:** Secretly virus-enhanced slum dweller who rises from electronics repair to powerful protector while hiding his true capabilities
 - **Core Motivation:** Protecting those he cares about while maintaining the burden of his secret enhanced nature
@@ -25,6 +26,7 @@ type: Character Sheet
 ---
 
 ## General Info
+
 - **Full Name:** Vyr4n [Last name unknown/never revealed]
 - **Nicknames/Aliases:** "Vyr" (intimate), "The Artisan" (underground reputation), "Mr. V" (business associates), "Slum Daemon"/"Technomancer" (street legend), "Lord" (later followers)
 - **Date of birth:** 2086
@@ -36,6 +38,7 @@ type: Character Sheet
 ---
 
 ## Physical
+
 - **Height & Build:** 5'10" (178cm), average build with large shoulders
 - **Hair:** Dark brown, short, often unkempt, tends to fall across his face
 - **Eyes:** Dark brown (hazel in some versions)
@@ -49,6 +52,7 @@ type: Character Sheet
 ---
 
 ## Psychological
+
 - **Personality Type/Temperament:** **Arc 1**: Introverted, brilliant, traumatized, caring but guarded; **Later Arcs**: Increasingly strategic, protective, mysteriously capable, charismatic, burdened by secrets
 - **Core Beliefs/Values:** "Once I know how it works, it can be fixed"; believes in universal balance (yin-yang); secular humanist who believes everything deserves second chances
 - **Greatest Fear:** Hurting loved ones, abandonment, discovery of his enhanced nature and its consequences
@@ -63,6 +67,7 @@ type: Character Sheet
 ---
 
 ## Mannerisms
+
 - **Habits:** Extremely careful about physical demonstrations that might reveal true capabilities
 - **Nervous Tics:** 
 - **When Happy:** 
@@ -75,6 +80,7 @@ type: Character Sheet
 ---
 
 ## Voice & Dialogue Style
+
 - **Speaking Pace:** Soft and measured
 - **Vocabulary Level:** Technical but accessible, uses precise language
 - **Accent/Dialect:** Corporate Standard, Tech Cant, Street Slang
@@ -123,16 +129,17 @@ type: Character Sheet
 ---
 
 ## Background & History
+
 - **Birthplace:** South Shore Slum maintenance sector
-- **Family Background:** 
+- **Family Background:**
   - Parents: Mother: Elena, Father unknown
   - Siblings: None
   - Extended Family: Unknown
 - **Childhood:** Third-generation slum dweller, harsh scrapyard conditions
 - **Education:** Self-taught technical knowledge and strategic thinking
 - **Formative Experiences:** **Secret**: Infected by nanobotic virus that granted enhancement
-- **Past Relationships:** 
-- **Major Life Events:** 
+- **Past Relationships:**
+- **Major Life Events:**
   - Meeting Isa
   - Building Phoenix Recovery
   - Virus infection and enhancement (secret)
@@ -174,9 +181,10 @@ type: Character Sheet
 ## Character Timeline
 
 ### Arc 1 Summary
+
 - **Overall Journey:** Isolated survivor to business owner and partner
-- **Major Transformations:** 
-  - Physical: Learning to control and hide enhanced abilities
+- **Major Transformations:**
+  - Physical: Health increasing due to proper nutrition
   - Psychological: Opening up emotionally despite secret burden
   - Social: Building Phoenix Recovery and relationships
   - Spiritual: Developing philosophy about consciousness and power
@@ -186,26 +194,29 @@ type: Character Sheet
 - **Key Relationships:** Isa (romantic and business partner)
 - **Major Events:** Meeting Isa, establishing Phoenix Recovery
 - **Core Conflict:** Balancing desire for connection with need to hide true nature
-- **Skills/Knowledge:** Master-level electronics repair, **Secret**: nanobotic control and electromagnetic manipulation
-- **Sample Dialogue:** Speaks softly, precisely, with deliberate understatement of abilities
+- **Skills/Knowledge:** Master-level electronics repair, 
+- **Secret**: nanobotic control and electromagnetic manipulation
+- **Dialogue:** Speaks softly, precisely, with deliberate understatement of abilities
 
 ### Arc 2 Summary
-- **Overall Journey:** 
-- **Major Transformations:** 
-  - Physical: 
-  - Psychological: 
-  - Social: 
-  - Spiritual: 
-- **Constants:** 
-- **Physical Changes:** 
-- **Psychological State:** 
-- **Key Relationships:** 
-- **Major Events:** 
-- **Core Conflict:** 
-- **Skills/Knowledge:** 
-- **Sample Dialogue:** 
+
+- **Overall Journey:**
+- **Major Transformations:**
+  - Physical:
+  - Psychological:
+  - Social:
+  - Spiritual:
+- **Constants:**
+- **Physical Changes:**
+- **Psychological State:**
+- **Key Relationships:**
+- **Major Events:**
+- **Core Conflict:**
+- **Skills/Knowledge:**
+- **Sample Dialogue:**
 
 ### Arc 3 Summary
+
 - **Overall Journey:** 
 - **Major Transformations:** 
   - Physical: 
@@ -222,6 +233,7 @@ type: Character Sheet
 - **Sample Dialogue:** 
 
 ### Arc 4 Summary
+
 - **Overall Journey:** 
 - **Major Transformations:** 
   - Physical: 
@@ -238,6 +250,7 @@ type: Character Sheet
 - **Sample Dialogue:** 
 
 ### Arc 5 Summary
+
 - **Overall Journey:** 
 - **Major Transformations:** 
   - Physical: 
@@ -254,6 +267,7 @@ type: Character Sheet
 - **Sample Dialogue:** 
 
 ### Arc 6 Summary
+
 - **Overall Journey:** 
 - **Major Transformations:** 
   - Physical: 
@@ -272,6 +286,7 @@ type: Character Sheet
 ---
 
 ## World Interaction & Themes
+
 - **Worldview:** Deeply suspicious of corporate power, believes in earned authority through competence
 - **Theme Connection:** Hidden identity, the cost of power, found family, technology vs. humanity
 - **Symbolic Role:** The secret protector, enhanced humanity struggling with connection
@@ -288,6 +303,7 @@ type: Character Sheet
 ---
 
 ## Notes & Development
+
 - **Inspiration/References:** 
 - **Character Evolution:** 
 - **Author Notes:** Central tension between desire for connection and need to hide enhanced nature; appears merely exceptional while secretly superhuman
