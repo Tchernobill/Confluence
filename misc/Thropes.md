@@ -3,7 +3,7 @@ title:
   - Common Cyberpunk Tropes Reference
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Reference
   - Cyberpunk
   - Worldbuilding

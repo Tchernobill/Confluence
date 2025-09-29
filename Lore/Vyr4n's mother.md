@@ -28,7 +28,7 @@
 - **Corporate Abandonment**: When her health declined, the company cut her benefits and medical support
 - **Gradual Deterioration**: A wasting illness as her body fought against the very pollutants her plants were designed to process
 
-### **Legacy to Vyr4n**
+### **Legacy to Kyr4n**
 
 - **Technical Foundation**: His electronics expertise builds naturally on her bio-tech integration principles and 
 - **Garden Dreams**: His subconscious processes her work environment—likely greenhouse laboratories where technology and nature truly worked in harmony
@@ -41,11 +41,11 @@
 
 ### **Setup Context (Early Arc 4)**
 
-- Investing on Vyr4n's past, Mat get his hands on some documents related to his childhood
-- Some documents imply that Vyr4n's dad is a powerful executive in the largest corporation
+- Investing on Kyr4n's past, Mat get his hands on some documents related to his childhood
+- Some documents imply that Kyr4n's dad is a powerful executive in the largest corporation
 - Other documents point to genetic modifications and enhancements before birth
-- Mat inform Elena, there is a conflic, Mat want to approach Vyr4n with the docs, Elena is agains't
-- When Mat push through anyway, Vyr4n fond the document facinating
+- Mat inform Elena, there is a conflic, Mat want to approach Kyr4n with the docs, Elena is agains't
+- When Mat push through anyway, Kyr4n fond the document facinating
 - He dismiss them as fabrication, admit he know who his father is (that will never be revealed) and also trust his mother was honnest with him
 - He theorise that the whole cache of document is an attempt to make him reveal his identity, a far reaching trap. 
 
@@ -54,15 +54,15 @@
 
 ### **Setup Context (Late Arc 4)**
 
-- Vyr4n's organization now controls multiple territories with growing populations needing better nutrition
+- Kyr4n's organization now controls multiple territories with growing populations needing better nutrition
 - His humanitarian reforms require improved food production beyond basic rations
 - Marcus leads territorial expansion teams that systematically inventory acquired assets
-- Vyr4n personally reviews all research databases for useful technology—it's his established pattern
+- Kyr4n personally reviews all research databases for useful technology—it's his established pattern
 
 ### **The Discovery Process**
 
 1. **Routine Inventory**: Marcus reports finding an **abandoned AgriTech subsidiary in a newly acquired sector
-2. **Database Review**: Vyr4n receives technical files labeled as "environmental remediation and sustainable agriculture research"
+2. **Database Review**: Kyr4n receives technical files labeled as "environmental remediation and sustainable agriculture research"
 3. **Technical Interest**: The hydroponic integration diagrams catch his attention—exactly what his organization needs for feeding operations
 4. **Recognition Moment**: Studying a **bioelectric plant network schematic, he notices the signature style matches patterns from his childhood memories
 5. **Personal Discovery**: Finding his mother's name in the file metadata
@@ -77,6 +77,6 @@
 
 ### **Character Development**
 
-This discovery could trigger Vyr4n's first genuine emotional vulnerability in years, showing Marcus and his inner circle a rare glimpse of the man beneath the efficient leader. It reinforces his protective instincts while connecting his mother's healing vision to his current empire-building—suggesting that his authoritarian methods might eventually evolve toward her more nurturing approach.
+This discovery could trigger Kyr4n's first genuine emotional vulnerability in years, showing Marcus and his inner circle a rare glimpse of the man beneath the efficient leader. It reinforces his protective instincts while connecting his mother's healing vision to his current empire-building—suggesting that his authoritarian methods might eventually evolve toward her more nurturing approach.
 
 The timing in late Arc 4 also sets up his eventual choice between perpetual warfare and creating actual sanctuaries where people can heal and grow.

@@ -2,21 +2,21 @@
 
 **The Conversation**
 
-- Isa and Zara tell Vyr4n together, presenting united front
+- Isa and Zara tell Kyr4n together, presenting united front
 - His layered reaction plays out as described
 - He gives them his blessing while hiding his own turmoil
 - Short-term: everyone pretends everything is fine
 
 **Immediate Fallout**
 
-- Vyr4n becomes subtly more distant/professional
+- Kyr4n becomes subtly more distant/professional
 - Isa and Zara notice the change but respect his space initially
 - Internal struggle intensifies as he watches them together
 - His nanobotic abilities might fluctuate with emotional stress
 
 ## Phase 2: Cracks in the Facade (2-4 weeks)
 
-**Vyr4n's Mask Slips**
+**Kyr4n's Mask Slips**
 
 - Small moments of jealousy or possessiveness leak through
 - Overcompensation becomes obvious (too supportive, too helpful)
@@ -41,7 +41,7 @@
 **The Confrontation**
 
 - All three forced to be honest about their feelings
-- Vyr4n admits his love for both but believes it's impossible/selfish
+- Kyr4n admits his love for both but believes it's impossible/selfish
 - Discussion about why he thinks he can't have what he wants
 - Core fears revealed: his dangerous nature, power imbalances, unworthiness
 
@@ -55,15 +55,15 @@
 
 **Testing the Waters**
 
-- Gradual physical/emotional intimacy between Vyr4n and both women
+- Gradual physical/emotional intimacy between Kyr4n and both women
 - Working through jealousy and insecurity as they arise
 - Setting boundaries and communication protocols
 - Learning to navigate his enhanced abilities in intimate contexts
 
 **Key Conversations:**
 
-- Vyr4n/Isa: Addressing their past and what's different now
-- Vyr4n/Zara: Moving beyond protector/protected dynamic
+- Kyr4n/Isa: Addressing their past and what's different now
+- Kyr4n/Zara: Moving beyond protector/protected dynamic
 - All three: Defining what this relationship actually means
 
 ## Phase 5: Integration & Growth (Ongoing)
@@ -84,7 +84,7 @@
 
 **Character Growth Milestones:**
 
-- Vyr4n learns to be vulnerable without being controlling
+- Kyr4n learns to be vulnerable without being controlling
 - Isa integrates her past love with present reality
 - Zara discovers she's valued for herself, not just her usefulness
 - All three learn to communicate about complex emotions
@@ -112,7 +112,7 @@
 **External Factors**
 
 - How this affects their organization and public image
-- Safety protocols given Vyr4n's dangerous lifestyle
+- Safety protocols given Kyr4n's dangerous lifestyle
 - Practical considerations of their cyberpunk world
 
 ## Potential Story Beats

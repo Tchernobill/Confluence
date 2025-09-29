@@ -12,11 +12,11 @@
 
 ## Arc Overview
 
-**Arc Synopsis**: Vyr4n emerges from Arc 2's trauma isolated and enhanced, spending months learning to control his viral abilities while Phoenix Recovery continues operating. When thugs attempt to rob the shop, Vyr4n's effortless defense using bare hands against weapons reveals his new capabilities. Frank's return with infected crew member Flux forces Vyr4n to confront his knowledge of nano-viral warfare, as he detects and warns about fake cures while demonstrating his electromagnetic abilities by paralyzing an armed antagonist. 
+**Arc Synopsis**: Kyr4n emerges from Arc 2's trauma isolated and enhanced, spending months learning to control his viral abilities while Phoenix Recovery continues operating. When thugs attempt to rob the shop, Kyr4n's effortless defense using bare hands against weapons reveals his new capabilities. Frank's return with infected crew member Flux forces Kyr4n to confront his knowledge of nano-viral warfare, as he detects and warns about fake cures while demonstrating his electromagnetic abilities by paralyzing an armed antagonist. 
 
-**Central Conflict**: The tension between Vyr4n's protective instincts and his increasing willingness to use violence and control to achieve them, as he discovers that his viral enhancements make traditional criminal power structures obsolete.
+**Central Conflict**: The tension between Kyr4n's protective instincts and his increasing willingness to use violence and control to achieve them, as he discovers that his viral enhancements make traditional criminal power structures obsolete.
 
-**Arc Resolution**: Vyr4n successfully establishes territorial control through superior technology and tactical thinking, transforming from traumatized victim to criminal leader. His organization operates more efficiently and humanely than predecessors, but his isolation from normal human connection deepens as his power grows.
+**Arc Resolution**: Kyr4n successfully establishes territorial control through superior technology and tactical thinking, transforming from traumatized victim to criminal leader. His organization operates more efficiently and humanely than predecessors, but his isolation from normal human connection deepens as his power grows.
 
 **Thematic Focus**: Power as tool for protection vs. corruption, violence as system change, isolation through enhancement, moral flexibility under pressure, community protection vs. criminal control, efficiency vs. humanity
 
@@ -24,27 +24,27 @@
 
 ## Character Arcs
 
-**Primary POV Character(s)**: Vyr4n (primary), with perspectives from Marcus, Sedh, and Frank
+**Primary POV Character(s)**: Kyr4n (primary), with perspectives from Marcus, Sedh, and Frank
 
 **Character Development Arcs**:
 
-- **Vyr4n**: Traumatized virus survivor learning abilities → Territorial defender using violence strategically → Criminal leader implementing protective systems while becoming isolated by power
-- **Sedh**: Protective AI friend supporting recovery → Concerned witness to Vyr4n's transformation → Loyal advisor trying to maintain creator's humanity
-- **Frank**: Former heist partner with strained relationship → Desperate crew leader seeking help → Cautious ally recognizing Vyr4n's dangerous evolution
+- **Kyr4n**: Traumatized virus survivor learning abilities → Territorial defender using violence strategically → Criminal leader implementing protective systems while becoming isolated by power
+- **Sedh**: Protective AI friend supporting recovery → Concerned witness to Kyr4n's transformation → Loyal advisor trying to maintain creator's humanity
+- **Frank**: Former heist partner with strained relationship → Desperate crew leader seeking help → Cautious ally recognizing Kyr4n's dangerous evolution
 
 **New Characters Introduced**:
 
-- **Rico Vasquez**: Brutal crime boss whose exploitation model represents everything Vyr4n opposes
-- **Marcus**: Military-trained enforcer who becomes Vyr4n's first loyal lieutenant
-- **Flux**: Frank's crew member infected with DarkNight virus, catalyst for Vyr4n demonstrating viral knowledge
-- **The Thugs**: Shop robbers whose easy defeat reveals Vyr4n's enhanced capabilities
+- **Rico Vasquez**: Brutal crime boss whose exploitation model represents everything Kyr4n opposes
+- **Marcus**: Military-trained enforcer who becomes Kyr4n's first loyal lieutenant
+- **Flux**: Frank's crew member infected with DarkNight virus, catalyst for Kyr4n demonstrating viral knowledge
+- **The Thugs**: Shop robbers whose easy defeat reveals Kyr4n's enhanced capabilities
 
 **Character Relationships**:
 
-- **Vyr4n & Marcus**: Enemy's enforcer → Reluctant ally → Loyal lieutenant relationship built on mutual respect and shared protective instincts
-- **Vyr4n & Frank**: Former partners with betrayal baggage → Cautious business relationship → Wary alliance with clear power imbalance
-- **Vyr4n & Sedh**: Concerned family → AI advisor trying to moderate creator's increasingly violent solutions
-- **Vyr4n & Rico**: Predator recognition → Swift elimination → Viral control demonstration
+- **Kyr4n & Marcus**: Enemy's enforcer → Reluctant ally → Loyal lieutenant relationship built on mutual respect and shared protective instincts
+- **Kyr4n & Frank**: Former partners with betrayal baggage → Cautious business relationship → Wary alliance with clear power imbalance
+- **Kyr4n & Sedh**: Concerned family → AI advisor trying to moderate creator's increasingly violent solutions
+- **Kyr4n & Rico**: Predator recognition → Swift elimination → Viral control demonstration
 
 ---
 
@@ -59,13 +59,13 @@
 **Subplots Addressed**:
 
 - Frank's relationship with infected crew member Flux and desperate search for cures
-- Sedh's concern about Vyr4n's increasing violence and isolation
+- Sedh's concern about Kyr4n's increasing violence and isolation
 - Marcus's transition from reluctant enforcer to dedicated lieutenant
 - Phoenix Recovery's continued legitimate operations providing cover for criminal activities
 
 **Plot Advances**:
 
-- Establishes Vyr4n as territorial power with enhanced abilities
+- Establishes Kyr4n as territorial power with enhanced abilities
 - Creates loyal inner circle through Marcus recruitment
 - Demonstrates community protection model as alternative to exploitation
 - Sets up conflicts with rival criminal organizations
@@ -74,7 +74,7 @@
 **Cliffhangers/Hooks**:
 
 - Syndicate wars with rival organizations who recognize the threat
-- Corporate response to Vyr4n's growing territorial influence
+- Corporate response to Kyr4n's growing territorial influence
 - Moral questions about using violence for community protection
 - Marcus's loyalty and potential for independent leadership
 
@@ -102,13 +102,13 @@
 
 - **High-Quality Katana**: Weapon too valuable for simple thugs, suggesting organized crime connections
 - **Electromagnetic Paralysis**: Viral ability that neutralizes enhanced opponents instantly
-- **Blood Analysis Device**: Medical technology demonstrating Vyr4n's diagnostic capabilities
+- **Blood Analysis Device**: Medical technology demonstrating Kyr4n's diagnostic capabilities
 - **Automatic Gun Turrets**: Hidden security systems showing Phoenix Recovery's true defenses
 - **Vasquez Financial Records**: 2.3 million annual revenue from exploitation model
 
 **Secrets/Information Revealed**:
 
-- Vyr4n can detect and analyze nano-viral infections through electromagnetic sensing
+- Kyr4n can detect and analyze nano-viral infections through electromagnetic sensing
 - Viral abilities include paralysis of enhanced opponents and system override capabilities
 - Criminal territory can be managed humanely while maintaining profitability
 - Frank's abandonment during the heist created lasting grudge and power dynamic shift
@@ -116,9 +116,9 @@
 
 **Questions Raised**:
 
-- How will rival organizations respond to Vyr4n's efficient territorial model?
+- How will rival organizations respond to Kyr4n's efficient territorial model?
 - Can community protection justify increasing criminal power and violence?
-- Will Vyr4n's isolation from humanity continue as his power grows?
+- Will Kyr4n's isolation from humanity continue as his power grows?
 - How will corporate powers react to organized criminal efficiency?
 - What are the long-term implications of viral-enhanced criminal leadership?
 
@@ -126,9 +126,9 @@
 
 ## Structural Elements
 
-**Arc Opening**: Phoenix Recovery robbery attempt where Vyr4n stops a katana blade with his bare hand, revealing his enhanced abilities to both enemies and allies. Mood: Calm confidence masking dangerous capabilities.
+**Arc Opening**: Phoenix Recovery robbery attempt where Kyr4n stops a katana blade with his bare hand, revealing his enhanced abilities to both enemies and allies. Mood: Calm confidence masking dangerous capabilities.
 
-**Arc Climax**: The Rico Vasquez elimination scene where Vyr4n witnesses brutal exploitation, swiftly eliminates Rico through viral injection, and begins immediate humanitarian reforms while demonstrating absolute tactical superiority.
+**Arc Climax**: The Rico Vasquez elimination scene where Kyr4n witnesses brutal exploitation, swiftly eliminates Rico through viral injection, and begins immediate humanitarian reforms while demonstrating absolute tactical superiority.
 
 **Arc Resolution**: Successful territorial consolidation with reformed protection model, Marcus's recruitment as loyal lieutenant, and the beginning of syndicate wars as rival organizations recognize the existential threat to traditional criminal power structures.
 
@@ -139,7 +139,7 @@
 - **Climax**: Clinical elimination, humanitarian reformation, power consolidation
 - **Ending**: Established authority, territorial defense, escalating conflicts
 
-**Transition to Next Arc**: Vyr4n's successful criminal model attracts both allies and enemies, setting up Arc 4's expansion into multi-territorial empire building while his isolation from humanity deepens.
+**Transition to Next Arc**: Kyr4n's successful criminal model attracts both allies and enemies, setting up Arc 4's expansion into multi-territorial empire building while his isolation from humanity deepens.
 
 ---
 
@@ -156,10 +156,10 @@
 
 **Key Scenes**:
 
-- **Shop Robbery Defense**: Demonstrates Vyr4n's enhanced abilities through effortless violence
+- **Shop Robbery Defense**: Demonstrates Kyr4n's enhanced abilities through effortless violence
 - **Frank's Crew Confrontation**: Shows electromagnetic paralysis and hidden security systems
 - **Rico Vasquez Elimination**: Clinical violence followed by immediate humanitarian reforms
-- **Flux Virus Detection**: Reveals Vyr4n's viral warfare knowledge and diagnostic abilities
+- **Flux Virus Detection**: Reveals Kyr4n's viral warfare knowledge and diagnostic abilities
 - **Marcus Recruitment**: Former enemy becomes loyal lieutenant through witnessed efficiency
 
 ---
@@ -184,7 +184,7 @@
 
 **Character Growth Themes**:
 
-- **Vyr4n**: Discovering that enhanced abilities require different moral frameworks
+- **Kyr4n**: Discovering that enhanced abilities require different moral frameworks
 - **Marcus**: Finding purposeful leadership after years of meaningless enforcement
 - **Sedh**: Watching creator's evolution while maintaining loyalty and concern
 - **Frank**: Recognizing former partner's transformation into something beyond normal criminal
@@ -229,7 +229,7 @@
 
 **Story Goals Met**:
 
-- Transformed Vyr4n from victim to criminal leader with clear motivation
+- Transformed Kyr4n from victim to criminal leader with clear motivation
 - Established territorial control and efficient organization model
 - Created loyal inner circle through Marcus recruitment
 - Set up conflicts with traditional criminal structures
@@ -237,7 +237,7 @@
 
 **Character Goals Met**:
 
-- Vyr4n: Gained purpose and power while maintaining protective instincts
+- Kyr4n: Gained purpose and power while maintaining protective instincts
 - Marcus: Found meaningful leadership and efficient organization
 - Sedh: Maintained loyalty while adapting to creator's transformation
 - Frank: Recognized power shift while maintaining cautious relationship
@@ -252,7 +252,7 @@
 **Reader Experience Goals**:
 
 - Satisfaction at seeing exploitation eliminated efficiently
-- Concern about Vyr4n's increasing isolation and moral flexibility
+- Concern about Kyr4n's increasing isolation and moral flexibility
 - Investment in Marcus's loyalty and organizational transformation
 - Anticipation for conflicts with rival organizations and corporate powers
 
@@ -276,7 +276,7 @@
 
 **Overall Saga Position**:
 
-- Third act establishing Vyr4n's criminal career and territorial authority
+- Third act establishing Kyr4n's criminal career and territorial authority
 - Bridge between individual enhancement and organizational leadership
 - Foundation for future humanitarian programs and democratic restoration
 - Shows viral abilities as tool for community protection despite criminal methods
@@ -297,7 +297,7 @@
 - Balancing reader sympathy for criminal methods with humanitarian outcomes
 - Making viral abilities impressive without becoming overpowered
 - Showing Marcus's transition from enemy to ally believably
-- Maintaining Vyr4n's character consistency while showing growth
+- Maintaining Kyr4n's character consistency while showing growth
 
 **Research Needed**:
 
@@ -315,7 +315,7 @@
 
 **Beta Reader Focus**:
 
-- Believability of Vyr4n's transition to criminal leadership
+- Believability of Kyr4n's transition to criminal leadership
 - Effectiveness of Rico Vasquez elimination scene and immediate reforms
 - Marcus's loyalty development and character consistency
 - Balance between criminal actions and humanitarian outcomes

@@ -1,4 +1,4 @@
-## Vyr4n's Life Timeline (2086-2165)
+## Kyr4n's Life Timeline (2086-2165)
 
 **2086** - Born in South Shore Slum to bio-tech engineer mother
 **2102** - Mother dies from industrial poisoning; becomes fully independent (age 16)

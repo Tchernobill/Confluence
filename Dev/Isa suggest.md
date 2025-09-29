@@ -4,7 +4,7 @@ première impression first reading :
 
 la sex scene 💜  
 
-J'aurais aimé que ca soit Kyr4n qui l'embrasse first ou au moins sentir qu'il y pense ... limite qu'il est surpris ? je sais pas je le sens vraiment passif au moment ou il comprends se qui se passe,  ye comme ni enthousiate, ni vraiment allumé, genre il suit son lead passivement comme s'il navait jamais ressenti aucun désir pour elle pis qu'il sapprete à aller faire un pic nic... jaurais aimé le sentir plus destabilisé ou super hype pis quil se gère genre ?  
+J'aurais aimé que ca soit vary4n qui l'embrasse first ou au moins sentir qu'il y pense ... limite qu'il est surpris ? je sais pas je le sens vraiment passif au moment ou il comprends se qui se passe,  ye comme ni enthousiate, ni vraiment allumé, genre il suit son lead passivement comme s'il navait jamais ressenti aucun désir pour elle pis qu'il sapprete à aller faire un pic nic... jaurais aimé le sentir plus destabilisé ou super hype pis quil se gère genre ?  
 
 mais sinon, j'aime leur dynamique pis le lead doux de Isa.  jaime quelle est hyper attiré par le fait quil essait pas de manipuler la situation pour obtenir du sexe.  jaurais juste voulu le sentir plus consentant, ya presque l'air puceaux, à chaque fois qu'il refere à des experiences passée je suis destabilisée 😆😆😆.
 

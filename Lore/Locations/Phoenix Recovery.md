@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Phoenix Recovery operates as a specialized electronics repair and technical services business in the South Shore Slum. Founded in 2108 by Vyr4n "The Artisan" and his partners Isa and Sedh, the company has built a reputation for achieving seemingly impossible repairs and modifications. Operating from a modest three-container facility on the south-east outskirt of the slum, Phoenix Recovery serves both legitimate clients and occasional underground customers requiring discrete technical services.
+Phoenix Recovery operates as a specialized electronics repair and technical services business in the South Shore Slum. Founded in 2108 by Kyr4n "The Artisan" and his partners Isa and Sedh, the company has built a reputation for achieving seemingly impossible repairs and modifications. Operating from a modest three-container facility on the south-east outskirt of the slum, Phoenix Recovery serves both legitimate clients and occasional underground customers requiring discrete technical services.
 
 ---
 
@@ -10,7 +10,7 @@ Phoenix Recovery operates as a specialized electronics repair and technical serv
 
 ### Early Operations (2102-2108)
 
-Phoenix Recovery began as Vyr4n's individual repair services at the underground grey markets. Operating from a portable workstation at vendor stalls, Vyr4n built his reputation as "The Artisan" through exceptional technical capabilities that often salvaged electronics others deemed irreparable.
+Phoenix Recovery began as Kyr4n's individual repair services at the underground grey markets. Operating from a portable workstation at vendor stalls, Kyr4n built his reputation as "The Artisan" through exceptional technical capabilities that often salvaged electronics others deemed irreparable.
 
 **Foundation Timeline:**
 
@@ -155,7 +155,7 @@ The transition from market stall to permanent facility marked Phoenix Recovery's
 
 ### Technical Team
 
-- **Vyr4n ("The Artisan")**: Master technician specializing in molecular-level repair and consciousness systems
+- **Kyr4n ("The Artisan")**: Master technician specializing in molecular-level repair and consciousness systems
 - **Isa**: Business operations, client relations, and underground market connections
 - **Sedh**: Advanced computational analysis, system diagnostics, and technical consultation (appears as sophisticated but standard android to clients)
 

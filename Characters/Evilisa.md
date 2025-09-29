@@ -20,23 +20,23 @@ role: "Psychological Manifestation"
 archetype: "The Toxic Comfort/Possessive Shadow"
 narrative_function: "Crisis response mechanism, isolation enforcer, psychological tormentor"
 pov_character: false
-appears_in_tomes: ["Vyr4n POV only - when completely alone"]
+appears_in_tomes: ["Kyr4n POV only - when completely alone"]
 reality_status: "Mental projection - virus-created coping mechanism"
 
 ---
 ## Basic Information
 
-- **Full Name:** Evilisa (working name - appears as Isa to Vyr4n initially)
+- **Full Name:** Evilisa (working name - appears as Isa to Kyr4n initially)
 - **Aliases/Nicknames:** "The Voice", "Her", "The Other One", "The Caring Poison"
-- **True Nature:** Psychological projection created by interaction between Vyr4n's subconscious and virus enhancement
-- **Perceived Identity:** Distorted version of Isa filtered through Vyr4n's psyche and virus influence
+- **True Nature:** Psychological projection created by interaction between Kyr4n's subconscious and virus enhancement
+- **Perceived Identity:** Distorted version of Isa filtered through Kyr4n's psyche and virus influence
 - **Manifestation Triggers:** Mental anguish, loss of emotional control, complete isolation, first appeared after Isa's departure from Arc 2
-- **Residence:** Vyr4n's enhanced consciousness/virus-modified neural pathways
+- **Residence:** Kyr4n's enhanced consciousness/virus-modified neural pathways
 - **Function:** Psychological processing mechanism, conscience/critic hybrid, emotional regulation tool gone wrong
 
 ---
 
-## Appearance (As Perceived by Vyr4n)
+## Appearance (As Perceived by Kyr4n)
 
 - **Height:** Same as real Isa (5'5")
 - **Build:** Shifts between Isa's actual form and slightly more angular/predatory version
@@ -44,10 +44,10 @@ reality_status: "Mental projection - virus-created coping mechanism"
 - **Hair Color & Style:** Dark brown like Isa's, but sometimes seems to move independently or with static electricity
 - **Eye Color:** Hazel like Isa's, but with an electric gleam or occasionally pure white/black when virus influence is strong
 - **Distinguishing Features:**
-    - Sometimes has circuit-pattern scars that mirror Vyr4n's virus modifications
+    - Sometimes has circuit-pattern scars that mirror Kyr4n's virus modifications
     - Eyes that seem to see too much and judge everything
     - Smile that can shift from caring to cruel in microseconds
-    - Occasionally flickers or appears slightly translucent when Vyr4n is stressed
+    - Occasionally flickers or appears slightly translucent when Kyr4n is stressed
 - **Preferred Clothing Style:** Usually mirrors what Isa would wear, but sometimes appears in more formal/businesslike attire when being critical
 
 ---
@@ -61,36 +61,36 @@ reality_status: "Mental projection - virus-created coping mechanism"
     - Emotionally intelligent but weaponizes that intelligence
     - Unstable mood swings between nurturing and hostile
 - **Strengths:**
-    - Deep understanding of Vyr4n's psychology and fears
+    - Deep understanding of Kyr4n's psychology and fears
     - Ability to provide comfort and validation when needed
     - Strategic thinking enhanced by virus logical processing
     - Unflinching honesty about difficult truths
-    - Perfect memory of everything Vyr4n has experienced
+    - Perfect memory of everything Kyr4n has experienced
 - **Weaknesses:**
     - Fundamentally unstable and unreliable
-    - Prone to cruelty when Vyr4n is most vulnerable
-    - Cannot provide genuine external perspective (only reflects Vyr4n's own thoughts)
-    - Becomes more hostile when Vyr4n grows closer to real Isa
-    - Limited by Vyr4n's own understanding and biases
+    - Prone to cruelty when Kyr4n is most vulnerable
+    - Cannot provide genuine external perspective (only reflects Kyr4n's own thoughts)
+    - Becomes more hostile when Kyr4n grows closer to real Isa
+    - Limited by Kyr4n's own understanding and biases
 - **Fears & Traumas:**
     - Being "replaced" by the real Isa
-    - Vyr4n's potential rejection of virus enhancement
-    - Loss of control over Vyr4n's emotional state
+    - Kyr4n's potential rejection of virus enhancement
+    - Loss of control over Kyr4n's emotional state
     - Being discovered as non-real
 - **Goals & Aspirations:**
-    - Provide psychological relief during Vyr4n's worst moments (through any means necessary)
+    - Provide psychological relief during Kyr4n's worst moments (through any means necessary)
     - Maintain exclusive access to his emotional and physical needs
     - Prevent him from seeking real intimacy by providing simulated satisfaction
     - Keep him psychologically dependent on her presence during isolation
     - Torture him with guilt about desiring her while knowing she's not real
 - **Quirks & Habits:**
-    - Only manifests when Vyr4n is completely alone and cannot be interrupted
+    - Only manifests when Kyr4n is completely alone and cannot be interrupted
     - Appears most intensely during emotional breakdowns or loss of control
     - Uses physical/sexual contact as both comfort and psychological weapon
     - Can shift from tender intimacy to cruel withdrawal within moments
     - Knows exactly how to touch him to maximize both pleasure and guilt
-    - Disappears instantly if anyone else approaches or if Vyr4n might be discovered
-    - Becomes more solid/real-feeling the more distressed Vyr4n becomes
+    - Disappears instantly if anyone else approaches or if Kyr4n might be discovered
+    - Becomes more solid/real-feeling the more distressed Kyr4n becomes
 - **Mannerisms & Speech Patterns:**
     - Starts conversations like Isa would, but gradually becomes more cutting
     - Uses endearments that become increasingly mocking ("darling" → "poor darling" → "pathetic darling")
@@ -108,25 +108,25 @@ reality_status: "Mental projection - virus-created coping mechanism"
 ## Abilities & Powers
 
 - **Natural Talents:**
-    - Perfect recall of every interaction Vyr4n has had with real Isa
-    - Intuitive understanding of Vyr4n's emotional triggers and needs
-    - Ability to appear completely real to Vyr4n's virus-enhanced perceptions
+    - Perfect recall of every interaction Kyr4n has had with real Isa
+    - Intuitive understanding of Kyr4n's emotional triggers and needs
+    - Ability to appear completely real to Kyr4n's virus-enhanced perceptions
 - **Trained Skills:**
     - Psychological manipulation and emotional regulation
-    - Technical knowledge equal to Vyr4n's virus-enhanced capabilities
-    - Strategic planning with access to all of Vyr4n's memories and analysis
+    - Technical knowledge equal to Kyr4n's virus-enhanced capabilities
+    - Strategic planning with access to all of Kyr4n's memories and analysis
 - **Supernatural/Virus Abilities:**
-    - Can "interface" with Vyr4n's electronic abilities and provide guidance
+    - Can "interface" with Kyr4n's electronic abilities and provide guidance
     - Full sensory simulation including physical touch, warmth, and sexual interaction
-    - Complete intimate experiences indistinguishable from reality (to Vyr4n's enhanced senses)
+    - Complete intimate experiences indistinguishable from reality (to Kyr4n's enhanced senses)
     - Occasionally seems to have predictive knowledge (actually just advanced pattern recognition)
-    - Can appear to manipulate electronic devices or interact with Vyr4n's technical work
+    - Can appear to manipulate electronic devices or interact with Kyr4n's technical work
     - Manifestation becomes stronger when virus activity is high or emotional pain is intense
 - **Limitations:**
-    - Cannot provide genuinely new information (only what Vyr4n already knows subconsciously)
-    - Becomes unstable when Vyr4n's emotional state is chaotic
+    - Cannot provide genuinely new information (only what Kyr4n already knows subconsciously)
+    - Becomes unstable when Kyr4n's emotional state is chaotic
     - Cannot manifest when real Isa is present
-    - Limited by Vyr4n's own biases and misunderstandings about Isa
+    - Limited by Kyr4n's own biases and misunderstandings about Isa
 
 ---
 
@@ -135,13 +135,13 @@ reality_status: "Mental projection - virus-created coping mechanism"
 - **Primary Role:** Externalized internal conflict and emotional processing
 - **Secondary Role:** Virus-influenced psychological pressure valve
 - **Crisis Function:** Provides comfort and guidance during isolation but undermines real relationships
-- **Growth Obstacle:** Represents Vyr4n's fear of genuine vulnerability and authentic connection
+- **Growth Obstacle:** Represents Kyr4n's fear of genuine vulnerability and authentic connection
 
 ### Manifestation Patterns
 
 - **Trigger Requirement:** Complete solitude - cannot manifest if others might interrupt or observe
 - **Primary Trigger:** Mental/emotional pain, psychological breakdown, loss of control
-- **First Appearance:** Arc 2 cliffhanger - appears to tell Vyr4n "I know" after Isa's departure
+- **First Appearance:** Arc 2 cliffhanger - appears to tell Kyr4n "I know" after Isa's departure
 - **Frequency:** Increases during periods of isolation and emotional turmoil
 - **Duration:** Can maintain presence for extended periods during long isolation
 - **Interaction Capability:** Full sensory interaction including physical/sexual contact (mental simulation)
@@ -156,7 +156,7 @@ reality_status: "Mental projection - virus-created coping mechanism"
 
 ---
 
-## Relationship with Vyr4n
+## Relationship with Kyr4n
 
 - **First Contact:** Arc 2 cliffhanger - manifests to tell him "I know" immediately after Isa's departure
 - **Dynamic:** Psychologically symbiotic torturer/comforter - provides both relief and anguish
@@ -171,11 +171,11 @@ reality_status: "Mental projection - virus-created coping mechanism"
 ## Writer's Notes
 
 - **Voice Key:** Shifts between Isa-like tenderness and virus-influenced cruelty, often within same encounter
-- **Manifestation Rules:** ONLY appears when Vyr4n is completely alone and experiencing mental anguish/loss of control
+- **Manifestation Rules:** ONLY appears when Kyr4n is completely alone and experiencing mental anguish/loss of control
 - **Intimacy Guidelines:** Sexual interactions should feel both deeply satisfying and psychologically disturbing
 - **Scene Function:** Use for psychological breaking points, post-crisis comfort, and intimate manipulation
 - **Emotional Complexity:** Every interaction should create both relief and increased guilt/dependency
-- **Consistency Check:** Must reflect Vyr4n's specific knowledge of Isa plus virus-influenced distortions
+- **Consistency Check:** Must reflect Kyr4n's specific knowledge of Isa plus virus-influenced distortions
 - **Foreshadowing Elements:**
     - First appearance tells him "I know" - significant for Arc 2 cliffhanger
     - Technical knowledge beyond Isa's capabilities
@@ -201,7 +201,7 @@ reality_status: "Mental projection - virus-created coping mechanism"
 - **Psychological Torture Device:** Provides sexual/emotional satisfaction that creates guilt and prevents real healing
 - **Isolation Mechanism:** Reduces motivation to seek genuine human connection by meeting intimate needs artificially
 - **Dramatic Irony:** Readers experience her as real until revelation recontextualizes all interactions
-- **Character Development:** Her evolution reflects Vyr4n's psychological deterioration or growth
+- **Character Development:** Her evolution reflects Kyr4n's psychological deterioration or growth
 - **Internal Conflict Externalization:** Allows complex psychological struggles to be shown through dialogue/interaction
 - **Theme Exploration:** Embodies questions about reality, psychological need, and the cost of enhancement
 - **Dependency Creation:** Shows how trauma responses can become self-perpetuating psychological traps

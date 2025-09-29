@@ -12,11 +12,11 @@
 
 ## Arc Overview
 
-**Arc Synopsis**: Vyr4n escalates from benevolent dictator to revolutionary warrior, declaring open conflict against corporate oppression and dystopian systems while maintaining perfect protection for his people. His methods become increasingly brutal against enemies - corporate executive assassinations, infrastructure sabotage, and psychological warfare - while his followers develop almost religious devotion, seeing him as a messianic figure capable of superhuman feats. His unconventional interrogation techniques (like the dance scene with corporate executive Wells) demonstrate his growing isolation from normal human methods, using his viral abilities to extract information through intimate psychological manipulation rather than traditional torture. The people's worship increasingly isolates him as they attribute divine powers to actions that are actually sophisticated viral enhancements. Isa's return forces a crucial confrontation about becoming the monster he once fought, as she points out that his war against oppressive systems has trapped him in endless cycles of violence. Realizing that his extreme protection methods only create more enemies and perpetuate conflict, Vyr4n chooses democratic restoration over perpetual warfare, leading to his strategic abdication and power transfer.
+**Arc Synopsis**: Kyr4n escalates from benevolent dictator to revolutionary warrior, declaring open conflict against corporate oppression and dystopian systems while maintaining perfect protection for his people. His methods become increasingly brutal against enemies - corporate executive assassinations, infrastructure sabotage, and psychological warfare - while his followers develop almost religious devotion, seeing him as a messianic figure capable of superhuman feats. His unconventional interrogation techniques (like the dance scene with corporate executive Wells) demonstrate his growing isolation from normal human methods, using his viral abilities to extract information through intimate psychological manipulation rather than traditional torture. The people's worship increasingly isolates him as they attribute divine powers to actions that are actually sophisticated viral enhancements. Isa's return forces a crucial confrontation about becoming the monster he once fought, as she points out that his war against oppressive systems has trapped him in endless cycles of violence. Realizing that his extreme protection methods only create more enemies and perpetuate conflict, Kyr4n chooses democratic restoration over perpetual warfare, leading to his strategic abdication and power transfer.
 
 **Central Conflict**: The tension between effective protection through extreme violence and the recognition that such methods create endless cycles of conflict, while dealing with the isolation that comes from being worshipped rather than loved as a human being.
 
-**Arc Resolution**: Vyr4n achieves tactical victory against corporate oppression but recognizes that violence perpetuates violence. His choice to step down and build democratic institutions rather than continue endless warfare represents wisdom gained through isolation and Isa's moral challenge.
+**Arc Resolution**: Kyr4n achieves tactical victory against corporate oppression but recognizes that violence perpetuates violence. His choice to step down and build democratic institutions rather than continue endless warfare represents wisdom gained through isolation and Isa's moral challenge.
 
 **Thematic Focus**: Violence as system change, worship vs. human connection, protection vs. perpetuation of conflict, messianic burden, isolation through reverence, choosing growth over destruction, democratic values vs. efficient authoritarianism
 
@@ -24,11 +24,11 @@
 
 ## Character Arcs
 
-**Primary POV Character(s)**: Vyr4n (primary), with perspectives from Zara, Marcus, Isa, and Sedh
+**Primary POV Character(s)**: Kyr4n (primary), with perspectives from Zara, Marcus, Isa, and Sedh
 
 **Character Development Arcs**:
 
-- **Vyr4n**: Benevolent dictator → Revolutionary warrior against systems → Reluctant messianic figure isolated by worship → Wisdom seeker choosing democratic restoration over endless war
+- **Kyr4n**: Benevolent dictator → Revolutionary warrior against systems → Reluctant messianic figure isolated by worship → Wisdom seeker choosing democratic restoration over endless war
 - **Zara**: Loyal bodyguard → Confused witness to unconventional methods → Protector struggling to understand increasingly isolated leader
 - **Marcus**: Military advisor enabling extreme measures → Father figure concerned about moral trajectory → Supportive lieutenant ready for transition
 - **Isa**: Returning moral compass → Challenger of violent methods → Catalyst for recognition of violence cycles and choice of democratic path
@@ -36,17 +36,17 @@
 
 **New Characters Introduced**:
 
-- **Corporate Executive Harrison Wells**: Victim of psychological interrogation demonstrating Vyr4n's unusual methods
-- **The Worshipping Followers**: Community members who see Vyr4n as divine rather than human
+- **Corporate Executive Harrison Wells**: Victim of psychological interrogation demonstrating Kyr4n's unusual methods
+- **The Worshipping Followers**: Community members who see Kyr4n as divine rather than human
 - **Corporate Infrastructure Targets**: Representing systems requiring destruction for community protection
 - **Democratic Transition Advisors**: Characters who will help establish new governance structures
 
 **Character Relationships**:
 
-- **Vyr4n & His Followers**: Leader/protected → God/worshippers → Abdicated protector/independent community
-- **Vyr4n & Isa**: Reunion after years → Moral challenger → Partner in democratic transition planning
-- **Vyr4n & Zara**: Professional protection → Confused loyalty during extreme methods → Supportive transition aide
-- **Vyr4n & Corporate Enemies**: Territorial threats → Infrastructure warfare → Systemic opposition requiring elimination
+- **Kyr4n & His Followers**: Leader/protected → God/worshippers → Abdicated protector/independent community
+- **Kyr4n & Isa**: Reunion after years → Moral challenger → Partner in democratic transition planning
+- **Kyr4n & Zara**: Professional protection → Confused loyalty during extreme methods → Supportive transition aide
+- **Kyr4n & Corporate Enemies**: Territorial threats → Infrastructure warfare → Systemic opposition requiring elimination
 
 ---
 
@@ -68,7 +68,7 @@
 
 **Plot Advances**:
 
-- Establishes Vyr4n's capabilities for large-scale system warfare
+- Establishes Kyr4n's capabilities for large-scale system warfare
 - Demonstrates the isolation cost of being seen as divine rather than human
 - Shows recognition that protective violence perpetuates conflicts
 - Sets up democratic transition as alternative to endless warfare
@@ -78,7 +78,7 @@
 
 - Democratic transition success depends on community accepting responsibility
 - Corporate retaliation against power transfer attempts
-- Vyr4n's role in new democratic system as enhanced individual
+- Kyr4n's role in new democratic system as enhanced individual
 - Environmental restoration projects requiring continued protection
 
 ---
@@ -105,13 +105,13 @@
 
 - **Corporate Executive Neural Locks**: Advanced security systems requiring unusual extraction methods
 - **Infrastructure Sabotage Equipment**: Technology for precisely destroying oppressive systems while protecting communities
-- **Worship Artifacts**: Items created by followers attributing divine status to Vyr4n's protection
+- **Worship Artifacts**: Items created by followers attributing divine status to Kyr4n's protection
 - **Democratic Planning Documents**: Constitutional frameworks for governance transition
 - **Enhancement Evidence**: Proof that abilities are technological rather than supernatural
 
 **Secrets/Information Revealed**:
 
-- Vyr4n's abilities enable intimate psychological manipulation for information extraction
+- Kyr4n's abilities enable intimate psychological manipulation for information extraction
 - Corporate systems can be systematically destroyed but create retaliation cycles
 - Community worship isolates leaders from human connection and moral guidance
 - Violence against oppressive systems perpetuates rather than solves conflicts
@@ -129,11 +129,11 @@
 
 ## Structural Elements
 
-**Arc Opening**: Declaration of open war against corporate oppression, with Vyr4n moving from territorial protection to systematic destruction of oppressive infrastructure. Mood: Revolutionary determination masking growing isolation from humanity.
+**Arc Opening**: Declaration of open war against corporate oppression, with Kyr4n moving from territorial protection to systematic destruction of oppressive infrastructure. Mood: Revolutionary determination masking growing isolation from humanity.
 
-**Arc Climax**: Isa's confrontation ("Mirror, Mirror") where she forces Vyr4n to recognize that his war against the system has made him the monster he once fought, trapped in endless cycles of violence that perpetuate rather than solve oppression.
+**Arc Climax**: Isa's confrontation ("Mirror, Mirror") where she forces Kyr4n to recognize that his war against the system has made him the monster he once fought, trapped in endless cycles of violence that perpetuate rather than solve oppression.
 
-**Arc Resolution**: Vyr4n's strategic abdication, choosing democratic restoration over perpetual warfare. Demonstrates his mortality to worshipping followers while transferring power to democratic institutions designed to function without enhanced leadership.
+**Arc Resolution**: Kyr4n's strategic abdication, choosing democratic restoration over perpetual warfare. Demonstrates his mortality to worshipping followers while transferring power to democratic institutions designed to function without enhanced leadership.
 
 **Arc Mood/Tone Evolution**:
 
@@ -187,7 +187,7 @@
 
 **Character Growth Themes**:
 
-- **Vyr4n**: Learning that effective protection requires accepting democratic limitations and community responsibility
+- **Kyr4n**: Learning that effective protection requires accepting democratic limitations and community responsibility
 - **Isa**: Providing moral challenge that enables recognition of violence cycles and alternative paths
 - **Zara**: Understanding that loyalty sometimes means supporting leader's choice to relinquish power
 - **Community**: Growing from worshippers dependent on divine protection to citizens accepting self-governance responsibility
@@ -239,7 +239,7 @@
 
 **Character Goals Met**:
 
-- Vyr4n: Achieved maximum protection capability while choosing wisdom over endless warfare
+- Kyr4n: Achieved maximum protection capability while choosing wisdom over endless warfare
 - Isa: Successfully challenged violence cycles and provided alternative path through democratic restoration
 - Community: Developed from dependent worshippers to citizens ready for self-governance responsibility
 - Inner Circle: Supported transition from authoritarian efficiency to democratic institutions and environmental focus
@@ -299,7 +299,7 @@
 - Balancing reader satisfaction with corporate oppression destruction against recognition of violence cycle problems
 - Making community worship believable while showing its isolation and moral guidance prevention effects
 - Showing unconventional interrogation methods as psychologically sophisticated rather than gratuitously unusual
-- Maintaining sympathy for Vyr4n's protective intentions while criticizing authoritarian and violent methods
+- Maintaining sympathy for Kyr4n's protective intentions while criticizing authoritarian and violent methods
 
 **Research Needed**:
 

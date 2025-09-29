@@ -1,11 +1,11 @@
 # Arc 1: The Scavenger
-    2102 - Vyr4n and Isa
+    2102 - Kyr4n and Isa
 
 ## Chapter 1.01: The Concrete Garden
 
 ### Scene 1.01.01: Morning Awakening
 
-- Vyr4n awakens from nostalgic dream of mother's garden to harsh hideout reality
+- Kyr4n awakens from nostalgic dream of mother's garden to harsh hideout reality
 - Morning routine reveals survival skills and hidden technical workshop
 - Initial assessment reveals high-quality optical sensors intact
 - Basic power restoration - first signs of residual system activity
@@ -33,7 +33,7 @@
 
 - Underground market morning routine, establishing "The Artisan" reputation
 - First corporate enforcer encounter - light intimidation and compliance threats
-- Complex repair job for Dr. Nyx tests Vyr4n's advanced modification skills
+- Complex repair job for Dr. Nyx tests Kyr4n's advanced modification skills
 
 ### Scene 1.02.02: Community Dynamics
 
@@ -50,23 +50,23 @@
 
 ### Scene 1.02.04: The Watcher
 
-- POV shift: Unknown observer in market shadows studies Vyr4n's methods and schedule
+- POV shift: Unknown observer in market shadows studies Kyr4n's methods and schedule
 
 ## Chapter 1.03: First Contact
 
 ### Scene 1.03.01: Isa's Research
 
 - POV: Isa - Receives tip from underground contact about "The Artisan's" reliable work
-- Isa researches Vyr4n's reputation through underground information networks
+- Isa researches Kyr4n's reputation through underground information networks
 - Isa plans her approach strategy - selecting appropriate first commission
 
 ### Scene 1.03.02: Reconnaissance
 
-- POV: Isa - Begins reconnaissance, observing Vyr4n's market operations and client interactions
+- POV: Isa - Begins reconnaissance, observing Kyr4n's market operations and client interactions
 
 ### Scene 1.03.03: First Approach
 
-- POV shift back to Vyr4n - Normal market morning, unaware of observation
+- POV shift back to Kyr4n - Normal market morning, unaware of observation
 - Isa approaches with simple data recovery job, testing his capabilities
 - Professional negotiation reveals mutual competence and careful assessment
 - First collaborative work session demonstrates technical mastery and discretion
@@ -88,10 +88,10 @@
 
 ### Scene 1.04.02: Working Relationship
 
-- Vyr4n demonstrates advanced problem-solving with Isa's difficult commission
+- Kyr4n demonstrates advanced problem-solving with Isa's difficult commission
 - First shared meal during long repair session, beginning personal connection
 - Discussion of underground economy survival strategies and market dynamics
-- Isa notices Vyr4n's technical notebooks, expresses interest but suggests focusing on paying work
+- Isa notices Kyr4n's technical notebooks, expresses interest but suggests focusing on paying work
 
 ### Scene 1.04.03: Evening Development
 g
@@ -120,7 +120,7 @@ g
 
 ### Scene 1.05.03: Technical Mastery Display
 
-- Vyr4n shares technical philosophy and approach to modification work
+- Kyr4n shares technical philosophy and approach to modification work
 - Isa demonstrates her own expertise in implant technology and market knowledge
 - Isa again suggests the droid project is fascinating but reminds about financial priorities
 - First signs of mutual attraction acknowledged but not acted upon
@@ -130,7 +130,7 @@ g
 - Memory architecture reconstruction begins as side project
 - Fragmented memories surface from the droid - traumatic and beautiful glimpses
 - Professional partnership solidifies with establishment of regular working relationship
-- Market community accepts Isa as Vyr4n's trusted business associate
+- Market community accepts Isa as Kyr4n's trusted business associate
 
 ## Chapter 1.06: Crossing Lines
 
@@ -148,14 +148,14 @@ g
 ### Scene 1.06.03: Combat Revelation
 
 - Corporate pressure escalates to direct threats against specific vendors
-- Vyr4n's defensive capabilities briefly revealed during confrontation with thugs
-- Mutual attraction openly acknowledged but Vyr4n maintains emotional distance
+- Kyr4n's defensive capabilities briefly revealed during confrontation with thugs
+- Mutual attraction openly acknowledged but Kyr4n maintains emotional distance
 - Shared danger creates stronger bond between them
 
 ### Scene 1.06.04: Identity Crisis
 
 - Core personality stabilization work on the droid during evenings
-- First major system crash and recovery - Vyr4n realizes the complexity of what he's attempting
+- First major system crash and recovery - Kyr4n realizes the complexity of what he's attempting
 - Sedh experiences memory flashbacks - glimpses of his past life/death
 - Professional relationship evolves toward personal partnership
 
@@ -177,21 +177,21 @@ g
 - Enforcer Alex temper him
 - Vendor community solidarity strengthens in response to corporate oppression
 - Isa's commission involves military-grade equipment requiring exceptional skill
-- Extended collaboration forces deeper personal connection despite Vyr4n's resistance
+- Extended collaboration forces deeper personal connection despite Kyr4n's resistance
 
 ### Scene 1.07.03: Violence Revealed
 
-- Kane directly threatens Vyr4n's operation with fabricated violations
-- Vyr4n's combat training fully revealed defending against armed enforcement
-- Isa witnesses Vyr4n's hidden capabilities and dangerous past hints
+- Kane directly threatens Kyr4n's operation with fabricated violations
+- Kyr4n's combat training fully revealed defending against armed enforcement
+- Isa witnesses Kyr4n's hidden capabilities and dangerous past hints
 - Wounds following fight prompt first recurring joke about being in a car crash
-- Vyr4n retreat to his hideout
+- Kyr4n retreat to his hideout
 - Corporate retaliation against market escalates sector tension further
 
 ### Scene 1.07.04: Memory Selection
 
 - Identity crisis emerges from the droid: "Am I still me or just a copy?"
-- Emotional breakdown from the droid - Vyr4n must decide how much trauma to restore
+- Emotional breakdown from the droid - Kyr4n must decide how much trauma to restore
 - Memory selection process begins - what to keep, what to let go
 - Chapter ends with increased surveillance and enforcement presence
 
@@ -213,7 +213,7 @@ g
 ### Scene 1.08.03: Escape and Rescue
 
 - Isa injured in evacuation chaos as riot escalates beyond underground market
-- Vyr4n makes critical decision to breach his hidden sanctuary for her safety
+- Kyr4n makes critical decision to breach his hidden sanctuary for her safety
 - Emergency escape through tunnel network to ventilation shaft hideout
 - Carries both the droid head and mysterious implant carefully during evacuation
 
@@ -232,8 +232,8 @@ g
 ### Scene 1.09.02: Technical Collaboration
 
 - Analysis of the mysterious implant during quiet moments - complex unknown architecture
-- Isa learns about Vyr4n's technical workshop and hidden capabilities
-- Sedh and Vyr4n collaborate on body design during quiet moments - what does he want to be?
+- Isa learns about Kyr4n's technical workshop and hidden capabilities
+- Sedh and Kyr4n collaborate on body design during quiet moments - what does he want to be?
 
 ### Scene 1.09.03: Personal Connection
 
@@ -292,7 +292,7 @@ g
 ### Scene 1.11.03: Philosophical Breakthrough
 
 - Philosophical discussions about personhood, freedom, and artificial consciousness
-- Vyr4n grants Sedh complete freedom from limiting protocols and restrictions
+- Kyr4n grants Sedh complete freedom from limiting protocols and restrictions
 - Advanced capability testing and development
 - True consciousness breakthrough - Sedh achieves genuine self-awareness
 
@@ -309,7 +309,7 @@ g
 ### Scene 1.12.01: Business Planning
 
 - Establishing legitimate business "Phoenix Recovery" with three-way partnership
-- Combining Vyr4n's technical skills, Isa's market connections, and Sedh's analytical capabilities
+- Combining Kyr4n's technical skills, Isa's market connections, and Sedh's analytical capabilities
 
 ### Scene 1.12.02: Workshop Setup
 
@@ -320,18 +320,18 @@ g
 
 - First clients seeking high-end restoration and modification services
 - Demonstrating superior service quality compared to underground market limitations
-- Financial success allowing security and stability for first time in Vyr4n's life
+- Financial success allowing security and stability for first time in Kyr4n's life
 
 ### Scene 1.12.04: New Status Quo
 
 - Growing reputation attracting attention from both positive clients and potential threats
-- POV: Isa - Reflecting on her concern about Vyr4n's deeper connection to Sedh than humans
+- POV: Isa - Reflecting on her concern about Kyr4n's deeper connection to Sedh than humans
 - Sedh's integration into business operations and partnership decisions
 - Chapter ends with established business success and growing outside attention
 - Transition setup: legitimate success making them visible to larger forces
 
 # Arc 2: The Infected
-    2015 - Vyr4n and Sedh
+    2015 - Kyr4n and Sedh
 
 ## Chapter 2.01: The Proposition
 
@@ -347,21 +347,21 @@ g
 - Frank arrives as team leader seeking specialized technical expertise
 - Presents high-stakes corporate research facility theft opportunity
 - Target: Advanced technology with significant underground market value
-- Vyr4n initially reluctant due to established legitimate business success
+- Kyr4n initially reluctant due to established legitimate business success
 
 ### Scene 2.01.03: The Real Prize
 
 - Frank reveals additional target: prototype Neural Processing Units codenamed 'Egypt'
 - Egypt NPUs could enable Sedh to achieve true sentience and mobility
-- Vyr4n's motivation shifts from money to Sedh's advancement and autonomy
-- Negotiation for Vyr4n to claim Egypt NPUs as personal compensation
+- Kyr4n's motivation shifts from money to Sedh's advancement and autonomy
+- Negotiation for Kyr4n to claim Egypt NPUs as personal compensation
 
 ### Scene 2.01.04: Team Introduction and Planning
 
 - Meeting with Frank's contractor team: Flux (tech specialist), Raven (infiltration), Tank (muscle)
 - Facility security assessment and infiltration route planning
-- Vyr4n's role: advanced electronics and security systems specialist
-- Agreement reached with Vyr4n's Egypt NPU acquisition as secondary objective
+- Kyr4n's role: advanced electronics and security systems specialist
+- Agreement reached with Kyr4n's Egypt NPU acquisition as secondary objective
 
 ## Chapter 2.02: Point of Entry
 
@@ -370,14 +370,14 @@ g
 - Heist scheduled during Isa's absence for plausible deniability
 - Final equipment preparation and technical gear selection
 - Sedh's analysis of facility blueprints and security protocols
-- Vyr4n's promise to return with enhancement technology
+- Kyr4n's promise to return with enhancement technology
 
 ### Scene 2.02.02: Isa's Discovery
 
 - POV: Isa - Arrives at workshop to find it empty and locked
-- Confusion about Vyr4n's absence without explanation or message
+- Confusion about Kyr4n's absence without explanation or message
 - Returns to her container unit with growing concern
-- Attempts to contact Vyr4n through normal communication channels
+- Attempts to contact Kyr4n through normal communication channels
 
 ### Scene 2.02.03: Infiltration Success
 
@@ -397,7 +397,7 @@ g
 
 ### Scene 2.03.01: Egypt Acquisition
 
-- Vyr4n locates Egypt NPU storage in research development section
+- Kyr4n locates Egypt NPU storage in research development section
 - Successfully obtains two prototype Neural Processing Units
 - Advanced biometric security bypassed using specialized technical skills
 - Secondary objective completed ahead of schedule
@@ -411,24 +411,24 @@ g
 
 ### Scene 2.03.03: The Explosion and Exposure
 
-- Grenade explosion near Vyr4n during security firefight
-- Blast nearly kills Vyr4n, leaving him dazed and injured on floor
-- Explosion breaches containment system, triggering secondary alarm and secretly exposing Vyr4n to prototype nano-virus (TMP-7734)
-- Frank disregard an incapacitated Vyr4n, leaving DeathPack explosive device and fleeing
+- Grenade explosion near Kyr4n during security firefight
+- Blast nearly kills Kyr4n, leaving him dazed and injured on floor
+- Explosion breaches containment system, triggering secondary alarm and secretly exposing Kyr4n to prototype nano-virus (TMP-7734)
+- Frank disregard an incapacitated Kyr4n, leaving DeathPack explosive device and fleeing
 
 ### Scene 2.03.04: Rescue and Escape
 
-- Different crew member (Tank) returns against orders to rescue Vyr4n
-- Tank drags semiconscious Vyr4n from lab to emergency stairwell
+- Different crew member (Tank) returns against orders to rescue Kyr4n
+- Tank drags semiconscious Kyr4n from lab to emergency stairwell
 - Escape through building as DeathPack timer counts down
 - [FACILITY EXPLOSION] - DeathPack detonation destroys entire floor
 - Facility structural damage begins building collapse
 
 ### Scene 2.03.05: After
 
-- Team regroups, Vyr4n still dazed from explosion
+- Team regroups, Kyr4n still dazed from explosion
 - Frank provides bonus payment for successful heist completion (out of guilt)
-- Vyr4n returns to workshop wounded, prompting another joke about being in a car crash
+- Kyr4n returns to workshop wounded, prompting another joke about being in a car crash
 - He have two Egypt NPUs and unknown viral infection
 
 ## Chapter 2.04: Gifts and Curses
@@ -449,10 +449,10 @@ g
 
 ### Scene 2.04.03: First Symptoms
 
-- Vyr4n experiences initial fatigue and concentration difficulties
+- Kyr4n experiences initial fatigue and concentration difficulties
 - Mysterious headaches and brief disorientation episodes
 - Dismissal of symptoms as post-heist stress and overwork
-- Isa notices changes in Vyr4n's behavior patterns
+- Isa notices changes in Kyr4n's behavior patterns
 
 ## Chapter 2.05: Digital Consciousness
 
@@ -465,7 +465,7 @@ g
 
 ### Scene 2.05.02: Medical Concerns
 
-- Vyr4n seeks medical consultation for escalating symptoms
+- Kyr4n seeks medical consultation for escalating symptoms
 - Dr. Nyx's examination reveals unusual neurological patterns
 - Conventional medical testing unable to identify specific cause
 - Decision to acquire advanced medical diagnostic equipment
@@ -475,7 +475,7 @@ g
 - Purchase of damaged medical droid with advanced diagnostic systems
 - Negotiation with underground medical technology dealer
 - Transport of Mira to Phoenix Recovery workshop for restoration
-- Isa's concern about Vyr4n's increasing health paranoia
+- Isa's concern about Kyr4n's increasing health paranoia
 
 ## Chapter 2.06: Whispers in the Wire
 
@@ -484,7 +484,7 @@ g
 - Medical droid restoration using Phoenix Recovery advanced capabilities
 - Sedh assists with complex medical system integration
 - Mira's systems activation and initial diagnostic protocol establishment
-- Advanced medical scanning capabilities now available for Vyr4n's condition
+- Advanced medical scanning capabilities now available for Kyr4n's condition
 
 ### Scene 2.06.02: Mysterious Voices
 
@@ -497,7 +497,7 @@ g
 
 - Fine motor control difficulties affecting precision technical work
 - Hand tremors and coordination problems during client projects
-- Isa compensates for Vyr4n's declining performance capabilities
+- Isa compensates for Kyr4n's declining performance capabilities
 - Sedh begins analyzing pattern correlation between symptoms and environmental factors
 
 ## Chapter 2.07: Mira's Awakening
@@ -506,22 +506,22 @@ g
 
 - Installation of second Egypt NPU into Mira's medical systems
 - Enhanced diagnostic capabilities and analytical processing
-- Advanced medical scanning protocols developed for Vyr4n's condition
+- Advanced medical scanning protocols developed for Kyr4n's condition
 - Mira's growing sophistication in medical analysis and treatment planning
 
 ### Scene 2.07.02: Dual AI Consciousness
 
 - Mira achieves true consciousness similar to Sedh's development
 - Two AI personalities with distinct perspectives and capabilities
-- Collaborative analysis of Vyr4n's condition using combined expertise
+- Collaborative analysis of Kyr4n's condition using combined expertise
 - Advanced diagnostic scanning reveals unusual nanoscale activity
 
 ### Scene 2.07.03: Relationship Strain
 
-- Isa's growing concern about Vyr4n's increasing isolation
+- Isa's growing concern about Kyr4n's increasing isolation
 - Communication difficulties as symptoms affect social interaction
 - Physical intimacy complications due to motor control issues
-- Vyr4n's defensive behaviour about his declining capabilities
+- Kyr4n's defensive behaviour about his declining capabilities
 
 ## Chapter 2.08: Nightmare Protocol
 
@@ -530,18 +530,18 @@ g
 - First dreams of Isa's violent betrayal and murder
 - Vivid, realistic scenarios of torture and execution
 - Waking confusion between dream content and reality
-- Isa's shock at Vyr4n's accusations and paranoid behavior
+- Isa's shock at Kyr4n's accusations and paranoid behavior
 
 ### Scene 2.08.02: AI Investigation
 
-- Sedh and Mira collaborate on analyzing Vyr4n's brain scans
+- Sedh and Mira collaborate on analyzing Kyr4n's brain scans
 - Discovery of nanoscale viral presence in neural tissue
 - Advanced pattern recognition of viral communication protocols
 - Hypothesis development about the virus's psychological warfare capabilities
 
 ### Scene 2.08.03: Escalating Paranoia
 
-- Vyr4n's increasing suspicion of Isa's motives and loyalty
+- Kyr4n's increasing suspicion of Isa's motives and loyalty
 - Defensive behavior and withdrawal from physical contact
 - Monitoring Isa's communications and activities
 - Isolation tactics and trust erosion affecting business operations
@@ -557,22 +557,22 @@ g
 
 ### Scene 2.09.02: Violent Episode
 
-- Vyr4n's violent reaction during routine interaction with Isa
+- Kyr4n's violent reaction during routine interaction with Isa
 - Physical aggression triggered by perceived threat behaviour
 - Sedh and Mira's emergency intervention to prevent serious harm
 - Workshop damage and client work disruption
-- Vyr4n snap at Sedh and Mira and loosely shoot blaster in they general direction
+- Kyr4n snap at Sedh and Mira and loosely shoot blaster in they general direction
 
 ### Scene 2.09.03: Suicide Attempt
 
-- Vyr4n's attempt to end the psychological torture through suicide but virus prevent it
-- Sedh's attempt to restrain Vyr4n but have difficulties and require Mira's assistance
+- Kyr4n's attempt to end the psychological torture through suicide but virus prevent it
+- Sedh's attempt to restrain Kyr4n but have difficulties and require Mira's assistance
 - Mira's advanced life support and stabilization procedures
 - Decision to induce medical coma for safety and virus analysis
 
 ### Scene 2.09.04: Emergency Response
 
-- Isa's traumatic response to Vyr4n's breakdown and suicide attempt
+- Isa's traumatic response to Kyr4n's breakdown and suicide attempt
 - Community support from Dr. Nyx and underground medical network
 - Sedh and Mira's advanced medical monitoring during coma
 - Mira record a large radiofrequency event that is mostly noise, but also contain the digital string "TMP-7734"
@@ -612,23 +612,23 @@ g
 
 ### Scene 2.11.02: Gradual Recovery
 
-- Vyr4n's slow emergence from medically induced coma
+- Kyr4n's slow emergence from medically induced coma
 - Reality orientation and memory reconstruction with AI assistance
 - Physical therapy and motor control rehabilitation
 - Emotional processing of trauma and relationship damage
 
 ### Scene 2.11.03: Relationship Assessment
 
-- Isa's cautious interaction with recovering Vyr4n
+- Isa's cautious interaction with recovering Kyr4n
 - Assessment of relationship damage and trust rebuilding challenges
-- Vyr4n's awareness of paranoid behavior and guilt over violent episode
+- Kyr4n's awareness of paranoid behavior and guilt over violent episode
 - AI mediation in communication and emotional processing
 
 ## Chapter 2.12: Electromagnetic Dawn
 
 ### Scene 2.12.01: Ability Discovery
 
-- Vyr4n discovers electromagnetic sensing capabilities from viral integration
+- Kyr4n discovers electromagnetic sensing capabilities from viral integration
 - Ability to detect electronic devices and electromagnetic fields
 - Enhanced technical intuition and electronic system analysis
 - Understanding that virus has granted permanent enhancement alongside trauma
@@ -636,13 +636,13 @@ g
 ### Scene 2.12.02: The Choice
 
 - Isa's decision that relationship damage is irreparable
-- Recognition that Vyr4n's transformation has created unbridgeable distance
+- Recognition that Kyr4n's transformation has created unbridgeable distance
 - Practical arrangements for Phoenix Recovery continuation
 - Emotional farewell acknowledging love despite incompatible futures
 
 ### Scene 2.12.03: Loss and Chaos
 
-- In a chaotic room, Vyr4n lay on his bed, alone against the wall, staring at the empty space
+- In a chaotic room, Kyr4n lay on his bed, alone against the wall, staring at the empty space
 - His plunged in the silence of his room, still feeling her presence around, her familiar scent and warmth
 - He think he hear the door behind him
 - He refuses to look behing, fearing both her presence and her absence
@@ -650,13 +650,13 @@ g
 - The presence responds with "I know," leaving ambiguous whether Isa actually stayed or if it's a hallucination/memory
 
 # Arc 3: The Criminal
-    2125 - Vyr4n and Frank?
+    2125 - Kyr4n and Frank?
 
 # Arc 4: The Leader
-    2130 - Vyr4n and Zara
+    2130 - Kyr4n and Zara
 
 # Arc 5: The Protector
-    2141 - Vyr4n and Alex
+    2141 - Kyr4n and Alex
 
 # Arc 6: The Gardener
-    2149 - Vyr4n and ?
+    2149 - Kyr4n and ?

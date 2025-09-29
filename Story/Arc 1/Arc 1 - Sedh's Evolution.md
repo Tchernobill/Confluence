@@ -1,11 +1,11 @@
 # Sedh's Evolution in Arc 1
 
 **Sedh's Technical Progress**:
-- Vyr4n scavenges the damaged head from junkyard
+- Kyr4n scavenges the damaged head from junkyard
 - Initial assessment reveals high-quality optical sensors intact
 - Discovery that memory cores are damaged but recoverable
 - Basic power restoration - first signs of residual system activity
-- Vyr4n's analysis - realizing what they've found
+- Kyr4n's analysis - realizing what they've found
 - First diagnostic attempts - system responds but chaotically
 - System diagnostic protocols established
 - First fragmented communication attempts
@@ -17,10 +17,10 @@
 - First major system crash and recovery
 - Sedh experiences memory flashbacks (glimpses of his past life/death)
 - Identity crisis: "Am I still me or just a copy?"
-- Emotional breakdown - Vyr4n must decide how much trauma to restore
+- Emotional breakdown - Kyr4n must decide how much trauma to restore
 - Memory selection process - what to keep, what to let go
 - Neural network integration nearly complete
-- Sedh and Vyr4n collaborate on body design - what does he want to be?
+- Sedh and Kyr4n collaborate on body design - what does he want to be?
 - First body design iterations
 - Resource gathering for prototype construction
 - Sensory system expansion planning
@@ -45,4 +45,4 @@
 **Emotional Arc**: Confusion → Fear → Identity Crisis → Acceptance → Growth → Integration
 **Technical Complexity**: Each chapter should show incremental but meaningful progress without overwhelming the reader with tech details
 **Setbacks**: Include at least one major setback per chapter to maintain tension and make progress feel earned
-**Relationship Development**: Vyr4n and Sedh's dynamic should evolve from creator/creation to equals/partners
+**Relationship Development**: Kyr4n and Sedh's dynamic should evolve from creator/creation to equals/partners

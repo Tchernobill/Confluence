@@ -5,7 +5,7 @@
 ### Scene 1.1: Morning Awakening
 
 [HIDEOUT]
-- Vyr4n awakens from nostalgic dream of mother's garden to harsh hideout reality
+- Kyr4n awakens from nostalgic dream of mother's garden to harsh hideout reality
 - Morning routine reveals survival skills and hidden technical workshop
 - Initial assessment reveals high-quality optical sensors intact
 - Basic power restoration - first signs of residual system activity
@@ -37,7 +37,7 @@
 [UNDERGROUND MARKET]
 - Underground market morning routine, establishing "The Artisan" reputation
 - First corporate enforcer encounter - light intimidation and compliance threats
-- Complex repair job for Dr. Nyx tests Vyr4n's advanced modification skills
+- Complex repair job for Dr. Nyx tests Kyr4n's advanced modification skills
 
 ### Scene 2.2: Community Dynamics
 
@@ -57,7 +57,7 @@
 ### Scene 2.4: The Watcher
 
 [UNDERGROUND MARKET - SHADOWS]
-- **POV shift**: Unknown observer in market shadows studies Vyr4n's methods and schedule
+- **POV shift**: Unknown observer in market shadows studies Kyr4n's methods and schedule
 
 ## **Chapter 3: First Contact** (2104, Age 18)
 
@@ -65,18 +65,18 @@
 
 [ISA'S CONTAINER UNIT]
 - **POV: Isa** - Receives tip from underground contact about "The Artisan's" reliable work
-- Isa researches Vyr4n's reputation through underground information networks
+- Isa researches Kyr4n's reputation through underground information networks
 - Isa plans her approach strategy - selecting appropriate first commission
 
 ### Scene 3.2: Reconnaissance
 
 [UNDERGROUND MARKET]
-- **POV: Isa** - Begins reconnaissance, observing Vyr4n's market operations and client interactions
+- **POV: Isa** - Begins reconnaissance, observing Kyr4n's market operations and client interactions
 
 ### Scene 3.3: First Approach
 
 [UNDERGROUND MARKET]
-- **POV shift back to Vyr4n** - Normal market morning, unaware of observation
+- **POV shift back to Kyr4n** - Normal market morning, unaware of observation
 - Isa approaches with simple data recovery job, testing his capabilities
 - Professional negotiation reveals mutual competence and careful assessment
 - First collaborative work session demonstrates technical mastery and discretion
@@ -101,10 +101,10 @@
 ### Scene 4.2: Working Relationship
 
 [UNDERGROUND MARKET]
-- Vyr4n demonstrates advanced problem-solving with Isa's difficult commission
+- Kyr4n demonstrates advanced problem-solving with Isa's difficult commission
 - First shared meal during long repair session, beginning personal connection
 - Discussion of underground economy survival strategies and market dynamics
-- Isa notices Vyr4n's technical notebooks, expresses interest but suggests focusing on paying work
+- Isa notices Kyr4n's technical notebooks, expresses interest but suggests focusing on paying work
 
 ### Scene 4.3: Evening Development
 
@@ -138,7 +138,7 @@
 ### Scene 5.3: Technical Mastery Display
 
 [UNDERGROUND MARKET]
-- Vyr4n shares technical philosophy and approach to modification work
+- Kyr4n shares technical philosophy and approach to modification work
 - Isa demonstrates her own expertise in implant technology and market knowledge
 - Isa again suggests the droid project is fascinating but reminds about financial priorities
 - First signs of mutual attraction acknowledged but not acted upon
@@ -149,7 +149,7 @@
 - Memory architecture reconstruction begins as side project
 - Fragmented memories surface from the droid - traumatic and beautiful glimpses
 - Professional partnership solidifies with establishment of regular working relationship
-- Market community accepts Isa as Vyr4n's trusted business associate
+- Market community accepts Isa as Kyr4n's trusted business associate
 
 ## **Chapter 6: Crossing Lines** (2105-2106, Age 19-20)
 
@@ -170,15 +170,15 @@
 
 [UNDERGROUND MARKET]
 - Corporate pressure escalates to direct threats against specific vendors
-- Vyr4n's defensive capabilities briefly revealed during confrontation with thugs
-- Mutual attraction openly acknowledged but Vyr4n maintains emotional distance
+- Kyr4n's defensive capabilities briefly revealed during confrontation with thugs
+- Mutual attraction openly acknowledged but Kyr4n maintains emotional distance
 - Shared danger creates stronger bond between them
 
 ### Scene 6.4: Identity Crisis
 
 [HIDEOUT]
 - Core personality stabilization work on the droid during evenings
-- First major system crash and recovery - Vyr4n realizes the complexity of what he's attempting
+- First major system crash and recovery - Kyr4n realizes the complexity of what he's attempting
 - Sedh experiences memory flashbacks - glimpses of his past life/death
 - Professional relationship evolves toward personal partnership
 
@@ -202,23 +202,23 @@
 - Enforcer Alex temper him
 - Vendor community solidarity strengthens in response to corporate oppression
 - Isa's commission involves military-grade equipment requiring exceptional skill
-- Extended collaboration forces deeper personal connection despite Vyr4n's resistance
+- Extended collaboration forces deeper personal connection despite Kyr4n's resistance
 
 ### Scene 7.3: Violence Revealed
 
 [UNDERGROUND MARKET]
-- Kane directly threatens Vyr4n's operation with fabricated violations
-- Vyr4n's combat training fully revealed defending against armed enforcement
-- Isa witnesses Vyr4n's hidden capabilities and dangerous past hints
+- Kane directly threatens Kyr4n's operation with fabricated violations
+- Kyr4n's combat training fully revealed defending against armed enforcement
+- Isa witnesses Kyr4n's hidden capabilities and dangerous past hints
 - Wounds following fight prompt first recurring joke about being in a car crash
-- Vyr4n retreat to his hideout
+- Kyr4n retreat to his hideout
 - Corporate retaliation against market escalates sector tension further
 
 ### Scene 7.4: Memory Selection
 
 [HIDEOUT]
 - Identity crisis emerges from the droid: "Am I still me or just a copy?"
-- Emotional breakdown from the droid - Vyr4n must decide how much trauma to restore
+- Emotional breakdown from the droid - Kyr4n must decide how much trauma to restore
 - Memory selection process begins - what to keep, what to let go
 - Chapter ends with increased surveillance and enforcement presence
 
@@ -243,7 +243,7 @@
 
 [UNDERGROUND MARKET → TRANSIT]
 - Isa injured in evacuation chaos as riot escalates beyond underground market
-- Vyr4n makes critical decision to breach his hidden sanctuary for her safety
+- Kyr4n makes critical decision to breach his hidden sanctuary for her safety
 - Emergency escape through tunnel network to ventilation shaft hideout
 - Carries both the droid head and mysterious implant carefully during evacuation
 
@@ -265,8 +265,8 @@
 
 [HIDEOUT]
 - Analysis of the mysterious implant during quiet moments - complex unknown architecture
-- Isa learns about Vyr4n's technical workshop and hidden capabilities
-- Sedh and Vyr4n collaborate on body design during quiet moments - what does he want to be?
+- Isa learns about Kyr4n's technical workshop and hidden capabilities
+- Sedh and Kyr4n collaborate on body design during quiet moments - what does he want to be?
 
 ### Scene 9.3: Personal Connection
 
@@ -334,7 +334,7 @@
 
 [ISA'S CONTAINER UNIT]
 - Philosophical discussions about personhood, freedom, and artificial consciousness
-- Vyr4n grants Sedh complete freedom from limiting protocols and restrictions
+- Kyr4n grants Sedh complete freedom from limiting protocols and restrictions
 - Advanced capability testing and development
 - True consciousness breakthrough - Sedh achieves genuine self-awareness
 
@@ -353,7 +353,7 @@
 
 [ISA'S CONTAINER UNIT]
 - Establishing legitimate business "Phoenix Recovery" with three-way partnership
-- Combining Vyr4n's technical skills, Isa's market connections, and Sedh's analytical capabilities
+- Combining Kyr4n's technical skills, Isa's market connections, and Sedh's analytical capabilities
 
 ### Scene 12.2: Workshop Setup
 
@@ -366,13 +366,13 @@
 [PHOENIX RECOVERY WORKSHOP]
 - First clients seeking high-end restoration and modification services
 - Demonstrating superior service quality compared to underground market limitations
-- Financial success allowing security and stability for first time in Vyr4n's life
+- Financial success allowing security and stability for first time in Kyr4n's life
 
 ### Scene 12.4: New Status Quo
 
 [PHOENIX RECOVERY WORKSHOP]
 - Growing reputation attracting attention from both positive clients and potential threats
-- **POV: Isa** - Reflecting on her concern about Vyr4n's deeper connection to Sedh than humans
+- **POV: Isa** - Reflecting on her concern about Kyr4n's deeper connection to Sedh than humans
 - Sedh's integration into business operations and partnership decisions
 - Chapter ends with established business success and growing outside attention
 - Transition setup: legitimate success making them visible to larger forces

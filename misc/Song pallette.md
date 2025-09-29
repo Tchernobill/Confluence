@@ -1,6 +1,6 @@
-# Vyr4n
+# Kyr4n
 
-## Vyr4n's fight theme
+## Kyr4n's fight theme
 **Breed** – Nirvana
 Music: Aggressive grunge guitars, pounding drums, driving bass, raw vocals.
 Tone: Defiant, energetic, abrasive.
@@ -8,7 +8,7 @@ Mood: Rebellious, chaotic, urgent.
 Theme: Disillusionment, rejection of conformity, youthful frustration.
 Feelings: Aggression, adrenaline, angst, intensity.
 
-## Vyr4n's getting up to speed
+## Kyr4n's getting up to speed
 **Alpha Male** – Röyksopp
 Music: Expansive electronic soundscape, driving synth melodies, lush layers, evolving instrumental build-up.
 Tone: Confident, cinematic, progressive.
@@ -16,7 +16,7 @@ Mood: Energizing, contemplative, adventurous.
 Theme: Self-assertion, growth, journey of empowerment.
 Feelings: Anticipation, determination, inspiration, exhilaration.
 
-## Vyr4n's takeover
+## Kyr4n's takeover
 **A Light That Never Comes (Recharged)** – Linkin Park
 Music: Energetic electro-rock, pulsing synths, heavy beats, rap verses and melodic hooks.
 Tone: Futuristic, urgent, empowering.
@@ -24,7 +24,7 @@ Mood: Driven, electrifying, optimistic.
 Theme: Pursuing hope and answers, resilience in the face of darkness.
 Feelings: Determination, excitement, motivation, anticipation.
 
-## DarkNight taking over Vyr4n
+## DarkNight taking over Kyr4n
 **Calling All Stations** – Ray Wilson
 Music: Dark, atmospheric rock with prominent synths, steady drums, and emotive vocals.
 Tone: Somber, urgent, introspective.
@@ -32,7 +32,7 @@ Mood: Searching, isolated, contemplative.
 Theme: Reaching out for connection, existential uncertainty, confronting loss and distance.
 Feelings: Loneliness, yearning, tension, vulnerability.
 
-## Vyr4n loosing emotional control
+## Kyr4n loosing emotional control
 **One Step Closer** – Linkin Park
 Music: Heavy guitar riffs, electronic elements, dynamic drumming, shouted and melodic vocals.
 Tone: Frustrated, intense, confrontational.
@@ -40,7 +40,7 @@ Mood: Explosive, agitated, cathartic.
 Theme: Reaching a breaking point, struggling with anger, desire for release.
 Feelings: Tension, rage, desperation, urgency.
 
-## Vyr4n's territorial expansion, final conflict
+## Kyr4n's territorial expansion, final conflict
 **Navras** – Juno Reactor
 Music: Epic fusion of electronic trance, orchestral elements, pounding percussion, Sanskrit chants.
 Tone: Majestic, intense, spiritual.
@@ -48,7 +48,7 @@ Mood: Triumphant, mystical, exhilarating.
 Theme: Spiritual awakening, the cosmic struggle between chaos and order, transcendence.
 Feelings: Awe, anticipation, inspiration, sense of grandeur.
 
-## Vyr4n's last resort
+## Kyr4n's last resort
 **When The World Ends (Oakenfold Remix)** – Dave Matthews Band & Paul Oakenfold
 Music: Pulsing trance beats, atmospheric synths, layered electronic textures, Dave Matthews’ soulful vocals.
 Tone: Epic, urgent, ethereal.

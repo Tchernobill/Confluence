@@ -1,11 +1,11 @@
 
 ### Scene Information
 
-**[VYR4N'S LIVING QUARTERS - PHOENIX RECOVERY]**
+**[Kyr4n'S LIVING QUARTERS - PHOENIX RECOVERY]**
 
 ---
 
-Vyr4n sat with his back to the wall, knees pulled tight to his chest, staring at the hollow imprint where her travel bag had rested just that morning—as if the absence itself had weight.
+Kyr4n sat with his back to the wall, knees pulled tight to his chest, staring at the hollow imprint where her travel bag had rested just that morning—as if the absence itself had weight.
 
 The electromagnetic fields around him painted invisible maps of the room's electronic systems— the building's power grid threading through walls like luminous veins only he could perceive.
 

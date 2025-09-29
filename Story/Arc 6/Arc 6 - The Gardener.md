@@ -12,11 +12,11 @@
 
 ## Arc Overview
 
-**Arc Synopsis**: Following Arc 5's abdication and the destruction of Citadel defenses, Vyr4n faces the ultimate test of his transformation from warrior to gardener. When his own revolutionary forces threaten to invade and destroy the vulnerable Citadel, Vyr4n opposes the invasion, establishing protective control points that prevent raids while allowing normal traffic to flow between territories. His motivation shifts from destruction to balance and equity, seeking partnership rather than domination. Through careful diplomacy and demonstration of changed intentions, Vyr4n works to build a collaborative relationship with Citadel leadership, focusing on citizen wellbeing and environmental restoration rather than territorial control. The arc explores the challenges of transforming from centuries of corporate-slum conflict to cooperative governance, establishing democratic institutions that can manage both enhanced and baseline human populations, and beginning large-scale environmental restoration projects that require resources and expertise from both communities. Vyr4n's role evolves from protector-leader to elder advisor, mentoring new democratic leaders while using his enhanced abilities for environmental healing rather than warfare.
+**Arc Synopsis**: Following Arc 5's abdication and the destruction of Citadel defenses, Kyr4n faces the ultimate test of his transformation from warrior to gardener. When his own revolutionary forces threaten to invade and destroy the vulnerable Citadel, Kyr4n opposes the invasion, establishing protective control points that prevent raids while allowing normal traffic to flow between territories. His motivation shifts from destruction to balance and equity, seeking partnership rather than domination. Through careful diplomacy and demonstration of changed intentions, Kyr4n works to build a collaborative relationship with Citadel leadership, focusing on citizen wellbeing and environmental restoration rather than territorial control. The arc explores the challenges of transforming from centuries of corporate-slum conflict to cooperative governance, establishing democratic institutions that can manage both enhanced and baseline human populations, and beginning large-scale environmental restoration projects that require resources and expertise from both communities. Kyr4n's role evolves from protector-leader to elder advisor, mentoring new democratic leaders while using his enhanced abilities for environmental healing rather than warfare.
 
 **Central Conflict**: The challenge of building trust and partnership between former enemies while managing different factions who prefer continued conflict, and establishing governance systems that can integrate enhanced individuals without creating new forms of domination.
 
-**Arc Resolution**: Successful establishment of balanced partnership between Citadel and Slum territories, with collaborative governance focused on environmental restoration and citizen wellbeing. Vyr4n finds peace as elder advisor rather than absolute leader, achieving his mother's vision of harmony between communities.
+**Arc Resolution**: Successful establishment of balanced partnership between Citadel and Slum territories, with collaborative governance focused on environmental restoration and citizen wellbeing. Kyr4n finds peace as elder advisor rather than absolute leader, achieving his mother's vision of harmony between communities.
 
 **Thematic Focus**: Redemption through creation rather than destruction, partnership vs. domination, environmental healing, democratic integration of enhanced individuals, legacy and mentorship, balance and equity, transforming conflict into cooperation
 
@@ -24,11 +24,11 @@
 
 ## Character Arcs
 
-**Primary POV Character(s)**: Vyr4n (primary), with perspectives from Isa, Citadel leadership, democratic representatives, and Sedh
+**Primary POV Character(s)**: Kyr4n (primary), with perspectives from Isa, Citadel leadership, democratic representatives, and Sedh
 
 **Character Development Arcs**:
 
-- **Vyr4n**: Revolutionary protector → Partnership builder → Democratic advisor → Environmental restoration leader → Elder mentor accepting mortality and legacy
+- **Kyr4n**: Revolutionary protector → Partnership builder → Democratic advisor → Environmental restoration leader → Elder mentor accepting mortality and legacy
 - **Isa**: Democratic transition partner → Diplomatic liaison → Collaborative governance architect → Environmental program coordinator → Equal partner in balanced relationship
 - **Citadel Leadership**: Defensive survivors → Cautious negotiators → Collaborative partners → Environmental restoration advocates → Integrated democratic participants  
 - **Democratic Representatives**: New institutional leaders → Experienced governors → Partnership negotiators → Environmental program managers → Mature democratic system
@@ -44,9 +44,9 @@
 
 **Character Relationships**:
 
-- **Vyr4n & Citadel Leaders**: Former enemies → Cautious negotiators → Collaborative partners → Mutual environmental restoration advocates
-- **Vyr4n & Democratic Institutions**: Abdicated authority → Advisory supporter → Elder mentor → Integrated enhanced citizen
-- **Vyr4n & Environmental Projects**: Warfare technology → Restoration applications → Healing coordinator → Legacy creator
+- **Kyr4n & Citadel Leaders**: Former enemies → Cautious negotiators → Collaborative partners → Mutual environmental restoration advocates
+- **Kyr4n & Democratic Institutions**: Abdicated authority → Advisory supporter → Elder mentor → Integrated enhanced citizen
+- **Kyr4n & Environmental Projects**: Warfare technology → Restoration applications → Healing coordinator → Legacy creator
 - **Communities**: Territorial conflict → Protective cooperation → Balanced partnership → Integrated collaborative society
 
 ---
@@ -130,11 +130,11 @@
 
 ## Structural Elements
 
-**Arc Opening**: Invasion prevention and control point establishment, showing Vyr4n's transformation from destroyer to protector even of former enemies. Mood: Cautious hope for partnership amid factional resistance to cooperation.
+**Arc Opening**: Invasion prevention and control point establishment, showing Kyr4n's transformation from destroyer to protector even of former enemies. Mood: Cautious hope for partnership amid factional resistance to cooperation.
 
 **Arc Climax**: Critical moment when partnership faces its greatest test - possibly environmental crisis requiring unprecedented cooperation or resistance faction attempt to restart conflict - forcing communities to choose collaboration over comfortable hostility.
 
-**Arc Resolution**: Successful establishment of sustainable partnership with collaborative governance, environmental restoration progress, and Vyr4n's peaceful integration as elder advisor rather than authoritarian leader, achieving balance and equity between communities.
+**Arc Resolution**: Successful establishment of sustainable partnership with collaborative governance, environmental restoration progress, and Kyr4n's peaceful integration as elder advisor rather than authoritarian leader, achieving balance and equity between communities.
 
 **Arc Mood/Tone Evolution**:
 
@@ -143,7 +143,7 @@
 - **Climax**: Partnership testing, cooperation vs. conflict choice, collaborative problem solving
 - **Ending**: Sustainable partnership, environmental healing, legacy satisfaction, mortality acceptance
 
-**Transition to Saga Conclusion**: Vyr4n's peaceful integration as elder advisor and environmental restoration focus provides satisfying conclusion to century-long journey from isolated scavenger to collaborative community builder.
+**Transition to Saga Conclusion**: Kyr4n's peaceful integration as elder advisor and environmental restoration focus provides satisfying conclusion to century-long journey from isolated scavenger to collaborative community builder.
 
 ---
 
@@ -156,7 +156,7 @@
 - **Chapter 6.03 - The Garden Project (2159, Age 73)**: Environmental restoration planning and initial projects. End: Collaborative healing projects showing partnership benefits and sustainable future possibility.
 - **Chapter 6.04 - Teaching Moments (2161, Age 75)**: Next generation mentorship, leadership development. End: New leaders demonstrating readiness for governance without enhanced dependency.
 - **Chapter 6.05 - Legacy Questions (2163, Age 77)**: Partnership evaluation, long-term sustainability planning. End: Recognition of successful transformation from conflict to cooperation.
-- **Chapter 6.06 - Full Circle (2165, Age 79)**: Return to mother's vision of harmony, peaceful integration. End: Vyr4n's satisfying conclusion as elder advisor in balanced, environmentally healing community.
+- **Chapter 6.06 - Full Circle (2165, Age 79)**: Return to mother's vision of harmony, peaceful integration. End: Kyr4n's satisfying conclusion as elder advisor in balanced, environmentally healing community.
 
 **Key Scenes**:
 
@@ -189,7 +189,7 @@
 
 **Character Growth Themes**:
 
-- **Vyr4n**: Achieving peace through partnership rather than domination, elder wisdom accepting mortality
+- **Kyr4n**: Achieving peace through partnership rather than domination, elder wisdom accepting mortality
 - **Communities**: Growing from territorial conflict to collaborative partnership and environmental stewardship
 - **Democratic Institutions**: Developing governance systems that integrate enhanced capabilities without domination
 - **Next Generation**: Learning collaborative leadership without authoritarian dependency or enhanced advantage
@@ -237,11 +237,11 @@
 - Resolved century-long territorial conflict through partnership rather than domination
 - Established sustainable governance integrating enhanced individuals without creating new authoritarianism
 - Created environmental restoration foundation ensuring community survival and healing
-- Achieved satisfying conclusion to Vyr4n's transformation from isolated scavenger to collaborative community builder
+- Achieved satisfying conclusion to Kyr4n's transformation from isolated scavenger to collaborative community builder
 
 **Character Goals Met**:
 
-- Vyr4n: Found peace and purpose through partnership building and environmental restoration rather than warfare
+- Kyr4n: Found peace and purpose through partnership building and environmental restoration rather than warfare
 - Communities: Developed from territorial conflict to collaborative partnership focused on sustainability and mutual benefit
 - Democratic Institutions: Achieved balanced governance including enhanced capabilities without domination or dependency
 - Next Generation: Prepared for leadership without enhanced authoritarian guidance or environmental crisis legacy
@@ -287,7 +287,7 @@
 
 **Generational Saga Elements**:
 
-- Completes Vyr4n's evolution from isolated survivor to collaborative community builder
+- Completes Kyr4n's evolution from isolated survivor to collaborative community builder
 - Establishes sustainable governance and environmental restoration for future generations
 - Creates partnership model transcending technological capability differences
 - Achieves mother's vision of harmony and cooperation between communities

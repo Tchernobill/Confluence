@@ -51,7 +51,7 @@
 ## Narrative Voice & Style
 
 ### Point of View
-**Third-Person Limited**: Primarily through Vyr4n's perspective, with strategic shifts to other characters during crucial moments. Internal thoughts and observations drive exposition rather than external narration.
+**Third-Person Limited**: Primarily through Kyr4n's perspective, with strategic shifts to other characters during crucial moments. Internal thoughts and observations drive exposition rather than external narration.
 
 **Intimate Distance**: Close enough to access character thoughts and emotions, distant enough to maintain some mystery about motivations and future choices.
 
@@ -71,7 +71,7 @@
 - Make technology feel lived-in rather than exotic
 - Ground sci-fi concepts in human experience and relationships
 
-*Example: Describe the neural interface installation process, but focus on Vyr4n's trust in Isa's skill and their growing intimacy during the procedure.*
+*Example: Describe the neural interface installation process, but focus on Kyr4n's trust in Isa's skill and their growing intimacy during the procedure.*
 
 **Atmospheric Layering**
 - Build cyberpunk mood through sensory details: neon reflections, electronic hums, chemical smells
@@ -82,7 +82,7 @@
 ### Dialogue Approach
 
 **Character-Specific Voice Patterns**
-- **Vyr4n**: Precise, sometimes technical, emotionally guarded but thoughtful
+- **Kyr4n**: Precise, sometimes technical, emotionally guarded but thoughtful
 - **Sedh**: Evolving from formal to more casual as consciousness develops
 - **Isa**: Confident, street-smart, uses humor to build connections
 - **Mira**: Clinical but caring, direct communication style
@@ -105,7 +105,7 @@
 ### Contemplative Rhythm
 **Slow-Burning Development**: Allow scenes to breathe. Characters need time to process events, make decisions, and change gradually. Avoid rushing emotional beats or relationship evolution.
 
-**Slice-of-Life Integration**: Include mundane activities that reveal character. Vyr4n working on repairs, Isa handling business deals, Sedh exploring new experiences—these moments are as important as dramatic scenes.
+**Slice-of-Life Integration**: Include mundane activities that reveal character. Kyr4n working on repairs, Isa handling business deals, Sedh exploring new experiences—these moments are as important as dramatic scenes.
 
 **Time Jump Strategy**: Use significant time gaps between chapters to show change through contrast rather than blow-by-blow progression. Let readers discover how characters have evolved.
 

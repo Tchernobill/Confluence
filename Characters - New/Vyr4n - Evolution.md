@@ -14,7 +14,7 @@ type: Character Evolution
 linked_summary: "[[Confluence/Characters/Kyr4n - Summary]]"
 linked_detailed: "[[Kyr4n - Details]]"
 ---
-# Vyr4n - Complete Personality Development Tracking
+# Kyr4n - Complete Personality Development Tracking
 
 ## Core Personality Metrics by Tome: [T1, T2, T3, T4, T5, T6]
 

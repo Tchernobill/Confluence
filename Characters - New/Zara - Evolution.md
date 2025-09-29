@@ -76,12 +76,12 @@ linked_detailed: "[[Zara - Details]]"
 
 - **Trust remains minimal** (1→2) - slight improvement through necessity but still sees people as obstacles
 - **Moral flexibility peaks** (9→8) - begins questioning some orders but still primarily pragmatic
-- **Violence remains primary tool** (10→9) - slight reduction as she encounters Vyr4n's organization
+- **Violence remains primary tool** (10→9) - slight reduction as she encounters Kyr4n's organization
 - **Emotional numbness persists** (9→8) - minor cracks in psychological conditioning
 
 ### **Arc 3-4**: Bodyguard to Partner Transformation
 
-- **Trust explodes** (2→7) - dramatic shift through Vyr4n's unusual leadership and consistent protection
+- **Trust explodes** (2→7) - dramatic shift through Kyr4n's unusual leadership and consistent protection
 - **Self-worth emerges** (3→6) - first time experiencing value beyond utility as weapon
 - **Emotional openness develops** (2→6) - learns to express feelings beyond anger and calculation
 - **Fear of abandonment appears** (3→7) - develops attachment for first time, creating new vulnerability
@@ -133,11 +133,11 @@ Protective Instincts: Arc 1-3 (3-5) → Arc 4-6 (9-10)
 
 ## Critical Development Moments:
 
-**Arc 3-4 Transition**: Meeting Vyr4n and experiencing consistent protection without expectation fundamentally reshapes capacity for trust
+**Arc 3-4 Transition**: Meeting Kyr4n and experiencing consistent protection without expectation fundamentally reshapes capacity for trust
 
-**Arc 4 Mid-Point**: First experience of vulnerability with Vyr4n breaks through psychological conditioning
+**Arc 4 Mid-Point**: First experience of vulnerability with Kyr4n breaks through psychological conditioning
 
-**Arc 5 Catalyst**: Mind connection with Vyr4n creates ultimate intimacy experience, resolving core trauma
+**Arc 5 Catalyst**: Mind connection with Kyr4n creates ultimate intimacy experience, resolving core trauma
 
 **Arc 6 Integration**: Achieves balance between strength and vulnerability, violence and tenderness
 
@@ -167,7 +167,7 @@ Protective Instincts: Arc 1-3 (3-5) → Arc 4-6 (9-10)
 
 ## Unique Character Traits:
 
-**Apex Predator Recognition**: Initially sees herself as top of any hierarchy until encountering Vyr4n's abilities
+**Apex Predator Recognition**: Initially sees herself as top of any hierarchy until encountering Kyr4n's abilities
 
 **Violence as Love Language**: Uses deadly skills to express care and protection rather than destruction
 

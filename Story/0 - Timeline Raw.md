@@ -693,7 +693,7 @@ TODO
 - Kovar state Kyr4n's mistake was to operate on his territory, ask what was his mistake
 - Kyr4n tell Kovar he took something dear to him and ask once more for Riley freedom
 - Kovar monologue about the point is to send a message, casually shoot Riley in the neck mid-sentence
-- Vyr4n see Riley's body fall, his enhanced bio-electric sensing can see what is happening, all the pulses inside Riley slowing down, the brain fading to dark, the frenzied medical implant, the heart signal flatlining
+- Kyr4n see Riley's body fall, his enhanced bio-electric sensing can see what is happening, all the pulses inside Riley slowing down, the brain fading to dark, the frenzied medical implant, the heart signal flatlining
 - *Evilisa freezes then explodes into unhinged rage*
 
 - Riley death trigger internal Kyr4n's emotional overload, as Kovar talk, everything become distant, unstable
@@ -1036,9 +1036,9 @@ Here's a detailed bullet-point summary of all the scenes:
 ### Chapter xx - Rooftop Confessions
 
 - Zara finds Isa on the rooftop watching the city
-- Zara reveals she knows everything about Isa and Vyr4n's past
+- Zara reveals she knows everything about Isa and Kyr4n's past
 - Isa asks how Zara learned this information
-- Zara explains the nanobotic mind connection trapped her in Vyr4n's nightmares
+- Zara explains the nanobotic mind connection trapped her in Kyr4n's nightmares
 - Zara confesses uncertainty about her feelings for Isa specifically
 - Isa responds with humor about being "very likeable"
 - Isa explains that mind-links amplify existing feelings rather than create new ones
@@ -1050,7 +1050,7 @@ Here's a detailed bullet-point summary of all the scenes:
 - They share their first kiss
 - Zara confirms her feelings are genuinely her own
 - They discuss what this means for their relationship
-- They talk about how Vyr4n might react to their connection
+- They talk about how Kyr4n might react to their connection
 - They agree to explore their feelings without predetermined outcomes
 - Dawn approaches and they prepare to leave
 - They part ways with a lingering touch, both changed by the encounter

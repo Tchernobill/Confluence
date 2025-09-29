@@ -12,11 +12,11 @@
 
 ## Arc Overview
 
-**Arc Synopsis**: Vyr4n evolves from single-territory criminal boss to multi-territorial quasi-governmental authority, transforming his organization from simple protection racket into sophisticated empire with legitimate business fronts and extensive humanitarian programs. He recruits a dedicated inner circle including Dr. Elena Vasquez (Chief Medical Officer), Marcus Chen (Head of Security), and Zara (personal bodyguard and intimate partner), establishing loyalty through his unique approach of converting former enemies into devoted allies. Corporate negotiations create legitimate business partnerships while underground railroad operations expand to protect vulnerable populations across multiple territories. However, his increasing isolation from normal humanity and authoritarian methods create moral complexity, culminating when Isa returns after twelve years to confront the gap between his protective intentions and dictatorial reality. The arc concludes with Vyr4n achieving complete territorial control as a "benevolent dictator" who provides efficient governance and humanitarian services while wrestling with the cost of absolute power on his humanity.
+**Arc Synopsis**: Kyr4n evolves from single-territory criminal boss to multi-territorial quasi-governmental authority, transforming his organization from simple protection racket into sophisticated empire with legitimate business fronts and extensive humanitarian programs. He recruits a dedicated inner circle including Dr. Elena Vasquez (Chief Medical Officer), Marcus Chen (Head of Security), and Zara (personal bodyguard and intimate partner), establishing loyalty through his unique approach of converting former enemies into devoted allies. Corporate negotiations create legitimate business partnerships while underground railroad operations expand to protect vulnerable populations across multiple territories. However, his increasing isolation from normal humanity and authoritarian methods create moral complexity, culminating when Isa returns after twelve years to confront the gap between his protective intentions and dictatorial reality. The arc concludes with Kyr4n achieving complete territorial control as a "benevolent dictator" who provides efficient governance and humanitarian services while wrestling with the cost of absolute power on his humanity.
 
-**Central Conflict**: The tension between effective governance through enhanced abilities and the increasing isolation from humanity that absolute power creates, as Vyr4n becomes more efficient at protecting people while becoming less connected to them as equals.
+**Central Conflict**: The tension between effective governance through enhanced abilities and the increasing isolation from humanity that absolute power creates, as Kyr4n becomes more efficient at protecting people while becoming less connected to them as equals.
 
-**Arc Resolution**: Vyr4n successfully establishes comprehensive territorial control with efficient governance and extensive humanitarian programs, but Isa's confrontation forces him to recognize that his protective methods have become indistinguishable from authoritarian control, setting up his future choice between perpetual warfare and democratic restoration.
+**Arc Resolution**: Kyr4n successfully establishes comprehensive territorial control with efficient governance and extensive humanitarian programs, but Isa's confrontation forces him to recognize that his protective methods have become indistinguishable from authoritarian control, setting up his future choice between perpetual warfare and democratic restoration.
 
 **Thematic Focus**: Authority vs. humanity, efficiency vs. connection, protection vs. control, legitimate vs. criminal power, loyalty through redemption, organizational family vs. isolation, benevolent dictatorship vs. democratic values
 
@@ -24,11 +24,11 @@
 
 ## Character Arcs
 
-**Primary POV Character(s)**: Vyr4n (primary), with perspectives from Elena, Marcus, Zara, and Isa
+**Primary POV Character(s)**: Kyr4n (primary), with perspectives from Elena, Marcus, Zara, and Isa
 
 **Character Development Arcs**:
 
-- **Vyr4n**: Territorial criminal leader → Multi-territory empire builder → Quasi-governmental authority increasingly isolated by absolute power while maintaining protective instincts
+- **Kyr4n**: Territorial criminal leader → Multi-territory empire builder → Quasi-governmental authority increasingly isolated by absolute power while maintaining protective instincts
 - **Dr. Elena Vasquez**: Fugitive corporate medical officer → Reluctant criminal organization member → Dedicated Chief Medical Officer wrestling with ethical compromises for humanitarian outcomes
 - **Marcus Chen**: Loyal lieutenant from Rico's takeover → Head of Security building efficient protective systems → Father figure struggling with increasingly authoritarian methods
 - **Zara**: Professional bodyguard → Intimate partner and personal protector → Key inner circle member balancing loyalty with growing concerns about isolation
@@ -38,15 +38,15 @@
 
 - **Dr. Elena Vasquez**: Brilliant former corporate bio-engineer who fled after refusing biological weapons development, becomes Chief Medical Officer
 - **Zara**: Former corporate assassin who refused to kill children, becomes personal bodyguard and intimate partner
-- **Corporate Negotiators**: Representatives from Neo-Montreal Citadel seeking partnerships with Vyr4n's efficient organization
+- **Corporate Negotiators**: Representatives from Neo-Montreal Citadel seeking partnerships with Kyr4n's efficient organization
 - **Underground Railroad Network**: Humanitarian contacts expanding protection operations beyond territorial boundaries
 
 **Character Relationships**:
 
-- **Vyr4n & Elena**: Professional respect evolving into complex relationship balancing medical ethics with organizational efficiency
-- **Vyr4n & Zara**: Professional protection becoming intimate partnership while maintaining complete loyalty and growing emotional connection
-- **Vyr4n & Marcus**: Father-son dynamics deepening as Marcus serves as moral advisor while enabling increasingly authoritarian methods
-- **Vyr4n & Isa**: Reunion after twelve years separation, forcing confrontation between past love and present reality of power's cost
+- **Kyr4n & Elena**: Professional respect evolving into complex relationship balancing medical ethics with organizational efficiency
+- **Kyr4n & Zara**: Professional protection becoming intimate partnership while maintaining complete loyalty and growing emotional connection
+- **Kyr4n & Marcus**: Father-son dynamics deepening as Marcus serves as moral advisor while enabling increasingly authoritarian methods
+- **Kyr4n & Isa**: Reunion after twelve years separation, forcing confrontation between past love and present reality of power's cost
 
 ---
 
@@ -63,12 +63,12 @@
 - Elena's ethical struggles balancing medical principles with organizational efficiency
 - Marcus's father-figure relationship while enabling authoritarian methods
 - Zara's personal protection evolving into intimate partnership
-- Former enemy recruitment showing Vyr4n's unique leadership approach
+- Former enemy recruitment showing Kyr4n's unique leadership approach
 - Underground railroad operations expanding humanitarian protection beyond territorial boundaries
 
 **Plot Advances**:
 
-- Establishes Vyr4n as legitimate governmental authority with corporate recognition
+- Establishes Kyr4n as legitimate governmental authority with corporate recognition
 - Creates sophisticated organizational structure capable of large-scale humanitarian operations
 - Develops inner circle loyalty system that will sustain future operations
 - Sets up corporate partnerships that will influence future conflicts
@@ -112,7 +112,7 @@
 **Secrets/Information Revealed**:
 
 - Corporate powers actively seek partnerships with efficient criminal organizations
-- Vyr4n's viral abilities enable governmental-level organizational coordination
+- Kyr4n's viral abilities enable governmental-level organizational coordination
 - Underground railroad operations can function as legitimate humanitarian programs
 - Former enemies make more loyal allies than volunteers when properly converted
 - Efficient authoritarian governance can provide better services than democratic alternatives
@@ -129,9 +129,9 @@
 
 ## Structural Elements
 
-**Arc Opening**: Multi-territory coordination meetings showing Vyr4n's evolution from single-territory criminal to empire-level authority coordinating complex operations across multiple territories. Mood: Organizational efficiency masking growing isolation from humanity.
+**Arc Opening**: Multi-territory coordination meetings showing Kyr4n's evolution from single-territory criminal to empire-level authority coordinating complex operations across multiple territories. Mood: Organizational efficiency masking growing isolation from humanity.
 
-**Arc Climax**: Isa's confrontation during "The Lunch" scene where she reveals her assassination contract and forces Vyr4n to confront that his protective methods have become indistinguishable from the oppressive systems he once opposed, while his inner circle demonstrates absolute loyalty.
+**Arc Climax**: Isa's confrontation during "The Lunch" scene where she reveals her assassination contract and forces Kyr4n to confront that his protective methods have become indistinguishable from the oppressive systems he once opposed, while his inner circle demonstrates absolute loyalty.
 
 **Arc Resolution**: Establishment of complete territorial control as benevolent dictator providing efficient governance and humanitarian services, but with recognition that his isolation from humanity has deepened while his protective capabilities have expanded to governmental scale.
 
@@ -142,7 +142,7 @@
 - **Climax**: Moral confrontation, loyalty testing, identity crisis recognition
 - **Ending**: Governmental authority, humanitarian success, but growing isolation and recognition of authoritarian trajectory
 
-**Transition to Next Arc**: Isa's moral confrontation sets up Arc 5's escalation to extreme violence as Vyr4n chooses warfare against systems rather than internal reformation, while his established authority provides the foundation for broader conflicts.
+**Transition to Next Arc**: Isa's moral confrontation sets up Arc 5's escalation to extreme violence as Kyr4n chooses warfare against systems rather than internal reformation, while his established authority provides the foundation for broader conflicts.
 
 ---
 
@@ -187,7 +187,7 @@
 
 **Character Growth Themes**:
 
-- **Vyr4n**: Learning that efficient protection requires distance from humanity while maintaining protective instincts
+- **Kyr4n**: Learning that efficient protection requires distance from humanity while maintaining protective instincts
 - **Elena**: Balancing medical ethics with organizational efficiency and humanitarian outcomes
 - **Marcus**: Serving as moral advisor while enabling increasingly authoritarian methods through loyalty
 - **Zara**: Providing personal intimacy while maintaining professional protection in complex power dynamics
@@ -233,7 +233,7 @@
 
 **Story Goals Met**:
 
-- Transformed Vyr4n from criminal to quasi-governmental authority with legitimate recognition
+- Transformed Kyr4n from criminal to quasi-governmental authority with legitimate recognition
 - Established sophisticated organizational structure capable of regional humanitarian operations
 - Created inner circle loyalty system through redemptive recruitment philosophy
 - Set up corporate partnerships bridging criminal and legitimate business worlds
@@ -241,7 +241,7 @@
 
 **Character Goals Met**:
 
-- Vyr4n: Achieved comprehensive protection capability while recognizing cost to humanity
+- Kyr4n: Achieved comprehensive protection capability while recognizing cost to humanity
 - Elena: Found meaningful medical work serving humanitarian goals despite ethical compromises
 - Marcus: Provided loyal service and moral guidance while enabling authoritarian methods
 - Zara: Established intimate partnership while maintaining professional protection effectiveness
@@ -302,7 +302,7 @@
 - Balancing reader satisfaction with efficient governance against growing authoritarianism concerns
 - Making inner circle relationships intimate and meaningful while showing organizational isolation
 - Showing corporate partnerships as both practical necessity and moral compromise
-- Maintaining sympathy for Vyr4n while acknowledging increasing distance from humanity
+- Maintaining sympathy for Kyr4n while acknowledging increasing distance from humanity
 
 **Research Needed**:
 

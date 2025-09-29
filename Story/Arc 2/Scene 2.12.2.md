@@ -1,4 +1,4 @@
-Isa folded her last shirt into the travel bag with mechanical precision, each movement deliberate and final. Vyr4n stood in the workshop doorway, maintaining careful distance—close enough to seem present, far enough to avoid triggering whatever internal alarms still governed his nervous system.
+Isa folded her last shirt into the travel bag with mechanical precision, each movement deliberate and final. Kyr4n stood in the workshop doorway, maintaining careful distance—close enough to seem present, far enough to avoid triggering whatever internal alarms still governed his nervous system.
 
 Her bioelectric signature registered as a faint whisper against his enhanced senses, barely distinguishable from the workshop's background electromagnetic noise.
 
@@ -40,6 +40,6 @@ A glance over her shoulder—not quite meeting his eyes.
 
 Then she was gone.
 
-Vyr4n stood motionless in the workshop's electromagnetic hum, surrounded by the machinery they'd built together. After several minutes, he walked to his living quarters, sank against the wall, and stared at the empty space where her bag had been.
+Kyr4n stood motionless in the workshop's electromagnetic hum, surrounded by the machinery they'd built together. After several minutes, he walked to his living quarters, sank against the wall, and stared at the empty space where her bag had been.
 
 The absence had its own bioelectric signature. He could feel that too.
