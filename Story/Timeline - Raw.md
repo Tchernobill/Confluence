@@ -950,19 +950,19 @@ Here's a detailed bullet-point summary of all the scenes:
 
 ### Chapter
 
-- Isa arrives at Vyry4n's transformed workshop after five years of separation
+- Isa arrives at Kyr4n's transformed workshop after five years of separation
 - She observes defensive modifications and enhanced technology in their former shared space
 - Simple "Hey" greeting creates moment of suspended time for both characters
 - They acknowledge each other's success and reputation with careful distance
-- Vyry4n admits he's been monitoring Phoenix Recovery's growth from afar
+- Kyr4n admits he's been monitoring Phoenix Recovery's growth from afar
 - Isa directly asks what destroyed their relationship and why she had to leave
-- Vyry4n explains his virus-induced coma nightmares in clinical detail
+- Kyr4n explains his virus-induced coma nightmares in clinical detail
 - He describes how loved ones became torturers in endless recurring dreams
 - Isa realizes the horror of his psychological conditioning against trusting her
-- Vyry4n admits to false awakenings that made reality indistinguishable from nightmare
+- Kyr4n admits to false awakenings that made reality indistinguishable from nightmare
 - He confesses pushing her away to protect himself, not her, from potential betrayal
 - Isa asks if he still sees her as a threat to his safety
-- Vyry4n reveals he now hunts corporate threats instead of fearing loved ones
+- Kyr4n reveals he now hunts corporate threats instead of fearing loved ones
 - Both acknowledge they've fundamentally changed during their separation
 - Isa touches his face - he doesn't flinch, showing some healing has occurred
 - She recognizes his exhaustion and loneliness beneath his feared reputation
@@ -970,7 +970,7 @@ Here's a detailed bullet-point summary of all the scenes:
 - They use humour to deflect from the emotional intensity of the conversation
 - Isa offers friendship and practical care rather than romantic reconciliation
 - She proposes "sticking around" as a consulting friend, not joining his organization
-- Vyry4n accepts her offer of basic human care (meals, sleep schedules)
+- Kyr4n accepts her offer of basic human care (meals, sleep schedules)
 - Scene ends with them leaving together as tentative friends exploring new possibilities
 
 ### Chapter XX - Kev1n

@@ -2,7 +2,7 @@
 type: mental_projection
 name: "Evilisa"
 aliases: ["The Voice", "Her", "The Other Isa"]
-tags: ["Novel", "Vyry4n", "Mental_Projection", "Virus_Manifestation"]
+tags: ["Novel", "Kyr4n", "Mental_Projection", "Virus_Manifestation"]
 status: "concept development"
 version: "0.2"
 created: "2025-09-12"

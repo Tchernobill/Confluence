@@ -10,7 +10,7 @@ Clean. Nothing about this felt clean.
 
 "I don't want you to go," he said quietly, the admission scraping against his throat like broken glass.
 
-Her hands stilled. For a moment, the careful composure cracked, revealing something raw and wounded underneath. "I know you don't. But look at us, Vyr. Look at what we've become."
+Her hands stilled. For a moment, the careful composure cracked, revealing something raw and wounded underneath. "I know you don't. But look at us, Kyr. Look at what we've become."
 
 He forced himself to meet her eyes, her face was real, present, familiar—but so had the dream-Isa been, right before the knife.
 
@@ -34,7 +34,7 @@ She walked toward him, and he fought not to step back. Stopped three feet away�
 
 "Maybe," he agreed, because hope was easier than honesty.
 
-She moved toward the door, pausing at the threshold. "Take care of yourself, Vyr. Take care of Sedh and Mira. Build something beautiful here."
+She moved toward the door, pausing at the threshold. "Take care of yourself, Kyr. Take care of Sedh and Mira. Build something beautiful here."
 
 A glance over her shoulder—not quite meeting his eyes.
 
