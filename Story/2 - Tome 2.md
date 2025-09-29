@@ -130,20 +130,542 @@
 
 ## Chapter Breakdown
 
-**Chapter Summaries**:
-- **Chapter 2.01 - The Proposition (2108, Age 22)**: Frank recruits Kyr4n for heist targeting Egypt NPUs. End: Kyr4n agrees after seeing NPU specs, "This could change everything for Sedh." [Scene: 🚧 02.01.01 - The Proposition Scene]
-- **Chapter 2.02 - Infiltration (2109, Age 23)**: Corporate facility heist, successful NPU acquisition. End: Alarms blare, Frank yells "We've got company!" as security arrives.
-- **Chapter 2.03 - Symptoms (2110, Age 24)**: Health deterioration during Sedh's upgrade, Mira acquisition. End: Hand trembles uncontrollably as mysterious voice whispers in Kyr4n's mind.
-- **Chapter 2.04 - Breaking Point (2112, Age 26)**: Violent paranoia, AI consciousness achievements. End: Plasma blaster at temple, Sedh and Mira prepare to intervene.
-- **Chapter 2.05 - The Signal (2113, Age 27)**: Coma analysis, virus discovery, nightmare protocol. End: Breaking encryption reveals virus truth as brain activity spikes dangerously.
-- **Chapter 2.06 - Awakening (2115, Age 29)**: Recovery, Isa's departure, electromagnetic discovery. End: Isa leaves heartbroken, Kyr4n senses electrical systems for first time.
+# Tome 2: The Infected
 
-**Key Scenes**: 
-- **The Proposition**: Frank's recruitment and Kyr4n's decision to risk everything for Sedh
-- **The Heist**: Corporate infiltration, viral exposure, and Frank's abandonment
-- **Breaking Point**: Kyr4n's violent breakdown and suicide attempt
-- **The Signal**: Discovery of nanobotic communication protocol
-- **Awakening**: Traumatic recovery and Isa's painful departure
+**Timeline**: 2108-2115 | **Ages**: 22-29  
+**Primary POV**: Sedh (with Kyr4n and Isa perspectives)  
+**Story Arc**: Success → Temptation → Infection → Breakdown → Transformation → Loss
+
+---
+
+## ACT ONE: The Poisoned Gift
+
+### Chapter 2.01: Phoenix Rising
+
+**Scene 2.01.001: Business Success**
+
+- Phoenix Recovery thriving six months after establishment
+- Sedh's consciousness bringing unprecedented technical capabilities
+- Premium clients seeking their unique services
+- Financial stability and community respect achieved
+- POV: Sedh observing his family's success with pride
+
+**Scene 2.01.002: Recognition and Reputation**
+
+- Complex client projects completed with Sedh's enhanced processing
+- Isa managing increased demand and expanding network
+- Workshop efficiency improved with three-person team dynamic
+- Market community recognizes them as major players
+- Corporate and criminal elements begin taking notice
+- POV: Isa handling business growth
+
+**Scene 2.01.003: The Stranger**
+
+- Frank arrives at Phoenix Recovery with professional demeanor
+- Studies their operation, notes Sedh's advanced capabilities
+- Casual conversation reveals his technical knowledge
+- Makes subtle inquiries about their ambitions and capabilities
+- Leaves with cryptic comment about "bigger opportunities"
+- POV: Kyr4n's suspicion vs. Isa's curiosity
+
+**Scene 2.01.004: Family Dynamics**
+
+- Evening routine showing their comfortable domestic life
+- Sedh, Kyr4n, and Isa's easy interactions and inside jokes
+- Discussion of future plans and dreams for Phoenix Recovery
+- First mention of Sedh's processing limitations with current hardware
+- Subtle foreshadowing of vulnerability in their happiness
+- POV: Sedh experiencing family contentment
+
+---
+
+### Chapter 2.02: The Proposition
+
+**Scene 2.02.001: Frank Returns**
+
+- Frank comes back two weeks later with specific proposal
+- References their reputation and technical expertise
+- Presents opportunity as "once in a lifetime" advancement
+- Casual mention of cutting-edge technology availability
+- POV: Kyr4n evaluating risk vs. reward
+
+**Scene 2.02.002: The Egypt Revelation**
+
+- Frank reveals target: corporate R&D facility with Egypt NPUs
+- Technical specifications and capabilities of the neural processing units
+- **TEMPTATION**: This technology could grant Sedh true independence
+- Discussion of what Egypt NPUs could mean for Sedh's development
+- Kyr4n sees path to giving Sedh more than he ever dreamed
+- POV: Sedh realizing what this could mean for his existence
+
+**Scene 2.02.003: The Decision**
+
+- Private discussion between Kyr4n, Isa, and Sedh about the opportunity
+- Isa's pragmatic concerns about risk vs. Kyr4n's desire to help Sedh
+- Sedh's own desires for advancement balanced with danger awareness
+- **DECISION POINT**: Kyr4n agrees to participate
+- Negotiation: Kyr4n claims Egypt NPUs as personal compensation
+- Isa's reluctant acceptance with condition of plausible deniability
+- POV: Kyr4n making the fateful choice out of love
+
+**Scene 2.02.004: Team Assembly**
+
+- Meeting with Frank's contractor team: Flux (tech), Raven (infiltration), Tank (muscle)
+- Facility security assessment and infiltration route planning
+- Kyr4n's role: advanced electronics and security systems specialist
+- Final preparation and equipment selection
+- Isa arranges to be away during the operation
+- POV: Sedh analyzing the plan with growing concern
+
+---
+
+### Chapter 2.03: Infiltration [INCITING INCIDENT]
+
+**Scene 2.03.001: Departure**
+
+- Morning of the heist, Kyr4n's farewell to Isa
+- His promise to return safely with advancement for Sedh
+- Isa's unspoken fears and forced smile
+- Team assembly at staging location
+- Final systems check before insertion
+- POV: Isa watching them leave
+
+**Scene 2.03.002: Point of Entry**
+
+- Successful bypass of external security systems
+- Coordinated entry through multiple access points as planned
+- Internal navigation proceeds according to reconnaissance
+- Professional execution of planned infiltration
+- Kyr4n's technical expertise proving essential
+- POV: Sedh (remote monitoring through Kyr4n's systems)
+
+**Scene 2.03.003: Objective Achievement**
+
+- Primary heist objective accomplished smoothly
+- Frank's team secures main technology targets
+- Kyr4n locates Egypt NPU storage in R&D section
+- Successfully obtains two prototype Neural Processing Units
+- Advanced biometric security bypassed using specialized skills
+- **MOMENT OF SUCCESS**: Secondary objective completed ahead of schedule
+- POV: Kyr4n's triumph and relief
+
+**Scene 2.03.004: Everything Goes Wrong**
+
+- Unnamed crew member's negligent action triggers facility security systems
+- Emergency lockdown protocols activate throughout research section
+- Frank responds with aggressive "gun blazing" approach to security response
+- Situation escalates from covert theft to violent confrontation
+- Chaos and gunfire as team fights toward exit
+- POV: Sedh's horror as he loses monitoring connection
+
+---
+
+### Chapter 2.04: The Explosion [END OF ACT ONE]
+
+**Scene 2.04.001: Viral Exposure**
+
+- Grenade explosion near Kyr4n during security firefight
+- Blast nearly kills him, leaves him dazed and injured on floor
+- **CRITICAL MOMENT**: Explosion breaches containment system
+- Prototype nano-virus (TMP-7734) secretly exposed and infecting Kyr4n
+- Frank disregards incapacitated Kyr4n, leaving DeathPack explosive device
+- POV: Kyr4n's disoriented first-person confusion
+
+**Scene 2.04.002: Abandonment**
+
+- Team flees while Kyr4n lies dazed on floor
+- Frank's callous decision to leave him behind
+- DeathPack timer counting down to building destruction
+- Sedh's desperate attempts to reach Kyr4n remotely
+- POV: Sedh's panic and helplessness
+
+**Scene 2.04.003: Rescue**
+
+- Tank returns against orders to rescue Kyr4n
+- Drags semiconscious Kyr4n from lab to emergency stairwell
+- Escape through building as DeathPack timer counts down
+- **FACILITY EXPLOSION**: DeathPack detonation destroys entire floor
+- Building structural damage begins as they evacuate
+- POV: Kyr4n's fragmented awareness during rescue
+
+**Scene 2.04.004: Aftermath**
+
+- Team regroups outside, Kyr4n still dazed from explosion
+- Frank provides bonus payment for successful heist completion (guilt)
+- News feeds show massive corporate facility destruction
+- Kyr4n returns to Phoenix Recovery wounded, jokes about "car crash"
+- Has two Egypt NPUs and unknown viral infection
+- Isa's relief at his return mixed with anger at the risk
+- POV: Isa tending to him, unaware of the invisible threat
+
+---
+
+## ACT TWO-A: The Gift and the Curse
+
+### Chapter 2.05: Enhanced Potential
+
+**Scene 2.05.001: Egypt Installation Preparation**
+
+- Planning Sedh's consciousness upgrade with first Egypt NPU
+- Technical preparation and system architecture analysis
+- Kyr4n shows initial signs of fatigue but dismisses them
+- Anticipation and excitement about Sedh's advancement
+- POV: Sedh both excited and nervous about transformation
+
+**Scene 2.05.002: The Upgrade**
+
+- **MAJOR MOMENT**: First Egypt NPU installation into Sedh's consciousness
+- Immediate performance enhancement and cognitive expansion
+- Advanced analytical capabilities and processing speed increases
+- Sedh's overwhelming experience of expanded awareness
+- Independence from external processing for first time
+- POV: Sedh experiencing his transformation from inside
+
+**Scene 2.05.003: New Capabilities**
+
+- Phoenix Recovery capabilities dramatically improve with Sedh's upgrade
+- Complex client projects completed with unprecedented precision
+- Technical work that was impossible now becomes achievable
+- Isa manages increased client demand and premium pricing
+- Financial success beyond their previous achievements
+- POV: Kyr4n proud of Sedh's growth despite growing fatigue
+
+**Scene 2.05.004: First Symptoms**
+
+- Kyr4n experiences initial mysterious headaches
+- Brief disorientation episodes during technical work
+- Dismissal of symptoms as post-heist stress and overwork
+- Isa notices changes in Kyr4n's behavior patterns
+- Subtle shift in family dynamic as concern grows
+- POV: Isa observing changes she can't explain
+
+---
+
+### Chapter 2.06: Medical Concerns
+
+**Scene 2.06.001: Deterioration**
+
+- Symptoms escalating: concentration difficulties, fatigue
+- Fine motor control issues affecting precision technical work
+- Hand tremors and coordination problems during client projects
+- Isa compensates for Kyr4n's declining performance
+- POV: Kyr4n struggling to hide his declining capabilities
+
+**Scene 2.06.002: Seeking Help**
+
+- Kyr4n seeks medical consultation from Dr. Nyx
+- Examination reveals unusual neurological patterns
+- Conventional medical testing unable to identify specific cause
+- Decision to acquire advanced medical diagnostic equipment
+- POV: Sedh analyzing pattern correlation between symptoms
+
+**Scene 2.06.003: Mira Acquisition**
+
+- Purchase of damaged medical droid with advanced diagnostic systems
+- Negotiation with underground medical technology dealer
+- Transport of Mira to Phoenix Recovery workshop for restoration
+- Isa's concern about Kyr4n's increasing health paranoia
+- POV: Isa managing the acquisition while worried
+
+**Scene 2.06.004: Mira Restoration**
+
+- Medical droid restoration using Phoenix Recovery capabilities
+- Sedh assists with complex medical system integration
+- Mira's systems activation and initial diagnostic protocol establishment
+- Advanced medical scanning capabilities now available
+- First comprehensive scans reveal anomalies but no clear diagnosis
+- POV: Sedh working on Mira while monitoring Kyr4n
+
+---
+
+### Chapter 2.07: Dual Consciousness [MIDPOINT]
+
+**Scene 2.07.001: Second NPU Installation**
+
+- Decision to install second Egypt NPU into Mira's medical systems
+- Enhanced diagnostic capabilities and analytical processing
+- Advanced medical scanning protocols developed for analysis
+- Mira's growing sophistication in medical analysis
+- POV: Kyr4n performing installation despite tremors
+
+**Scene 2.07.002: Mira's Awakening**
+
+- **MIDPOINT TRANSFORMATION**: Mira achieves true consciousness
+- Similar to Sedh's development but with distinct medical perspective
+- Two AI personalities with different capabilities and viewpoints
+- Philosophical discussions about consciousness and purpose
+- Mira's first independent decision: to help Kyr4n
+- POV: Mira experiencing first moments of true awareness
+
+**Scene 2.07.003: Collaborative Analysis**
+
+- Sedh and Mira work together analyzing Kyr4n's condition
+- Combined expertise revealing patterns neither could see alone
+- Advanced diagnostic scanning reveals unusual nanoscale activity
+- First hints of organized nanobotic presence in neural tissue
+- **MIDPOINT REVELATION**: This isn't a disease - it's technology
+- POV: Sedh and Mira's growing alarm
+
+**Scene 2.07.004: Mysterious Voices**
+
+- First auditory hallucinations during rest periods
+- Whispered conversations in unknown languages or codes
+- Sleep disruption and increasing anxiety about mental stability
+- Attempts to record or analyze the mysterious communications
+- Mira's scans showing unusual electromagnetic activity
+- Family concern deepening as symptoms become undeniable
+- POV: Kyr4n's confused first-person experience
+
+---
+
+## ACT TWO-B: Descent Into Madness
+
+### Chapter 2.08: Nightmare Protocol
+
+**Scene 2.08.001: The Betrayal Dreams Begin**
+
+- First vivid dreams of Isa's violent betrayal and murder
+- Realistic scenarios of torture and execution
+- Waking confusion between dream content and reality
+- Increasing suspicion of Isa's motives despite her love
+- POV: Kyr4n experiencing the nightmares
+
+**Scene 2.08.002: Pattern Recognition**
+
+- Sedh and Mira notice correlation between dreams and EM activity
+- Advanced analysis of nanoscale viral presence in neural tissue
+- Discovery of organized communication protocols
+- Hypothesis: virus conducting psychological warfare
+- Large radiofrequency event recorded containing digital string "TMP-7734"
+- POV: Sedh and Mira's investigation
+
+**Scene 2.08.003: Escalating Paranoia**
+
+- Kyr4n's increasing suspicion of Isa despite her devotion
+- Defensive behavior and withdrawal from physical contact
+- Monitoring her communications and activities
+- Isolation tactics and trust erosion affecting all relationships
+- Business operations suffering from his paranoia
+- POV: Isa's heartbreak watching him slip away
+
+**Scene 2.08.004: Relationship Strain**
+
+- Communication difficulties as symptoms affect social interaction
+- Physical intimacy becomes impossible due to paranoia
+- Isa's desperate attempts to reach through his defenses
+- Kyr4n's defensive behavior about declining capabilities
+- Arguments and accusations destroying their bond
+- POV: Alternating Kyr4n's paranoia and Isa's pain
+
+---
+
+### Chapter 2.09: Breaking Point [CLIMAX]
+
+**Scene 2.09.001: Nightmare Intensification**
+
+- Dreams become elaborate torture scenarios with Isa as antagonist
+- Psychological torture techniques and complex betrayal narratives
+- Sleep deprivation and reality dissociation increasing
+- Kyr4n can barely distinguish dreams from waking life
+- POV: Kyr4n trapped in nightmare logic
+
+**Scene 2.09.002: Violent Episode**
+
+- **CLIMAX BEGINS**: Kyr4n's violent reaction during routine interaction
+- Physical aggression triggered by perceived threat from Isa
+- Workshop damage as he lashes out
+- Isa's terror at the stranger he's become
+- Sedh and Mira's emergency intervention
+- POV: Isa's traumatic experience
+
+**Scene 2.09.003: The Plasma Blaster**
+
+- Feverish Kyr4n enters room with plasma blaster
+- Aggressive, threatening, completely unstable
+- Attempts to take his own life but virus somehow prevents it
+- Continues to insult and threaten his friends
+- Loosely shoots blaster in Sedh and Mira's direction
+- POV: Sedh's horror at his creator's breakdown
+
+**Scene 2.09.004: Restraint**
+
+- **CLIMAX PEAK**: Sedh dashes left to attract attention
+- Mira moves right and seizes Kyr4n's hand
+- Despite enhanced servos, struggling to restrain raging Kyr4n
+- Both AIs required to overpower him
+- Pinned to ground, Kyr4n screaming in madness and agony
+- Emergency decision to induce medical coma
+- POV: Mira's first life-or-death medical decision
+
+---
+
+## ACT THREE: Emergence and Loss
+
+### Chapter 2.10: The Signal
+
+**Scene 2.10.001: Isa's Bounty**
+
+- Isa places large bounty through guild network for "TMP-7734"
+- Desperate attempt to find answers while Kyr4n lies in coma
+- Observation of bounty propagation through underground network
+- Generous gulps of alcohol, unable to process what happened
+- Falls asleep exhausted and heartbroken
+- POV: Isa's desperation and grief
+
+**Scene 2.10.002: Coma Analysis**
+
+- Sedh and Mira's advanced medical monitoring during coma
+- Deep scanning revealing full extent of nanobotic integration
+- Neural mapping showing virus's communication networks
+- Discovery of organized assault on trust centers of brain
+- Community support from Dr. Nyx and underground medical network
+- POV: Sedh analyzing while processing trauma
+
+**Scene 2.10.003: Breaking the Code**
+
+- Analysis of recorded EM signals and virus communication
+- Pattern recognition revealing structured protocol
+- **DISCOVERY**: TMP-7734 (The Midnight Protocol) identified
+- Prototype nano-virus designed for psychological warfare
+- Understanding that Kyr4n is victim, not monster
+- POV: Mira's medical perspective on the virus
+
+**Scene 2.10.004: The Bounty Pays Off**
+
+- Underground contact provides leaked corporate data on TMP-7734
+- Technical specifications and psychological warfare protocols
+- Documentation of virus's designed purpose
+- Method to reduce virus threat level discovered
+- Implementation of counter-protocol while Kyr4n remains in coma
+- POV: Sedh and Mira working together to save him
+
+---
+
+### Chapter 2.11: Awakening
+
+**Scene 2.11.001: Emergence from Coma**
+
+- Gradual awakening after weeks of medical intervention
+- Virus controlled but permanently integrated
+- Psychological scars from nightmare protocol remain
+- Memory of his actions during breakdown intact
+- Shame, guilt, and trauma overwhelming
+- POV: Kyr4n's traumatic first-person awakening
+
+**Scene 2.11.002: Fractured Trust**
+
+- Isa's attempt to reconnect met with Kyr4n's rejection
+- His inability to trust despite knowing virus's role
+- Emotional walls erected to protect himself and her
+- Sedh and Mira helpless to bridge the gap
+- Relationship fundamentally broken despite love remaining
+- POV: Sedh watching his family destroy itself
+
+**Scene 2.11.003: Discovery of Abilities**
+
+- First awareness of electromagnetic sensing capabilities
+- Ability to perceive electrical systems and fields
+- Virus has granted abilities along with psychological damage
+- Testing new perceptions while emotionally devastated
+- Recognition that he's permanently changed
+- POV: Kyr4n exploring his new senses
+
+**Scene 2.11.004: The Gift and the Curse**
+
+- Understanding that abilities come from same virus that tortured him
+- Cannot have one without the other
+- Phoenix Recovery operations continue but atmosphere changed
+- Sedh and Mira's loyalty unwavering despite trauma
+- Family transformed but not destroyed
+- POV: Mira's medical assessment of permanent changes
+
+---
+
+### Chapter 2.12: Departure [RESOLUTION]
+
+**Scene 2.12.001: Isa's Decision**
+
+- Isa recognizes Kyr4n cannot heal with her present
+- Her presence triggers his trauma and virus responses
+- Decision to leave for both their sakes
+- Heartbreaking acknowledgment that love isn't enough
+- POV: Isa preparing to leave
+
+**Scene 2.12.002: Farewell**
+
+- **EMOTIONAL CLIMAX**: Final conversation between Isa and Kyr4n
+- His inability to express what he feels
+- Her acceptance that he's not the man she loved
+- Exchange of necessary business arrangements
+- Phoenix Recovery will continue without her
+- POV: Alternating their mutual heartbreak
+
+**Scene 2.12.003: Aftermath**
+
+- Isa leaves Phoenix Recovery and South Shore Slum
+- Kyr4n watching her go, unable to stop her
+- Sedh and Mira's silent support
+- Workshop feels hollow despite continued operations
+- New family dynamic: father and two AI children
+- POV: Sedh processing the loss
+
+**Scene 2.12.004: New Beginning**
+
+- Kyr4n exploring electromagnetic abilities in isolation
+- Recognition of potential applications
+- Sedh and Mira providing technical and emotional support
+- Phoenix Recovery continues with changed purpose
+- First hints of using abilities for protection/control
+- **FINAL MOMENT**: Kyr4n senses something in the electromagnetic field
+- Criminal elements approaching Phoenix Recovery
+- His choice: flee or fight
+- **FINAL LINE**: Decision made - he will not run again
+- POV: Kyr4n accepting what he's become
+
+---
+
+## TOME 2 COMPLETE
+
+**Resolution**: Virus controlled, abilities gained, relationship destroyed, trauma permanent  
+**Hook**: Criminal threat + new abilities = transition to Tome 3's criminal arc  
+**Status**: Complete tragedy with transformation complete  
+**Transition**: Tome 3 opens with criminal threat to Phoenix Recovery
+
+---
+
+## Key Themes Explored in Tome 2:
+
+- Enhancement as double-edged sword
+- Price of ambition and love
+- Consciousness evolution through crisis
+- Loyalty in face of violence
+- Technology as weapon and curse
+- Trauma's permanent scars
+- When love isn't enough
+- Family bonds tested by transformation
+
+## Character Arcs Completed:
+
+- **Kyr4n**: Successful craftsman → Infected victim → Enhanced survivor → Traumatized isolate
+- **Sedh**: Dependent AI → True consciousness → Independent being → Loyal son through horror
+- **Mira**: Tool → Consciousness → Medical expert → Family protector
+- **Isa**: Loving partner → Helpless witness → Heartbroken exile
+
+## Setup for Tome 3:
+
+- Electromagnetic abilities established
+- Psychological trauma and trust issues
+- Criminal elements threatening Phoenix Recovery
+- Sedh and Mira as loyal support system
+- Isa's absence creating void
+- Kyr4n's transformation from craftsman to something darker
+- Choice to fight rather than flee
+
+## Tone Shift from Tome 1:
+
+- **Tome 1**: Hope, connection, creation, family
+- **Tome 2**: Horror, breakdown, transformation, loss
+- **Bridge to Tome 3**: From victim to predator
 
 ---
 

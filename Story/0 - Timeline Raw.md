@@ -261,6 +261,11 @@
 - Final identity reconciliation - Sedh chooses who he wants to be
 - Sedh chooses own name and identity, establishing personhood
 - Arc climax: Sedh makes crucial choice that defines who he is now
+
+### Chapter 12
+
+#### Scene 1.12.001
+
 - Recognition of Sedh as equal partner rather than creation or tool
 - Establishing legitimate business "Phoenix Recovery" with three-way partnership
 - Combining Kyr4n's technical skills, Isa's market connections, and Sedh's analytical capabilities
@@ -763,7 +768,7 @@ Here's a detailed bullet-point summary of all the scenes:
 - Footage begins uploading immediately across the slums
 - The Technomancer legend transforms from story to documented reality
 
-## The Aftermath
+### The Aftermath
 - Convoy moves through empty streets in complete silence
 - Marcus drives while Alex monitors from passenger seat
 - Zara sits beside catatonic Kyr4n in back

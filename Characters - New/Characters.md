@@ -129,27 +129,27 @@ for (let p of pages) {
 
 ### Combat Capabilities
 
-|Character|Combat Level|Specialization|Enhancement Type|
-|---|---|---|---|
-|**Kyr4n**|★★★★★|**SECRET**: All abilities enhanced|Nanobotic virus|
-|**Alex**|★★★★★|Tactics & strategy|Cybernetic combat|
-|**Zara**|★★★★★|Assassination & protection|Cybernetic reflexes|
-|**Marcus**|★★★★☆|Military leadership|Basic cybernetics|
-|**Isa**|★★☆☆☆|Evasion & improvised weapons|Basic health monitoring|
-|**Elena**|★☆☆☆☆|Medical combat support|None|
-|**Sedh**|★★★☆☆|Electronic warfare|AI capabilities|
+| Character  | Combat Level | Specialization                     | Enhancement Type        |
+| ---------- | ------------ | ---------------------------------- | ----------------------- |
+| **Kyr4n**  | ★★★★☆        | **SECRET**: All abilities enhanced | Nanobotic virus         |
+| **Alex**   | ★★★★★        | Tactics & strategy                 | Cybernetic combat       |
+| **Zara**   | ★★★★★        | Assassination & protection         | Cybernetic reflexes     |
+| **Marcus** | ★★★★         | Military leadership                | Basic cybernetics       |
+| **Isa**    | ★★           | Evasion & improvised weapons       | Basic health monitoring |
+| **Helene** | ★            | Medical combat support             | None                    |
+| **Sedh**   | ★★★          | Electronic warfare                 | AI capabilities         |
 
 ### Technical Skills
 
-|Character|Tech Level|Specialization|
-|---|---|---|
-|**Kyr4n**|★★★★★|**SECRET**: Universal hacking/repair|
-|**Sedh**|★★★★★|AI processing & analysis|
-|**Alex**|★★★☆☆|Military systems|
-|**Elena**|★★★★☆|Medical technology|
-|**Isa**|★★☆☆☆|Business systems|
-|**Marcus**|★★☆☆☆|Security systems|
-|**Zara**|★★☆☆☆|Weapons & surveillance|
+| Character  | Tech Level | Specialization                       |
+| ---------- | ---------- | ------------------------------------ |
+| **Kyr4n**  | ★★★★★      | **SECRET**: Universal hacking/repair |
+| **Sedh**   | ★★★★★      | AI processing & analysis             |
+| **Alex**   | ★★★        | Military systems                     |
+| **Elena**  | ★★★★       | Medical technology                   |
+| **Isa**    | ★★         | Business systems                     |
+| **Marcus** | ★★         | Security systems                     |
+| **Zara**   | ★★☆        | Weapons & surveillance               |
 
 ---
 
@@ -211,25 +211,3 @@ for (let p of pages) {
 - **Kyr4n ↔ Marcus**: Son/father dynamic, deep mutual respect
 - **Kyr4n ↔ Isa**: **COMPLICATED** - Past love returning as moral challenger
 - **All ↔ Sedh**: Family member status with everyone
-
----
-
-## Links & Cross-References
-
-### Individual Character Pages
-
-- [[Kyr4n - Summary]] | [[Kyr4n - Detailed Sheet]] | [[Kyr4n - Evolution]]
-- [[Alex - Summary]] | [[Alex Martino - Detailed Sheet]] | [[Alex Martino - Evolution]]
-- [[Isa Mercer - Character Profile]]
-- [[Zara - Character Profile]]
-- [[Dr. Elena Vasquez - Character Profile]]
-- [[Marcus Chen - Character Profile]]
-- [[Sedh - Character Profile]]
-
-### Related Documentation
-
-- [[Arc Summaries]] - Character development by story arc
-- [[Relationship Dynamics]] - Detailed relationship analysis
-- [[Character Voice Guide]] - Dialogue and speech patterns
-- [[Character Timeline]] - Chronological character development
-

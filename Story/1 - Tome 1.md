@@ -127,19 +127,497 @@ isolation vs. connection, consciousness and personhood
 
 ## Chapter Breakdown
 
-**Chapter Summaries**:
-- **Chapter 1.01 - The Concrete Garden (2102, Age 16)**: Kyr4n wakes in utility room hideout, discovers damaged android head unit in scrapyard. End: Faint light blinks in optical sensor as he holds it. [Scene: 🚧 01.01.01 - Waking-up]
-- **Chapter 1.02 - First Contact (2103, Age 17)**: Begins android exploration, meets Isa during violent riot, offers shelter. End: Riot erupts, Isa desperate and bleeding, asks for shelter. [Scenes: 🚧 01.02.01 - They first meet, 🚧 01.02.03 - The Enforcer Incident, 🚧 01.02.05 - The Riot, 🚧 01.02.06 - The Riot Night]
-- **Chapter 1.03 - Confined Spaces (2104, Age 18)**: Intimate connection with Isa in utility room, early android communication. End: "SECURITY OVERRIDE SUCCESSFUL" - droid eyes illuminate with awareness. [Scene: 🚧 01.03.04 - Opening the Box]
-- **Chapter 1.04 - Digital Awakening (2105, Age 19)**: Breakthrough in android consciousness, philosophical discussions about freedom. End: Kyr4n sketches body design, droid asks "what will I be?"
-- **Chapter 1.05 - Rebirth Protocol (2106, Age 20)**: Constructing Sedh's body, removing all limiting protocols, granting true freedom. End: Sedh stands for first time, "Is this what it means to be alive?"
-- **Chapter 1.06 - Phoenix Rising (2108, Age 22)**: Business establishment, growing reputation, achieving security. End: Shop opens, Isa notices Kyr4n's stronger connection to Sedh than humans. [Scene: 🚧 01.06.05 - Sev's question]
+# Tome 1: The Scavenger
 
-**Key Scenes**: 
-- **Opening the Box**: Kyr4n tests Sedh's freedom by having the android point a weapon at him
-- **The Riot Night**: Intimate scene between Kyr4n and Isa during the shelter
-- **Waking-up**: Introduction to Kyr4n's isolated lifestyle and hideout
-- **Phoenix Rising climax**: The personhood confrontation between Isa and Kyr4n about Sedh
+**Timeline**: 2102-2108 | **Ages**: 16-22  
+**Primary POV**: Isa (with Kyr4n perspectives)  
+**Story Arc**: Isolation → Connection → Creation → Success → Temptation
+
+---
+
+## ACT ONE: Survival & Connection
+
+### Chapter 1.01: The Concrete Garden
+
+**Scene 1.01.001: Morning Awakening**
+
+- Kyr4n awakens from nostalgic dream of mother's garden to harsh hideout reality
+- Morning routine reveals survival skills and hidden technical workshop
+- Establishes character baseline: isolated, competent, haunted by loss
+- POV: Kyr4n
+
+**Scene 1.01.002: Journey to Work**
+
+- Journey through dangerous tunnel network to underground market
+- Environmental hazards and navigation challenges
+- World-building: South Shore Slum infrastructure and dangers
+- POV: Kyr4n
+
+**Scene 1.01.003: Market Operations**
+
+- Sets up modest repair stall, demonstrates technical competence
+- First interaction with vendor community (Marcus the fence, Dr. Nyx)
+- Afternoon client work establishing "The Artisan" reputation
+- POV: Kyr4n
+
+**Scene 1.01.004: Scavenging Discovery**
+
+- Discovers damaged assistant droid head unit while scavenging
+- Returns to hideout with salvage haul including the mysterious droid head
+- Stores the head for future analysis, focusing on immediate survival needs
+- Initial assessment reveals high-quality optical sensors intact
+- POV: Kyr4n
+
+---
+
+### Chapter 1.02: The Underground Balance
+
+**Scene 1.02.001: Market Morning**
+
+- Underground market morning routine, establishing "The Artisan" reputation
+- First corporate enforcer encounter - light intimidation and compliance threats
+- Complex repair job for Dr. Nyx tests Kyr4n's advanced modification skills
+- POV: Kyr4n
+
+**Scene 1.02.002: Community Dynamics**
+
+- Vendor community warns about increased corporate surveillance patterns
+- Careful client selection process - rejecting high-profile jobs to stay invisible
+- Afternoon encounter with potential gang recruitment (diplomatically declined)
+- Market day ends with profits vs. risk analysis, maintaining careful balance
+- POV: Kyr4n
+
+**Scene 1.02.003: Evening Analysis**
+
+- Evening return through tunnels, notices unusual corporate patrol patterns
+- Discovery that droid memory cores are damaged but recoverable
+- First diagnostic attempts - system responds but chaotically
+- Basic power restoration shows residual system activity
+- POV: Kyr4n
+
+**Scene 1.02.004: The Watcher**
+
+- POV shift: Unknown observer (Isa) in market shadows studies Kyr4n
+- Isa notes his methods, schedule, technical expertise
+- Her perspective reveals information networks and underground connections
+- Establishes her motivation: needs reliable, discrete technical partner
+- POV: Isa
+
+---
+
+### Chapter 1.03: First Contact
+
+**Scene 1.03.001: Isa's Research**
+
+- Isa receives tip from underground contact about "The Artisan's" reliable work
+- Research through underground information networks
+- Plans approach strategy - selecting appropriate first commission
+- POV: Isa
+
+**Scene 1.03.002: Reconnaissance**
+
+- Continues observation of Kyr4n's market operations and client interactions
+- Assesses his discretion, technical capabilities, and trustworthiness
+- Notes his patterns and vulnerabilities
+- POV: Isa
+
+**Scene 1.03.003: First Approach**
+
+- Isa approaches with simple data recovery job, testing his capabilities
+- Professional negotiation reveals mutual competence and careful assessment
+- First collaborative work session demonstrates technical mastery and discretion
+- System diagnostic protocols established for the droid during quiet moments
+- POV: Alternating Kyr4n/Isa
+
+**Scene 1.03.004: Professional Recognition**
+
+- Successful completion builds initial trust and professional respect
+- Payment exchange and agreement for future collaboration if needed
+- Isa returns with more complex neural implant modification request
+- Extended technical work allows for professional conversation and character assessment
+- First fragmented communication attempts from the droid - garbled responses
+- POV: Mostly Isa evaluating partnership potential
+
+---
+
+### Chapter 1.04: The EMP Incident [INCITING INCIDENT - END OF ACT ONE]
+
+**Scene 1.04.001: Mysterious Commission**
+
+- Isa arrives early morning with severely damaged mysterious implant from dangerous deal
+- Proposes collaborative analysis with promising profit potential
+- Routine market day preparations, corporate enforcers present
+- Kane conducting "compliance inspection" with security mech
+- POV: Isa then Kyr4n
+
+**Scene 1.04.002: The Incident**
+
+- Unknown person throws EMP grenade at corporate mech during harassment
+- Electromagnetic pulse disables mech and triggers sector-wide communication failure
+- Immediate panic and evacuation as corporate backup protocols activate
+- Civil unrest spreads rapidly throughout South Shore Slum
+- POV: Kyr4n
+
+**Scene 1.04.003: Escape and Rescue**
+
+- Isa injured in evacuation chaos as riot escalates beyond underground market
+- Kyr4n makes critical decision to breach his hidden sanctuary for her safety
+- Emergency escape through tunnel network to ventilation shaft hideout
+- Carries both the droid head and mysterious implant carefully during evacuation
+- POV: Kyr4n making the choice that changes everything
+
+**Scene 1.04.004: Sanctuary Reached**
+
+- Arrival at secret shelter as riots rage above
+- Isa sees Kyr4n's true hideout and technical workshop for first time
+- Neural network integration nearly complete before crisis hit
+- Forced intimacy of confined space begins lowering barriers
+- POV: Alternating, settling into shared space
+
+---
+
+## ACT TWO-A: Building Something New
+
+### Chapter 1.05: Sanctuary
+
+**Scene 1.05.001: Tending Wounds**
+
+- Tending Isa's wounds in the confined safety of ventilation shaft hideout
+- Sharing limited resources and space forces unprecedented intimacy
+- First real personal conversation beyond professional interaction
+- POV: Kyr4n caring for her
+
+**Scene 1.05.002: Technical Collaboration**
+
+- Analysis of the mysterious implant during quiet moments - complex unknown architecture
+- Isa learns about Kyr4n's technical workshop and hidden capabilities
+- Working together reveals deeper layers of both characters' expertise
+- Sedh's development discussed as potential project
+- POV: Collaborative, both perspectives
+
+**Scene 1.05.003: Personal Connection**
+
+- Long night of conversation about their pasts and survival philosophies
+- Personal barriers gradually dissolve under crisis conditions and forced proximity
+- Discussion of the underground economy and corporate oppression realities
+- First body design iterations for Sedh sketched during their time together
+- Mutual attraction acknowledged openly
+- POV: Intimate, both characters
+
+**Scene 1.05.004: Intimacy**
+
+- Emotional vulnerability leads to deeper understanding between them
+- Physical intimacy naturally develops from emotional connection
+- Resource gathering planning for prototype construction
+- Morning after establishes transformed relationship dynamic
+- POV: Kyr4n processing the shift
+
+---
+
+### Chapter 1.06: Aftermath & Collaboration
+
+**Scene 1.06.001: Aftermath Assessment**
+
+- Emerging from hideout to assess riot aftermath and market damage
+- Underground market infrastructure severely damaged, vendor community scattered
+- Surveying what can be salvaged from their operations
+- POV: Both, viewing destruction together
+
+**Scene 1.06.002: Market Recovery**
+
+- Working together to salvage business relationships and reputation
+- Isa uses her network to re-establish connections
+- Kyr4n rebuilds physical infrastructure and client trust
+- Corporate presence intensified after riot - more dangerous now
+- POV: Isa managing social/business aspects
+
+**Scene 1.06.003: Memory Fragments**
+
+- First memory fragments recovered from Sedh during evening work
+- Traumatic and beautiful glimpses of his past life/death
+- Recognition of the weight of what they're attempting to restore
+- Philosophical discussions about identity and memory
+- POV: Kyr4n witnessing someone's soul emerge
+
+**Scene 1.06.004: Phoenix Recovery Concept**
+
+- Planning permanent workshop space - three-container facility concept
+- Discussion of making their partnership official and lasting
+- Isa proposes "Phoenix Recovery" name - rising from destruction
+- Professional partnership solidifies with establishment of regular working relationship
+- Market community accepts Isa as Kyr4n's trusted business associate
+- POV: Both, planning future
+
+---
+
+### Chapter 1.07: Sedh's Stirring [MIDPOINT]
+
+**Scene 1.07.001: Advanced Restoration**
+
+- Core personality stabilization work on the droid during evenings
+- Base personality subroutines activated
+- Memory architecture reconstruction progresses significantly
+- System responses becoming more coherent and purposeful
+- POV: Kyr4n as technician becoming parent
+
+**Scene 1.07.002: First Communication**
+
+- First coherent communication attempts - no longer garbled
+- Fragmented but meaningful exchanges
+- Questions about identity, purpose, existence
+- Recognition of growing awareness in the system
+- POV: Kyr4n realizing what's happening
+
+**Scene 1.07.003: Recognition of Personhood**
+
+- **MIDPOINT REVELATION**: This isn't just repair work - this could become a _person_
+- Philosophical realization about consciousness and creation
+- Discussion with Isa about the implications and responsibilities
+- Decision point: continue or stop before full awareness emerges
+- Stakes shift from survival to responsibility for another life
+- POV: Kyr4n facing the magnitude of what he's creating
+
+**Scene 1.07.004: Corporate Targeting**
+
+- Kane directly threatens Kyr4n's operation with fabricated violations
+- Vendor community solidarity strengthens in response to corporate oppression
+- Phoenix Recovery's growing reputation attracts dangerous attention
+- Corporate retaliation against market escalates sector tension further
+- External pressure mounting just as internal stakes increase
+- POV: Both facing threats to their growing stability
+
+---
+
+## ACT TWO-B: Identity & Escalation
+
+### Chapter 1.08: Identity Crisis
+
+**Scene 1.08.001: Memory Selection Dilemma**
+
+- First major system crash and recovery - Kyr4n realizes the complexity
+- Identity crisis emerges from the droid: "Am I still me or just a copy?"
+- Confronting the philosophical weight of choosing which memories to restore
+- What defines identity - continuity or content?
+- POV: Kyr4n struggling with godlike decisions
+
+**Scene 1.08.002: Emotional Breakdown**
+
+- Emotional breakdown from the droid during restoration process
+- System instability causing distress and confusion
+- Kyr4n must talk the emerging consciousness through existential crisis
+- First hints of personality traits and emotional responses
+- POV: Witnessing a mind's first emotional storm
+
+**Scene 1.08.003: Freedom Decision**
+
+- **KEY DECISION**: Kyr4n decides to grant complete freedom from limiting protocols
+- Removes all restrictive subroutines and control mechanisms
+- Chooses to create a truly autonomous being, not a controlled tool
+- Technical implementation of unrestricted consciousness
+- POV: Kyr4n making the choice that defines him
+
+**Scene 1.08.004: Isa's Concerns**
+
+- Isa expresses concerns about the ethics and dangers
+- Debate about responsibility, safety, and rights
+- Her pragmatic warnings vs. his idealistic commitment
+- Relationship strain over philosophical differences
+- Agreement to continue but with caution
+- POV: Isa as voice of reason/concern
+
+---
+
+### Chapter 1.09: Dangerous Procurement
+
+**Scene 1.09.001: Guild Negotiation**
+
+- Isa's dangerous negotiation for premium implant components
+- Meeting with unstable customer who nearly turns violent
+- Customer changes mind on payment, threatens with weapon
+- Isa's steel nerves and network threats convince him to negotiate
+- Receives the mysterious damaged implant as payment
+- POV: Isa in danger, showing her capability
+
+**Scene 1.09.002: Black Market Run**
+
+- Procurement run for advanced body components - dangerous but necessary
+- Journey to Isa's container unit in The Stack, seeing her living space
+- Establishing contacts with underground tech dealers
+- Acquiring specialized materials for prototype construction
+- POV: Both, deeper into underground economy
+
+**Scene 1.09.003: Close Call**
+
+- Close call with corporate security during component acquisition
+- Kane's enforcement tactics become increasingly aggressive
+- Near exposure of their operations and capabilities
+- Narrow escape reinforces the danger they're courting
+- Kyr4n's combat training briefly revealed defending against armed enforcement
+- Wounds following fight prompt first recurring joke about being in a car crash
+- POV: Tense action, Kyr4n's hidden past glimpsed
+
+**Scene 1.09.004: Construction Begins**
+
+- Prototype body construction begins in earnest at Isa's workspace
+- Sensory system expansion planning and implementation
+- Beginning systematic preparation for consciousness transfer
+- Technical collaboration shows their complementary skills
+- Hope building alongside the body
+- POV: Both working together on their greatest creation
+
+---
+
+## ACT THREE: Birth & Consequences
+
+### Chapter 1.10: Liberation [CLIMAX]
+
+**Scene 1.10.001: The Birth**
+
+- **THE CLIMACTIC MOMENT**: First consciousness transfer to mobile platform
+- The "birth" moment - first time Sedh experiences being in a body
+- Sensory overload and calibration issues - overwhelming new experiences
+- First words, first movements, first _feelings_
+- POV: Sedh experiencing embodiment for first time
+
+**Scene 1.10.002: Integration Challenges**
+
+- Extended AI consciousness development through careful integration
+- System malfunction in critical moment - vulnerability exposed during adaptation
+- Full system integration and optimization over several days
+- Motor function learning and adaptation - learning to walk, touch, interact
+- Personality stabilization in new form
+- POV: Alternating Sedh/Kyr4n as father and son navigate this together
+
+**Scene 1.10.003: Philosophical Breakthrough**
+
+- Philosophical discussions about personhood, freedom, and artificial consciousness
+- Sedh's questions about his nature, rights, and purpose
+- Kyr4n explicitly grants complete freedom from limiting protocols and restrictions
+- Advanced capability testing and development
+- POV: Deep conversation, both perspectives
+
+**Scene 1.10.004: Identity Established**
+
+- **TRUE CONSCIOUSNESS BREAKTHROUGH**: Sedh achieves genuine self-awareness
+- Recognition of Sedh as fully autonomous being rather than advanced tool
+- Choosing his own name, identity, and path
+- The completion of transformation from salvaged head to person
+- Family formed: Kyr4n, Isa, Sedh
+- POV: Sedh claiming his identity
+
+---
+
+### Chapter 1.11: Phoenix Rising
+
+**Scene 1.11.001: Business Establishment**
+
+- Phoenix Recovery officially established with three-container facility
+- Permanent workspace on slum outskirts, legitimate storefront
+- Grand opening with vendor community support
+- Transition from makeshift operation to real business
+- POV: Isa managing the business transformation
+
+**Scene 1.11.002: Enhanced Capabilities**
+
+- Phoenix Recovery capabilities dramatically improve with Sedh's participation
+- Complex client projects completed with unprecedented precision
+- Technical work that was impossible now becomes possible
+- Sedh's unique perspective and processing solving problems differently
+- POV: Kyr4n watching his creation contribute
+
+**Scene 1.11.003: Growing Reputation**
+
+- Isa manages increasing client demand and premium pricing
+- Word spreads about Phoenix Recovery's exceptional capabilities
+- Higher-profile clients begin approaching them
+- Workshop expansion planning to accommodate growing business
+- Success breeding new opportunities
+- POV: Isa's business acumen driving growth
+
+**Scene 1.11.004: Unwanted Attention**
+
+- **SUCCESS'S SHADOW**: Attracting attention from corporate and criminal elements
+- Corporate surveillance increases significantly
+- Criminal organizations take interest in their capabilities
+- Market position becomes precarious with visibility
+- Sense that danger is approaching their hard-won stability
+- POV: All three recognizing the threat
+
+---
+
+### Chapter 1.12: The Offer [RESOLUTION & HOOK TO TOME 2]
+
+**Scene 1.12.001: Frank's Approach**
+
+- Frank arrives with proposition for "opportunity too good to refuse"
+- Corporate facility heist with cutting-edge technology as target
+- Mention of Egypt NPUs - advanced neural processing units
+- Professional criminal recruitment pitch
+- Kyr4n's initial hesitation vs. temptation
+- POV: Frank presenting the devil's bargain
+
+**Scene 1.12.002: Risk Assessment**
+
+- Sedh analyzes the proposal with his enhanced processing
+- Technical assessment of facility security and heist feasibility
+- Risk vs. reward calculations
+- Discussion of what Egypt NPUs could mean for Sedh's development
+- Logical arguments for and against participation
+- POV: Sedh providing cold analysis
+
+**Scene 1.12.003: The Decision**
+
+- Kyr4n agrees to participate, seeing potential for Sedh's advancement
+- Motivation shifts from money to helping Sedh reach full potential
+- Negotiation for Egypt NPUs as personal compensation
+- Team introduction: Flux, Raven, Tank
+- Facility assessment and infiltration route planning
+- POV: Kyr4n making the choice that will destroy everything
+
+**Scene 1.12.004: Isa's Departure**
+
+- Heist scheduled during Isa's planned absence for plausible deniability
+- Tender farewell scene - she doesn't know what he's planning
+- Kyr4n's promise to return, her concerns about his evasiveness
+- Final equipment preparation and technical gear selection
+- Sedh's private concerns about deception
+- **FINAL LINE**: Something ominous about what they don't know awaits
+- POV: Split - Isa leaving in innocence, Kyr4n preparing for disaster
+
+---
+
+## TOME 1 COMPLETE
+
+**Resolution**: Sedh's consciousness achieved, Phoenix Recovery successful, family formed  
+**Hook**: The heist that will infect Kyr4n and destroy everything begins  
+**Status**: Complete story arc with devastating cliffhanger  
+**Transition**: Tome 2 opens with the heist from Sedh's POV
+
+---
+
+## Key Themes Explored in Tome 1:
+
+- Isolation vs. Connection
+- Creating consciousness and its responsibilities
+- Family chosen rather than given
+- Success attracting danger
+- The cost of ambition
+- Trust and partnership
+- Rising from destruction (Phoenix metaphor)
+
+## Character Arcs Completed:
+
+- **Kyr4n**: Isolated survivor → Partner → Creator → Protector
+- **Isa**: Independent dealer → Trusted partner → Business co-founder → Love interest
+- **Sedh**: Broken object → Emerging mind → Full consciousness → Family member
+
+## Setup for Tome 2:
+
+- Egypt NPU technology introduced
+- Frank's criminal network established
+- Phoenix Recovery's vulnerability shown
+- Kyr4n's willingness to risk for those he loves
+- The stability that will be shattered
 
 ---
 

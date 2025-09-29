@@ -1,5 +1,5 @@
 ---
-title: Mark - Character Sheet
+title: Marcus - Character Sheet
 tags:
   - Novel
   - Kyr4n
@@ -14,7 +14,7 @@ type: Character Sheet
 
 ### Basic Information
 
-- **Full Name:** Mark Chen
+- **Full Name:** Marcus Chen
 - **Aliases/Nicknames:** "Chief" (professional), "Tank" (old military buddies)
 - **Age:** 48
 - **Gender:** Male

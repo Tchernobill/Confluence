@@ -33,7 +33,7 @@ type: Timeline
 - **Context**: Born into post-collapse cyberpunk dystopia
 - **Related Events**: 
   - [[World Events Timeline#^2086-slum-formation]]
-- **References**: [[Characters/Vyr4n#Background]]
+- **References**: [[Characters/Mains/Vyr4n#Background]]
 
 ### **2086-2102 (Ages 0-16)** - Childhood ^childhood-era
 - **Event**: Raised by mother in underground maintenance tunnels
@@ -42,7 +42,7 @@ type: Timeline
 - **Personality Formation**: Learns to hide vulnerabilities, values independence
 - **Related Events**: 
   - [[Technology Timeline#^underground-tech-culture]]
-- **References**: [[Characters/Vyr4n#Upbringing]]
+- **References**: [[Characters/Mains/Vyr4n#Upbringing]]
 
 ### **2102 (Age 16)** - The Loss ^mothers-death-2102
 - **Event**: Mother dies from industrial poisoning in [[Lore/The Midnight Protocol#Champlain Wastes]]
@@ -52,7 +52,7 @@ type: Timeline
 - **Emotional Impact**: Foundation of trust issues and protective instincts
 - **Related Events**: 
   - [[World Events Timeline#^2102-industrial-accidents]]
-- **References**: [[Characters/Vyr4n#Defining Moments]], [[Key scenes/01.01 - The Memory Garden]]
+- **References**: [[Characters/Mains/Vyr4n#Defining Moments]], [[Key scenes/01.01 - The Memory Garden]]
 
 ---
 
@@ -69,9 +69,9 @@ type: Timeline
 - **References**: [[Chapters/Chapter 01.01]], [[Key scenes/01.01 - Waking-up]]
 
 ### **2103 (Age 17)** - First Contact ^first-contact-2103
-- **Event**: Meets [[Characters/Isa]] during [[Underground Tech Market]] transaction
+- **Event**: Meets [[Isa]] during [[Underground Tech Market]] transaction
 - **Location**: [[Underground Tech Market]]
-- **Characters**: [[Vyr4n]], [[Isa]]
+- **Characters**: [[Characters/Mains/Vyr4n]], [[Isa]]
 - **Transaction**: High-precision data recovery job establishes professional respect
 - **Skills Displayed**: Precision repair capabilities, mysterious workshop access
 - **Reputation**: "The Artisan" legend begins growing
@@ -82,7 +82,7 @@ type: Timeline
 ### **2103 (Age 17)** - The Riot Shelter ^riot-shelter-2103
 - **Event**: [[South Shore Slum]] riots force Isa to seek shelter
 - **Location**: [[Lore/Vyr4n's Utility Room Hideout]]
-- **Characters**: [[Vyr4n]], [[Isa]]
+- **Characters**: [[Characters/Mains/Vyr4n]], [[Isa]]
 - **Significance**: First human intimacy and emotional connection
 - **Relationship**: Foundation of romantic partnership with Isa
 - **Personal Growth**: Learns trust and physical intimacy
@@ -94,7 +94,7 @@ type: Timeline
 ### **2104 (Age 18)** - The Enforcer Incident ^enforcer-incident-2104
 - **Event**: Confrontation with corporate enforcer in market
 - **Location**: [[Underground Tech Market]]
-- **Characters**: [[Vyr4n]], [[Isa]], Corporate Enforcer
+- **Characters**: [[Characters/Mains/Vyr4n]], [[Isa]], Corporate Enforcer
 - **Skills Displayed**: Combat precision, technical problem-solving approach to violence
 - **Weapons**: First use of concealed [[Equipment#PitBull MKIII]]
 - **Reputation**: Demonstrates hidden depths beyond technical skills
@@ -103,7 +103,7 @@ type: Timeline
 - **References**: [[Key scenes/01.01 - The Enforcer Incident]]
 
 ### **2105 (Age 19)** - Sedh Discovery ^Sedh-discovery-2105
-- **Event**: Discovers damaged [[Characters/Sedh]] head unit in scrapyard
+- **Event**: Discovers damaged [[Characters/Mains/Sedh]] head unit in scrapyard
 - **Location**: [[South Shore Slum]] scrap zones
 - **Technology**: Assistant Droid Unit ASX-7734, salvageable core system
 - **Significance**: Beginning of AI consciousness development project
@@ -111,10 +111,10 @@ type: Timeline
 - **Related Events**: 
   - [[Technology Timeline#^2105-ai-salvage]]
   - [[Sedh Timeline#^2105-discovery]]
-- **References**: [[Characters/Sedh#Background]], [[Timeline alpha#Arc 1]]
+- **References**: [[Characters/Mains/Sedh#Background]], [[Timeline alpha#Arc 1]]
 
 ### **2106 (Age 20)** - Digital Awakening ^digital-awakening-2106
-- **Event**: Successfully establishes communication with [[Characters/Sedh]]
+- **Event**: Successfully establishes communication with [[Characters/Mains/Sedh]]
 - **Location**: Maintenance tunnel workshop
 - **Technology**: Decrypts droid core protocols, enables basic AI interaction
 - **Breakthrough**: First meaningful non-human relationship
@@ -125,7 +125,7 @@ type: Timeline
 - **References**: [[Key scenes/01.06 - Sedh's question]]
 
 ### **2107 (Age 21)** - Rebirth Protocol ^Sedh-embodiment-2107
-- **Event**: Completes new body for [[Characters/Sedh]]
+- **Event**: Completes new body for [[Characters/Mains/Sedh]]
 - **Location**: Expanded maintenance tunnel workshop
 - **Technology**: Custom android body construction, neural integration
 - **Breakthrough**: Grants Sedh free will by removing limiting protocols
@@ -134,12 +134,12 @@ type: Timeline
 - **Related Events**: 
   - [[Technology Timeline#^2107-android-construction]]
   - [[Sedh Timeline#^2107-embodiment]]
-- **References**: [[Characters/Sedh#Awakening]]
+- **References**: [[Characters/Mains/Sedh#Awakening]]
 
 ### **2108 (Age 22)** - Phoenix Rising ^phoenix-recovery-2108
 - **Event**: Establishes [[Phoenix Recovery Business]] as legitimate operation
 - **Location**: [[South Shore Slum]] business district
-- **Partners**: [[Isa]], [[Characters/Sedh]]
+- **Partners**: [[Isa]], [[Characters/Mains/Sedh]]
 - **Business Model**: Implant salvage, restoration, and custom modification
 - **Achievement**: First financial security and stable relationships
 - **Status**: Respected underground craftsman with growing reputation
@@ -155,8 +155,8 @@ type: Timeline
 ### **2108 (Age 22)** - The Proposition ^heist-proposition-2108
 - **Event**: Frank recruits Vyr4n for corporate research facility heist
 - **Location**: [[Phoenix Recovery Business]]
-- **Characters**: [[Vyr4n]], Frank (contractor team leader)
-- **Target**: Prototype Neural Processing Unit "Egypt" for [[Characters/Sedh]]
+- **Characters**: [[Characters/Mains/Vyr4n]], Frank (contractor team leader)
+- **Target**: Prototype Neural Processing Unit "Egypt" for [[Characters/Mains/Sedh]]
 - **Motivation**: Advance Sedh's consciousness beyond current limitations
 - **Stakes**: High-risk operation for transformative technology
 - **Related Events**: 
@@ -176,32 +176,32 @@ type: Timeline
 - **References**: [[Lore/The Midnight Protocol]], [[Arc 02#Midpoint]]
 
 ### **2109-2110 (Age 23-24)** - Deterioration ^virus-symptoms-2109
-- **Event**: Progressive virus symptoms emerge as [[Characters/Sedh]] receives NPU upgrade
+- **Event**: Progressive virus symptoms emerge as [[Characters/Mains/Sedh]] receives NPU upgrade
 - **Location**: [[Phoenix Recovery Business]] workshop
 - **Symptoms**: Invasive dreams, paranoid thoughts, motor control loss
-- **Technology**: [[Characters/Sedh]] achieves true consciousness via Egypt NPU
-- **Medical**: Acquire [[Characters/Mira]] medical droid for diagnosis
+- **Technology**: [[Characters/Mains/Sedh]] achieves true consciousness via Egypt NPU
+- **Medical**: Acquire [[Mira]] medical droid for diagnosis
 - **Discovery**: Unknown pathogen affecting brain neural patterns
 - **Related Events**: 
   - [[Technology Timeline#^2109-npu-integration]]
   - [[Sedh Timeline#^2109-consciousness-upgrade]]
   - [[Mira Timeline#^2109-activation]]
-- **References**: [[Characters/Sedh#Egypt NPU]], [[Arc 02#Chapter 11]]
+- **References**: [[Characters/Mains/Sedh#Egypt NPU]], [[Arc 02#Chapter 11]]
 
 ### **2112 (Age 26)** - Breaking Point ^breaking-point-2112
 - **Event**: Violent psychotic episode forces restraint and artificial coma
 - **Location**: [[Phoenix Recovery Business]] medical area
-- **Episode**: Threatens [[Isa]], [[Characters/Sedh]], [[Characters/Mira]] with plasma blaster
+- **Episode**: Threatens [[Isa]], [[Characters/Mains/Sedh]], [[Mira]] with plasma blaster
 - **Intervention**: Sedh and Mira physically restrain, place in medical coma
 - **Discovery**: Virus creates encrypted communication network in brain
 - **Nightmare**: Trapped in endless psychological torture scenarios
 - **Related Events**: 
   - [[Enhancement Timeline#^2112-virus-control]]
   - [[Relationship Timeline#^2112-forced-separation]]
-- **References**: [[Arc 02#Climax]], [[Characters/Vyr4n#Defining Moments]]
+- **References**: [[Arc 02#Climax]], [[Characters/Mains/Vyr4n#Defining Moments]]
 
 ### **2113 (Age 27)** - The Signal ^virus-analysis-2113
-- **Event**: [[Characters/Sedh]] and [[Characters/Mira]] crack virus communication protocol
+- **Event**: [[Characters/Mains/Sedh]] and [[Mira]] crack virus communication protocol
 - **Location**: [[Phoenix Recovery Business]] medical facility
 - **Breakthrough**: Decrypt nanobotic network, understand virus architecture
 - **Technology**: Map neural infiltration and control mechanisms
@@ -223,7 +223,7 @@ type: Timeline
 - **Related Events**: 
   - [[Enhancement Timeline#^2115-ability-emergence]]
   - [[Relationship Timeline#^2115-traumatic-separation]]
-- **References**: [[Arc 02#Resolution]], [[Characters/Isa#Notable Relationships]]
+- **References**: [[Arc 02#Resolution]], [[Isa#Notable Relationships]]
 
 ---
 
@@ -238,7 +238,7 @@ type: Timeline
 - **Isolation**: Maintains emotional distance from humans
 - **Related Events**: 
   - [[Enhancement Timeline#^2115-control-development]]
-- **References**: [[Characters/Vyr4n#Virus Mastery]]
+- **References**: [[Characters/Mains/Vyr4n#Virus Mastery]]
 
 ### **2119 (Age 33)** - The Vasquez Takeover ^Vasquez-takeover-2119
 - **Event**: Confrontation with Rico "The Grip" Vasquez leads to syndicate takeover
@@ -253,7 +253,7 @@ type: Timeline
 - **References**: [[Key scenes/04.01 - The Vasquez Takeover]]
 
 ### **2121 (Age 35)** - The Lieutenant ^marcus-recruitment-2121
-- **Event**: [[Characters/Marcus]] becomes primary lieutenant and inner circle member
+- **Event**: [[Marcus]] becomes primary lieutenant and inner circle member
 - **Location**: Former Vasquez territory
 - **Organization**: Establishes protection-based governance system
 - **Leadership**: Demonstrates administrative capabilities enhanced by virus
@@ -261,7 +261,7 @@ type: Timeline
 - **Reputation**: Known as effective but mysterious leader
 - **Related Events**: 
   - [[Power Timeline#^2121-organization-building]]
-- **References**: [[Characters/Marcus]], [[Timeline alpha#Arc 3]]
+- **References**: [[Marcus]], [[Timeline alpha#Arc 3]]
 
 ### **2123 (Age 37)** - Syndicate Wars ^syndicate-wars-2123
 - **Event**: Conflicts with rival criminal organizations throughout slum
@@ -291,7 +291,7 @@ type: Timeline
 ## Arc 04: The Leader (2125-2140)
 
 ### **2128 (Age 42)** - The Inner Circle ^inner-circle-2128
-- **Event**: Recruits [[Characters/Helene]], [[Characters/Zara]], [[Characters/Kaia]] to core leadership
+- **Event**: Recruits [[Helene]], [[Zara]], [[Kaia]] to core leadership
 - **Location**: Corporate district territories
 - **Team**: Medical (Helene), Security (Zara), Intelligence (Kaia)
 - **Expansion**: Operations become sophisticated multi-territorial enterprise
@@ -300,7 +300,7 @@ type: Timeline
 - **Related Events**: 
   - [[Relationship Timeline#^2128-inner-circle-formation]]
   - [[Power Timeline#^2128-professional-expansion]]
-- **References**: [[Characters/Helene]], [[Characters/Zara]], [[Characters/Kaia]]
+- **References**: [[Helene]], [[Zara]], [[Kaia]]
 
 ### **2131 (Age 45)** - Corporate Negotiations ^corporate-negotiations-2131
 - **Event**: Establishes working relationships with legitimate corporate entities
@@ -326,7 +326,7 @@ type: Timeline
 - **References**: [[Arc 04#Chapter 4.04]]
 
 ### **2137 (Age 51)** - Isa's Return ^isa-return-2137
-- **Event**: [[Characters/Isa]] resurfaces, confronts his authoritarian methods
+- **Event**: [[Isa]] resurfaces, confronts his authoritarian methods
 - **Location**: [[Phoenix Recovery]] facility investigation
 - **Confrontation**: Isa questions the gap between his protective intentions and controlling methods
 - **Revelation**: Forced to examine cost of his rule on human autonomy
@@ -377,7 +377,7 @@ type: Timeline
 - **References**: [[Arc 05#Chapter 5.03]]
 
 ### **2149 (Age 63)** - Mirror, Mirror ^isa-mirror-2149
-- **Event**: [[Characters/Isa]] returns to confront him about becoming the monster he fought
+- **Event**: [[Isa]] returns to confront him about becoming the monster he fought
 - **Location**: His primary compound
 - **Confrontation**: Isa forces him to see that his war against oppression has trapped him in endless violence
 - **Revelation**: His methods create cycles of violence rather than breaking them
@@ -465,7 +465,7 @@ type: Timeline
 - **Location**: Memorial garden built on site of mother's death
 - **Achievement**: Created sustainable, free communities using advanced technology
 - **Completion**: Environmental restoration projects making poisoned lands fertile again
-- **Family**: Deep relationships with [[Characters/Isa]], [[Characters/Sedh]], chosen family
+- **Family**: Deep relationships with [[Isa]], [[Characters/Mains/Sedh]], chosen family
 - **Death**: Peaceful end with virus finally allowing natural rest
 - **Related Events**: 
   - [[Relationship Timeline#^2165-peaceful-endings]]
@@ -521,9 +521,9 @@ type: Timeline
 ---
 
 ## Links
-- [[Characters/Vyr4n]]
-- [[Characters/Isa]]
-- [[Characters/Sedh]]
+- [[Characters/Mains/Vyr4n]]
+- [[Isa]]
+- [[Characters/Mains/Sedh]]
 - [[Arc 01]]
 - [[Arc 02]]
 - [[Arc 03]]
