@@ -1,0 +1,24 @@
+# Ignore a specific file
+config.local.js
+
+# Ignore all files with an extension
+*.log
+*.tmp
+
+# Ignore a folder
+_misc/
+_Story_Old/
+.obsidian/
+.vscode/
+Archives/
+AWS ChapterVault/
+Nexus/
+Nexus_attachments
+Templates/
+
+
+# Ignore files in any directory
+**/temp/
+
+# Ignore files only in root
+/debug.log

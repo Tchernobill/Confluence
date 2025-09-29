@@ -19,7 +19,7 @@ type: Character Sheet
 - **Core Motivation:** Building something meaningful beyond mere survival, creating the family she never had
 - **Defining Traits:** Emotionally intelligent, pragmatically optimistic, quietly confident
 - **Distinctive Feature:** Hazel eyes with gold flecks that become prominent when excited
-- **Signature Phrase/Speech Pattern:** Speaks soft, warm and velvety when alone with Vyr4n; often asks clarifying questions to ensure understanding
+- **Signature Phrase/Speech Pattern:** Speaks soft, warm and velvety when alone with Kyr4n; often asks clarifying questions to ensure understanding
 
 ---
 
@@ -51,7 +51,7 @@ type: Character Sheet
 - **Personality Type/Temperament:** Emotionally intelligent, easy going, socially adaptable
 - **Core Beliefs/Values:** Practical humanism, believes in earned loyalty and second chances
 - **Greatest Fear:** Deep fear of abandonment, fear of deep commitment
-- **Greatest Desire:** Doing more than surviving, building Phoenix Recovery into legitimate tech empire, helping Vyr4n overcome his emotional barriers
+- **Greatest Desire:** Doing more than surviving, building Phoenix Recovery into legitimate tech empire, helping Kyr4n overcome his emotional barriers
 - **Strengths:** Reading people, building trust networks, crisis management, emotional resilience, business intuition
 - **Weaknesses:** Sometimes have self-esteem issues, can be overly protective
 - **Coping Mechanisms:** 
@@ -107,7 +107,7 @@ type: Character Sheet
 ---
 
 ## Relationships
-- **Vyr4n:** [Primary romantic relationship, emotional catalyst for his growth, business partner]
+- **Kyr4n:** [Primary romantic relationship, emotional catalyst for his growth, business partner]
 - **Phoenix Recovery Team:** [Professional and personal connections through legitimate business]
 - **Underground Dealers Network:** [Former professional network from illegal implant dealing]
 - **Groups/Organizations:** Independent Dealers Network → Phoenix Recovery Partnership → Slum Merchants Guild
@@ -119,7 +119,7 @@ type: Character Sheet
 
 ## Story Integration - Arc
 - **Starting Point:** Underground implant dealer surviving in slum economy
-- **Inciting Incident:** Meeting Vyr4n and beginning business partnership
+- **Inciting Incident:** Meeting Kyr4n and beginning business partnership
 - **Character Arc:** 
   - Act 1: Underground dealer focused on survival
   - Act 2: Building legitimate business and romantic relationship
@@ -146,11 +146,11 @@ type: Character Sheet
 - **Constants:** Emotional intelligence, loyalty to chosen family, practical optimism
 - **Physical Changes:** 
 - **Psychological State:** Growing confidence in legitimate business world
-- **Key Relationships:** Vyr4n (romantic and business partner)
-- **Major Events:** Meeting Vyr4n, establishing Phoenix Recovery
+- **Key Relationships:** Kyr4n (romantic and business partner)
+- **Major Events:** Meeting Kyr4n, establishing Phoenix Recovery
 - **Core Conflict:** Balancing underground survival skills with legitimate business practices
 - **Skills/Knowledge:** Learning new social codes and expectations, adapting underground skills for legal contexts
-- **Sample Dialogue:** "[Soft, warm and velvety when alone with Vyr4n]"
+- **Sample Dialogue:** "[Soft, warm and velvety when alone with Kyr4n]"
 
 ### Arc 2 Summary
 - **Overall Journey:** 

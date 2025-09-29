@@ -1,4 +1,4 @@
-# Vyr4n's Magic Box (V' Magic) - Expanded Concept
+# Kyr4n's Magic Box (V' Magic) - Expanded Concept
 
 ## Physical Description
 
@@ -12,19 +12,19 @@ Despite their crude appearance—visible wiring, exposed hydraulics, housings ma
 
 ## Neural Interface Connection
 
-Vyr4n's wrist-mounted neural interfaces are his own creation—surgical-grade implants that appear as small, flat discs on the inside of each wrist. When activated, retractable fiber-optic cables extend from ports in the device's control panel, connecting via magnetic coupling to his neural ports.
+Kyr4n's wrist-mounted neural interfaces are his own creation—surgical-grade implants that appear as small, flat discs on the inside of each wrist. When activated, retractable fiber-optic cables extend from ports in the device's control panel, connecting via magnetic coupling to his neural ports.
 
-The interface translates his thoughts into machine commands with remarkable responsiveness. Through carefully programmed feedback systems, Vyr4n experiences a form of extended proprioception—he can "feel" the arms' positions, sense resistance when manipulating materials, and perceive the workspace through the machine's sensor arrays as if they were extensions of his own nervous system.
+The interface translates his thoughts into machine commands with remarkable responsiveness. Through carefully programmed feedback systems, Kyr4n experiences a form of extended proprioception—he can "feel" the arms' positions, sense resistance when manipulating materials, and perceive the workspace through the machine's sensor arrays as if they were extensions of his own nervous system.
 
 The connection requires intense concentration and leaves him partially vulnerable, his attention split between his physical body and the machine's operations. Extended sessions often leave him mentally exhausted, a trade-off he accepts for the unprecedented precision the device enables.
 
 ## Base Systems & Computer Core
 
-The lower section of V' Magic houses a sophisticated computer system built entirely from salvaged and modified components. The main processing unit combines three different processors—a graphics chip for real-time spatial calculations, a signal processor for sensor data analysis, and a control processor for arm coordination—all overclocked and liquid-cooled with a system Vyr4n fabricated from old refrigeration components.
+The lower section of V' Magic houses a sophisticated computer system built entirely from salvaged and modified components. The main processing unit combines three different processors—a graphics chip for real-time spatial calculations, a signal processor for sensor data analysis, and a control processor for arm coordination—all overclocked and liquid-cooled with a system Kyr4n fabricated from old refrigeration components.
 
 Memory banks constructed from dozens of smaller storage units provide both working memory for complex calculations and extensive databases of material properties, molecular structures, and repair procedures. The cooling system's quiet hum masks the whir of multiple cooling fans and the subtle clicks of mechanical relays.
 
-Analysis systems include a spectral analyzer built from salvaged sensor arrays, electromagnetic field mappers using modified radio components, and precision measurement tools calibrated against known standards Vyr4n painstakingly established through months of testing.
+Analysis systems include a spectral analyzer built from salvaged sensor arrays, electromagnetic field mappers using modified radio components, and precision measurement tools calibrated against known standards Kyr4n painstakingly established through months of testing.
 
 ## Material Cartridge System
 
@@ -100,15 +100,15 @@ Each cartridge feeds material through precisely controlled dispensing mechanisms
 
 ## Personal Significance & Craftsmanship
 
-V' Magic represents the pinnacle of what can be achieved with determination, skill, and scavenged resources. Every component was carefully selected, modified, and integrated through months of patient work. The device embodies Vyr4n's philosophy that anything can be fixed or improved with sufficient understanding and effort.
+V' Magic represents the pinnacle of what can be achieved with determination, skill, and scavenged resources. Every component was carefully selected, modified, and integrated through months of patient work. The device embodies Kyr4n's philosophy that anything can be fixed or improved with sufficient understanding and effort.
 
-The machine's crude exterior conceals unprecedented capability, much like Vyr4n himself—unassuming appearance hiding exceptional skill. Building it required not just technical knowledge but the ability to see potential in broken and discarded components, transforming trash into treasure through pure engineering artistry.
+The machine's crude exterior conceals unprecedented capability, much like Kyr4n himself—unassuming appearance hiding exceptional skill. Building it required not just technical knowledge but the ability to see potential in broken and discarded components, transforming trash into treasure through pure engineering artistry.
 
-Each successful repair performed with V' Magic validates Vyr4n's belief in the value of broken things and the possibility of restoration. The device is simultaneously his greatest achievement and his most treasured tool—a mechanical extension of his desire to fix what others have given up on.
+Each successful repair performed with V' Magic validates Kyr4n's belief in the value of broken things and the possibility of restoration. The device is simultaneously his greatest achievement and his most treasured tool—a mechanical extension of his desire to fix what others have given up on.
 
 ## Operational Philosophy
 
-V' Magic embodies Vyr4n's core belief: "Once I know how it works, it can be fixed." The device doesn't just repair—it understands. Through its sensors and his careful analysis, they can reverse-engineer any technology, decode any encryption, rebuild any damaged system from first principles.
+V' Magic embodies Kyr4n's core belief: "Once I know how it works, it can be fixed." The device doesn't just repair—it understands. Through its sensors and his careful analysis, they can reverse-engineer any technology, decode any encryption, rebuild any damaged system from first principles.
 
 The machine's limitations force creative solutions—working within electromagnetic spectrum ranges, achieving impossible precision through mechanical ingenuity rather than exotic technology, and maintaining sterile conditions through careful engineering rather than advanced materials. These constraints drive innovation and demonstrate that excellence comes from understanding fundamentals, not just having the best tools.
 
@@ -116,20 +116,20 @@ The machine's limitations force creative solutions—working within electromagne
 
 In the story, V' Magic serves multiple purposes:
 
-- **Technical Achievement**: Demonstrates Vyr4n's exceptional engineering skills without supernatural elements
+- **Technical Achievement**: Demonstrates Kyr4n's exceptional engineering skills without supernatural elements
 - **Character Development**: Shows his ability to create beauty and precision from discarded materials
 - **Plot Device**: Enables "impossible" repairs that build his reputation and drive story events
 - **Relationship Catalyst**: Isa's component upgrades become expressions of trust and partnership
 - **Growth Symbol**: Each enhancement reflects both technological progress and deepening relationships
 
-The device is unique in the slums—not because such technology is impossible, but because only someone with Vyr4n's specific combination of technical genius, patience, and access to diverse salvage sources could create something so advanced from discarded components.
+The device is unique in the slums—not because such technology is impossible, but because only someone with Kyr4n's specific combination of technical genius, patience, and access to diverse salvage sources could create something so advanced from discarded components.
 
 ## Technical Notes for Writing
 
 When describing V' Magic in scenes:
 
 - Emphasize the contrast between crude appearance and impossible precision
-- Use setup and connection rituals to show Vyr4n's methodical nature
+- Use setup and connection rituals to show Kyr4n's methodical nature
 - Let upgrade installations become moments of intimacy and trust with Isa
-- The device should feel like extension of Vyr4n's careful, precise personality
+- The device should feel like extension of Kyr4n's careful, precise personality
 - Its mechanical nature should ground fantastical repairs in believable engineering

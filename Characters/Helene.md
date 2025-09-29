@@ -3,7 +3,7 @@ title:
 <<<<<<< HEAD
 - Dr. Helene Tremblay - Character Profile (Reimagined) tags:
 - Novel
-- Vyr4n
+- Kyr4n
 - Characters
 - Inner Circle
 - Helene
@@ -30,19 +30,19 @@ type: Character Sheet
 ### Basic Information
 
 - **Full Name:** Dr. Helene Marie Tremblay
-- **Aliases/Nicknames:** "Doc" (by organization), "Helene" (by Vyr4n), "Eli" (intimate friends)
-- **Age:** 36 (born 2078, 8 years older than Vyr4n)
+- **Aliases/Nicknames:** "Doc" (by organization), "Helene" (by Kyr4n), "Eli" (intimate friends)
+- **Age:** 36 (born 2078, 8 years older than Kyr4n)
 - **Gender:** Female
 - **Pronouns:** She/Her
 - **Species/Race:** Human
 - **Ethnicity/Cultural Background:** French Canadian, fourth-generation Quebecois, former slum aristocracy family
 - **Nationality/Citizenship:** Neo-South Corporate Zone (descended from pre-Renewal Montreal elite)
 - **Birthplace:** South Shore Medical District (when it was still prosperous)
-- **Current Residence:** Executive quarters in Vyr4n's main compound
+- **Current Residence:** Executive quarters in Kyr4n's main compound
 - **Occupation:** Medical school dropout → Forced prostitute → Organization doctor → Chief Medical Officer
 - **Social Class/Status:** Former slum elite → Exploited asset → Respected professional → Inner circle leadership
 - **Alignment:** Lawful Good with pragmatic flexibility for family protection
-- **Affiliations/Factions:** Former Tremblay family interests → Rico's organization (coerced) → Vyr4n's organization (devoted member)
+- **Affiliations/Factions:** Former Tremblay family interests → Rico's organization (coerced) → Kyr4n's organization (devoted member)
 - **Languages Spoken:** French (native), Corporate Standard (fluent), Medical Latin, Street Cant (learned survival), basic Mandarin
 - **Religion/Beliefs:** Lapsed Catholic with strong humanitarian ethics, believes in healing and protecting those who cannot protect themselves
 
@@ -80,14 +80,14 @@ type: Character Sheet
     - Deep fear of powerlessness and being used by others
     - Trauma from forced prostitution and medical coercion
     - Anxiety about family secrets and past shame
-    - Fear of losing her found family (Vyr4n's organization)
+    - Fear of losing her found family (Kyr4n's organization)
 <<<<<<< HEAD
 =======
 
 >>>>>>> origin/main
 - **Goals & Aspirations:**
     - Provide exceptional medical care and protect those under her charge
-    - Understand the mystery of Vyr4n's enhanced physiology
+    - Understand the mystery of Kyr4n's enhanced physiology
     - Build a family environment within the organization
     - Complete her medical education through practical experience
 <<<<<<< HEAD
@@ -99,7 +99,7 @@ type: Character Sheet
 >>>>>>> origin/main
 - **Quirks & Habits:**
     - Unconsciously speaks French when stressed or emotional
-    - Always checks Vyr4n's vitals during casual contact
+    - Always checks Kyr4n's vitals during casual contact
     - Maintains perfect posture even in relaxed settings
     - Hums old French lullabies while working
     - Touches people's foreheads to check for fever out of habit
@@ -116,7 +116,7 @@ type: Character Sheet
 - **Moral Philosophy:** Healing is sacred, family (chosen or blood) comes first, dignity must be preserved even in the darkest circumstances, everyone deserves compassionate care regardless of their past
 - **How They View Authority/Society:** Authority should serve to protect and heal; society failed her family but she can create better family; power should nurture rather than exploit
 - **Greatest Regret:** Not completing medical school and not being able to save her family from their downfall
-- **Greatest Joy:** Seeing Vyr4n healthy and safe, successful medical procedures that save lives, moments when the organization feels like a real family
+- **Greatest Joy:** Seeing Kyr4n healthy and safe, successful medical procedures that save lives, moments when the organization feels like a real family
 =======
 
 - **Moral Philosophy:** Healing is sacred, family (chosen or blood) comes first, dignity must be preserved even in the darkest circumstances, everyone deserves compassionate care regardless of their past
@@ -125,7 +125,7 @@ type: Character Sheet
 
 - **Greatest Regret:** Not completing medical school and not being able to save her family from their downfall
 
-- **Greatest Joy:** Seeing Vyr4n healthy and safe, successful medical procedures that save lives, moments when the organization feels like a real family
+- **Greatest Joy:** Seeing Kyr4n healthy and safe, successful medical procedures that save lives, moments when the organization feels like a real family
 
 >>>>>>> origin/main
 - **Sexual preferences:** Heterosexual but trauma has complicated her relationship with physical intimacy; drawn to competence and protective strength but requires deep emotional trust
@@ -203,7 +203,7 @@ type: Character Sheet
 - **Personal Items of Importance:**
     - Mother's rosary and prayer book (family heirloom)
     - Incomplete medical degree certificates (reminder of goals)
-    - Photo of Vyr4n and organization members (her chosen family)
+    - Photo of Kyr4n and organization members (her chosen family)
     - French cookbook with family recipes
 <<<<<<< HEAD
 =======
@@ -230,13 +230,13 @@ type: Character Sheet
     - Father: Dr. Philippe Tremblay (deceased, former prominent slum doctor)
     - Mother: Marie-Claire Tremblay (deceased, former socialite and community leader)
     - Brother: Jean-Luc Tremblay (estranged, rumored to work for corporate interests)
-    - Considers Vyr4n her chosen little brother/surrogate son despite attraction
+    - Considers Kyr4n her chosen little brother/surrogate son despite attraction
 <<<<<<< HEAD
 =======
 
 >>>>>>> origin/main
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):**
-    - **Vyr4n**: Complex blend of maternal care, sisterly affection, professional fascination, and suppressed romantic attraction
+    - **Kyr4n**: Complex blend of maternal care, sisterly affection, professional fascination, and suppressed romantic attraction
     - **Marcus**: Professional respect and shared protective instincts
     - **Rico (former)**: Traumatic exploitation relationship that shaped her protective instincts
     - **Former medical school colleagues**: Complicated relationships due to her incomplete education and current circumstances
@@ -267,16 +267,16 @@ type: Character Sheet
     - Undisclosed family scandal that forced her withdrawal from legitimate society
     - Coercion into prostitution to pay family debts
     - Promotion to organization doctor due to medical background
-    - First meeting with Vyr4n and recognition of his protective nature
+    - First meeting with Kyr4n and recognition of his protective nature
     - Decision to become his informal family support system
 <<<<<<< HEAD
 =======
 
 >>>>>>> origin/main
 - **Defining Moment(s):**
-    - Watching Vyr4n's genuine concern for the injured prostitute during Rico's takeover
+    - Watching Kyr4n's genuine concern for the injured prostitute during Rico's takeover
     - First time she was able to provide medical care with dignity rather than exploitation
-    - Moment she realized Vyr4n's body showed signs of enhancement he wasn't revealing
+    - Moment she realized Kyr4n's body showed signs of enhancement he wasn't revealing
     - Decision to become protective maternal figure despite her own trauma
 <<<<<<< HEAD
 =======
@@ -294,7 +294,7 @@ type: Character Sheet
     - Former family associates who abandoned her during scandal
     - Those who knew her during prostitution period and might expose her past
     - Medical establishment that might question her credentials
-    - Anyone who threatens Vyr4n or her organizational family
+    - Anyone who threatens Kyr4n or her organizational family
 <<<<<<< HEAD
 =======
 
@@ -302,7 +302,7 @@ type: Character Sheet
 - **Current Status & Recent Activities:**
     - Chief Medical Officer managing comprehensive medical operations
     - Unofficial family matriarch providing emotional support and guidance
-    - Conducting discrete medical analysis of Vyr4n's enhanced physiology
+    - Conducting discrete medical analysis of Kyr4n's enhanced physiology
     - Building medical infrastructure that serves the organization and community
 
 ### World Interaction & Themes
@@ -337,7 +337,7 @@ type: Character Sheet
 >>>>>>> origin/main
 - **Potential Character Arcs:**
     - Completing her medical education through practical experience and mentorship
-    - Developing deeper understanding of Vyr4n's enhanced nature
+    - Developing deeper understanding of Kyr4n's enhanced nature
     - Navigating complex feelings between maternal care and romantic attraction
     - Building medical infrastructure that serves both organization and broader community
     - Confronting past trauma and family secrets for complete healing
@@ -346,10 +346,10 @@ type: Character Sheet
 
 >>>>>>> origin/main
 - **Conflicts They Face (Internal & External):**
-    - **Internal**: Maternal vs. romantic feelings for Vyr4n, trauma responses vs. professional duties, aristocratic upbringing vs. current reality
+    - **Internal**: Maternal vs. romantic feelings for Kyr4n, trauma responses vs. professional duties, aristocratic upbringing vs. current reality
     - **External**: Threats to her organizational family, medical crises requiring incomplete training, potential exposure of past circumstances
 
-### Relationship with Vyr4n - Complex Dynamic
+### Relationship with Kyr4n - Complex Dynamic
 
 **Maternal Aspects:**
 
@@ -415,7 +415,7 @@ type: Character Sheet
 
 ## Links
 
-- [[Vyr4n Character Development]]
+- [[Kyr4n Character Development]]
 - [[Inner Circle Character Dynamics]]
 - [[Found Family Relationships]]
 - [[Maternal Archetype in Cyberpunk]]

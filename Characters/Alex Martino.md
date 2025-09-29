@@ -4,7 +4,7 @@
 
 - **Full Name:** Alex Martino
 - **Aliases/Nicknames:** "Alex" (universal), "Boss" (subordinates), "Commander" (formal), "East" (old territory designation)
-- **Age:** 28 (born 2097, 11 years younger than Vyr4n)
+- **Age:** 28 (born 2097, 11 years younger than Kyr4n)
 - **Gender:** Non-binary (biologically female)
 - **Pronouns:** They/Them
 - **Species/Race:** Human
@@ -15,9 +15,9 @@
 - **Occupation:** Street enforcer → Squad leader → Territory commander → De facto organizational leader
 - **Social Class/Status:** Street muscle → Middle management → Regional authority → Acting supreme commander
 - **Alignment:** Lawful Neutral with authoritarian tendencies
-- **Affiliations/Factions:** Vyr4n's Organization (fanatical loyalty)
+- **Affiliations/Factions:** Kyr4n's Organization (fanatical loyalty)
 - **Languages Spoken:** Street Cant (native), Corporate Standard (tactical necessity), basic Mandarin and Spanish (family heritage)
-- **Religion/Beliefs:** Worship of Vyr4n as near-divine figure, believes in order through strength, loyalty above all else
+- **Religion/Beliefs:** Worship of Kyr4n as near-divine figure, believes in order through strength, loyalty above all else
 
 ### Appearance
 
@@ -28,7 +28,7 @@
 - **Eye Color:** Sharp dark brown eyes that miss nothing
 - **Distinguishing Features:** Angular facial features similar to Emma Hewitt, small scar through left eyebrow from early enforcer days, confident posture that commands attention
 - **Preferred Clothing Style:** Military-inspired tactical wear, dark colors, functional over fashionable, always armed
-- **Augmentations/Cybernetics:** Basic combat enhancement package (reflexes, tactical HUD, encrypted comms), nothing as sophisticated as Vyr4n's viral modifications
+- **Augmentations/Cybernetics:** Basic combat enhancement package (reflexes, tactical HUD, encrypted comms), nothing as sophisticated as Kyr4n's viral modifications
 
 ### Personality & Psychology
 
@@ -39,20 +39,20 @@
 - **Strengths:**
   - Exceptional tactical and strategic thinking
   - Natural leadership that inspires confidence through competence
-  - Absolute loyalty and dedication to Vyr4n's vision (as they interpret it)
+  - Absolute loyalty and dedication to Kyr4n's vision (as they interpret it)
   - Quick decision-making under pressure
   - Ability to see the bigger picture while managing details
   - Earned respect through consistent results
 - **Weaknesses:**
-  - Worship of Vyr4n can lead to misinterpreting his actual wishes
+  - Worship of Kyr4n can lead to misinterpreting his actual wishes
   - Tendency toward authoritarian solutions over collaborative ones
   - Difficulty relating to people who don't share their military mindset
   - Increasing emotional isolation due to command burden
   - May sacrifice humanitarian concerns for tactical advantage
-- **Fears:** Failing to live up to Vyr4n's example, losing organizational territory or people, being seen as weak or indecisive
-- **Motivations:** Preserving and expanding Vyr4n's legacy, protecting the organization at all costs, proving worthy of the leadership role
+- **Fears:** Failing to live up to Kyr4n's example, losing organizational territory or people, being seen as weak or indecisive
+- **Motivations:** Preserving and expanding Kyr4n's legacy, protecting the organization at all costs, proving worthy of the leadership role
 - **Quirks/Habits:** Always has multiple backup plans, constantly analyzes escape routes and tactical positions, rarely shows emotion in public
-- **Mental Health:** Generally stable but carries increasing stress from leadership burden and Vyr4n's absence
+- **Mental Health:** Generally stable but carries increasing stress from leadership burden and Kyr4n's absence
 
 ### Abilities & Powers
 
@@ -87,7 +87,7 @@
   - Encrypted communication implants
   - Enhanced pain tolerance and adrenaline regulation
 - **Weaknesses & Limitations:**
-  - No viral enhancements like Vyr4n - relies on skill and technology
+  - No viral enhancements like Kyr4n - relies on skill and technology
   - Tendency to solve problems through force rather than diplomacy
   - Limited patience for political maneuvering or complex negotiations
   - Emotional distance can alienate potential allies
@@ -114,7 +114,7 @@
   - Electronic warfare tools for hacking and disruption
   - Emergency communication devices with encryption
 - **Personal Items of Importance:**
-  - Recording device with Vyr4n's tactical briefings (studies them religiously)
+  - Recording device with Kyr4n's tactical briefings (studies them religiously)
   - Territory command insignia from East District leadership
   - Photo of original enforcer squad from Arc 3
   - Handwritten tactical notes and organizational charts
@@ -135,9 +135,9 @@
   - Parents: Factory workers, deceased in industrial accident when Alex was 16
   - No siblings, raised by grandmother until joining organization
   - Considers organizational members their chosen family
-  - Special reverence for Vyr4n as leader and mentor figure
+  - Special reverence for Kyr4n as leader and mentor figure
 - **Notable Relationships:**
-  - **Vyr4n:** Absolute loyalty and worship, sees him as perfect leader and tactical genius
+  - **Kyr4n:** Absolute loyalty and worship, sees him as perfect leader and tactical genius
   - **Helena:** Professional respect but fundamental disagreement about organizational priorities
   - **Marcus:** Mutual respect between military minds, though Alex sees him as too soft
   - **East Territory Teams:** Earned loyalty through competent leadership and keeping them alive
@@ -145,24 +145,24 @@
   - Born in East District during corporate occupation period
   - Witnessed parents' death in factory accident caused by corporate negligence
   - Raised by grandmother who taught them self-reliance and distrust of authority
-  - Joined Vyr4n's organization at age 18 as street-level enforcer
+  - Joined Kyr4n's organization at age 18 as street-level enforcer
 - **Education & Training:**
   - Street education and survival skills
   - Self-taught tactical theory and military history
-  - Intensive training under Vyr4n's organizational structure
+  - Intensive training under Kyr4n's organizational structure
   - Practical leadership experience through rapid promotion
 - **Significant Past Events:**
   - Parents' death (age 16) - fundamental motivation against corporate oppression
-  - First meeting with Vyr4n (age 18) - immediate recognition of superior leadership
+  - First meeting with Kyr4n (age 18) - immediate recognition of superior leadership
   - Promotion to squad leader (Arc 3) - proof of tactical competence
   - East Territory command assignment (Arc 4) - demonstration of strategic thinking
-  - Vyr4n's disappearance (end Arc 4) - forced into supreme leadership role
+  - Kyr4n's disappearance (end Arc 4) - forced into supreme leadership role
 - **Defining Moments:**
-  - First time Vyr4n personally commended their tactical thinking
+  - First time Kyr4n personally commended their tactical thinking
   - Successfully defending East Territory against corporate raid
   - Choosing organizational loyalty over personal safety during crisis
-  - Being entrusted with territorial command by Vyr4n
-  - Taking command when Vyr4n disappeared
+  - Being entrusted with territorial command by Kyr4n
+  - Taking command when Kyr4n disappeared
 - **Criminal Record:** 
   - Multiple enforcement actions (organizational sanctioned)
   - Territory defense operations
@@ -172,9 +172,9 @@
   - Corporate security forces who recognize them as high-value target
   - Rival criminal organizations threatened by their competence
   - Internal organizational members who question their authority
-  - Anyone who challenges Vyr4n's legacy or methods
+  - Anyone who challenges Kyr4n's legacy or methods
 - **Current Status & Recent Activities:**
-  - Acting supreme commander of Vyr4n's organization
+  - Acting supreme commander of Kyr4n's organization
   - Managing territorial warfare and corporate conflicts
   - Struggling with community development vs. military priorities
   - Conflict with Helena over organizational direction
@@ -199,12 +199,12 @@
   - **Military vs. Civilian:** The tension between wartime leadership and community building
 - **Potential Character Arcs:**
   - Learning to balance military efficiency with humanitarian concerns
-  - Developing their own leadership style beyond mimicking Vyr4n
-  - Confronting the reality that Vyr4n might not approve of their methods
+  - Developing their own leadership style beyond mimicking Kyr4n
+  - Confronting the reality that Kyr4n might not approve of their methods
   - Growing from follower to true leader with independent moral framework
   - Managing the transition from warfare to peace if that becomes possible
 - **Conflicts They Face (Internal & External):**
-  - **Internal:** Burden of command, worship vs. understanding of Vyr4n, isolation of leadership
+  - **Internal:** Burden of command, worship vs. understanding of Kyr4n, isolation of leadership
   - **External:** Corporate warfare, rival organizations, internal organizational politics, Helena's humanitarian opposition
 
 ### Arc Development
@@ -219,7 +219,7 @@
 
 - **Speech Patterns:** Direct, concise, military-influenced, rarely wastes words
 - **Sample Dialogue:**
-  - "Vyr4n would have seen this coming three moves ahead. We need to think like him."
+  - "Kyr4n would have seen this coming three moves ahead. We need to think like him."
   - "Humanitarian concerns are secondary to organizational survival. Helena understands this, even if she doesn't like it."
   - "I don't need people to love me. I need them to trust that I'll keep them alive."
   - "Every decision I make, I ask: what would preserve his legacy? What would make the organization stronger?"

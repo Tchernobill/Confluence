@@ -20,7 +20,7 @@ last_updated: 2025-06-07 13:30
 type: Timeline
 ---
 
-# Zara "Flame" Al-Rashid - Timeline to Meeting Vyr4n
+# Zara "Flame" Al-Rashid - Timeline to Meeting Kyr4n
 
 ## Early Life & Trauma (2100-2112)
 
@@ -51,9 +51,9 @@ type: Timeline
 - 2119.07 - Zara - Fled to South Shore Slum underground, began working as independent assassin
 - 2119.08 - Zara - Heard rumors about Rico Vasquez territory takeover by mysterious "Technomancer"
 - 2119.09 - Zara - Marcus recruited her as potential security asset after observing her eliminate corporate hunters
-- 2119.10 - Zara - First met Vyr4n when hired as personal bodyguard through Marcus recommendation
+- 2119.10 - Zara - First met Kyr4n when hired as personal bodyguard through Marcus recommendation
 
-## Character State at Meeting Vyr4n
+## Character State at Meeting Kyr4n
 
 At age 19, Zara appears as a one-dimensional violent weapon:
 
@@ -64,4 +64,4 @@ At age 19, Zara appears as a one-dimensional violent weapon:
 - **Violence Response**: First and preferred solution to most problems
 - **Trauma Processing**: Completely suppressed, manifests only as hypervigilance and aggression
 
-Her layered complexity, capacity for loyalty, and deeper emotional range will only emerge through prolonged exposure to Vyr4n's unusual leadership style and the organization's protective culture during Arc 4.
+Her layered complexity, capacity for loyalty, and deeper emotional range will only emerge through prolonged exposure to Kyr4n's unusual leadership style and the organization's protective culture during Arc 4.

@@ -2,7 +2,7 @@
 title: Isa - Character Profile
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Characters
   - Isa
   - Arc protagonist
@@ -72,7 +72,7 @@ type: Character Sheet
 - **Goals & Aspirations:**
   - Doing more than surviving 
   - Build Phoenix Recovery into legitimate tech empire
-  - Help Vyr4n overcome his emotional barriers
+  - Help Kyr4n overcome his emotional barriers
   - Establish family she never had
 <<<<<<< HEAD
 - **Hobbies & Interests:** Collecting vintage music files, improvised cooking, people-watching
@@ -90,7 +90,7 @@ type: Character Sheet
 
 >>>>>>> origin/main
 - **Mannerisms & Speech Patterns:** 
-  - Speaks with slight street accent that softens around Vyr4n
+  - Speaks with slight street accent that softens around Kyr4n
   - Never afraid to speak her mind
   - Touches people casually when comfortable
   - Raises eyebrow when skeptical
@@ -211,13 +211,13 @@ type: Character Sheet
 - **Family & Relatives:** 
   - Parents: Helene Delacroix (nurse, deceased) and Daniel Mercer (maintenance tech, deceased)
   - No known living blood relatives
-  - Considers Vyr4n and Sedh her chosen family
+  - Considers Kyr4n and Sedh her chosen family
 <<<<<<< HEAD
 =======
 
 >>>>>>> origin/main
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **Vyr4n**: Primary romantic partner, emotional anchor, ultimate 'It's complicated'
+  - **Kyr4n**: Primary romantic partner, emotional anchor, ultimate 'It's complicated'
   - **Sedh**: Initially skeptical, now protective quasi-sibling relationship
   - **Tommy "Splice" Martinez**: Former mentor in dealing trade (deceased)
   - **Dr. Sarah Kim**: Underground medic who taught her basic first aid
@@ -247,13 +247,13 @@ type: Character Sheet
   - Parents' death traumatized but also motivated her independence
   - First successful deal at age 14 established her reputation
   - Nearly killed during territorial war between dealer factions
-  - Met Vyr4n through business transaction
+  - Met Kyr4n through business transaction
 <<<<<<< HEAD
 =======
 
 >>>>>>> origin/main
 - **Defining Moment(s):** 
-  - Decision to trust Vyr4n during riots despite his obvious emotional issues
+  - Decision to trust Kyr4n during riots despite his obvious emotional issues
   - Choosing to accept Sedh as person rather than property
   - First legitimate business contract signing
 <<<<<<< HEAD
@@ -271,7 +271,7 @@ type: Character Sheet
 - **Enemies & Conflicts:** 
   - Former rival dealers who resent her success
   - Corporate interests threatened by Phoenix Recovery's growth
-  - Potential conflicts with Vyr4n's darker developments
+  - Potential conflicts with Kyr4n's darker developments
 <<<<<<< HEAD
 =======
 
@@ -279,7 +279,7 @@ type: Character Sheet
 - **Current Status & Recent Activities:** 
   - Managing day-to-day Phoenix Recovery operations
   - Building legitimate business network
-  - Supporting Vyr4n through his personal struggles
+  - Supporting Kyr4n through his personal struggles
 
 ## World Interaction & Themes
 <<<<<<< HEAD
@@ -314,16 +314,16 @@ type: Character Sheet
 
 >>>>>>> origin/main
 - **Potential Character Arcs:**
-  - **Arc 1-2**: Building Phoenix Recovery while managing Vyr4n's virus-induced changes
-  - **Arc 2-3**: Possible heartbreak and separation as Vyr4n becomes increasingly dangerous
+  - **Arc 1-2**: Building Phoenix Recovery while managing Kyr4n's virus-induced changes
+  - **Arc 2-3**: Possible heartbreak and separation as Kyr4n becomes increasingly dangerous
   - **Arc 5-6**: Potential reunion and reckoning with how they've both changed
 <<<<<<< HEAD
 =======
 
 >>>>>>> origin/main
 - **Conflicts They Face (Internal & External):**
-  - **Internal**: Balancing protective instincts with respect for Vyr4n's autonomy, self-esteem issue and managing abandonment fears
-  - **External**: Corporate threats to Phoenix Recovery, underground rivals, Vyr4n's viral transformation
+  - **Internal**: Balancing protective instincts with respect for Kyr4n's autonomy, self-esteem issue and managing abandonment fears
+  - **External**: Corporate threats to Phoenix Recovery, underground rivals, Kyr4n's viral transformation
 
 ## Character Development Arc
 <<<<<<< HEAD
@@ -333,12 +333,12 @@ type: Character Sheet
 **Pre-Arc 1**: Successful underground dealer with reputation for fairness and quality
 **Arc 1 Beginning**: Confident professional seeking temporary shelter during riots
 **Arc 1 Middle**: Patient teacher of intimacy and trust, growing business partner
-**Arc 1 End**: Established business co-manager with deep but complex relationship with Vyr4n
-**Arc 2 Projection**: Likely heartbreak as Vyr4n's infection drives them apart
-**Long-term Potential**: Possible reconciliation when Vyr4n learns to balance his enhanced nature with human connections
+**Arc 1 End**: Established business co-manager with deep but complex relationship with Kyr4n
+**Arc 2 Projection**: Likely heartbreak as Kyr4n's infection drives them apart
+**Long-term Potential**: Possible reconciliation when Kyr4n learns to balance his enhanced nature with human connections
 
 ## Relationship Dynamics
-- **With Vyr4n**: 
+- **With Kyr4n**: 
   - Professional: Complementary skills, shared vision for Phoenix Recovery
   - Personal: Patient lover who teaches him emotional intimacy at his pace and push him to explore
   - Psychological: Serves as anchor to his humanity, represents what he could lose
@@ -370,16 +370,16 @@ type: Character Sheet
 ## Narrative Function
 Isa serves multiple crucial narrative roles:
 
-**Emotional Catalyst**: Breaks through Vyr4n's isolation with patience and understanding
+**Emotional Catalyst**: Breaks through Kyr4n's isolation with patience and understanding
 **Practical Balance**: Provides business sense and social skills to complement his technical genius
 **Moral Compass**: Represents ethical business practices and human-centered values
-**Tragic Element**: Her eventual heartbreak will highlight the cost of Vyr4n's transformation
+**Tragic Element**: Her eventual heartbreak will highlight the cost of Kyr4n's transformation
 **Hope Symbol**: Demonstrates that people from broken backgrounds can build something meaningful together
 
 ## Character Voice & Dialogue Patterns
 - Never afraid of expressing her opinion
 - Speaks firm but casual around strangers, more casually and loud with friends
-- Speaks soft, warm and velvety when alone with Vyr4n
+- Speaks soft, warm and velvety when alone with Kyr4n
 - Often asks clarifying questions to ensure understanding
 - Tendency to touch people while talking when comfortable
 - Uses humor to defuse tension but never at someone's expense

@@ -20,7 +20,7 @@ last_updated: 2025-06-07 13:30
 type: Timeline
 ---
 
-# Isa Mercer - Timeline to Meeting Vyr4n (Revised)
+# Isa Mercer - Timeline to Meeting Kyr4n (Revised)
 
 ## Early Life & Stability (2088-2101)
 
@@ -44,18 +44,18 @@ type: Timeline
 - 2103.04 - Isa - Built extensive client network, known for fair dealing and premium component access
 - 2104.02 - Isa - Expanded operations, became respected mid-tier dealer in underground economy
 
-## Business Development & Meeting Vyr4n (2104-2105)
+## Business Development & Meeting Kyr4n (2104-2105)
 
 - 2104.10 - Isa - Heard rumors about exceptional craftsman known as "The Artisan" in underground markets
-- 2104.11 - Isa - First business transaction with Vyr4n, impressed by his technical capabilities
+- 2104.11 - Isa - First business transaction with Kyr4n, impressed by his technical capabilities
 - 2104.12 - Isa - Began regular business relationship, trading premium components for repair services
-- 2105.02 - Isa - Riots erupted in South Shore Slum, sought shelter with Vyr4n during violence
-- 2105.02 - Isa - First intimate encounter with Vyr4n during riot shelter, began personal relationship
+- 2105.02 - Isa - Riots erupted in South Shore Slum, sought shelter with Kyr4n during violence
+- 2105.02 - Isa - First intimate encounter with Kyr4n during riot shelter, began personal relationship
 - 2105.04 - Isa - Helped establish Phoenix Recovery business operations, became unofficial partner
 - 2105.06 - Isa - Met Sedh after his consciousness awakening, initially skeptical of AI personhood
 - 2105.08 - Isa - Gradually accepted Sedh as individual, formed protective quasi-family relationship
 
-## Character State at Meeting Vyr4n
+## Character State at Meeting Kyr4n
 
 At age 16 (nearly 17), Isa has developed exceptional maturity through trauma and necessity:
 
@@ -66,12 +66,12 @@ At age 16 (nearly 17), Isa has developed exceptional maturity through trauma and
 - **Survival Instincts**: Street-smart and cautious, but willing to take calculated risks for meaningful connections
 - **Relationship Capacity**: Craves genuine connection while maintaining independence, sees potential in broken things and people
 
-Her combination of emotional intelligence, business sense, and genuine caring makes her the perfect complement to Vyr4n's technical brilliance and emotional guardedness. At 16, she's been independent for 4 years and operating as a professional for 3+ years, giving her adult-level experience despite her youth.
+Her combination of emotional intelligence, business sense, and genuine caring makes her the perfect complement to Kyr4n's technical brilliance and emotional guardedness. At 16, she's been independent for 4 years and operating as a professional for 3+ years, giving her adult-level experience despite her youth.
 
 ## Links
 
 - [[Isa Character Profile]]
-- [[Vyr4n Character Development]]
+- [[Kyr4n Character Development]]
 - [[Phoenix Recovery Business]]
 - [[Underground Economy Social Dynamics]]
 - [[South Shore Medical District]]

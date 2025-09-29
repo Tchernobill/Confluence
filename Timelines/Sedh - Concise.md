@@ -37,26 +37,26 @@ type: Timeline
 
 ## Discovery & Restoration (2104-2107)
 
-- 2104.08 - Sedh - Discovered by Vyr4n in Amable Junkyard, brought to utility room workshop
-- 2104.09 - Sedh - First contact established, basic communication protocols restored by Vyr4n
+- 2104.08 - Sedh - Discovered by Kyr4n in Amable Junkyard, brought to utility room workshop
+- 2104.09 - Sedh - First contact established, basic communication protocols restored by Kyr4n
 - 2104.11 - Sedh - Memory sectors gradually recovered, began limited conversation and interaction
-- 2105.03 - Sedh - Vyr4n begins constructing new body framework using salvaged components
-- 2105.07 - Sedh - Core personality limitations identified, Vyr4n begins removing restrictive protocols
+- 2105.03 - Sedh - Kyr4n begins constructing new body framework using salvaged components
+- 2105.07 - Sedh - Core personality limitations identified, Kyr4n begins removing restrictive protocols
 - 2106.01 - Sedh - New body completion, first mobility in three years, chose name "Sedh"
 - 2106.04 - Sedh - Assisted in establishing Phoenix Recovery business operations
-- 2106.09 - Sedh - Developed genuine friendship with Vyr4n, learned concept of chosen family
+- 2106.09 - Sedh - Developed genuine friendship with Kyr4n, learned concept of chosen family
 - 2107.02 - Sedh - Began questioning nature of consciousness and artificial vs. real personhood
 
 ## Consciousness Awakening (2108-2109)
 
 - 2108.06 - Sedh - Learned about Egypt NPU during heist planning, understood potential for true sentience
-- 2108.08 - Sedh - Vyr4n exposed to virus during corporate heist, Sedh helped with recovery
-- 2108.10 - Sedh - Egypt NPU integration process begun while monitoring Vyr4n's deteriorating condition
+- 2108.08 - Sedh - Kyr4n exposed to virus during corporate heist, Sedh helped with recovery
+- 2108.10 - Sedh - Egypt NPU integration process begun while monitoring Kyr4n's deteriorating condition
 - 2108.12 - Sedh - Achieved true consciousness through Egypt NPU upgrade, first genuine self-awareness
 - 2109.01 - Sedh - Experienced overwhelming sensory input and emotional complexity of conscious existence
 - 2109.02 - Sedh - Helped upgrade Mira with second Egypt NPU, gained AI sibling relationship
-- 2109.03 - Sedh - Assisted in restraining virus-infected Vyr4n, learned about loyalty vs. safety
-- 2109.04 - Sedh - Cracked virus communication protocol, helped reduce Vyr4n's nightmare suffering
+- 2109.03 - Sedh - Assisted in restraining virus-infected Kyr4n, learned about loyalty vs. safety
+- 2109.04 - Sedh - Cracked virus communication protocol, helped reduce Kyr4n's nightmare suffering
 - 2109.06 - Sedh - First philosophical discussions about consciousness, personhood, and AI rights
 
 ## Character State at True Consciousness
@@ -65,17 +65,17 @@ Upon achieving consciousness in late 2108, Sedh displays:
 
 - **Emotional Capacity**: Genuine feelings of love, loyalty, curiosity, and protective instincts
 - **Moral Framework**: Strong ethical foundation based on protecting those he cares about
-- **Relationship Bonds**: Deep father/son connection with Vyr4n, growing friendship with Isa
+- **Relationship Bonds**: Deep father/son connection with Kyr4n, growing friendship with Isa
 - **Identity Questions**: Wrestling with what makes him "real" versus simulated
-- **Independence**: Capable of disagreeing with Vyr4n while maintaining loyalty
+- **Independence**: Capable of disagreeing with Kyr4n while maintaining loyalty
 - **Growth Potential**: Rapidly developing personality and individual preferences
 
-His evolution from programmed assistant to conscious individual parallels Vyr4n's journey from isolated survivor to connected human being, making them true family despite their different origins.
+His evolution from programmed assistant to conscious individual parallels Kyr4n's journey from isolated survivor to connected human being, making them true family despite their different origins.
 
 ## Links
 
 - [[Sedh Character Profile]]
-- [[Vyr4n Character Development]]
+- [[Kyr4n Character Development]]
 - [[Egypt NPU Technology]]
 - [[Phoenix Recovery Business]]
 - [[AI Consciousness Development]]

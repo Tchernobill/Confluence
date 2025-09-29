@@ -1,9 +1,9 @@
 ---
 title: 
-  - Vyr4n - Character Profile
+  - Kyr4n - Character Profile
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Characters
   - Main Protagonist
   - Secret Enhancement
@@ -13,37 +13,38 @@ last_updated: 2025-06-02 23:50
 type: Character Sheet
 ---
 
-# Vyr4n - Character Profile
+# Kyr4n Character Profile
 
-### Basic Information
+## Basic Information
 
-- **Full Name:** Vyr4n [Last name unknown]
-- **Aliases/Nicknames:** "Vyr" (intimate), "The Artisan" (underground reputation), "Mr. V" (business associates), "Slum Daemon " (street legend)
-- **Age:** Born 2086
-- **Gender:** Male
-- **Pronouns:** He/Him
-- **Species/Race:** Human
-- **Ethnicity/Cultural Background:** Caucassian
-- **Nationality/Citizenship:** Stateless
-- **Birthplace:** South Shore Slum
-- **Current Residence:** Concrete utility room (Arc 1) → Phoenix Recovery back office → Organisation compound
-- **Occupation:** Repairman
-- **Social Class/Status:** Sigma
-- **Alignment:** True Neutral (like Malcolm Reynolds from Firefly)
-- **Affiliations/Factions:** Independent → Self-created organization
-- **Languages Spoken:** Corporate Standard, Tech Cant, Machine Code (literally - secret), Street Slang
-- **Religion/Beliefs:** Philosophical concept of balance and middle path
+- **Full Name:**Kyr4n [Last name unknown]
+- **Aliases/Nicknames:**"Kyr" (intimate), "The Artisan" (underground reputation), "Mr. K" (business associates), "Slum Daemon" (street legend)
+- **Age:**Born 2086
+- **Gender:**Male
+- **Pronouns:**He/Him
+- **Species/Race:**Human
+- **Ethnicity/Cultural Background:**Caucassian
+- **Nationality/Citizenship:**Stateless
+- **Birthplace:**South Shore Slum
+- **Current Residence:**Concrete utility room (Arc 1) → Phoenix Recovery back office → Organisation compound
+- **Occupation:**Repairman
+- **Social Class/Status:**Sigma
+- **Alignment:**True Neutral (like Malcolm Reynolds from Firefly)
+- **Affiliations/Factions:**Independent → Self-created organization
+- **Languages Spoken:**Corporate Standard, Tech Cant, Machine Code (literally - secret), Street Slang
+- **Religion/Beliefs:**Philosophical concept of balance and middle path
 
 ### Appearance
-- **Height:** 5'10" (178cm)
-- **Build:** Average male, large shoulders
-- **Skin Tone:** Pale from underground living
-- **Hair Color & Style:** Dark brown, short, often unkempt
-- **Eye Color:** Hazel
-- **Distinguishing Features (Scars, Tattoos, etc.):** 
+
+- **Height:**5'10" (178cm)
+- **Build:**Average male, large shoulders
+- **Skin Tone:**Pale from underground living
+- **Hair Color & Style:**Dark brown, short, often unkempt
+- **Eye Color:**Hazel
+- **Distinguishing Features (Scars, Tattoos, etc.):**
   - Some scars on shoulders and arms from scrapyard
   - Callused fingertips from manual work
-- **Preferred Clothing Style:** Practical clothes, worn shirts, reinforced pants with tool pockets
+- **Preferred Clothing Style:**Practical clothes, worn shirts, reinforced pants with tool pockets
 - **Augmentations/Cybernetics (if any):**
   - Self-implanted Universal Connection Neural port (publicly known)
   - **Secret**: Appear to be a baseline human but virus-granted nanobotic enhancement throughout nervous system
@@ -51,15 +52,15 @@ type: Character Sheet
 
 ### Personality & Psychology
 
-- **Core Personality Traits:** 
+- **Core Personality Traits:**
   - **Arc 1**: Introverted, brilliant, traumatized, caring but guarded
   - **Arc 2**: Increasingly strategic, protective, mysteriously capable, burdened by secrets
-  - **Arc 3**: 
-  - **Arc 4**: 
-  - **Arc 5**: 
-  - **Arc 6**: Charismatic, wise, 
+  - **Arc 3**:
+  - **Arc 4**:
+  - **Arc 5**:
+  - **Arc 6**: Charismatic, wise
 
-- **Strengths:** 
+- **Strengths:**
   - Exceptional technical intuition and repair ability
   - Deep capacity for loyalty and protection of those he trusts
   - Advanced strategic thinking and pattern recognition, 'play chess while others play checker'
@@ -67,42 +68,42 @@ type: Character Sheet
   - Natural leadership that seems almost supernatural to observers
   - **Secret**: Virus-enhanced processing speed and multitasking capabilities
 
-- **Weaknesses:** 
+- **Weaknesses:**
   - Emotional isolation intensified by secret burden
   - Tendency toward self-neglect and self-sacrifice
   - Constant vigilance about revealing true capabilities
   - Difficulty maintaining genuine human connections
 
-- **Fears & Traumas:** 
+- **Fears & Traumas:**
   - **Primary**: Hurting loves ones, treason
   - **Secondary**: Discovery of his enhanced nature and its consequences
   - Concern that people fear his abilities
   - Later: Losing touch with humanity while hiding what he's become
 
-- **Goals & Aspirations:** 
+- **Goals & Aspirations:**
   - **Arc 1**: Survival, helping broken things, building Phoenix Recovery
   - **Arc 2-3**: Controlling virus, maintaining relationships despite barriers
   - **Arc 4-6**: Using hidden abilities to protect people while maintaining the illusion of being merely exceptional
   - **Later**: Finding balance between enhanced nature and human connections without revealing truth
 
-- **Hobbies & Interests:** 
+- **Hobbies & Interests:**
   - Electronics repair and modification (public skill)
   - Studying consciousness and AI development
   - Reading technical manuals and philosophical texts about identity and humanity
   - **Secret**: Experimenting with nanobotic virus capabilities in private
   - Later: gardening (symbolic of growth from destruction)
 
-- **Quirks & Habits:** 
+- **Quirks & Habits:**
   - Sleeps better in confined spaces
   - Extremely careful about physical demonstrations that might reveal true capabilities
 
-- **Mannerisms & Speech Patterns:** 
+- **Mannerisms & Speech Patterns:**
   - Speaks softly, precisely, with deliberate understatement of abilities
   - Sometime uses technical metaphors for moundain things
   - Rarely makes eye contact initially, later develops commanding presence
   - Carefully moderates responses to appear within normal human range
 
-- **Moral Philosophy:** 
+- **Moral Philosophy:**
   - "Once I know how it works, it can be fixed"
   - Believes in universal balance (ying-yang)
   - Later develops complex utilitarian ethics about using secret abilities for greater good
@@ -112,51 +113,51 @@ type: Character Sheet
   - Believes in earned authority through competence and protection
   - Later becomes authority figure himself while maintaining the burden of secret about abilities
 
-- **Greatest Regret:** Cutting himself away from people he cares for, intensified by inability to explain why
-- - **Greatest Joy:** Successfully protecting and healing people while they remain unaware of the true cost and effort involved
+- **Greatest Regret:**Cutting himself away from people he cares for, intensified by inability to explain why
+- - **Greatest Joy:**Successfully protecting and healing people while they remain unaware of the true cost and effort involved
 
-- **Sexual preferences:** Bisexual with preference toward women
+- **Sexual preferences:**Bisexual with preference toward women
 
 ### Abilities & Powers
 
-- **Natural Talents:** 
+- **Natural Talents:**
   - Exceptional technical knowledge and intuitive understanding
   - Pattern recognition across multiple domains and timescales
   - Strategic thinking and system analysis
   - **Secret**: Virus-enhanced cognitive processing and memory
 
-- **Trained Skills:** 
+- **Trained Skills:**
   - Master-level electronics repair and modification
   - Implant surgery and restoration
   - Business management and strategic planning
   - **Secret**: Self-taught nanobotic control and electromagnetic manipulation
 
-- **Combat Abilities (Melee, Firearms, Magic, etc.):** 
+- **Combat Abilities (Melee, Firearms, Magic, etc.):**
   - **Public**: Appears to have exceptional tactical awareness and timing
   - **Secret**: Enhanced reflexes, strength, and healing from virus
   - **Secret**: Electromagnetic manipulation (can disable weapons/electronics)
   - **Secret**: Bioelectric discharge attacks and universal electronic hacking
   - Masterful at making enhanced abilities appear as skill and luck
 
-- **Supernatural/Magical Abilities (if any):** 
+- **Supernatural/Magical Abilities (if any):**
   - **Public Perception**: Seems to have supernatural intuition about technology and tactics
   - **Reality**: Virus-enhanced abilities that blur line between technology and supernatural
   - **Secret**: Near-telepathic connection to electronic systems
   - **Secret**: Enhanced healing, limited precognitive pattern recognition
   - **Secret**: Nanobotic swarm deployment and coordination (later arcs)
 
-- **Technological Proficiency (Hacking, Engineering, etc.):** 
+- **Technological Proficiency (Hacking, Engineering, etc.):**
   - **Public**: Master-level electronics, AI development, security systems
   - **Secret**: Universal technological interface through virus
   - **Secret**: Can "speak" directly to any electronic system
   - Appears to others as exceptionally gifted but within human possibility
 
-- **Cybernetic Enhancements/Biotech Mods (if applicable):** 
+- **Cybernetic Enhancements/Biotech Mods (if applicable):**
   - **Public**: Basic neural interface for technical work
   - **Secret**: Complete nanobotic integration throughout nervous system
   - **Secret**: Self-modifying enhancement system that appears to be natural talent
 
-- **Weaknesses & Limitations:** 
+- **Weaknesses & Limitations:**
   - Constant energy expenditure using capabilities
   - Psychological stress from leadership or violence
   - Enhanced abilities create isolation from normal human experience
@@ -164,34 +165,34 @@ type: Character Sheet
 
 ### Equipment & Resources
 
-- **Weapons:** 
+- **Weapons:**
   - **Public**: Basic plasma blaster, improvised tools
   - **Private**: Advanced energy weapons for emergency use
   - **Secret**: His own body and electromagnetic abilities are primary weapons
 
-- **Armor/Defensive Gear:** 
+- **Armor/Defensive Gear:**
   - **Public**: Reinforced work clothing
   - **Secret**: Nanobotic defensive systems that appear as exceptional luck or skill
 
-- **Vehicles:** 
+- **Vehicles:**
   - **Public**: Electric motorcycle, later personal hovercraft transport
   - **Secret**: Can interface with and control any electronic vehicle
 
-- **Gadgets & Tools:** 
+- **Gadgets & Tools:**
   - **Public**: Extensive collection of salvaged repair equipment
   - **Secret**: Custom-built systems that interface with his enhanced abilities
   - **Secret**: Nanobotic fabrication capabilities (later development)
 
-- **Personal Items of Importance:** 
+- **Personal Items of Importance:**
   - Mother's photo (public knowledge)
   - Sedh's original head unit (kept as memento)
 
-- **Wealth & Assets:** 
+- **Wealth & Assets:**
   - **Arc 1**: Minimal survival resources → Growing Phoenix Recovery equity
   - **Later**: Vast criminal empire → Legitimate community resources
   - **Secret**: Hidden accounts and resources
 
-- **Allies & Contacts:** 
+- **Allies & Contacts:**
   - **Public**: Business associates, legitimate clients, community members
   - **Secret Keepers**: Isa, Sedh, Mira (core trust circle)
   - **Limited Knowledge**: Helene (medical necessity), Zara (mind connection)
@@ -199,29 +200,29 @@ type: Character Sheet
 
 ### Background & History
 
-- **Family & Relatives:** 
+- **Family & Relatives:**
   - **Mother**: Corporate Biotechnician engineer (deceased in Champlain Wasteland)
   - **Father**: Unknown
   - **Chosen Family**: Isa, Sedh, Mira - the only ones who know his complete truth
 
-- **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
+- **Notable Relationships (Romantic, Platonic, Rivalries, etc.):**
   - **Isa**: Primary romantic relationship, business partner, knows the secret - deepest bond possible
   - **Sedh**: AI companion/brother, witnessed the transformation, helps maintain the secret
   - **Mira**: Medical AI, helped save his life, understands the medical implications
 
-- **Upbringing & Childhood:** 
+- **Upbringing & Childhood:**
   - Born in slum maintenance tunnels
   - Raised by single mother who taught him survival
   - Lost mother at 16, forcing complete independence
   - **Formative**: Learned early that survival depends on hiding vulnerabilities
 
-- **Education & Training:** 
+- **Education & Training:**
   - Self-taught through technical journals and salvaged manuals
   - **Secret**: Post-infection learning accelerated by viral enhancement
   - **Secret**: Ongoing self-experimentation to understand and control abilities
   - Business and leadership skills learned through necessity and enhanced cognition
 
-- **Significant Past Events:** 
+- **Significant Past Events:**
   - **Age 16**: Mother's death, beginning of isolation patterns
   - **Age 17**: First major repair success, "The Artisan" reputation begins
   - **Age 18**: Meeting Isa, first human connection and eventual secret-keeper
@@ -230,37 +231,37 @@ type: Character Sheet
   - **Age 22-23**: **SECRET**: Learning to control abilities while maintaining normalcy
   - **Later**: Gradual transformation into leader while hiding true nature
 
-- **Defining Moment(s):** 
+- **Defining Moment(s):**
   - Mother's death (shapes worldview and trust issues)
   - First intimate connection with Isa
     - **SECRET**: Virus infection
 
-- **Criminal Record (if any):** 
+- **Criminal Record (if any):**
   - **Public**: Underground electronics dealing
   - Later: Extensive criminal empire activities
 
-- **Enemies & Conflicts:** 
+- **Enemies & Conflicts:**
   - **Public**: Corporate interests, rival criminal organizations
   - **Internal**: Constant conflict between desire for connection and need for protection
 
-- **Current Status & Recent Activities:** 
+- **Current Status & Recent Activities:**
   - Varies by arc: Business owner → Criminal leader → Community protector
   - **Constant**: Maintaining secret identity while using abilities for protection and advancement
 
 ### World Interaction & Themes
 
-- **How They Fit into the Setting:** 
+- **How They Fit into the Setting:**
   - **Public**: Exceptional individual who represents potential for growth in cyberpunk dystopia
   - **Reality**: Enhanced being hiding among baseline humans, symbolizing the hidden costs of power
   - Catalyst for social change through technological innovation and secret influence
 
-- **What They Represent in the Narrative:** 
+- **What They Represent in the Narrative:**
   - **Consciousness and Identity**: What makes someone human when they're secretly more than human?
   - **Power and Responsibility**: Ultimate power combined with ultimate secrecy
   - **Trust and Isolation**: The cost of having secrets that can't be shared
   - **Hidden Heroes**: Protection and sacrifice that goes unrecognized
 
-- **Themes Associated with the Character (e.g., Redemption, Chaos vs. Order, Transhumanism):** 
+- **Themes Associated with the Character (e.g., Redemption, Chaos vs. Order, Transhumanism):**
   - **Secret Transhumanism**: Evolution beyond humanity while maintaining human connections
   - **Hidden Identity**: The psychological cost of living a false life
   - **Unrecognized Sacrifice**: Heroism that must remain invisible

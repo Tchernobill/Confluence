@@ -1,4 +1,4 @@
-# Vyr4n's Utility Room Hideout
+# Kyr4n's Utility Room Hideout
 
 _Power Distribution Chamber - Edmont Station Sub-level_
 
@@ -18,9 +18,9 @@ A forgotten concrete utility room buried two levels beneath the abandoned Edmont
 
 **Sensory Environment:**
 
-*Visual:* The space exists in perpetual technological twilight. Harsh LED work lights cast stark shadows that make the electrical conduits appear to writhe like metallic serpents across the ceiling. The concrete surfaces are stained with decades of moisture, rust bleeding from embedded metal fittings, and the occasional spark of color from Vyr4n's organized tool displays. Status lights from few devices and equipment create a constellation of tiny red, green, and blue dots that pulse in the darkness like electronic fireflies.
+*Visual:* The space exists in perpetual technological twilight. Harsh LED work lights cast stark shadows that make the electrical conduits appear to writhe like metallic serpents across the ceiling. The concrete surfaces are stained with decades of moisture, rust bleeding from embedded metal fittings, and the occasional spark of color from Kyr4n's organized tool displays. Status lights from few devices and equipment create a constellation of tiny red, green, and blue dots that pulse in the darkness like electronic fireflies.
 
-*Auditory:* Sound behaves strangely in the concrete box. The constant electrical hum from active conduits creates a low-frequency drone that settles into your bones. Water moving through overhead pipes produces irregular gurgles and clicks, amplified by the hard surfaces. Every footstep echoes with a sharp, metallic ring that seems to bounce between the walls for longer than it should. When Vyr4n works, the precise sounds of electronic testing equipment create tiny chirps and beeps that sound unnaturally loud in the confined space.
+*Auditory:* Sound behaves strangely in the concrete box. The constant electrical hum from active conduits creates a low-frequency drone that settles into your bones. Water moving through overhead pipes produces irregular gurgles and clicks, amplified by the hard surfaces. Every footstep echoes with a sharp, metallic ring that seems to bounce between the walls for longer than it should. When Kyr4n works, the precise sounds of electronic testing equipment create tiny chirps and beeps that sound unnaturally loud in the confined space.
 
 *Olfactory:* The air carries layers of industrial history. Base notes of concrete dust mix with metallic tang from aging pipes. The scent of heated electronics adds sharp, plastic undertones. Moisture brings earthiness from concrete and hints of rust, creating an atmosphere that tastes slightly metallic with every breath.
 
@@ -28,7 +28,7 @@ A forgotten concrete utility room buried two levels beneath the abandoned Edmont
 
 **Power Distribution Systems:**
 
-- Main electrical conduits running along the east wall, now jury-rigged to provide Vyr4n's 20-amp connection
+- Main electrical conduits running along the east wall, now jury-rigged to provide Kyr4n's 20-amp connection
 - Abandoned transformer housing repurposed as secure storage
 - Circuit breaker panels (mostly dead) providing mounting points for equipment
 - Emergency lighting system with battery backup (partially functional)
@@ -68,7 +68,7 @@ At roughly 9 cubic meters of usable space, the chamber forces careful organizati
 
 - **Camouflage:** Ventilation grill disguised as building maintenance access
 - **Security:** Hidden magnetic locks that secure the grill
-- **Cover:** Regular foot traffic from Chen's customers masks Vyr4n's movements
+- **Cover:** Regular foot traffic from Chen's customers masks Kyr4n's movements
 
 ### Stage 1: Storm Drain Misdirection (5 minutes)
 
@@ -78,7 +78,7 @@ At roughly 9 cubic meters of usable space, the chamber forces careful organizati
 
 *Auditory:* Every footstep produces a wet slap that echoes down the tunnel with a hollow, bubbling quality. Water drips constantly from hairline cracks, each drop amplified into sharp plinks that create a chaotic percussion. The acoustics here are deliberately unsettling—sounds seem to come from multiple directions, and voices carry farther than they should, with an eerie underwater quality that makes whispers sound like distant screams.
 
-*Olfactory:* The air reeks of urban decay and standing water. Organic rot mingles with the sharp chemical tang of urban runoff, creating a cloying sweetness that catches in the throat. Beneath it all lurks the smell of rust and concrete decay, punctuated by occasional whiffs of sewer gas that serve as Vyr4n's psychological deterrent for casual explorers.
+*Olfactory:* The air reeks of urban decay and standing water. Organic rot mingles with the sharp chemical tang of urban runoff, creating a cloying sweetness that catches in the throat. Beneath it all lurks the smell of rust and concrete decay, punctuated by occasional whiffs of sewer gas that serve as Kyr4n's psychological deterrent for casual explorers.
 
 - **Deterrents:** Multiple dead-end branches filled with debris and stagnant water
 - **Security:** Motion-activated flicker lights suggesting electrical problems  
@@ -88,7 +88,7 @@ At roughly 9 cubic meters of usable space, the chamber forces careful organizati
 
 **Network:** Educational campus infrastructure connecting multiple buildings
 
-*Visual:* These tunnels feel more sophisticated than the storm drains, with painted concrete walls marked by decades of institutional maintenance. Color-coded pipes run in neat parallel lines along the ceiling—red for heating, blue for water, yellow for gas, green for electrical. Warning signs in French still cling to junction boxes, their bright safety colors now faded to pastels. Vyr4n's navigation markers are nearly invisible unless you know to look: tiny scratches on pipe fittings that form sequences only he can read.
+*Visual:* These tunnels feel more sophisticated than the storm drains, with painted concrete walls marked by decades of institutional maintenance. Color-coded pipes run in neat parallel lines along the ceiling—red for heating, blue for water, yellow for gas, green for electrical. Warning signs in French still cling to junction boxes, their bright safety colors now faded to pastels. Kyr4n's navigation markers are nearly invisible unless you know to look: tiny scratches on pipe fittings that form sequences only he can read.
 
 *Auditory:* The acoustics here are crisp and institutional. Footsteps ring with precise echoes that bounce cleanly off painted walls, creating a rhythmic cadence that would make stealth nearly impossible for anyone unfamiliar with the space. Steam moving through heating pipes creates gentle whooshing sounds, almost comforting compared to the harsh electrical threats.
 
@@ -118,7 +118,7 @@ At roughly 9 cubic meters of usable space, the chamber forces careful organizati
 
 *Visual:* The station service levels retain hints of their original purpose—tile walls with institutional patterns now cracked and stained, directional signage in French and English pointing to destinations that no longer exist. Emergency exit signs still glow faintly, their red light creating ominous shadows in corners where darkness pools. The architecture here was designed for efficiency rather than comfort, with right angles and industrial fixtures that create harsh geometric patterns when illuminated by flashlight.
 
-*Auditory:* These spaces have perfect acoustic isolation—sounds from the surface world disappear completely, replaced by an oppressive silence broken only by the mechanical whispers of building systems still clinging to life. Vyr4n's movements sound unnaturally crisp here, each footstep a sharp crack against terrazzo flooring that was built to handle thousands of daily commuters. The acoustic dampening is so complete that even breathing sounds amplified, creating an intimate audio environment that makes stealth both easier and more psychologically unnerving.
+*Auditory:* These spaces have perfect acoustic isolation—sounds from the surface world disappear completely, replaced by an oppressive silence broken only by the mechanical whispers of building systems still clinging to life. Kyr4n's movements sound unnaturally crisp here, each footstep a sharp crack against terrazzo flooring that was built to handle thousands of daily commuters. The acoustic dampening is so complete that even breathing sounds amplified, creating an intimate audio environment that makes stealth both easier and more psychologically unnerving.
 
 *Olfactory:* The air carries the distinctive scent of abandoned public spaces—industrial disinfectants gone stale, floor polish oxidizing over decades, and the particular mustiness of spaces where air circulation has failed. Electrical systems contribute ozone notes, while hints of the surface world occasionally filter down through utility rooms—exhaust fumes, cooking smells, and the organic scents of urban decay that mark the boundary between underground refuge and hostile surface reality.
 
@@ -196,7 +196,7 @@ The complex access route provides ultimate security at the cost of complete soci
 
 ### Foundation Metaphor
 
-This underground chamber becomes the foundation for everything Vyr4n builds later - his technical skills, security consciousness, and self-reliance all develop within these concrete walls.
+This underground chamber becomes the foundation for everything Kyr4n builds later - his technical skills, security consciousness, and self-reliance all develop within these concrete walls.
 
 ### Transformation Space
 

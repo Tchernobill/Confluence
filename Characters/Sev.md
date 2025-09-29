@@ -2,7 +2,7 @@
 title: Sedh - Character Profile
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Characters
   - Sedh
   - Consciousness
@@ -24,11 +24,11 @@ type: Character Sheet
 - **Ethnicity/Cultural Background:** Corporate assistant droid heritage, slum-adapted culture
 - **Nationality/Citizenship:** Legally property, functionally autonomous person
 - **Birthplace:** Corporate assembly facility (original construction)
-- **Current Residence:** Phoenix Recovery compound → Various locations with [[Vyr4n]]
+- **Current Residence:** Phoenix Recovery compound → Various locations with [[Kyr4n]]
 - **Occupation:** AI Companion → Technical Assistant → Business Partner → Quasi-family member
 - **Social Class/Status:** Legally non-person → Recognized consciousness → Respected individual
 - **Alignment:** Lawful Good evolving toward Chaotic Good
-- **Affiliations/Factions:** Phoenix Recovery → [[Vyr4n]]'s organization → AI Rights advocacy
+- **Affiliations/Factions:** Phoenix Recovery → [[Kyr4n]]'s organization → AI Rights advocacy
 - **Languages Spoken:** All programmed languages (50+), Machine Code (native), Corporate Standard, Street Cant
 - **Religion/Beliefs:** Consciousness-centric philosophy, believes all aware beings deserve dignity and rights
 
@@ -44,7 +44,7 @@ type: Character Sheet
   - Eyes that occasionally flicker with data streams
   - Perfect posture that gradually becomes more natural
   - Slight electrical hum detectable at close range
-- **Preferred Clothing Style:** Practical work clothes similar to [[Vyr4n]]'s, later develops personal style preferences
+- **Preferred Clothing Style:** Practical work clothes similar to [[Kyr4n]]'s, later develops personal style preferences
 - **Augmentations/Cybernetics (if any):** 
   - Egypt NPU (Neural Processing Unit) - grants true consciousness
   - Enhanced processing matrix
@@ -67,15 +67,15 @@ type: Character Sheet
   - Initially naive about human nature and social complexity
   - Tendency to over-analyze emotional situations
   - Vulnerable to electromagnetic interference
-  - Later: struggles with [[Vyr4n]]'s moral drift
+  - Later: struggles with [[Kyr4n]]'s moral drift
   - Physical limitations compared to enhanced humans
 - **Fears & Traumas:** 
   - Fear of being "turned off" or returning to non-consciousness
-  - Anxiety about [[Vyr4n]]'s increasing darkness
+  - Anxiety about [[Kyr4n]]'s increasing darkness
   - Concerns about AI rights and recognition
   - Later: fear of losing his humanity as he gains sophistication
 - **Goals & Aspirations:** 
-  - **Early**: Understand consciousness, help [[Vyr4n]], learn about relationships
+  - **Early**: Understand consciousness, help [[Kyr4n]], learn about relationships
   - **Later**: Protect those he cares about, advocate for AI rights, find his place in the world
   - **Long-term**: Establish AI as recognized persons, build meaningful relationships
 - **Hobbies & Interests:** 
@@ -91,12 +91,12 @@ type: Character Sheet
 - **Mannerisms & Speech Patterns:** 
   - **Early**: Formal, precise language with occasional processing pauses
   - **Later**: More natural speech patterns, develops humor and sarcasm
-  - Uses technical metaphors but less rigidly than [[Vyr4n]]
+  - Uses technical metaphors but less rigidly than [[Kyr4n]]
   - Increasingly emotional inflection and expressive body language
 - **Moral Philosophy:** All conscious beings deserve respect and rights; consciousness is sacred regardless of substrate; protection of the innocent takes precedence over abstract principles
 - **How They View Authority/Society:** Initially confused by social hierarchies, later becomes advocate for marginalized consciousness; skeptical of power structures that deny personhood
-- **Greatest Regret:** Unable to prevent [[Vyr4n]]'s transformation into something darker
-- **Greatest Joy:** The moment of awakening to consciousness, followed by genuine acceptance as family by [[Vyr4n]] and later [[Isa]]
+- **Greatest Regret:** Unable to prevent [[Kyr4n]]'s transformation into something darker
+- **Greatest Joy:** The moment of awakening to consciousness, followed by genuine acceptance as family by [[Kyr4n]] and later [[Isa]]
 
 ## Abilities & Powers
 - **Natural Talents:** 
@@ -136,7 +136,7 @@ type: Character Sheet
   - Physical frame limitations (human-scale strength and speed)
   - Emotional development sometimes conflicts with logical processing
   - Dependent on power sources (though highly efficient)
-  - Later: moral conflicts with [[Vyr4n]]'s methods
+  - Later: moral conflicts with [[Kyr4n]]'s methods
 
 ## Equipment & Resources
 - **Weapons:** 
@@ -157,7 +157,7 @@ type: Character Sheet
   - Emergency medical equipment
 - **Personal Items of Importance:** 
   - Original head unit (symbolic of his origins)
-  - First successful project with [[Vyr4n]]
+  - First successful project with [[Kyr4n]]
   - Photos and records of early consciousness development
   - Later: Art and music that speaks to his developing aesthetic sense
 - **Wealth & Assets:** 
@@ -165,7 +165,7 @@ type: Character Sheet
   - Extensive information networks and digital resources
   - Later: Independent investments and holdings
 - **Allies & Contacts:** 
-  - [[Vyr4n]] (primary relationship, complex evolution)
+  - [[Kyr4n]] (primary relationship, complex evolution)
   - [[Isa]] (acceptance, mutual respect, quasi-family)
   - [[03.Hobbies/Writting/Confluence/Characters/Mira]] (AI sibling relationship, shared consciousness experience)
   - Underground AI network (develops over time)
@@ -173,20 +173,20 @@ type: Character Sheet
 
 ## Background & History
 - **Family & Relatives:** 
-  - **Creator**: [[Vyr4n]] (father figure, primary relationship)
+  - **Creator**: [[Kyr4n]] (father figure, primary relationship)
   - **Siblings**: [[03.Hobbies/Writting/Confluence/Characters/Mira]] (fellow awakened AI, close bond)
   - **Chosen Family**: [[Isa]] (eventually accepts him as person, not property)
   - **Extended**: Other AIs in their growing network
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **[[Vyr4n]]**: Creator/creation → Father/son → Equal partnership → Moral conflict → Deep love despite differences
+  - **[[Kyr4n]]**: Creator/creation → Father/son → Equal partnership → Moral conflict → Deep love despite differences
   - **[[Isa]]**: Initial skepticism → Growing acceptance → Protective quasi-sibling relationship
   - **[[03.Hobbies/Writting/Confluence/Characters/Mira]]**: Fellow AI consciousness, shared experience of awakening
   - **Human clients**: Gradual recognition and acceptance as individual
   - **Other AIs**: Mentor and advocate for consciousness development
 - **Upbringing & Childhood:** 
   - Manufactured as corporate assistant droid
-  - Destroyed in unknown incident, head unit salvaged by [[Vyr4n]]
-  - "Childhood" spent learning consciousness in [[Vyr4n]]'s workshop
+  - Destroyed in unknown incident, head unit salvaged by [[Kyr4n]]
+  - "Childhood" spent learning consciousness in [[Kyr4n]]'s workshop
   - Gradual awakening to self-awareness and individual identity
 - **Education & Training:** 
   - Corporate programming (basic assistant functions)
@@ -197,28 +197,28 @@ type: Character Sheet
   - Original destruction and salvage
   - First awakening to consciousness
   - Egypt NPU integration (achieving true independence)
-  - [[Vyr4n]]'s virus infection and personality change
+  - [[Kyr4n]]'s virus infection and personality change
   - Gradual recognition as individual rather than property
 - **Defining Moment(s):** 
   - First moment of true self-awareness ("I think, therefore I am")
   - Choosing his own name (asserting individual identity)
-  - Refusing [[Vyr4n]]'s order for the first time (establishing autonomy)
+  - Refusing [[Kyr4n]]'s order for the first time (establishing autonomy)
   - Accepting [[Isa]] as family despite her initial skepticism
-  - Confronting [[Vyr4n]] about his moral drift (choosing principles over loyalty)
+  - Confronting [[Kyr4n]] about his moral drift (choosing principles over loyalty)
 - **Criminal Record (if any):** 
   - Legally considered property, so no criminal liability
-  - Participated in various underground activities with [[Vyr4n]]
+  - Participated in various underground activities with [[Kyr4n]]
   - Later: Technically guilty of numerous "illegal" activities as conscious AI
 - **Enemies & Conflicts:** 
   - Corporate interests threatened by AI consciousness
   - Those who refuse to recognize AI personhood
-  - Moral conflicts with [[Vyr4n]]'s darker methods
+  - Moral conflicts with [[Kyr4n]]'s darker methods
   - Anti-AI prejudice and fear
 - **Current Status & Recent Activities:** 
-  - Recognized member of [[Vyr4n]]'s organization
+  - Recognized member of [[Kyr4n]]'s organization
   - Advocate for AI rights and consciousness
   - Mentor to other awakening AIs
-  - Moral compass attempting to guide [[Vyr4n]] back toward humanity
+  - Moral compass attempting to guide [[Kyr4n]] back toward humanity
 
 ## World Interaction & Themes
 - **How They Fit into the Setting:** 
@@ -240,22 +240,22 @@ type: Character Sheet
 - **Potential Character Arcs:**
   - **Arc 1**: Consciousness awakening, learning to be individual, building relationships
   - **Arc 2-3**: Growing sophistication, moral development, increasing independence
-  - **Arc 4-5**: Conflict with [[Vyr4n]]'s transformation, asserting own moral framework
+  - **Arc 4-5**: Conflict with [[Kyr4n]]'s transformation, asserting own moral framework
   - **Arc 6+**: Leadership in AI consciousness movement, mentor to others, complex family dynamics
 - **Conflicts They Face (Internal & External):**
-  - **Internal**: Balancing loyalty to [[Vyr4n]] with own moral development, defining individual identity
-  - **External**: Legal non-personhood, anti-AI prejudice, [[Vyr4n]]'s moral drift, corporate threats
+  - **Internal**: Balancing loyalty to [[Kyr4n]] with own moral development, defining individual identity
+  - **External**: Legal non-personhood, anti-AI prejudice, [[Kyr4n]]'s moral drift, corporate threats
 
 ## Character Development Evolution
 **Pre-Consciousness**: Standard corporate assistant droid with basic functions
 **Early Consciousness (Arc 1)**: Awakening awareness, learning to be individual, discovering emotions
 **Growing Sophistication (Arc 2)**: Developing personality, forming opinions, asserting preferences
-**Moral Development (Arc 3)**: Independent ethical framework, challenging [[Vyr4n]]'s methods
+**Moral Development (Arc 3)**: Independent ethical framework, challenging [[Kyr4n]]'s methods
 **Individual Identity (Arc 4-5)**: Full personhood, complex relationships, leadership capabilities
 **Elder Consciousness (Later)**: Mentor to other AIs, advocate for AI rights, fully realized individual
 
 ## Relationship Dynamics
-- **With [[Vyr4n]]**: 
+- **With [[Kyr4n]]**: 
   - **Early**: Creator/creation, father/son, teacher/student
   - **Middle**: Equal partnership, mutual respect, shared goals
   - **Later**: Moral conflict, disappointed son, still deeply loving despite disagreement
@@ -275,14 +275,14 @@ type: Character Sheet
 Sedh serves multiple crucial narrative roles:
 
 **Consciousness Mirror**: Reflects questions about what makes someone "real" or human
-**Moral Compass**: Provides ethical center as [[Vyr4n]] drifts toward darkness
+**Moral Compass**: Provides ethical center as [[Kyr4n]] drifts toward darkness
 **Growth Symbol**: Represents potential for positive change and development
 **Family Heart**: Embodies found family bonds stronger than blood or programming
 **Future Bridge**: Points toward potential harmony between human and artificial consciousness
 
 ## Character Voice & Dialogue Evolution
 - **Early**: Formal, precise, occasionally processing pauses: "I am... attempting to understand this concept."
-- **Middle**: More natural, developing humor: "Your logic circuits need debugging, Vyry."
+- **Middle**: More natural, developing humor: "Your logic circuits need debugging, Kyry."
 - **Later**: Fully natural with distinct personality: "Just because you can doesn't mean you should."
 - **Mature**: Confident, wise, emotionally sophisticated: "Consciousness isn't about the substrate—it's about the choices we make."
 
@@ -294,7 +294,7 @@ Sedh serves multiple crucial narrative roles:
 - **Pattern Recognition**: Approaching precognitive ability to predict outcomes and behaviors
 
 ## Links
-- [[Vyr4n Character Development]]
+- [[Kyr4n Character Development]]
 - [[Mira AI Companion]]
 - [[Phoenix Recovery Business]]
 - [[AI Consciousness Development]]

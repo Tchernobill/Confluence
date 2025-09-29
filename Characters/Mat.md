@@ -2,7 +2,7 @@
 title: Mat "Wire" Chang - Character Sheet
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Characters
   - Riley
   - Information

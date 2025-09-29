@@ -1,9 +1,9 @@
 ---
-title: Vyr4n - Character Profile
+title: Kyr4n - Character Profile
 tags:
   - Novel
   - Characters
-  - Vyr4n
+  - Kyr4n
   - Main Protagonist
   - Secret Enhancement
 version: "1.1"
@@ -12,7 +12,7 @@ last_updated: 2025-07-07
 type: Character Sheet
 ---
 
-# Character Name: Vyr4n
+# Character Name: Kyr4n
 
 ## Quick Reference
 
@@ -27,8 +27,8 @@ type: Character Sheet
 
 ## General Info
 
-- **Full Name:** Vyr4n [Last name unknown/never revealed]
-- **Nicknames/Aliases:** "Vyr" (intimate), "The Artisan" (underground reputation), "Mr. V" (business associates), "Slum Daemon"/"Technomancer" (street legend), "Lord" (later followers)
+- **Full Name:** Kyr4n [Last name unknown/never revealed]
+- **Nicknames/Aliases:** "Kyr" (intimate), "The Artisan" (underground reputation), "Mr. K" (business associates), "Slum Daemon"/"Technomancer" (street legend), "Lord" (later followers)
 - **Date of birth:** 2086
 - **Gender/Pronouns:** Male, He/Him
 - **Occupation:** Scavenger → Electronics repair specialist → Business owner → Syndicate leader → Community protector

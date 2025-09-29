@@ -3,7 +3,7 @@ title:
   - Zara "Flame" Al-Rashid - Character Profile
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Characters
   - Zara
   - Inner Circle
@@ -27,11 +27,11 @@ type: Character Sheet
 - **Ethnicity/Cultural Background:** Middle Eastern (Palestinian/Lebanese heritage), second-generation refugee
 - **Nationality/Citizenship:** Neo-South Corporate Zone (stateless refugee status)
 - **Birthplace:** Refugee camp outside former Damascus
-- **Current Residence:** Corporate District Safehouse (Vyr4n's inner circle quarters)
+- **Current Residence:** Corporate District Safehouse (Kyr4n's inner circle quarters)
 - **Occupation:** Former corporate assassin → Personal bodyguard → Intimate partner/security chief
 - **Social Class/Status:** Refugee → Corporate asset → Criminal elite → Power circle
 - **Alignment:** Chaotic Neutral evolving toward Lawful Evil (for protective purposes)
-- **Affiliations/Factions:** Former Nexus Industries Security → Vyr4n's Organization → Inner Circle
+- **Affiliations/Factions:** Former Nexus Industries Security → Kyr4n's Organization → Inner Circle
 - **Languages Spoken:** Arabic (native), Corporate Standard (fluent), Street Cant, Basic Mandarin, Violence (universal)
 - **Religion/Beliefs:** Secular, believes in strength through adversity, power as the ultimate protection
 
@@ -62,7 +62,7 @@ type: Character Sheet
   - Corporate exploitation and manipulation
   - Being betrayed by those she protects
 - **Goals & Aspirations:**
-  - Protect Vyr4n at all costs
+  - Protect Kyr4n at all costs
   - Understand and experience ultimate power and vulnerability
   - Build a position where she's never powerless again
   - Explore the boundaries of trust and control
@@ -70,7 +70,7 @@ type: Character Sheet
 - **Quirks & Habits:**
   - Sharpens blades when thinking or stressed
   - Practices combat forms daily without fail
-  - Tastes everything before Vyr4n eats it
+  - Tastes everything before Kyr4n eats it
   - Sleeps lightly and always armed
 - **Mannerisms & Speech Patterns:** 
   - Speaks directly and precisely
@@ -137,14 +137,14 @@ type: Character Sheet
 - **Personal Items of Importance:** 
   - Father's prayer beads (only family heirloom)
   - First blade from corporate training
-  - Photo of Vyr4n (carries discreetly)
+  - Photo of Kyr4n (carries discreetly)
   - Collection of weapons from defeated enemies
 - **Wealth & Assets:** 
   - High-value personal arsenal
-  - Vyr4n's organization resources and protection
+  - Kyr4n's organization resources and protection
   - Network of contacts in security and criminal circles
 - **Allies & Contacts:** 
-  - Vyr4n (primary relationship and loyalty)
+  - Kyr4n (primary relationship and loyalty)
   - Marcus (professional respect, shared security duties)
   - Dr. Helene Tremblay (mutual professional respect)
   - Former corporate security contacts (conditional allies)
@@ -155,9 +155,9 @@ type: Character Sheet
   - Parents: Both deceased in refugee camp violence when she was 12
   - Siblings: Younger brother killed in same incident
   - No known living blood relatives
-  - Considers Vyr4n chosen family
+  - Considers Kyr4n chosen family
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **Vyr4n**: Primary romantic and professional partner, complete loyalty and growing intimate trust
+  - **Kyr4n**: Primary romantic and professional partner, complete loyalty and growing intimate trust
   - **Marcus**: Professional colleague, mutual respect for combat skills
   - **Corporate Handler (deceased)**: Former controller who she eventually killed for trying to betray her
   - **Training Partner (Nadia)**: Former fellow assassin, complex rivalry/friendship
@@ -176,12 +176,12 @@ type: Character Sheet
   - Corporate recruitment and training (ages 13-18)
   - First successful assassination (age 16)
   - Refused order to kill children (age 25) - corporate exile
-  - Met Vyr4n during corporate takeover (age 27)
+  - Met Kyr4n during corporate takeover (age 27)
 - **Defining Moment(s):** 
   - Watching family die while being helpless to stop it
   - Refusing to kill children despite corporate orders
-  - First time Vyr4n trusted her completely with his vulnerability
-  - Experiencing Vyr4n's nanobotic mind connection
+  - First time Kyr4n trusted her completely with his vulnerability
+  - Experiencing Kyr4n's nanobotic mind connection
 - **Criminal Record (if any):** 
   - Multiple assassinations for Nexus Industries (corporate sanctioned)
   - Officially: clean record (corporate protection)
@@ -189,12 +189,12 @@ type: Character Sheet
 - **Enemies & Conflicts:** 
   - Former corporate handlers who view her as traitor
   - Rival assassins who see her as target
-  - Anyone who threatens Vyr4n
+  - Anyone who threatens Kyr4n
   - Her own trauma responses and violent instincts
 - **Current Status & Recent Activities:** 
-  - Primary bodyguard and intimate partner to Vyr4n
+  - Primary bodyguard and intimate partner to Kyr4n
   - Security chief for inner circle operations
-  - Recently experienced mind connection with Vyr4n
+  - Recently experienced mind connection with Kyr4n
   - Adjusting to new understanding of vulnerability and power
 
 ### World Interaction & Themes
@@ -217,11 +217,11 @@ type: Character Sheet
   - **Trauma and Growth**: Transforming pain into protective strength
 - **Potential Character Arcs:**
   - Learning to channel violence more precisely and effectively
-  - Developing deeper emotional intimacy with Vyr4n
+  - Developing deeper emotional intimacy with Kyr4n
   - Becoming strategic leader rather than just tactical fighter
   - Confronting past trauma through new experiences of trust
 - **Conflicts They Face (Internal & External):**
-  - **Internal**: Balancing protective instincts with Vyr4n's autonomy, processing new experiences of vulnerability
-  - **External**: Corporate retaliation, rival assassins, threats to Vyr4n, organizational politics
+  - **Internal**: Balancing protective instincts with Kyr4n's autonomy, processing new experiences of vulnerability
+  - **External**: Corporate retaliation, rival assassins, threats to Kyr4n, organizational politics
 
-Note: Zara consider herself the top predator in any chain of command, way above her most powerful and dangerous employers, including Vyr4n initially. When she witness some of his abilities, she find in him an apex predator
+Note: Zara consider herself the top predator in any chain of command, way above her most powerful and dangerous employers, including Kyr4n initially. When she witness some of his abilities, she find in him an apex predator

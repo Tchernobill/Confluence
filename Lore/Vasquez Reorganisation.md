@@ -3,12 +3,12 @@ title:
   - Rico Vasquez Syndicate Reorganization Strategy
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Arc 4
   - Criminal Organization
   - Strategy
   - South Shore Slum
-character_focus: Vyr4n
+character_focus: Kyr4n
 version: "0.1"
 status: in progress
 last_updated: 2025-06-07 13:30
@@ -18,7 +18,7 @@ type: Strategic Analysis
 # Rico Vasquez Syndicate Reorganization Strategy
 
 *Internal Strategic Document - Classification: Restricted*  
-*Author: Vyr4n*  
+*Author: Kyr4n*  
 *Date: Three days post-acquisition*
 
 ## Executive Summary
@@ -299,7 +299,7 @@ The path forward requires patience, strategic thinking, and the understanding th
 ---
 
 ## Links
-- [[Vyr4n Character Development]]
+- [[Kyr4n Character Development]]
 - [[Rico Vasquez Takeover Scene]]
 - [[Criminal Organization Structure]]
 - [[Community Development Themes]]

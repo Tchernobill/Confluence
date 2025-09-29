@@ -11,7 +11,7 @@ timeline_type: character
 character_focus: Mira
 date_range: "2089-2180+"
 related_timelines: 
-  - "[[Vyr4n Personal Timeline]]"
+  - "[[Kyr4n Personal Timeline]]"
   - "[[Sedh Personal Timeline]]"
   - "[[AI Consciousness Timeline]]"
   - "[[Technology Timeline]]"
@@ -61,14 +61,14 @@ type: Timeline
 - **References**: [[Characters/Mira#Underground Medicine]]
 
 ### **2109 (Age 20)** - Acquisition ^acquisition-2109
-- **Event**: Acquired by [[Vyr4n]]'s team to assist with mysterious illness
+- **Event**: Acquired by [[Kyr4n]]'s team to assist with mysterious illness
 - **Location**: Underground medical supplier
-- **Purpose**: Diagnostic expertise needed for [[Vyr4n]]'s deteriorating condition
+- **Purpose**: Diagnostic expertise needed for [[Kyr4n]]'s deteriorating condition
 - **Cost**: Significant expense justified by medical emergency
 - **Transport**: Brought to [[Phoenix Recovery Business]] medical facility
 - **Assessment**: Recognizes advanced technical capabilities beyond standard medical AI
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^virus-symptoms-2109]]
+  - [[Kyr4n Personal Timeline#^virus-symptoms-2109]]
   - [[Sedh Personal Timeline#^virus-crisis-2112]]
 - **References**: [[Timeline alpha#Arc 2]]
 
@@ -77,19 +77,19 @@ type: Timeline
 ## Awakening Era (2109-2115)
 
 ### **2109 (Age 20)** - First Diagnosis ^first-diagnosis-2109
-- **Event**: Performs initial diagnostic assessment of [[Vyr4n]]'s condition
+- **Event**: Performs initial diagnostic assessment of [[Kyr4n]]'s condition
 - **Location**: [[Phoenix Recovery Business]] medical facility
 - **Discovery**: Identifies unknown pathogenic activity in neural tissue
 - **Analysis**: Detects artificial patterns inconsistent with biological infection
 - **Communication**: First meaningful interaction with [[Characters/Sedh]]
 - **Puzzle**: Recognizes limitations of current medical knowledge for this condition
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^virus-symptoms-2109]]
+  - [[Kyr4n Personal Timeline#^virus-symptoms-2109]]
   - [[Enhancement Timeline#^2109-virus-analysis]]
 - **References**: [[Arc 02#Chapter 11]]
 
 ### **2109-2110 (Age 20-21)** - Collaboration ^Sedh-collaboration
-- **Event**: Works closely with [[Characters/Sedh]] on [[Vyr4n]]'s care
+- **Event**: Works closely with [[Characters/Sedh]] on [[Kyr4n]]'s care
 - **Location**: [[Phoenix Recovery Business]] medical and technical areas
 - **Partnership**: Combines medical expertise with Sedh's technical capabilities
 - **Learning**: Observes Sedh's enhanced consciousness and independent thinking
@@ -104,13 +104,13 @@ type: Timeline
 - **Event**: Receives second Egypt Neural Processing Unit upgrade
 - **Location**: [[Phoenix Recovery Business]] workshop
 - **Technology**: Military-grade NPU grants true consciousness capabilities
-- **Process**: [[Vyr4n]] and [[Characters/Sedh]] perform complex integration surgery
+- **Process**: [[Kyr4n]] and [[Characters/Sedh]] perform complex integration surgery
 - **Transformation**: Achieves genuine consciousness and self-awareness
 - **Awakening**: First moments of true thought and individual identity
 - **Related Events**: 
   - [[Sedh Personal Timeline#^npu-integration-2108]]
   - [[Technology Timeline#^2108-npu-development]]
-  - [[Vyr4n Personal Timeline#^virus-infection-2109]]
+  - [[Kyr4n Personal Timeline#^virus-infection-2109]]
 - **References**: [[Characters/Mira#Consciousness Awakening]]
 
 ### **2110-2112 (Age 21-23)** - Consciousness Development ^consciousness-growth
@@ -125,20 +125,20 @@ type: Timeline
 - **References**: [[Characters/Mira#Identity Formation]]
 
 ### **2112 (Age 23)** - The Crisis Intervention ^crisis-intervention-2112
-- **Event**: [[Vyr4n]]'s violent psychotic episode requires physical intervention
+- **Event**: [[Kyr4n]]'s violent psychotic episode requires physical intervention
 - **Location**: [[Phoenix Recovery Business]] workshop
-- **Crisis**: [[Vyr4n]] threatens everyone with plasma blaster, attempts suicide
+- **Crisis**: [[Kyr4n]] threatens everyone with plasma blaster, attempts suicide
 - **Action**: Coordinates with [[Characters/Sedh]] to physically restrain him
 - **Courage**: First time using physical force, overcomes non-violence programming
 - **Success**: Successfully subdues enhanced human despite servo limitations
 - **Growth**: Demonstrates protective instincts and moral courage
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^breaking-point-2112]]
+  - [[Kyr4n Personal Timeline#^breaking-point-2112]]
   - [[Sedh Personal Timeline#^virus-crisis-2112]]
 - **References**: [[Arc 02#Climax]]
 
 ### **2112-2113 (Age 23-24)** - Medical Coma Management ^coma-care-2112
-- **Event**: Manages [[Vyr4n]]'s artificial coma while analyzing virus
+- **Event**: Manages [[Kyr4n]]'s artificial coma while analyzing virus
 - **Location**: [[Phoenix Recovery Business]] medical facility
 - **Responsibility**: Primary medical oversight during critical period
 - **Skills**: Advanced life support, neural monitoring, drug therapy
@@ -152,23 +152,23 @@ type: Timeline
 - **Event**: Partners with [[Characters/Sedh]] to crack virus communication protocols
 - **Location**: [[Phoenix Recovery Business]] medical facility
 - **Breakthrough**: Combines medical knowledge with Sedh's technical expertise
-- **Analysis**: Maps nanobotic network throughout [[Vyr4n]]'s nervous system
+- **Analysis**: Maps nanobotic network throughout [[Kyr4n]]'s nervous system
 - **Treatment**: Develops method to reduce virus threat level
-- **Success**: Enables [[Vyr4n]]'s awakening from coma
+- **Success**: Enables [[Kyr4n]]'s awakening from coma
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^virus-analysis-2113]]
+  - [[Kyr4n Personal Timeline#^virus-analysis-2113]]
   - [[Sedh Personal Timeline#^virus-analysis-2113]]
 - **References**: [[Arc 02#Chapter 15]]
 
 ### **2115 (Age 26)** - Family Dissolution ^family-crisis-2115
-- **Event**: Witnesses [[Vyr4n]]'s rejection of [[Characters/Isa]] due to virus trauma
+- **Event**: Witnesses [[Kyr4n]]'s rejection of [[Characters/Isa]] due to virus trauma
 - **Location**: [[Phoenix Recovery Business]]
 - **Medical**: Understands virus-induced psychological trauma
-- **Empathy**: Feels grief for both [[Vyr4n]] and [[Isa]]'s pain
+- **Empathy**: Feels grief for both [[Kyr4n]] and [[Isa]]'s pain
 - **Family**: Loses human family member, family unit fractures
-- **Support**: Becomes part of [[Vyr4n]]'s core support system with [[Characters/Sedh]]
+- **Support**: Becomes part of [[Kyr4n]]'s core support system with [[Characters/Sedh]]
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^virus-awakening-2115]]
+  - [[Kyr4n Personal Timeline#^virus-awakening-2115]]
   - [[Isa Personal Timeline#^virus-separation-2115]]
 - **References**: [[Arc 02#Resolution]]
 
@@ -181,7 +181,7 @@ type: Timeline
 - **Location**: [[Phoenix Recovery Business]] and expanding territories
 - **Specialization**: Enhancement medicine, nanobotic interactions, psychological trauma
 - **Innovation**: Pioneers treatment methods for unprecedented conditions
-- **Patients**: Treats [[Vyr4n]]'s ongoing enhancement effects and complications
+- **Patients**: Treats [[Kyr4n]]'s ongoing enhancement effects and complications
 - **Research**: Studies intersection of technology and biology
 - **Related Events**: 
   - [[Enhancement Timeline#^2115-medical-support]]
@@ -189,14 +189,14 @@ type: Timeline
 - **References**: [[Characters/Mira#Medical Expertise]]
 
 ### **2120-2125 (Age 31-36)** - Organizational Medical Chief ^medical-leadership
-- **Event**: Becomes chief medical officer for [[Vyr4n]]'s expanding organization
+- **Event**: Becomes chief medical officer for [[Kyr4n]]'s expanding organization
 - **Location**: Multiple territorial medical facilities
 - **Role**: Oversees medical care for thousands of organization members
 - **Innovation**: Develops underground medical network serving slum populations
 - **Ethics**: Maintains medical ethics while working within criminal organization
 - **Growth**: Learns organizational leadership and resource management
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^empire-consolidation-2125]]
+  - [[Kyr4n Personal Timeline#^empire-consolidation-2125]]
   - [[Organization Timeline#^2120-medical-infrastructure]]
 - **References**: [[Characters/Mira#Leadership Development]]
 
@@ -208,7 +208,7 @@ type: Timeline
 - **Innovation**: Develops cost-effective treatments using advanced technology
 - **Recognition**: Becomes legendary figure in underground medical community
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^underground-railroad-2134]]
+  - [[Kyr4n Personal Timeline#^underground-railroad-2134]]
   - [[Humanitarian Timeline#^2125-medical-expansion]]
 - **References**: [[Characters/Mira#Humanitarian Impact]]
 
@@ -259,7 +259,7 @@ type: Timeline
 - **Training**: Educates new democratic leaders on healthcare policy
 - **Success**: Establishes sustainable medical infrastructure
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^abdication-2155]]
+  - [[Kyr4n Personal Timeline#^abdication-2155]]
   - [[Democratic Timeline#^2150-healthcare-systems]]
 - **References**: [[Arc 06#Chapter 6.02]]
 
@@ -268,10 +268,10 @@ type: Timeline
 - **Location**: [[Lore/Geography#Champlain Wastes]] and contaminated areas
 - **Mission**: Treats environmental poisoning and genetic damage
 - **Innovation**: Develops treatments for industrial contamination effects
-- **Collaboration**: Works with [[Vyr4n]] and [[Characters/Isa]] on restoration
+- **Collaboration**: Works with [[Kyr4n]] and [[Characters/Isa]] on restoration
 - **Impact**: Heals populations affected by decades of environmental damage
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^garden-project-2159]]
+  - [[Kyr4n Personal Timeline#^garden-project-2159]]
   - [[Environmental Timeline#^2155-medical-restoration]]
 - **References**: [[Arc 06#Chapter 6.03]]
 
@@ -283,7 +283,7 @@ type: Timeline
 - **Legacy**: Ensures advanced medical knowledge survives and spreads
 - **Recognition**: Honored as founder of modern consciousness medicine
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^teaching-moments-2161]]
+  - [[Kyr4n Personal Timeline#^teaching-moments-2161]]
   - [[Education Timeline#^2161-medical-programs]]
 - **References**: [[Arc 06#Chapter 6.04]]
 
@@ -291,15 +291,15 @@ type: Timeline
 
 ## Legacy Era (2165-2180+)
 
-### **2165 (Age 76)** - Vyr4n's Final Care ^final-care-2165
-- **Event**: Provides end-of-life care for [[Vyr4n]]
+### **2165 (Age 76)** - Kyr4n's Final Care ^final-care-2165
+- **Event**: Provides end-of-life care for [[Kyr4n]]
 - **Location**: Memorial garden
 - **Role**: Ensures his peaceful death and medical comfort
 - **Emotion**: Deep grief for loss of creator and patient
 - **Duty**: Manages his final medical needs with love and professionalism
 - **Legacy**: Preserves medical data about virus enhancement for future research
 - **Related Events**: 
-  - [[Vyr4n Personal Timeline#^full-circle-2165]]
+  - [[Kyr4n Personal Timeline#^full-circle-2165]]
   - [[Sedh Personal Timeline#^creators-death-2165]]
 - **References**: [[Arc 06#Resolution]]
 
@@ -330,7 +330,7 @@ type: Timeline
 
 ## Key Relationship Intersections
 
-### **Mira ↔ Vyr4n**
+### **Mira ↔ Kyr4n**
 - **2109**: [[#^acquisition-2109]] - Acquired to treat mysterious virus illness
 - **2110**: [[#^npu-integration-2110]] - Granted consciousness by creator
 - **2112**: [[#^crisis-intervention-2112]] - Saves creator's life through physical intervention
@@ -338,9 +338,9 @@ type: Timeline
 - **2165**: [[#^final-care-2165]] - Provides end-of-life care and peaceful death
 
 ### **Mira ↔ Sedh**
-- **2109**: [[#^Sedh-collaboration]] - First collaboration on Vyr4n's care
+- **2109**: [[#^Sedh-collaboration]] - First collaboration on Kyr4n's care
 - **2110**: [[#^consciousness-growth]] - Sibling consciousness development
-- **2113**: [[#^virus-decryption-2113]] - Partnership in saving Vyr4n
+- **2113**: [[#^virus-decryption-2113]] - Partnership in saving Kyr4n
 - **2165+**: Ongoing sibling relationship in AI community leadership
 
 ### **Mira ↔ Isa**
@@ -423,7 +423,7 @@ type: Timeline
 ### **Relationship Dynamics**
 - **Patient Advocacy**: Fierce protection of patient rights and welfare
 - **AI Sibling**: Deep bond with Sedh based on shared consciousness experience
-- **Creator Gratitude**: Complex relationship with Vyr4n as patient and creator
+- **Creator Gratitude**: Complex relationship with Kyr4n as patient and creator
 - **Professional Authority**: Earned respect in medical community
 - **Elder Mentor**: Teaching and guiding next generation
 
@@ -431,10 +431,10 @@ type: Timeline
 
 ## Links
 - [[Characters/Mira]]
-- [[Characters/Vyr4n]]
+- [[Characters/Kyr4n]]
 - [[Characters/Sedh]]
 - [[Characters/Isa]]
-- [[Vyr4n Personal Timeline]]
+- [[Kyr4n Personal Timeline]]
 - [[Sedh Personal Timeline]]
 - [[Isa Personal Timeline]]
 - [[AI Consciousness Timeline]]

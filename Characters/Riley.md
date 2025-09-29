@@ -10,12 +10,12 @@
 - **Species/Race:** Human
 - **Ethnicity/Cultural Background:** American heritage, third-generation slum dweller
 - **Nationality/Citizenship:** Stateless (slum-born)
-- **Birthplace:** South Shore Slum (same district as Vyr4n)
+- **Birthplace:** South Shore Slum (same district as Kyr4n)
 - **Current Residence:** Mobile lifestyle - small apartment in neutral territory, often traveling
 - **Occupation:** Independent courier → Phoenix Recovery courier → Freelance messenger
 - **Social Class/Status:** Working class survivor → Trusted contractor → Respected neutral party
 - **Alignment:** Chaotic Good (adventurous but principled)
-- **Affiliations/Factions:** Phoenix Recovery (contractor), Independent Courier Network, Vyr4n's personal circle
+- **Affiliations/Factions:** Phoenix Recovery (contractor), Independent Courier Network, Kyr4n's personal circle
 - **Languages Spoken:** Corporate Standard (fluent), Street Cant (native), Courier Codes (professional)
 - **Religion/Beliefs:** Secular Buddhist-influenced philosophy, believes in balance and mindful living
 
@@ -175,7 +175,7 @@
   - Compass tattoo (symbolic of freedom and direction)
   - Collection of stones from different territories
   - Journal documenting travels and experiences
-  - Photo of him and Vyr4n from early friendship
+  - Photo of him and Kyr4n from early friendship
   - Small meditation bell given by a wise traveler
 
 - **Wealth & Assets:** 
@@ -196,11 +196,11 @@
   - Parents died in slum plague when he was 16
   - No known living relatives
   - Considers courier network and close friends as chosen family
-  - Grew up in same slum district as Vyr4n
+  - Grew up in same slum district as Kyr4n
 
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):**
-  - **Vyr4n**: Close friend who knew him before his rise to power, one of the few who still uses his real name
-  - **Isa**: Initially met through Vyr4n, friendly acquaintance
+  - **Kyr4n**: Close friend who knew him before his rise to power, one of the few who still uses his real name
+  - **Isa**: Initially met through Kyr4n, friendly acquaintance
   - **Phoenix Recovery Team**: Professional relationships that became friendships
   - **Various Territory Contacts**: Network of allies built through reliable service
 
@@ -219,14 +219,14 @@
 - **Significant Past Events:** 
   - Parents' death at age 16 forced complete independence
   - First successful courier run at age 18 proved his calling
-  - Meeting Vyr4n created lasting friendship
+  - Meeting Kyr4n created lasting friendship
   - Joining Phoenix Recovery expanded his opportunities and safety
 
 - **Defining Moment(s):** 
   - Choosing courier life over settling in one territory
   - First time using meditation to survive crisis
-  - Decision to maintain friendship with Vyr4n despite his transformation
-  - Teaching meditation to Vyr4n during virus struggles
+  - Decision to maintain friendship with Kyr4n despite his transformation
+  - Teaching meditation to Kyr4n during virus struggles
 
 - **Criminal Record (if any):** 
   - Technically clean due to neutral courier status
@@ -241,8 +241,8 @@
 
 - **Current Status & Recent Activities:** 
   - Regular courier for Phoenix Recovery and independent clients
-  - Frequent visitor to Vyr4n's organization compound
-  - Informally counseling Vyr4n on stress management through meditation
+  - Frequent visitor to Kyr4n's organization compound
+  - Informally counseling Kyr4n on stress management through meditation
   - Maintaining neutrality while supporting friend's organization
 
 ### World Interaction & Themes
@@ -254,7 +254,7 @@
   - Shows possibility of neutral parties in factional conflicts
 
 - **What They Represent in the Narrative:** 
-  - Vyr4n's connection to his past and humanity
+  - Kyr4n's connection to his past and humanity
   - The cost of power (friends become targets)
   - Normal life that continues despite larger conflicts
   - Teaching that some problems require inner solutions
@@ -267,22 +267,22 @@
   - **Teaching and Learning**: Wisdom shared between friends
 
 - **Potential Character Arcs:**
-  - **Arc 1**: Introduction as casual acquaintance, showing Vyr4n's social potential
+  - **Arc 1**: Introduction as casual acquaintance, showing Kyr4n's social potential
   - **Arc 2**: Friendship development through Phoenix Recovery work
-  - **Arc 3**: Loyal support during Vyr4n's virus crisis
-  - **Arc 4**: Teaching meditation, witnessing Vyr4n's transformation and power struggles
-  - **Arc 5**: Becomes victim of Vyr4n's growing legend, tragic catalyst
+  - **Arc 3**: Loyal support during Kyr4n's virus crisis
+  - **Arc 4**: Teaching meditation, witnessing Kyr4n's transformation and power struggles
+  - **Arc 5**: Becomes victim of Kyr4n's growing legend, tragic catalyst
 
 - **Conflicts They Face (Internal & External):**
-  - **Internal**: Balancing freedom with friendship responsibilities, concern for Vyr4n's changes
+  - **Internal**: Balancing freedom with friendship responsibilities, concern for Kyr4n's changes
   - **External**: Dangerous courier work, becoming target due to association with powerful friend
-  - **Narrative**: Serves as catalyst for Vyr4n's loss of control and character development
+  - **Narrative**: Serves as catalyst for Kyr4n's loss of control and character development
 
 ### Story Integration Notes
 
 **Arc 1 - Introduction:**
-- Casual encounters when Vyr4n leaves hideout
-- Shows Vyr4n's capacity for normal social interaction
+- Casual encounters when Kyr4n leaves hideout
+- Shows Kyr4n's capacity for normal social interaction
 - Establishes Riley's personality and lifestyle
 
 **Arc 2 - Professional Relationship:**
@@ -291,25 +291,25 @@
 - Reveals meditation practices during stressful deliveries
 
 **Arc 3 - Personal Support:**
-- Visits Vyr4n during virus-induced illness
+- Visits Kyr4n during virus-induced illness
 - Shows concern and loyalty during crisis
 - Demonstrates depth of friendship
 
 **Arc 4 - Mentor and Friend:**
 - Regular visitor to organization compound
 - Teaches meditation as practical stress management
-- Witnesses and worries about Vyr4n's growing power and isolation
+- Witnesses and worries about Kyr4n's growing power and isolation
 - Provides grounding influence and normal perspective
 
 **Arc 5 - Tragic Catalyst:**
-- Kidnapped by rival faction due to association with Vyr4n
+- Kidnapped by rival faction due to association with Kyr4n
 - Dies from mistreatment during captivity
-- Death triggers Vyr4n's devastating loss of control
+- Death triggers Kyr4n's devastating loss of control
 - Becomes symbol of cost of power and importance of self-control
 
 **Character Death Impact:**
 - Loss of moral anchor and normal friendship
 - Irony of meditation teacher dying due to failed self-control
-- Demonstrates consequences of Vyr4n's growing legend
+- Demonstrates consequences of Kyr4n's growing legend
 - Provides motivation for character growth and better control
 - Shows cost of power on innocent friends

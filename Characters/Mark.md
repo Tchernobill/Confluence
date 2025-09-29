@@ -2,7 +2,7 @@
 title: Mark - Character Sheet
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Characters
   - Mark
   - Security
@@ -94,5 +94,5 @@ type: Character Sheet
 - **How They Fit into the Setting:** Represents the professional military/security class that bridges corporate and street worlds
 - **What They Represent in the Narrative:** The reliable foundation, competent authority that can be trusted, old-school values in a changing world
 - **Themes Associated with the Character (e.g., Redemption, Chaos vs. Order, Transhumanism):** Duty vs. morality, the cost of loyalty, finding purpose after loss
-- **Potential Character Arcs:** Learning to work with unconventional methods (Vyr4n's approach), discovering there are battles worth fighting beyond corporate interests, building new family bonds with the team
+- **Potential Character Arcs:** Learning to work with unconventional methods (Kyr4n's approach), discovering there are battles worth fighting beyond corporate interests, building new family bonds with the team
 - **Conflicts They Face (Internal & External):** Balancing protective instincts with respect for others' autonomy, adapting to Phoenix Recovery's different mission, processing grief and finding new purpose

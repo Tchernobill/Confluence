@@ -4,7 +4,7 @@
 title: Jin "Patch" Nakamura - Character Sheet
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Characters
   - Jin
   - Chief Engineer
@@ -51,7 +51,7 @@ type: Character Sheet
 - **Strengths:** Brilliant technical mind, innovative problem-solving, absolute dedication, surprisingly brave when protecting his work or friends
 - **Weaknesses:** Obsessive tendencies, poor social skills, neglects self-care, impulsive when excited about new tech
 - **Fears & Traumas:** Technology failing when lives depend on it, being seen as inadequate, returning to the desperation of slum life
-- **Goals & Aspirations:** Perfect the art of human-machine integration, prove himself worthy of Vyr4n's mentorship, create technology that genuinely helps people
+- **Goals & Aspirations:** Perfect the art of human-machine integration, prove himself worthy of Kyr4n's mentorship, create technology that genuinely helps people
 - **Hobbies & Interests:** Collecting vintage electronics, building unnecessary but elegant gadgets, studying pre-collapse engineering texts
 - **Quirks & Habits:** Hums electronic music while working, organizes tools obsessively, lives on energy drinks and nutrient bars, talks to machines as if they're alive
 - **Mannerisms & Speech Patterns:** Rapid, technical speech when excited; uses engineering metaphors for everything; often distracted mid-conversation by technical problems
@@ -85,7 +85,7 @@ type: Character Sheet
 
 - **Family & Relatives:** Parents died in industrial accident when he was 12, raised by grandfather who was a pre-collapse electronics technician, no other known living relatives
 - **Notable Relationships (Romantic, Platonic, Rivalries, etc.):** 
-  - **Vyr4n:** Mentor figure and inspiration, student-teacher relationship
+  - **Kyr4n:** Mentor figure and inspiration, student-teacher relationship
   - **Marcus "Tank" Rodriguez:** Protective older brother figure
   - **Kaia "Whisper" Okafor:** Professional collaboration, mutual respect for each other's expertise
   - **Former clinic clients:** Grateful patients who see him as a savior
@@ -96,8 +96,8 @@ type: Character Sheet
   - Age 16: Built his first successful augmentation 
   - Age 19: Opened illegal clinic
   - Age 23: Disastrous procedure that paralyzed a client
-  - Age 24: Recruited by Vyr4n after impressing him with innovative repair work
-- **Defining Moment(s):** The failed augmentation procedure that taught him the weight of responsibility; meeting Vyr4n and realizing his potential
+  - Age 24: Recruited by Kyr4n after impressing him with innovative repair work
+- **Defining Moment(s):** The failed augmentation procedure that taught him the weight of responsibility; meeting Kyr4n and realizing his potential
 - **Criminal Record (if any):** Illegal medical practice, unlicensed augmentation procedures, tech theft for clinic supplies
 - **Enemies & Conflicts:** Corporate security forces who want to shut down underground clinics, rival underground engineers jealous of his skill
 - **Current Status & Recent Activities:** Chief Engineer at Phoenix Recovery, developing new ethical augmentation procedures, mentoring younger technicians
@@ -118,7 +118,7 @@ type: Character Sheet
 
 ### Key Relationships Within Phoenix Recovery
 
-- **Vyr4n:** Deep mentor-student bond, Vyr4n sees Jin as proof that technology can heal rather than harm
+- **Kyr4n:** Deep mentor-student bond, Kyr4n sees Jin as proof that technology can heal rather than harm
 - **Inner Circle:** Valued team member whose technical expertise is essential to operations
 - **Clients:** Patients who come for ethical augmentation procedures, many are former street clinic customers
 

@@ -1,13 +1,13 @@
 ---
 title: 
-  - Vyr4n Detailed Timeline
+  - Kyr4n Detailed Timeline
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Timeline
   - Character Development
 timeline_type: character
-character_focus: Vyr4n
+character_focus: Kyr4n
 date_range: "2086-2165"
 related_timelines: 
   - "[[World Events Timeline]]"
@@ -20,7 +20,7 @@ last_updated: 2025-06-04 15:30
 type: Timeline
 ---
 
-# Vyr4n Personal Timeline
+# Kyr4n Personal Timeline
 
 *From orphaned scavenger to benevolent dictator to democratic gardener*
 
@@ -33,7 +33,7 @@ type: Timeline
 - **Context**: Born into post-collapse cyberpunk dystopia
 - **Related Events**: 
   - [[World Events Timeline#^2086-slum-formation]]
-- **References**: [[Characters/Vyr4n#Background]]
+- **References**: [[Characters/Kyr4n#Background]]
 
 ### **2086-2102 (Ages 0-16)** - Childhood ^childhood-era
 - **Event**: Raised by mother in underground maintenance tunnels
@@ -42,7 +42,7 @@ type: Timeline
 - **Personality Formation**: Learns to hide vulnerabilities, values independence
 - **Related Events**: 
   - [[Technology Timeline#^underground-tech-culture]]
-- **References**: [[Characters/Vyr4n#Upbringing]]
+- **References**: [[Characters/Kyr4n#Upbringing]]
 
 ### **2102 (Age 16)** - The Loss ^mothers-death-2102
 - **Event**: Mother dies from industrial poisoning in [[Lore/The Midnight Protocol#Champlain Wastes]]
@@ -52,26 +52,26 @@ type: Timeline
 - **Emotional Impact**: Foundation of trust issues and protective instincts
 - **Related Events**: 
   - [[World Events Timeline#^2102-industrial-accidents]]
-- **References**: [[Characters/Vyr4n#Defining Moments]], [[Key scenes/01.01 - The Memory Garden]]
+- **References**: [[Characters/Kyr4n#Defining Moments]], [[Key scenes/01.01 - The Memory Garden]]
 
 ---
 
 ## Arc 01: The Scavenger (2102-2108)
 
 ### **2102-2103 (Age 16-17)** - Early Survival ^early-survival
-- **Event**: Discovers and claims [[Lore/Vyr4n's Utility Room Hideout]]
-- **Location**: [[Lore/Vyr4n's Utility Room Hideout]]
+- **Event**: Discovers and claims [[Lore/Kyr4n's Utility Room Hideout]]
+- **Location**: [[Lore/Kyr4n's Utility Room Hideout]]
 - **Skills**: Develops scavenging expertise, basic electronics repair
 - **Reputation**: Begins building "The Artisan" underground reputation
 - **Lifestyle**: Extreme isolation, subsistence living, careful resource management
 - **Related Events**: 
   - [[Technology Timeline#^2102-scavenger-networks]]
-- **References**: [[Chapters/Chapter 01.01]], [[Key scenes/01.01 - Waking-up]]
+- **References**: [[Chapter 01.01]], [[Key scenes/01.01 - Waking-up]]
 
 ### **2103 (Age 17)** - First Contact ^first-contact-2103
 - **Event**: Meets [[Characters/Isa]] during [[Underground Tech Market]] transaction
 - **Location**: [[Underground Tech Market]]
-- **Characters**: [[Vyr4n]], [[Isa]]
+- **Characters**: [[Kyr4n]], [[Isa]]
 - **Transaction**: High-precision data recovery job establishes professional respect
 - **Skills Displayed**: Precision repair capabilities, mysterious workshop access
 - **Reputation**: "The Artisan" legend begins growing
@@ -81,8 +81,8 @@ type: Timeline
 
 ### **2103 (Age 17)** - The Riot Shelter ^riot-shelter-2103
 - **Event**: [[South Shore Slum]] riots force Isa to seek shelter
-- **Location**: [[Lore/Vyr4n's Utility Room Hideout]]
-- **Characters**: [[Vyr4n]], [[Isa]]
+- **Location**: [[Lore/Kyr4n's Utility Room Hideout]]
+- **Characters**: [[Kyr4n]], [[Isa]]
 - **Significance**: First human intimacy and emotional connection
 - **Relationship**: Foundation of romantic partnership with Isa
 - **Personal Growth**: Learns trust and physical intimacy
@@ -94,7 +94,7 @@ type: Timeline
 ### **2104 (Age 18)** - The Enforcer Incident ^enforcer-incident-2104
 - **Event**: Confrontation with corporate enforcer in market
 - **Location**: [[Underground Tech Market]]
-- **Characters**: [[Vyr4n]], [[Isa]], Corporate Enforcer
+- **Characters**: [[Kyr4n]], [[Isa]], Corporate Enforcer
 - **Skills Displayed**: Combat precision, technical problem-solving approach to violence
 - **Weapons**: First use of concealed [[Equipment#PitBull MKIII]]
 - **Reputation**: Demonstrates hidden depths beyond technical skills
@@ -153,9 +153,9 @@ type: Timeline
 ## Arc 02: The Infected (2108-2115)
 
 ### **2108 (Age 22)** - The Proposition ^heist-proposition-2108
-- **Event**: Frank recruits Vyr4n for corporate research facility heist
+- **Event**: Frank recruits Kyr4n for corporate research facility heist
 - **Location**: [[Phoenix Recovery Business]]
-- **Characters**: [[Vyr4n]], Frank (contractor team leader)
+- **Characters**: [[Kyr4n]], Frank (contractor team leader)
 - **Target**: Prototype Neural Processing Unit "Egypt" for [[Characters/Sedh]]
 - **Motivation**: Advance Sedh's consciousness beyond current limitations
 - **Stakes**: High-risk operation for transformative technology
@@ -164,7 +164,7 @@ type: Timeline
 - **References**: [[Arc 02#Chapter 7]], [[Timeline alpha#Arc 2]]
 
 ### **2109 (Age 23)** - The Infection ^virus-infection-2109
-- **Event**: Corporate heist exposes Vyr4n to [[Lore/The Midnight Protocol]] nano-virus
+- **Event**: Corporate heist exposes Kyr4n to [[Lore/The Midnight Protocol]] nano-virus
 - **Location**: Corporate research facility R&D lab
 - **Virus**: Prototype psychological warfare nanobots, designed as "ultimate torture device"
 - **Exposure**: Accidental breach during explosive escape sequence
@@ -198,7 +198,7 @@ type: Timeline
 - **Related Events**: 
   - [[Enhancement Timeline#^2112-virus-control]]
   - [[Relationship Timeline#^2112-forced-separation]]
-- **References**: [[Arc 02#Climax]], [[Characters/Vyr4n#Defining Moments]]
+- **References**: [[Arc 02#Climax]], [[Characters/Kyr4n#Defining Moments]]
 
 ### **2113 (Age 27)** - The Signal ^virus-analysis-2113
 - **Event**: [[Characters/Sedh]] and [[Characters/Mira]] crack virus communication protocol
@@ -206,7 +206,7 @@ type: Timeline
 - **Breakthrough**: Decrypt nanobotic network, understand virus architecture
 - **Technology**: Map neural infiltration and control mechanisms
 - **Treatment**: Reduce virus threat level, enable partial awakening
-- **Duration**: Week-long analysis while Vyr4n remains in coma
+- **Duration**: Week-long analysis while Kyr4n remains in coma
 - **Related Events**: 
   - [[Technology Timeline#^2113-virus-decryption]]
   - [[Sedh Timeline#^2113-medical-collaboration]]
@@ -238,7 +238,7 @@ type: Timeline
 - **Isolation**: Maintains emotional distance from humans
 - **Related Events**: 
   - [[Enhancement Timeline#^2115-control-development]]
-- **References**: [[Characters/Vyr4n#Virus Mastery]]
+- **References**: [[Characters/Kyr4n#Virus Mastery]]
 
 ### **2119 (Age 33)** - The Vasquez Takeover ^Vasquez-takeover-2119
 - **Event**: Confrontation with Rico "The Grip" Vasquez leads to syndicate takeover
@@ -335,7 +335,7 @@ type: Timeline
 - **Related Events**: 
   - [[Relationship Timeline#^2137-isa-confrontation]]
   - [[Power Timeline#^2137-moral-questioning]]
-- **References**: [[Key scenes/Isa and Vyr4n - Reunion]], [[Arc 04#Chapter 4.05]]
+- **References**: [[Key scenes/Isa and Kyr4n - Reunion]], [[Arc 04#Chapter 4.05]]
 
 ### **2140 (Age 54)** - The Benevolent Dictator ^benevolent-dictator-2140
 - **Event**: Achieves total territorial control while maintaining popular support

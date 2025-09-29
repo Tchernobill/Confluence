@@ -1,9 +1,9 @@
 ---
 title:
-  - Vyr4n's Inner Circle - Power Era Characters (Enhanced)
+  - Kyr4n's Inner Circle - Power Era Characters (Enhanced)
 tags:
   - Novel
-  - Vyr4n
+  - Kyr4n
   - Characters
   - Inner Circle
 version: "0.4"
@@ -12,7 +12,7 @@ last_updated: 2025-05-31 17:15
 type: Reference
 ---
 
-# Vyr4n's Inner Circle
+# Kyr4n's Inner Circle
 
 ## Core Leadership Circle
 
@@ -28,14 +28,14 @@ type: Reference
 - **Personality**: Brilliant, ethically rigid, sees potential for good in his organization despite moral concerns
 - **Sample Dialogue**:
   - "The patient's neural pathways show severe degradation. We need to act now, not debate the ethics."
-  - "Your methods save lives, Vyr4n, but at what cost to your soul?"
+  - "Your methods save lives, Kyr4n, but at what cost to your soul?"
   - "I didn't leave corporate medicine to watch you become what I was running from."
   - "The human body is a precision instrument. Treat it with the respect it deserves."
   - "Coffee first, miracles second. That's how I maintain my surgical average."
 
 ### 2. **Marcus "Steel" Chen** - Head of Security
 
-- **Background**: Ex-corporate security who witnessed Vyr4n spare his life during Rico's takeover
+- **Background**: Ex-corporate security who witnessed Kyr4n spare his life during Rico's takeover
 - **Gender/Orientation**: Male, Heterosexual (widowed)
 - **Physical**: 6'2", broad shoulders, muscular from combat training, East Asian features, graying black hair in military cut, brown eyes, grey finish cybernetic left arm (after loss of organic one)
 - **Style**: Tactical clothing, armored vest, carries vintage pistol, wedding ring (deceased wife)
@@ -75,7 +75,7 @@ type: Reference
 - **Style**: Oil-stained work clothes, tool belts, fingerless gloves, safety goggles pushed up on forehead
 - **Preferences**: Lives on energy drinks and nutrient bars, works 16-hour days, obsessively organizes tools, hums while working
 - **Role**: Infrastructure maintenance, tech development, augmentation procedures
-- **Relationship**: Student-teacher dynamic, Vyr4n mentors his advanced projects
+- **Relationship**: Student-teacher dynamic, Kyr4n mentors his advanced projects
 - **Personality**: Eager to prove himself, brilliant but impulsive, devoted to technological perfection
 - **Sample Dialogue**:
   - "Boss, this neural interface is like poetry written in circuits—beautiful and functional."
@@ -134,7 +134,7 @@ type: Reference
   - "The mind is like a garden—it grows whatever seeds you plant most carefully."
   - "I study people the way others study maps—to find the best route to my destination."
   - "Motivation is simple: people move toward pleasure and away from pain."
-  - "Your tells are fascinating, Vyr4n. You control everything except your left eyebrow."
+  - "Your tells are fascinating, Kyr4n. You control everything except your left eyebrow."
   - "Psychology isn't mind control—it's mind liberation through understanding."
 
 ### 8. **Viktor "Ghost" Petrov** - Special Operations
@@ -146,7 +146,7 @@ type: Reference
 - **Preferences**: Drinks vodka neat, speaks little, maintains weapons religiously, sleeps with one eye open
 - **Role**: Covert operations, elimination of threats, black ops missions
 - **Relationship**: Professional only, mutual understanding of necessary violence
-- **Personality**: Cold efficiency, moral flexibility, respects Vyr4n's strategic mind
+- **Personality**: Cold efficiency, moral flexibility, respects Kyr4n's strategic mind
 - **Sample Dialogue**:
   - "Target eliminated. Clean exit. No witnesses. Next assignment?"
   - "Emotion is luxury I cannot afford in my line of work."
@@ -182,7 +182,7 @@ type: Reference
 - **Preferences**: Drinks Earl Grey tea, organizes everything, reads classical literature, enjoys quiet classical music
 - **Role**: Scheduling, personal needs, administrative coordination
 - **Relationship**: Trusted confidant, almost family-like bond
-- **Personality**: Unflappable, intensely loyal, manages Vyr4n's daily life with quiet efficiency
+- **Personality**: Unflappable, intensely loyal, manages Kyr4n's daily life with quiet efficiency
 - **Sample Dialogue**:
   - "Sir, your three o'clock has been moved to accommodate the emergency situation."
   - "I've seen board meetings that would terrify dictators, but I still believe in doing things properly."
@@ -216,7 +216,7 @@ type: Reference
 - **Preferences**: Listens to underground music, drinks energy drinks, stays up late monitoring feeds, collects vintage radio equipment
 - **Role**: Internal communications, external messaging, media management
 - **Relationship**: Close friendship, occasional romantic tension
-- **Personality**: Charismatic, believes in Vyr4n's vision, excellent at inspiring others
+- **Personality**: Charismatic, believes in Kyr4n's vision, excellent at inspiring others
 - **Sample Dialogue**:
   - "The airwaves are buzzing with chatter about our latest operation—mostly positive."
   - "Music is rebellion set to rhythm, and communication is revolution with better marketing."
@@ -234,7 +234,7 @@ type: Reference
 - **Style**: Comfortable sweaters, corduroys, worn sneakers, always carries hard candy for patients
 - **Preferences**: Drinks herbal tea, reads philosophy, grows small plants, speaks slowly and thoughtfully
 - **Role**: Drug treatment programs, psychological rehabilitation, social reintegration
-- **Relationship**: Father-figure dynamic, challenges Vyr4n's darker impulses
+- **Relationship**: Father-figure dynamic, challenges Kyr4n's darker impulses
 - **Personality**: Compassionate, stubborn about humanitarian principles, moral anchor
 - **Sample Dialogue**:
   - "Healing takes time, son. You can't rush someone back to wholeness."
@@ -269,7 +269,7 @@ type: Reference
 - **Preferences**: Drinks strong coffee, speaks passionately with hands, reads labor history, enjoys folk music
 - **Role**: Community outreach, civilian relations, social programs
 - **Relationship**: Ideological partnership, frequent policy debates
-- **Personality**: Passionate about social justice, sometimes clashes with Vyr4n's methods
+- **Personality**: Passionate about social justice, sometimes clashes with Kyr4n's methods
 - **Sample Dialogue**:
   - "The people don't want a savior, hermano—they want a chance to save themselves."
   - "I've organized strikes against corporate giants and won. This is just bigger."
@@ -298,7 +298,7 @@ type: Reference
 
 ### 17. **Tommy "Sage" O'Brien** - Territory Manager (West District)
 
-- **Background**: Former slum gang leader who embraced Vyr4n's protection model
+- **Background**: Former slum gang leader who embraced Kyr4n's protection model
 - **Gender/Orientation**: Male, Heterosexual (longtime girlfriend, no kids by choice)
 - **Physical**: 5'11", muscular from street fighting, Irish features, red hair with premature gray, green eyes, numerous tattoos telling his life story
 - **Style**: Leather jacket, jeans, steel-toed boots, knuckle guards, chain wallet
@@ -485,7 +485,7 @@ type: Reference
 
 ## Links
 
-- [[Vyr4n Character Development]]
+- [[Kyr4n Character Development]]
 - [[Power Era Character Arcs]]
 - [[Criminal Organization Structure]]
 - [[Found Family Relationships]]

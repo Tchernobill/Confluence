@@ -3,7 +3,7 @@
 
 **Classification**: ABSOLUTE BLACK  
 **Operation Code**: StoneBone  
-**Primary Operator**: Vyr4n  
+**Primary Operator**: Kyr4n  
 **Mission Date**: [REDACTED]  
 **Authorization**: Emergency Response to Crown Nuclear Threat
 
@@ -160,7 +160,7 @@ Operation StoneBone represents a kinetic response to imminent Citadel tactical n
 - 4× flatbed vehicles for mobile deployment
 
 **Assembly Locations**:
-- Primary workshop: Vyr4n's underground facility (launcher assembly)
+- Primary workshop: Kyr4n's underground facility (launcher assembly)
 - The Stacks: Container camouflage preparation
 - Distributed sites: Projectile preparation (4 locations)
 
@@ -236,7 +236,7 @@ The Citadel expects cyber warfare, stealth infiltration, or coordinated drone sw
 ---
 
 **Document prepared by**: [REDACTED]  
-**Technical consultation**: Vyr4n, Shore Engineering Corps  
+**Technical consultation**: Kyr4n, Shore Engineering Corps  
 **Authorization**: Shore Liberation Command  
 **Distribution**: EYES ONLY - Operation Leadership
 

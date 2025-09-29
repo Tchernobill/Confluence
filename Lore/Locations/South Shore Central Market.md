@@ -43,7 +43,7 @@ The eastern platform specializes in technology—everything from salvaged corpor
 - **Component Row**: Basic electronic parts, wiring, and standard repair supplies
 - **Black Box Alley**: Military surplus, restricted technology, and questionable-origin devices
 - **Modification Station**: Live demonstrations of enhancement services and system upgrades
-- **The Artisan's Corner**: Premium stall where Vyr4n operated before Phoenix Recovery
+- **The Artisan's Corner**: Premium stall where Kyr4n operated before Phoenix Recovery
 
 #### Western Platform (Goods & Services)
 

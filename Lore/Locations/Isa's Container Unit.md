@@ -120,10 +120,10 @@ Standing at the windows reveals the true scope of the Stack environment while ma
 
 **Night:** Security lighting patterns reveal the constant vigilance required in her profession, while the distant Citadel's defensive systems demonstrate the advanced technology her clients aspire to access.
 
-## Impression on Vyr4n
+## Impression on Kyr4n
 
 For someone accustomed to the cramped confines of a utility room, Isa's container unit represents a completely different approach to Stack survival. Rather than hiding from the world, she has created a space that welcomes it - but on her own terms.
 
 The professional atmosphere speaks to her business acumen and the relationships she has built throughout the underground economy. The security measures reveal the dangers inherent in her profession, while the comfort and sophistication demonstrate the rewards of successful entrepreneurship in the gray market.
 
-For Vyr4n, seeing this space provides insight into a different path - one where technical skills serve social connections rather than solitary survival. The unit represents what collaboration and trust might achieve, even in the harsh environment of the South Shore Slum. It's a glimpse of prosperity built on reputation and relationships rather than pure technical isolation.
+For Kyr4n, seeing this space provides insight into a different path - one where technical skills serve social connections rather than solitary survival. The unit represents what collaboration and trust might achieve, even in the harsh environment of the South Shore Slum. It's a glimpse of prosperity built on reputation and relationships rather than pure technical isolation.
