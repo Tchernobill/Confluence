@@ -9,7 +9,7 @@
 
 ## Tome Overview
 
-**Tome Synopsis**: Months after his mother's death, Kyr4n living in an underground utility rooms somewhere near one of the the  [[South Shore Central Market]]. He survives by scavenging tech and performing repairs, sometime underground, earning a reputation as "The Artisan" for his exceptional technical skills, partially thanks to his secret homemade device, [[Kyr4n Magic Box]]. His skills at salvaging devices and implants catch the attention of [[Isa]], an underground implants dealer. Through they business and mutual respect, a friendship began to grow.
+**Tome Synopsis**: Months after his mother's death, Kyr4n living in an underground utility rooms somewhere near one of the the  [[South Shore Central Market]]. He survives by scavenging tech and performing repairs, sometime underground, earning a reputation as "The Artisan" for his exceptional technical skills, partially thanks to his secret homemade device, [[Kyr4n Magic Box]]. His skills at salvaging devices and implants catch the attention of [[Archives/Characters/Mains/Isa]], an underground implants dealer. Through they business and mutual respect, a friendship began to grow.
 
 During this period, Kyr4n discovers a damaged android head unit. Rather than harvesting the parts, Kyr4n began to repair and experiment on the head, naming it Sedh (Severed Droid Head). 
 

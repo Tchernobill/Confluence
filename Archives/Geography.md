@@ -66,7 +66,7 @@ The former South Shore suburbs have devolved into a massive shantytown stretchin
 - **The Underground**: Extensive tunnel networks connecting basements, sewers, and abandoned subway lines
 
 **Key Locations:**
-- **Phoenix Recovery District**: [[Characters/Mains/Vyr4n]]'s territory, known for relatively high safety and quality tech services
+- **Phoenix Recovery District**: [[Archives/Characters/Mains/Vyr4n]]'s territory, known for relatively high safety and quality tech services
 - **The Market Maze**: Sprawling bazaar built in abandoned shopping centers and parking structures
 - **Scavenger Zones**: Dangerous areas where tech salvagers hunt for valuable components
 - **Medical Black Markets**: Underground clinics offering everything from basic healthcare to illegal augmentations
@@ -74,7 +74,7 @@ The former South Shore suburbs have devolved into a massive shantytown stretchin
 **Social Structure:**
 - **Tech Crews**: Skilled workers who maintain Citadel systems remotely
 - **Scavenger Guilds**: Organized groups that harvest materials from industrial ruins
-- **Underground Entrepreneurs**: Small business owners like [[Isa]] who provide essential services
+- **Underground Entrepreneurs**: Small business owners like [[Archives/Characters/Mains/Isa]] who provide essential services
 - **Survival Communities**: Informal networks of mutual aid and protection
 
 ---

@@ -25,12 +25,12 @@ _Core Aesthetic and Narrative Framework_
 - **What Makes Someone Human?**: Exploring the boundaries between organic and artificial consciousness
 - **Memory and Self**: How experiences shape identity, especially traumatic ones
 - **Technological Enhancement vs. Humanity**: The cost of improvement and the fear of losing oneself
-- **Created vs. Born Consciousness**: [[Sedh - Detailed]]'s awakening paralleled with [[Characters/Mains/Vyr4n]]'s transformation
+- **Created vs. Born Consciousness**: [[Sedh - Detailed]]'s awakening paralleled with [[Archives/Characters/Mains/Vyr4n]]'s transformation
 - **Ghost in the Machine**: The ineffable spark that makes consciousness more than programming
 
 ### Power and Corruption
 
-- **Reluctant Authority**: [[Characters/Mains/Vyr4n]]'s accidental accumulation of power and its psychological cost
+- **Reluctant Authority**: [[Archives/Characters/Mains/Vyr4n]]'s accidental accumulation of power and its psychological cost
 - **Misunderstood Intentions**: Actions interpreted differently by observers versus actual motivations
 - **Protection vs. Control**: The thin line between caring for people and dominating them
 - **Competence as Currency**: How exceptional skill becomes both freedom and trap
@@ -64,7 +64,7 @@ _Core Aesthetic and Narrative Framework_
 
 ### Perspective and Voice
 
-- **Limited Third Person**: Close focus on [[Characters/Mains/Vyr4n]]'s evolving perspective
+- **Limited Third Person**: Close focus on [[Archives/Characters/Mains/Vyr4n]]'s evolving perspective
 - **Technical Precision**: Accurate, detailed descriptions of technology and processes
 - **Emotional Subtlety**: Characters expressing feelings through actions rather than dialogue
 - **Sensory Detail**: Rich descriptions of physical sensations and environmental conditions
