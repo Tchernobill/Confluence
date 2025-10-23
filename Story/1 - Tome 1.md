@@ -116,7 +116,8 @@ isolation vs. connection, consciousness and personhood
 
 **Tome Resolution**: Phoenix Recovery officially opens with a line of clients, representing Kyr4n's transformation from isolated scavenger to successful artisan. However, Isa's observation that Kyr4n shows more connection to Sedh than to any human hints at future complications.
 
-**Tome Mood/Tone Evolution**: 
+**Tome Mood/Tone Evolution**:
+
 - **Opening**: Gritty isolation, survival-focused, cyberpunk dystopia
 - **Middle**: Tentative connection, philosophical exploration, growing warmth
 - **Ending**: Cautious optimism, legitimate success, but underlying emotional barriers remain

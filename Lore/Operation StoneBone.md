@@ -3,7 +3,7 @@
 
 **Classification**: ABSOLUTE BLACK  
 **Operation Code**: StoneBone  
-**Primary Operator**: Kyr4n  
+**Primary Operator**: Kyr4n
 **Mission Date**: [REDACTED]  
 **Authorization**: Emergency Response to Crown Nuclear Threat
 
