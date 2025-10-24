@@ -802,7 +802,7 @@ Here's a detailed bullet-point summary of all the scenes:
 - Social media chatter begins appearing despite their efforts
 - Organization mobilizes all resources for narrative control
 
-## Emergency Meeting & Isolation (Parallel Scenes)
+### Emergency Meeting & Isolation (Parallel Scenes)
 
 ### The Basement Council
 - Seven inner circle members gather in secure basement room
@@ -856,7 +856,7 @@ Here's a detailed bullet-point summary of all the scenes:
 - Others agree to take shifts maintaining contact
 - Decision made to fight isolation rather than prepare execution
 
-## The Night Attack
+### The Night Attack
 - Late night in Kyr4n's quarters, lights off, everything quiet
 - Helene on watch, fell asleep on couch from exhaustion
 - Kyr4n senses four armed, augmented signatures approaching
