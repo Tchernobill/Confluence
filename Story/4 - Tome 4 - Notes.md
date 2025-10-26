@@ -33,18 +33,10 @@ Kyr4n's revelation
 
 
 
-
-
-
-
-
 One territory leader organise meet with Kyr4n
 
 
-
-
 Live Streaming
-
 
 
 
@@ -188,7 +180,7 @@ Organisation recovery team burst in and recover Kyr4n and body of Riley
 - They acknowledge contingency plan may still be necessary
 
 
-### Chapter 07 - Kyr4n's Reveal
+### Chapter 07 - Kyr4n's Reveal.
 
 - Kyr4n invites his inner circle to his private quarters under the pretence of reviewing quarterly reports
 - Kyr4n establishes that in his private quarters there are no ranks, titles, or hierarchy—just friends and family (and no shoes)

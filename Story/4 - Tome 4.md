@@ -1,7 +1,7 @@
-# Tome 4: The Leader
+# Tome 4: The Boss
 
 ---
-**Tome Title**: The Leader
+**Tome Title**: The Boss
 **Timeline Span**: 2125 (Age 39) → 2140 (Age 54)
 **Chapter Count**: 12 chapters
 **Estimated Word Count**: [Target length TBD]

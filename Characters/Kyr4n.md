@@ -40,13 +40,13 @@ tags:
 
 ## Quick Reference Card
 
-| **Aspect** | **Details** |
-|------------|-------------|
-| **Full Name** | Kyr4n [Last name unknown/never revealed] |
-| **Role** | Virus-enhanced electronics genius hiding supernatural abilities while building an underground empire of second chances |
-| **Age** | 39 (Born 2086) |
-| **Location** | Phoenix Recovery compound, South Shore Slum |
-| **Status** | Territory leader protecting community while concealing true nature |
+| **Aspect**    | **Details**                                                                                                            |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Full Name** | Kyr4n [Last name unknown/never revealed]                                                                               |
+| **Role**      | Virus-enhanced electronics genius hiding supernatural abilities while building an underground empire of second chances |
+| **Age**       | 39 (Born 2086)                                                                                                         |
+| **Location**  | Phoenix Recovery compound, South Shore Slum                                                                            |
+| **Status**    | Territory leader protecting community while concealing true nature                                                     |
 
 ---
 
