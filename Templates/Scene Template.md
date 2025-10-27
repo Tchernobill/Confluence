@@ -1,15 +1,28 @@
 ---
 title:
-  - Format: Arc.chapter.scene - Title, Example: 01.01.01 - The Scene
+  - [Scene Title]
+description: "[One line description]"
 tags:
-  - tag01
-  - tag02
-  - tag03
-  - tag04
-version: "0.1" Increment by 0.1 on each change
-status: in progress
-last_updated: Current date, Format: 2025-05-31 11:30
-type: Scene
+  - Confluence
+  - [Character names]
+type: scene  # or "summary"
+tome: [number]
+chapter: [two digits]
+scene_number: [three digits]  # Format: 001, 002, etc.
+story_date: YYYY-MM-DD
+story_date_end: YYYY-MM-DD  # Can be same as story_date
+pov: [Character Name]
+characters_present:
+  - "[[Character1]]"
+  - "[[Character2]]"
+location: "[[Location Name]]"
+time_of_day: [morning/afternoon/evening/night]
+plot_threads:
+  - "[[Thread1]]"
+  - "[[Thread2]]"
+version: "0.1"
+status: [in progress/draft/final]
+last_updated: YYYY-MM-DD HH:MM
 ---
 
 ## Scene Information

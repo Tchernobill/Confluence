@@ -1,3 +1,4 @@
+
 ```dataviewjs
 let allPages = dv.pages('"03.Hobbies/Writing/Confluence/Story"')
   .where(p => p.type === "scene" || p.type === "summary");
@@ -16,27 +17,33 @@ for (let p of allPages) {
   }
 }
 
-// Convert to array and sort
+// Convert to array and sort numerically
 let items = Object.values(grouped).sort((a, b) => {
-  if (a.tome !== b.tome) return a.tome - b.tome;
-  if (a.chapter !== b.chapter) return String(a.chapter).localeCompare(String(b.chapter));
-  return String(a.scene_number).localeCompare(String(b.scene_number));
+  if (a.tome !== b.tome) return Number(a.tome) - Number(b.tome);
+  if (a.chapter !== b.chapter) return Number(a.chapter) - Number(b.chapter);
+  return Number(a.scene_number) - Number(b.scene_number);
 });
+
+// Calculate chapter word counts
+let chapterWords = {};
+for (let item of items) {
+  let chapterKey = `${item.tome}-${item.chapter}`;
+  if (!chapterWords[chapterKey]) {
+    chapterWords[chapterKey] = 0;
+  }
+  let words = item.scene?.words_count || 0;
+  chapterWords[chapterKey] += Number(words) || 0;
+}
 
 let lastTome = null;
 let lastChapter = null;
+const BUDGET = 8000;
 
 let rows = items.map(item => {
   let p = item.scene || item.summary; // Use scene data, fallback to summary
   
-  let tome = (p.tome !== lastTome) ? p.tome : "";
-  let chapter = (p.tome !== lastTome || p.chapter !== lastChapter) ? 
-    String(p.chapter).padStart(2, '0') : "";
-  
-  lastTome = p.tome;
-  lastChapter = p.chapter;
-  
-  let scene = String(p.scene_number).padStart(3, '0');
+  // Format as X.XX.XXX
+  let sceneId = `${p.tome}.${String(p.chapter).padStart(2, '0')}.${String(p.scene_number).padStart(3, '0')}`;
   
   // Handle date with fallback for non-date values like "TBD"
   let date = "";
@@ -71,9 +78,23 @@ let rows = items.map(item => {
     ?.map(c => dv.fileLink(c).display || c.path.split("/").pop().replace(".md", ""))
     .join(", ") || "";
   
-  return [tome, chapter, scene, date, titleLink, summaryLink, pov, chars];
+  // Get word count (from scene file if it exists, otherwise from summary)
+  let words = item.scene?.words_count || item.summary?.words_count || "";
+  
+  // Chapter word count - only show on first scene of chapter
+  let chapterWordCount = "";
+  if (p.tome !== lastTome || p.chapter !== lastChapter) {
+    let chapterKey = `${p.tome}-${p.chapter}`;
+    let total = chapterWords[chapterKey];
+    chapterWordCount = `${total}`;
+  }
+  
+  lastTome = p.tome;
+  lastChapter = p.chapter;
+  
+  return [sceneId, date, titleLink, summaryLink, pov, chars, words, chapterWordCount];
 });
 
-dv.table(["Tome", "Chapter", "Scene", "Date", "Title", "Summary", "POV", "Characters"], rows);
-```
+dv.table(["Scene", "Date", "Title", "Summary", "POV", "Characters", "Words", "Total"], rows);
 
+```

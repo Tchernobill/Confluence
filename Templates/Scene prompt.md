@@ -41,10 +41,10 @@ Use these as source materials:
 
     /Characters/*.md (Character sheets)
     /Lore/*.md (World, factions, technology, etc.)
-    /Story/Arc 1/Arc 1 - Arc Title.md (Arc outline)
-    /Story/Arc 1/01.01 - Chapter Title.md (Chapters outline)
-    /Story/Arc 1/01.01.01.md (Scene outline)
-    /Story/Arc 1/01.01.01 - Scene Title.md (Scene text)
+    /Story/Arc Title.md (Arc outline)
+    /Story/1.01 - Chapter Title.md (Chapters outline)
+    /Story/1.01.001 - Summary.md (Scene outline)
+    /Story/1.01.001 - Scene Title.md (Scene text)
     /Templates/Scene Template.md (Formatting guide)
 
 🧾 Output Format
@@ -55,8 +55,8 @@ Return decoments in Markdown format. Label each one clearly with its scene numbe
 
 You are currently working on:
 
-    Arc: 01
-    Chapter: 01.01
-    Scenes: 01.01.01
+    Tome: 1
+    Chapter: 1.01
+    Scenes: 1.01.001
 
 Your goal is to complete one 'Scene Template.md' for the scene, based on the available story material and project structure.
