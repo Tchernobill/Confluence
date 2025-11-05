@@ -19,3 +19,12 @@ Use some misdirection toward the CEO of Nordam to be the lost father Kyr4n never
 ---
 
 Include discreet foreshadowing details, like in mid arc 4, someone looking to pay with 300 used industrial gaw cylinders (used in operation StoneB0ne)
+
+---
+
+Like you mentionned, I have a no killing rule, I strongly believe in redemption. 
+And you are someone exceptional Dr., so, for you, I'll make an exception. 
+As he pronounce the work exception, the tip of the blade went the heart and ruptured it. 
+
+---
+

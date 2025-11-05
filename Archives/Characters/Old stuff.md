@@ -1,1 +1,0 @@
-Old concepts and ideas

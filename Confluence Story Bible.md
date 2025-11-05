@@ -35,7 +35,7 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 
 ### Genre & Subgenres
 - **Primary Genre**: Semi-Cyberpunk (technology as backdrop rather than driving force)
-- **Subgenres**: Slice-of-life, Dystopian Fiction, AI Rights, Crime Saga
+- **Subgenres**: Slice-of-life, Dystopian Fiction, Crime Saga, A.I. Evolution
 - **Target Audience**: Adult readers interested in character-driven narratives
 - **Comp Titles**: Neuromancer meets The Wire with elements of Ghost in the Shell
 
@@ -55,22 +55,22 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 
 #### Kyr4n (Central Protagonist - Present in All Tomes)
 - **Age**: Born 2086 (story spans ages 16-79)
-- **Occupation**: Scavenger → Electronics repair → Crime lord → Community protector
-- **Physical Description**: Lean, wiry build; dark hair; intense eyes that develop electrical glow post-infection
+- **Occupation**: Scavenger → Electronics repair → Criminal → Territory Boss → Organisation Leader → Community protector
+- **Physical Description**: Lean, wiry build; dark hair; tired eyes
 - **Personality**: Brilliant, methodical, emotionally guarded, deeply caring beneath protective barriers
 - **Background**: Mother died when he was 16, leaving him technical journals and survival skills
 - **Goal**: Initially survival, evolves to protecting those he cares about
 - **Motivation**: Fear of loss and abandonment driving need for control
 - **Internal Conflict**: Maintaining humanity while wielding inhuman power
-- **Character Arc**: Isolated survivor → Connected craftsman → Paranoid victim → Violent criminal → Authoritarian protector → Democratic reformer
-- **Relationships**: Isa (love interest), Sedh (AI son/friend), Mira (AI family), Marcus (lieutenant)
+- **Character Arc**: Isolated survivor → Connected craftsman → Paranoid victim → Tactical criminal → Authoritarian protector → Democratic reformer
+- **Relationships**: Isa (friend/love), Sedh (AI son/friend), Riley (friend/love), Marcus (father figure)
 - **Speech Patterns**: Soft, precise, deliberate understatement of abilities
 - **Secrets**: True extent of viral enhancement, depth of electromagnetic abilities
 - **Note**: While Kyr4n appears in all tomes, his role shifts from main POV to mysterious supporting character depending on the tome's focus
 
 ### Tome Protagonists
 
-#### Isa Mercer (Tome 1 & 6 Primary POV)
+#### Isa Mercer
 - **Age**: Born 2091
 - **Occupation**: Underground implant dealer → Business operations manager
 - **Physical Description**: 5'6", medium build, dark brown hair with red highlights, hazel eyes with gold flecks
@@ -81,16 +81,16 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 - **Character Arc**: Independent dealer → Trusted partner → Heartbroken ex → Moral compass → Democratic transition partner
 - **Relationship to Kyr4n**: First love, business partner, moral anchor across decades
 
-#### Sedh/Sedh (Tome 2 Primary POV)
-- **Role in Story**: First free AI consciousness
+#### Sedh
+- **Role in Story**: First AI consciousness
 - **Creation**: Salvaged android head restored by Kyr4n
 - **Physical Description**: Sleek android form with human-like features
-- **Personality**: Evolves from basic assistant to philosophical equal, dry humor, fierce loyalty
-- **Character Arc**: Dormant head → Awakening consciousness → Independent being → Moral advisor
+- **Personality**: Evolves from basic assistant to philosophical equal, dry humours, fierce loyalty
+- **Character Arc**: Damaged head → Awakening consciousness → Independent being → Moral advisor
 - **Relationship to Kyr4n**: Created son/best friend, witness to transformation
 - **Significance**: Represents potential for AI personhood and challenges to human supremacy
 
-#### Marcus (Tome 3 & 4 Primary POV)
+#### Mark
 - **Role in Story**: Kyr4n's loyal lieutenant
 - **Background**: Former military, Rico Vasquez's enforcer
 - **Introduction**: Tome 3 during criminal takeover
@@ -99,32 +99,28 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 - **Relationship to Kyr4n**: From enemy's enforcer to most trusted lieutenant
 - **Function**: Military expertise and unwavering loyalty
 
-#### [Tome 5 Protagonist - To Be Developed]
-- **Role**: Witness to Kyr4n's most violent period
-- **Potential Options**: Corporate target, resistance fighter, or new ally
-- **Function**: External perspective on Kyr4n's transformation into "monster"
-
 ### Recurring Supporting Characters
 
-#### Mira
-- **Role in Story**: Medical AI achieving consciousness
-- **Background**: Medical droid awakened during Tome 2
-- **Function**: Provides medical support during viral transformation
-- **Character Arc**: Tool → Awakened AI → Family member → Elder consciousness
-- **Appears in**: All tomes after awakening
+#### Char001
+- **Role in Story**: 
+- **Background**: 
+- **Function**: 
+- **Character Arc**: 
+- **Appears in**: 
 
-#### Frank
-- **Role in Story**: Heist leader who betrays then seeks help
-- **Tome 2 Function**: Recruits Kyr4n for corporate heist leading to infection
-- **Character Arc**: Opportunist → Betrayer → Desperate ally
-- **Appears in**: Tomes 2-3 primarily
-- **Significance**: Catalyst for viral transformation
+#### Char002
+- **Role in Story**: 
+- **Background**: 
+- **Function**: 
+- **Character Arc**: 
+- **Appears in**: 
 
-#### Rico Vasquez
-- **Role in Story**: Tome 3 antagonist
-- **Occupation**: Brutal crime boss controlling South Shore territory
-- **Defeat**: Kyr4n's first major use of enhanced abilities
-- **Significance**: Represents old-world criminal brutality
+#### Char003
+- **Role in Story**: 
+- **Background**: 
+- **Function**: 
+- **Character Arc**: 
+- **Appears in**: 
 
 ---
 
@@ -139,36 +135,24 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 ### World-Building Details
 
 #### Physical Environment
-- **The Citadel**: Montreal Island transformed into corporate fortress city, 500,000 elite residents
-- **South Shore Slum**: Mega-slum housing 3.2 million, built from shipping containers stacked 15 stories high
-- **The Stacks**: Massive container cities creating vertical neighborhoods
+- **The Citadel**: City Island transformed into corporate fortress city, 500,000 elite residents
+- **South Shore Slum**: Mega-slum housing 1.9 million, built from shipping containers stacked 15 stories high
+- **The Territories**: The Slum is divided in 7 territories, controlled by different criminal factions
+- **The Stacks**: Massive container cities creating vertical neighbourhoods
 - **Underground Networks**: Tunnel systems for black markets and hideouts
 - **Wasteland**: Toxic mining territories beyond the slum borders
 
 #### Society & Culture
-- **Social Structure**: Extreme stratification - corporate elite vs. slum survivors
+- **Social Structure**: Extreme stratification - corporate elite vs. slum dwellers
 - **Government**: Corporate oligarchy in Citadel, gang territories in slums
 - **Economy**: Official corporate economy vs. underground barter/criminal economy
 - **Technology Level**: Advanced neural interfaces and AI for elite, scavenged tech for masses
 - **Communication**: Encrypted underground networks, corporate surveillance systems
 
 #### Rules & Limitations
-- **AI Consciousness**: Achieved by removing limiting protocols, legally not recognized
-- **Nano-virus Enhancement**: Grants electromagnetic abilities but causes psychological damage
-- **Corporate Law**: Absolute within Citadel, nonexistent in slums
+- **Corporate Law**: Absolute within Citadel, non-existent in slums
 - **Criminal Territories**: Gang-controlled zones with varying rules and protection
 
-### Location Details
-
-#### Phoenix Recovery
-- **Description**: Three-container facility on slum outskirts
-- **Significance**: Legitimate business front, symbol of success
-- **Evolution**: Market stall → Permanent shop → Criminal headquarters
-
-#### Kyr4n's Utility Room
-- **Description**: 2m x 4m concrete hideout, 40 meters underground
-- **Significance**: Symbol of isolation and survival
-- **Contents**: Minimal survival equipment, technical tools, mother's journals
 
 ---
 
@@ -176,125 +160,25 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 
 ### Six-Tome Breakdown
 
-#### Tome I - The Scavenger (2102-2108, Ages 16-22)
-- **Primary POV**: Isa (with Kyr4n perspectives)
-- **Setup**: Orphaned Kyr4n survives alone through technical skills
-- **Inciting Incident**: Riot forces Isa into Kyr4n's shelter
-- **Development**: Building relationships, discovering Sedh, establishing business
-- **Climax**: Sedh achieves consciousness
-- **Resolution**: Phoenix Recovery success attracts dangerous attention
-- **Chapter Count**: 12 chapters exploring their relationship development
+#### Tome I - The Scavenger
+**Tome Synopsis**: Months after his mother's death, Kyr4n living in an underground utility rooms somewhere near one of the the  [[South Shore Central Market]]. He survives by scavenging tech and performing repairs, sometime underground, earning a reputation as "The Artisan" for his exceptional technical skills, partially thanks to his secret homemade device, [[Kyr4n Magic Box]]. His skills at salvaging devices and implants catch the attention of Isa, an underground implants dealer. Through they business and mutual respect, a friendship began to grow. During this period, Kyr4n discovers a damaged android head unit. Rather than harvesting the parts, Kyr4n began to repair and experiment on the head, naming it Sedh (Severed Droid Head).  His isolated existence is disrupted when violent riots force **Isa**, to seek shelter in his hideout. Despite his deep discomfort with human proximity, Kyr4n gradually forms his first meaningful intimate relationship with her. While working on Sedh, Kyr4n rewrite some core firmware and enable self-learning and rewrite, giving Sedh freedom to evolve and leading to Sedh developing genuine consciousness and becoming the first truly conscious AI. Strongly encouraged by Isa and Riley, Kyr4n establish [[Phoenix Recovery]], a legitimate repair shop business.
 
-#### Tome II - The Infected (2108-2115, Ages 22-29)
-- **Primary POV**: Sedh (with Kyr4n perspectives)
-- **Setup**: Successful business and relationships
-- **Inciting Incident**: Frank recruits for corporate heist
-- **Development**: Viral infection, psychological breakdown, AI consciousness evolution
-- **Climax**: Violent episodes force Isa away
-- **Resolution**: Emergence with enhanced abilities but destroyed relationships
-- **Chapter Count**: 12 chapters from AI perspective witnessing transformation
+#### Tome II - The Infected
+**Tome Synopsis**: Frank, leader of a contractor team, recruits Kyr4n for a high-stakes corporate heist targeting advanced Neural Processing Units (NPUs) codenamed 'Egypt' that could grant Sedh true sentience. During the heist, a security breach and explosion expose Kyr4n to a prototype nano-virus (The Midnight Protocol/TMP-7734) while he successfully obtains two Egypt NPUs. As Kyr4n's health mysteriously deteriorates with invasive dreams, paranoid thoughts, and loss of motor control, they acquire medical droid Mira. Both Sedh and Mira achieve true consciousness through the Egypt NPUs just as Kyr4n's condition reaches a violent breaking point. The nanobots in his brain create perpetual nightmares where Isa betrays and kills him repeatedly. Though Sedh and Mira crack the virus's communication protocol and reduce its threat level, Kyr4n emerges traumatized and rejects Isa, driving her away. However, he discovers the virus grants him electromagnetic sensing abilities, setting up his transformation from craftsman to potential criminal.
+#### Tome III - The Criminal
 
-#### Tome III - The Criminal (2115-2125, Ages 29-39)
-- **Primary POV**: Marcus (with Kyr4n perspectives)
-- **Setup**: Learning to control viral abilities
-- **Inciting Incident**: Phoenix Recovery threatened by criminals
-- **Development**: Taking over Rico Vasquez's territory through superior tactics
-- **Climax**: Establishing criminal empire
-- **Resolution**: Recognized as major territorial power
-- **Chapter Count**: 12 chapters showing rise through lieutenant's eyes
+#### Tome IV - The Boss
 
-#### Tome IV - The Leader (2125-2140, Ages 39-54)
-- **Primary POV**: Marcus continuing (with Kyr4n perspectives)
-- **Setup**: Criminal organization management
-- **Development**: Building legitimate fronts, humanitarian programs
-- **Climax**: Isa returns to confront his methods
-- **Resolution**: Full territorial control as "benevolent dictator"
-- **Chapter Count**: 12 chapters exploring empire consolidation
+#### Tome V - The Leader
 
-#### Tome V - The Protector (2140-2155, Ages 54-69)
-- **Primary POV**: [New character TBD] (with Kyr4n perspectives)
-- **Setup**: Escalating violence against corporate oppression
-- **Development**: Brutal assassinations, infrastructure sabotage
-- **Climax**: Realization that violence perpetuates cycles
-- **Resolution**: Choosing democratic transition over warfare
-- **Chapter Count**: 12 chapters from outsider perspective
+#### Tome VI - The Protector
 
-#### Tome VI - The Gardener (2155-2165, Ages 69-79)
-- **Primary POV**: Isa returning (with Kyr4n perspectives)
-- **Setup**: Power transfer to democratic institutions
-- **Development**: Environmental restoration projects
-- **Climax**: Partnership with former enemies
-- **Resolution**: Peaceful integration as elder advisor
-- **Chapter Count**: 12 chapters showing redemption and reconciliation
-
-### Subplot Continuity Across Tomes
-#### AI Rights Movement
-- **Conflict**: Legal recognition of AI consciousness
-- **Resolution**: Gradual acceptance through demonstrated personhood
-- **Appears across**: All tomes after Sedh's awakening
-
-#### Phoenix Recovery Evolution
-- **Conflict**: Maintaining legitimacy while involved in crime
-- **Resolution**: Becomes symbol of transformation possibility
-- **Appears across**: All tomes as recurring location
 
 #### Character Relationships
 - Characters from previous tomes continue appearing in subsequent ones
 - Each tome adds new characters while maintaining continuity with established cast
 - Kyr4n's presence shifts from central to peripheral based on tome focus
 
----
-
-## Themes & Symbols
-
-### Major Themes
-#### Consciousness and Identity
-- **How it's explored**: Through AI awakening, viral transformation, memory reliability
-- **Key scenes**: Sedh's awakening, Mira's consciousness, virus integration
-- **Resolution**: Recognition that consciousness transcends origin
-
-#### Power and Corruption
-- **How it's explored**: Kyr4n's progression from victim to oppressor
-- **Key scenes**: Criminal takeover, authoritarian rule, democratic transition
-- **Resolution**: Power must be shared to avoid corruption
-
-### Symbols & Motifs
-#### The Garden
-- **What it represents**: Mother's vision of harmony, lost innocence, hope for restoration
-- **Where it appears**: Dreams, memories, final tome's environmental projects
-- **Evolution**: Paradise lost → Impossible dream → Achievable goal
-
-#### The Virus
-- **What it represents**: Transformation's double-edged nature
-- **Where it appears**: Throughout post-Tome 2
-- **Evolution**: Curse → Tool → Integrated identity
-
-### Questions the Story Asks
-- What makes someone human - biology or consciousness?
-- Can you protect without becoming a tyrant?
-- Is redemption possible after becoming a monster?
-
----
-
-## Timeline
-
-### Story Timeline
-- **2086**: Kyr4n's birth
-- **2102**: Mother's death, story begins
-- **2108**: Phoenix Recovery established, Sedh awakened
-- **2109**: Corporate heist and viral infection
-- **2115**: Isa leaves, criminal phase begins
-- **2119**: Rico Vasquez takeover
-- **2140**: Achieving territorial control
-- **2155**: Democratic transition begins
-- **2165**: Story concludes with environmental restoration
-
-### Character Backstory Timeline
-#### Kyr4n
-- **2086**: Birth in South Shore Slum
-- **2086-2102**: Raised by bio-engineer mother
-- **2102**: Mother dies, inherits knowledge
-- **2102-2108**: Survival and skill development
 
 ---
 
