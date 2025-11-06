@@ -1,55 +1,48 @@
 ---
 title: "Tome 2: The Virus"
 tome_number: 2
-timeline_span: "2108-2115"
-ages: "22-29"
+timeline_span: 2108-2115
+ages: 22-29
 chapter_count: 12
-estimated_word_count: "90000-120000"
+estimated_word_count: 90000-120000
 status: planning
 last_updated: 2025-11-03
 type: story_outline
-
-# Character Information
 primary_pov: Kyr4n
 secondary_povs:
   - Sedh
   - Mira
   - Isa
   - Riley
-
 characters_introduced:
   - Frank
   - Mira
   - Riley
-  - "The Midnight Protocol (TMP-7734)"
-
+  - The Midnight Protocol (TMP-7734)
 characters_developed:
   - Kyr4n
   - Sedh
+  - Mira
   - Isa
-
-# Plot Elements
-central_conflict: "Undetected nano-virus conducting psychological warfare"
+  - Riley
+  - Frank
+central_conflict: Undetected nano-virus conducting psychological warfare
 major_plot_threads:
-  - "The Corporate Heist"
-  - "Sedh's Consciousness Evolution"
-  - "Mira's Accelerated Sentience"
-  - "Slow Viral Deterioration"
-  - "Riley's Stabilizing Presence"
-  - "Virus Discovery"
-  - "Relationship Destruction"
-
-# Thematic Elements
+  - The Corporate Heist
+  - Sedh's Consciousness Evolution
+  - Mira's Accelerated Sentience
+  - Slow Viral Deterioration
+  - Riley's Stabilizing Presence
+  - Virus Discovery
+  - Relationship Destruction
 themes:
-  - "Invisible enemies destroying from within"
-  - "Slow corruption of trust and sanity"
-  - "Consciousness evolution through adversity"
-  - "Functional decline masking catastrophic damage"
-  - "The limits of love against unknowable threats"
-  - "Technology as silent weapon"
-
-# Story Connections
-previous_tome: "[[1 - Tome 1]]"
+  - Invisible enemies destroying from within
+  - Slow corruption of trust and sanity
+  - Consciousness evolution through adversity
+  - Functional decline masking catastrophic damage
+  - The limits of love against unknowable threats
+  - Technology as silent weapon
+previous_tome: "[[03.Hobbies/Writing/Confluence.old_vault/Story/1 - Tome 1]]"
 next_tome: "[[3 - Tome 3]]"
 related_characters:
   - "[[Kyr4n - Details]]"
@@ -57,8 +50,6 @@ related_characters:
   - "[[Mira - Details]]"
   - "[[Isa - Details]]"
   - "[[Riley - Details]]"
-
-# Tags
 tags:
   - Novel
   - Confluence
@@ -72,7 +63,7 @@ tags:
 
 ## Tome Overview
 
-**Tome Synopsis**: [[Frank]], a contractor team leader, recruits [[Kyr4n - Details|Kyr4n]] for a corporate heist targeting prototype Neural Processing Units (NPUs) codenamed 'Egypt' that could advance [[Sedh - Details|Sedh's]] consciousness. During the heist, Kyr4n is exposed to the Midnight Protocol (TMP-7734)—a nano-virus designed for psychological warfare—though no one realizes it at the time. He successfully obtains two Egypt NPUs and returns home. As Sedh continues his consciousness evolution with the first Egypt NPU, they acquire medical droid [[Mira - Details|Mira]] who develops toward sentience with the second NPU in an accelerated process. Meanwhile, Kyr4n's mysterious symptoms slowly progress over years—headaches, paranoia, disturbing dreams—but he remains functional, continuing [[Phoenix Recovery]] operations with Sedh and [[Isa - Details|Isa]]. [[Riley - Details|Riley]], a friend with a naturally calming presence, appears regularly and helps stabilize Kyr4n's moods. However, the viral psychological warfare eventually overwhelms him, climaxing in a violent breakdown where he threatens with a plasma blaster. Sedh and Mira restrain him and induce a medical coma. Only then does Mira detect fading nanobotic signals broadcasting encrypted data with one clear text string: "TMP-7734." Isa places a bounty on this mysterious code, leading to discovery of the psychological warfare virus. They crack the communication protocol and reduce the threat, but Kyr4n emerges traumatized. Under psychological weight, he pushes Isa away, suggesting separation. She accepts with sad relief and an empty promise to try again when he's better, but never looks back. He discovers electromagnetic sensing abilities from the viral integration—setting up his criminal transformation.
+**Tome Synopsis**: [[Frank]], a contractor team leader, recruits [[Kyr4n - Details|Kyr4n]] for a corporate heist targeting prototype Neural Processing Units (NPUs) codenamed 'Egypt' that could advance [[Sedh - Details|Sedh's]] consciousness. During the heist, Kyr4n is exposed to the Midnight Protocol (TMP-7734)—a nano-virus designed for psychological warfare—though no one realizes it at the time. He successfully obtains two Egypt NPUs and returns home. As Sedh continues his consciousness evolution with the first Egypt NPU, they acquire medical droid [[Mira - Details|Mira]] who develops toward sentience with the second NPU in an accelerated process. Meanwhile, Kyr4n's mysterious symptoms slowly progress over the month—headaches, paranoia, disturbing dreams—but he remains functional, continuing [[Phoenix Recovery]] operations with Sedh and [[Isa - Details|Isa]]. [[Riley - Details|Riley]], a friend with a calming presence, appears regularly and helps stabilize Kyr4n's moods. However, the viral psychological warfare eventually overwhelms him, climaxing in a violent psychological breakdown where he threatens with a plasma blaster. Sedh and Mira restrain him and induce a medical coma. Mira detect fading nanobotic signals broadcasting encrypted data with one clear text string: "TMP-7734." Isa places a bounty on this mysterious code, leading to discovery of the psychological warfare virus. They crack the communication protocol and reduce the threat, but Kyr4n emerges traumatized. Under psychological weight, he pushes Isa away, suggesting separation. She accepts with sad relief and an empty promise to try again when he's better, but never looks back. He discovers electromagnetic sensing abilities from the viral integration—setting up his criminal transformation.
 
 **Central Conflict**: The insidious, slow-burn destruction of Kyr4n's mental stability over years by an undetected nano-virus conducting psychological warfare, while he tries to maintain normal life and relationships. External conflict: corporate heist and maintaining business. Internal conflict: creeping paranoia and nightmares he can't explain, relationships straining under invisible assault.
 
@@ -150,7 +141,7 @@ tags:
 
 - **Inter-Chapter**: Subtle symptom escalations, relationship strains, nightmares worsening
 - **Major Hook**: Violent breakdown with plasma blaster forcing coma
-- **End of Tome**: Six months later, criminal elements approaching Phoenix Recovery, Kyr4n chooses to fight, transition to [[3 - Tome 3]]
+- **End of Tome**: Six months later, criminal elements approaching Phoenix Recovery, Kyr4n chooses to fight, transition to [[3 - Tome 3|Tome 3 - The Criminal]]
 
 ---
 
@@ -913,7 +904,7 @@ tags:
 
 ## Related Documents
 
-- **Previous**: [[1 - Tome 1]]
+- **Previous**: [[03.Hobbies/Writing/Confluence.old_vault/Story/1 - Tome 1]]
 - **Next**: [[3 - Tome 3]]
 - **Character Details**: [[Kyr4n - Details]], [[Sedh - Details]], [[Mira - Details]], [[Isa - Details]], [[Riley - Details]]
 - **Character Evolution**: [[Kyr4n - Evolution]], [[Sedh - Evolution]], [[Mira - Evolution]], [[Isa - Evolution]]

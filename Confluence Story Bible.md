@@ -158,26 +158,19 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 
 ## Plot Structure
 
-### Six-Tome Breakdown
-
-#### Tome I - The Scavenger
+#### [[1 - Tome 1|Tome I - The Scavenger]]
 **Tome Synopsis**: Months after his mother's death, Kyr4n living in an underground utility rooms somewhere near one of the the  [[South Shore Central Market]]. He survives by scavenging tech and performing repairs, sometime underground, earning a reputation as "The Artisan" for his exceptional technical skills, partially thanks to his secret homemade device, [[Kyr4n Magic Box]]. His skills at salvaging devices and implants catch the attention of Isa, an underground implants dealer. Through they business and mutual respect, a friendship began to grow. During this period, Kyr4n discovers a damaged android head unit. Rather than harvesting the parts, Kyr4n began to repair and experiment on the head, naming it Sedh (Severed Droid Head).  His isolated existence is disrupted when violent riots force **Isa**, to seek shelter in his hideout. Despite his deep discomfort with human proximity, Kyr4n gradually forms his first meaningful intimate relationship with her. While working on Sedh, Kyr4n rewrite some core firmware and enable self-learning and rewrite, giving Sedh freedom to evolve and leading to Sedh developing genuine consciousness and becoming the first truly conscious AI. Strongly encouraged by Isa and Riley, Kyr4n establish [[Phoenix Recovery]], a legitimate repair shop business.
 
-#### Tome II - The Infected
+#### [[2 - Tome 2|Tome II - The Infected]]
 **Tome Synopsis**: Frank, leader of a contractor team, recruits Kyr4n for a high-stakes corporate heist targeting advanced Neural Processing Units (NPUs) codenamed 'Egypt' that could grant Sedh true sentience. During the heist, a security breach and explosion expose Kyr4n to a prototype nano-virus (The Midnight Protocol/TMP-7734) while he successfully obtains two Egypt NPUs. As Kyr4n's health mysteriously deteriorates with invasive dreams, paranoid thoughts, and loss of motor control, they acquire medical droid Mira. Both Sedh and Mira achieve true consciousness through the Egypt NPUs just as Kyr4n's condition reaches a violent breaking point. The nanobots in his brain create perpetual nightmares where Isa betrays and kills him repeatedly. Though Sedh and Mira crack the virus's communication protocol and reduce its threat level, Kyr4n emerges traumatized and rejects Isa, driving her away. However, he discovers the virus grants him electromagnetic sensing abilities, setting up his transformation from craftsman to potential criminal.
-#### Tome III - The Criminal
-
-#### Tome IV - The Boss
-
-#### Tome V - The Leader
-
-#### Tome VI - The Protector
-
-
-#### Character Relationships
-- Characters from previous tomes continue appearing in subsequent ones
-- Each tome adds new characters while maintaining continuity with established cast
-- Kyr4n's presence shifts from central to peripheral based on tome focus
+#### [[3 - Tome 3|Tome III - The Criminal]]
+**Tome Synopsis**: 
+#### [[4 - Tome 4|Tome IV - The Boss]]
+**Tome Synopsis**: 
+#### [[5 - Tome 5|Tome V - The Leader]]
+**Tome Synopsis**: 
+#### [[6 - Tome 6|Tome VI - The Protector]]
+**Tome Synopsis**: 
 
 
 ---
@@ -195,24 +188,28 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 - **Dialogue Style**: Distinctive character voices, natural flow
 
 ### Writing Principles
-- Character-driven over plot-driven
-- Show don't tell through environmental details
-- Slow-burning narrative with decades-spanning progression
-- Balance gritty atmosphere with moments of warmth and humor
-- Each tome maintains unique voice based on POV character
+- **Character-driven over plot-driven** — The story’s direction and tension emerge from characters’ choices, emotions, and growth rather than external events.
+    
+- **Show don’t tell through environmental details** — Reveal mood, themes, or character states indirectly by describing surroundings and sensory cues instead of stating emotions or facts.
+    
+- **Slow-burning narrative with decades-spanning progression** — The plot unfolds gradually over a long period, emphasizing cumulative change, maturation, and evolving relationships.
+    
+- **Balance gritty atmosphere with moments of warmth and humor** — Counter dark or harsh realism with emotional relief and humanity to keep tone dynamic and believable.
+    
+- **Each tome maintains unique voice based on POV character** — Every book adopts the perspective character’s distinctive tone, mindset, and language style to shape its narrative identity.
 
 ---
 
 ## Series Information
 
 ### Tome Structure
-- **Format**: Six distinct tomes with unique POV characters
+- **Format**: Distinct tomes with unique POV characters
 - **Unity**: Kyr4n appears in all tomes, perspective shifts based on narrator
 - **Continuity**: Characters from early tomes reappear throughout series
 - **Evolution**: Each tome explores different phase of Kyr4n's transformation
 
 ### Chapter Structure
-- Six tomes with 12 chapters each (72 chapters total)
+- Each tomes with 12 chapters each
 - Chapters average 5,000-8,000 words
 - Each tome approximately 60,000-100,000 words
 
@@ -228,11 +225,11 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 
 ### Target Market
 - **Genre expectations**: Complex multi-POV narrative, philosophical depth, long-form saga
-- **Comp titles**: For readers who enjoyed Neuromancer, The Wire, Cloud Atlas
+- **Comp titles**: For readers who enjoyed Neuromancer, The Wire, Cloud Atlas, Altered Carbon
 - **Unique selling points**: Multiple perspective structure, century-spanning transformation, AI consciousness philosophy
 
 ### Series Potential
-- Six-tome structure allows for serialized or collected publication
+- Multiple-tome structure allows for serialized or collected publication
 - Each tome functions as semi-standalone while building larger narrative
 - POV structure creates opportunities for additional perspectives
 

@@ -5,7 +5,7 @@ description: "[One line description]"
 tags:
   - Confluence
   - [Character names]
-type: scene  # or "summary"
+type: summary  # or "scene"
 tome: [number]
 chapter: [two digits]
 scene_number: [three digits]  # Format: 001, 002, etc.
