@@ -1,16 +1,14 @@
 ---
-title: 
+title:
   - Common Cyberpunk Tropes Reference
 tags:
-  - Novel
-  - Kyr4n
   - Reference
-  - Cyberpunk
   - Worldbuilding
-version: "0.1"
-status: in progress 
+  - Confluence
+version: "1.0"
+status: Done
 last_updated: 2025-01-27 09:30
-type: Reference 
+type: reference
 ---
 
 # Common Cyberpunk Tropes Reference

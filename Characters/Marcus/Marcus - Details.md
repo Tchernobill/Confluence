@@ -58,7 +58,7 @@ tags:
   - Military_Background
 ---
 
-# Marcus Chen - Details
+# Marcus - Details
 
 > Former military officer turned corporate enforcer turned loyal lieutenant—a soldier who found his true purpose protecting those who cannot protect themselves, even as he watches his protégé drift toward authoritarianism.
 
@@ -530,8 +530,8 @@ None—Marcus is enhanced human with cybernetics, not supernatural abilities
 - Arc 5-6: Planned (Escalating tension between loyalty and conscience)
 
 **Related Files:**
-- [[Marcus Chen - Summary]] - Quick reference
-- [[Marcus Chen - Evolution]] - Development tracking
+- [[Marcus - Summary]] - Quick reference
+- [[Marcus - Evolution]] - Development tracking
 - [[03.Hobbies/Writing/Confluence/Characters/Kyr4n/Kyr4n - Details]] - Primary relationship
 - [[Archives/Characters/Mains/_Old/Zara - Details]] - Fellow inner circle member
 - [[Dr. Elena Vasquez - Details]] - Ethical ally

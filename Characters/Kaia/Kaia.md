@@ -32,6 +32,7 @@ tags:
   - Inner Circle
   - Kaia
   - Power Era
+type: character
 ---
 
 # Kaia "Whisper" Okafor - Summary

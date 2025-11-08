@@ -31,6 +31,7 @@ tags:
   - AI
   - Consciousness
   - Main_Character
+type: character
 ---
 
 # Sedh - Summary

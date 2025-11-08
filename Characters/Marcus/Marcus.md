@@ -1,9 +1,8 @@
 ---
 template_type: character_summary
-character_name: Marcus Chen
+character_name: Marcus
 aliases:
   - Chief
-  - Tank
   - Steel
 character_type: supporting
 importance_level: 5
@@ -16,8 +15,8 @@ location: Mid-tier corporate housing, Security District
 affiliation:
   - Phoenix Recovery
   - Former Corporate Security Division
-detail_file: "[[Marcus Chen - Details]]"
-evolution_file: "[[Marcus Chen - Evolution]]"
+detail_file: "[[Marcus - Details]]"
+evolution_file: "[[Marcus - Evolution]]"
 related_characters:
   - "[[03.Hobbies/Writing/Confluence/Characters/Kyr4n/Kyr4n]]"
   - "[[Archives/Characters/Mains/Zara]]"
@@ -30,15 +29,16 @@ tags:
   - Marcus
   - Security
   - Inner_Circle
+type: character
 ---
 
-# Marcus Chen - Summary
+# **Marcus** - Summary
 
 ## Quick Reference Card
 
 | **Aspect** | **Details** |
 |------------|-------------|
-| **Full Name** | Marcus "Steel" Chen |
+| **Full Name** | Marcus "Steel" |
 | **Role** | Head of Security / Father Figure to Kyr4n |
 | **Age** | 48 (born 2077) |
 | **Location** | Security District, Neo-Angeles Corporate Zone |
@@ -103,5 +103,5 @@ Former corporate enforcer turned loyal lieutenant who serves as both military st
 
 ---
 
-*For complete character information, see: [[Marcus Chen - Details]]*  
-*For character development tracking, see: [[Marcus Chen - Evolution]]*
+*For complete character information, see: [[Marcus - Details]]*  
+*For character development tracking, see: [[Marcus - Evolution]]*

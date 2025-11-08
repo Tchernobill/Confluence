@@ -64,7 +64,8 @@ Discovery that the Citadel has been using Shore residents as unwitting test subj
 **"The Mirror Scene"**
 Kyr4n confronts his reflection after a particularly ruthless decision, questioning whether he's becoming the monster others believe him to be.
 
-**"Last Call"**A quiet character study set in an underground bar, where various community members discuss rumors and fears about Kyr4n's growing power.
+**"Last Call"** 
+A quiet character study set in an underground bar, where various community members discuss rumors and fears about Kyr4n's growing power.
 
 **"The Time Capsule"**
 Discovery of pre-corporate artifacts (old photos, recordings, documents) that reveal what the area was like before the current dystopia, sparking debate about whether the past can be reclaimed.

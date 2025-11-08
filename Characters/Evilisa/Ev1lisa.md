@@ -31,6 +31,7 @@ tags:
   - Mental_Projection
   - Kyr4n_POV_Only
   - Virus_Manifestation
+type: character
 ---
 
 # Evilisa - Summary

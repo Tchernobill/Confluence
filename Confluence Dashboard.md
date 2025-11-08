@@ -337,7 +337,7 @@ LIMIT 15
 
 ```dataview
 LIST
-FROM "03.Hobbies/Writing/Confluence/Wiki/Characters"
+FROM "03.Hobbies/Writing/Confluence/Characters"
 WHERE type = "character"
 SORT file.name
 ```

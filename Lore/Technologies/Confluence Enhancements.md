@@ -1,9 +1,10 @@
-# Complete Augmentation Catalogue - Post-Collapse Era
-
-*A comprehensive guide to human enhancement technology in the cyberpunk world*
-
 ---
-
+type: reference
+tags:
+  - Confluence
+  - Reference
+---
+# Augmentation Catalogue - Post-Collapse Era
 ## Access Classification System
 
 **🔴 Street Grade** - Jury-rigged, salvaged, modified systems  

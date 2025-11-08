@@ -28,6 +28,7 @@ tags:
   - Jin
   - Chief_Engineer
   - Inner_Circle
+type: character
 ---
 ## Quick Reference Card
 

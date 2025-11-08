@@ -31,6 +31,7 @@ tags:
   - Power_Era
   - Medical
   - Administration
+type: character
 ---
 
 # Dr. Helene Marie Tremblay - Summary

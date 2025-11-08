@@ -9,7 +9,6 @@ importance_level: 3
 status: active
 version: "1.0"
 last_updated: 2025-10-24
-age_current: 27
 occupation: Financial Risk Analyst / Field Tactical Strategist (developing)
 location: Transitional district apartment, operates between corporate and organization spaces
 affiliation:
@@ -31,6 +30,7 @@ tags:
   - Analyst
   - Tactician
   - Arc4
+type: character
 ---
 
 ## Quick Reference Card

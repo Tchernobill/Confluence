@@ -31,6 +31,7 @@ tags:
   - AI
   - Medical
   - Consciousness
+type: character
 ---
 
 # Mira - Summary

@@ -1,4 +1,19 @@
+---
+type: reference
+tags:
+  - Confluence
+  - Reference
+  - music
+---
 # Kyr4n
+
+## Kyr4n's scavenging theme
+**Future Proof** – Massive Attack
+Music: Minimalist trip-hop with deep basslines, fragmented beats, haunting synth textures, and echoing vocals.  
+Tone: Brooding, atmospheric, mechanical.  
+Mood: Suspenseful, solitary, introspective.  
+Theme: Survival through decay, adapting to desolation, finding purpose in ruins.  
+Feelings: Caution, focus, weariness, grim curiosity, quiet resolve.
 
 ## Kyr4n's fight theme
 **Breed** – Nirvana
@@ -189,6 +204,10 @@ Feelings: Devotion, vulnerability, sorrow, spiritual yearning.
 
 # Specific scenes ambiances
 
-Washed Away - Morcheeba: 05.02.01 - The Interrogation.md
-
-Rewind - Emma Hewitt: 05.06.01 - Reunion.md
+## The Interrogation
+**Washed Away** – Morcheeba  
+Music: Smooth downtempo groove with mellow guitars, warm bass, soft percussion, and ethereal vocals.  
+Tone: Melancholic, reflective, soothing.  
+Mood: Nostalgic, tender, bittersweet.  
+Theme: Letting go of the past, emotional renewal, acceptance after struggle.  
+Feelings: Sadness, calm, wistful peace, gentle clarity, emotional release.

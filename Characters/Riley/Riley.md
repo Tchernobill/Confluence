@@ -31,6 +31,7 @@ tags:
   - Supporting
   - Deceased
   - TragicCatalyst
+type: character
 ---
 
 # Riley King - Summary

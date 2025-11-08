@@ -1,18 +1,14 @@
 ---
-title: 
+title:
   - Rico Vasquez Syndicate Reorganization Strategy
 tags:
-  - Novel
-  - Kyr4n
-  - Arc 4
-  - Criminal Organization
   - Strategy
-  - South Shore Slum
-character_focus: Kyr4n
-version: "0.1"
+  - Confluence
+  - Reference
+version: "0.5"
 status: in progress
-last_updated: 2025-06-07 13:30
-type: Strategic Analysis
+last_updated: 2025-11-07 13:30
+type: reference
 ---
 
 # Rico Vasquez Syndicate Reorganization Strategy

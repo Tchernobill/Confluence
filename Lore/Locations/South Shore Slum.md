@@ -1,8 +1,6 @@
 # The South Shore Slum: A Regional Guide
 *Visual Description and Geographic Distribution*
 
----
-
 ## Overview
 
 The South Shore Slum sprawls across what was once the prosperous suburban communities south of Montreal, now transformed into a dystopian mega-settlement housing over 3.2 million souls. Stretching from the polluted banks of the St. Lawrence River to the toxic mining territories near the US border, this vast industrial wasteland represents one of North America's largest unincorporated urban zones.

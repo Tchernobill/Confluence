@@ -29,6 +29,7 @@ tags:
   - Zara
   - Inner_Circle
   - Bodyguard
+type: character
 ---
 
 # Zara "Flame" Al-Rashid - Summary

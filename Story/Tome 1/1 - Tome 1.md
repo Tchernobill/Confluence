@@ -9,7 +9,7 @@
 
 ## Tome Overview
 
-**Tome Synopsis**: Months after his mother's death, Kyr4n living in an underground utility rooms somewhere near one of the the  [[South Shore Central Market]]. He survives by scavenging tech and performing repairs, sometime underground, earning a reputation as "The Artisan" for his exceptional technical skills, partially thanks to his secret homemade device, [[Kyr4n Magic Box]]. His skills at salvaging devices and implants catch the attention of [[Archives/Characters/Mains/Isa]], an underground implants dealer. Through they business and mutual respect, a friendship began to grow.
+**Tome Synopsis**: Months after his mother's death, Kyr4n living in an underground utility rooms somewhere near one of the the  [[South Shore Central Market]]. He survives by scavenging tech and performing repairs, sometime underground, earning a reputation as "The Artisan" for his exceptional technical skills, partially thanks to his secret homemade device, [[03.Hobbies/Writing/Confluence/Lore/Technologies/Kyr4n Magic Box]]. His skills at salvaging devices and implants catch the attention of [[03.Hobbies/Writing/Confluence/Characters/Isa/Isa|Isa]], an underground implants dealer. Through they business and mutual respect, a friendship began to grow.
 
 During this period, Kyr4n discovers a damaged android head unit. Rather than harvesting the parts, Kyr4n began to repair and experiment on the head, naming it Sedh (Severed Droid Head). 
 
@@ -170,10 +170,11 @@ _Duration: 2 months (May-June 2108)_
 
 ### Chapter 1.01: The Concrete Garden
 
-**Timeline:** Single day (May 1, 2108) **Focus:** Establishing Kyr4n's isolated existence and discovery of Sedh's head
+**Timeline:** Single day (May 1, 2108) 
+**Focus:** Establishing Kyr4n's isolated existence and discovery of Sedh's head
 
-#### Scene 1.01.001: Morning Awakening
-
+#### Scene [[1.01.001 - The Garden]]
+Summary: [[1.01.001 - Summary]]
 **Date:** 2108-05-01 (Wednesday) **Time:** 06:30
 
 - Kyr4n awakens from nostalgic dream of mother's garden
@@ -181,16 +182,16 @@ _Duration: 2 months (May-June 2108)_
 - Establishes baseline: isolated, competent, haunted by loss
 - **POV:** Kyr4n
 
-#### Scene 1.01.002: Journey to Work
-
+#### Scene [[1.01.002 - Journey to Work]]
+Summary: [[1.01.002 - Summary]]
 **Date:** 2108-05-01 **Time:** 08:00-09:15
 
 - Journey through dangerous tunnel network to underground market
 - Environmental hazards, navigation through South Shore infrastructure
 - **POV:** Kyr4n
 
-#### Scene 1.01.003: Market Operations
-
+#### Scene [[1.01.003 - The Market]]
+Summary: [[1.01.003 - Summary]]
 **Date:** 2108-05-01 **Time:** 09:30-16:00
 
 - Sets up repair booth at underground market
@@ -198,8 +199,8 @@ _Duration: 2 months (May-June 2108)_
 - Demonstrates technical competence, "The Artisan" reputation
 - **POV:** Kyr4n
 
-#### Scene 1.01.004: Scavenging Discovery
-
+#### Scene [[1.01.004 - The Tomb]]
+Summary: [[1.01.004 - Summary]]
 **Date:** 2108-05-01 **Time:** 17:00-20:30
 
 - Post-market scavenging run in abandoned district
@@ -212,10 +213,11 @@ _Duration: 2 months (May-June 2108)_
 
 ### Chapter 1.02: First Analysis
 
-**Timeline:** 3 days (May 2-4, 2108) **Focus:** Initial examination of Sedh's head and Isa's introduction
+**Timeline:** 3 days (May 2-4, 2108)
+**Focus:** Initial examination of Sedh's head and Isa's introduction
 
-#### Scene 1.02.001: Initial Examination
-
+#### [[Scene 1.02.001 - Initial Examination]]
+Summary: [[1.02.001 - Summary]]
 **Date:** 2108-05-02 (Thursday) **Time:** Morning
 
 - Detailed examination of android head unit
@@ -223,8 +225,8 @@ _Duration: 2 months (May-June 2108)_
 - Decision to attempt repair rather than salvage
 - **POV:** Kyr4n
 
-#### Scene 1.02.002: Isa's Visit
-
+#### [[Scene 1.02.002 - Contact]]
+Summary: [[1.02.002 - Summary]]
 **Date:** 2108-05-03 (Friday) **Time:** Afternoon
 
 - Isa arrives at market booth with implant consignment
@@ -232,8 +234,8 @@ _Duration: 2 months (May-June 2108)_
 - Establishes their existing business relationship
 - **POV:** Kyr4n with Isa dialogue
 
-#### Scene 1.02.003: Evening Work
-
+#### [[Scene 1.02.003 - Evening Work]]
+Summary: [[1.02.003 - Summary]]
 **Date:** 2108-05-04 (Saturday) **Time:** Evening
 
 - Begins preliminary repairs on Sedh's head
@@ -1103,7 +1105,7 @@ _Duration: 7 months (February - November 2109)_
 
 **Timeline:** 8 weeks (September 1 - October 26, 2109) **Focus:** Life settling into rhythm, success consolidated
 
-#### Scene 12.01.001: Routine Excellence
+#### Scene 1.12.001: Routine Excellence
 
 **Date:** 2109-09-10 (Wednesday) **Time:** Full work week
 
@@ -1112,7 +1114,7 @@ _Duration: 7 months (February - November 2109)_
 - Team working smoothly
 - **POV:** Mixed
 
-#### Scene 12.01.002: Riley's Contentment
+#### Scene 1.12.002: Riley's Contentment
 
 **Date:** 2109-09-28 (Sunday) **Time:** Evening
 
@@ -1121,7 +1123,7 @@ _Duration: 7 months (February - November 2109)_
 - Comfort with ambiguous relationship dynamics
 - **POV:** Riley
 
-#### Scene 12.01.003: Recognition
+#### Scene 1.12.003: Recognition
 
 **Date:** 2109-10-15 (Wednesday) **Time:** Afternoon
 

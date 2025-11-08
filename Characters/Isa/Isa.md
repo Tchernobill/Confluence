@@ -29,6 +29,7 @@ tags:
   - Summary
   - Isa
   - Arc_Protagonist
+type: character
 ---
 
 # Isa Mercer - Summary

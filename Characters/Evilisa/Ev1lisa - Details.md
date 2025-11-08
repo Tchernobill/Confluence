@@ -2,16 +2,14 @@
 template_type: character_details
 character_name: Evilisa
 aliases:
-  - The Voice
-  - Her
   - The Other Isa
-  - The Caring Poison
-  - The Other One
+  - Ev
+  - EIsa
 character_type: mental_projection
 importance_level: 2
 status: active
 version: "1.0"
-last_updated: 2025-09-30
+last_updated: 2025-11-07
 birth_year: N/A - Mental construct
 birth_date: First manifestation Arc 2 (after Isa's departure)
 age_story_start: N/A

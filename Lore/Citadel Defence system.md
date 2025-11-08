@@ -1,3 +1,11 @@
+---
+tags:
+  - Confluence
+  - Reference
+  - StoneBone
+  - Citadel
+type: reference
+---
 # Citadel Defense Array
 
 ## Primary Defensive Systems

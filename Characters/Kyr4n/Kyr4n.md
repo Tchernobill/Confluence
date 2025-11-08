@@ -35,6 +35,7 @@ tags:
   - Main_Protagonist
   - Enhanced_Human
   - Hidden_Identity
+type: character
 ---
 # Kyr4n - Summary
 

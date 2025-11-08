@@ -11,8 +11,6 @@ importance_level: 4
 status: active
 version: "2.0"
 last_updated: 2025-09-30
-age_current: 28
-occupation: Acting Supreme Commander
 location: Main Organizational Compound
 affiliation:
   - Kyr4n's Organization
@@ -31,6 +29,7 @@ tags:
   - Supporting
   - Leader
   - Military
+type: character
 ---
 
 ## Quick Reference Card

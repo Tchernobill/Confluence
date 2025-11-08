@@ -31,6 +31,7 @@ tags:
   - Information_Broker
   - Wildcard
   - Supporting
+type: character
 ---
 
 # Mat "Wire" Chang - Summary

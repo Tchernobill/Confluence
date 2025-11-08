@@ -94,12 +94,7 @@
 ## Chapter Breakdown
 
 **Chapter Summaries**:
-- **Chapter 4.01 - 
-- **Chapter 4.02 - 
-- **Chapter 4.03 - 
-- **Chapter 4.04 - 
-- **Chapter 4.05 - 
-- **Chapter 4.06 - 
+
 
 **Key Scenes**: 
 

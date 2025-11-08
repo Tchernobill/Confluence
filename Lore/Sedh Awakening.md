@@ -1,3 +1,10 @@
+---
+type: reference
+tags:
+  - Confluence
+  - Reference
+  - Sedh
+---
 
 ### About being real
 Sedh first question if he is real.

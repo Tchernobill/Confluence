@@ -1,4 +1,11 @@
-# Cyberpunk Novel Scene Crafting Prompt
+---
+type: reference
+tags:
+  - Confluence
+  - Reference
+status: revision
+---
+# Confluence Novel Scene Crafting Prompt
 
 ## Primary Directive
 
