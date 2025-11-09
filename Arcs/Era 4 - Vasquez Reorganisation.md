@@ -31,7 +31,7 @@ The former Vasquez operation represents a classic example of short-term exploita
 
 ### Territorial Assets
 - **Coverage**: 10% of South Shore Slum (approximately 12 city blocks)
-- **Population**: ~47,000 residents
+- **Population**: ~80,000 residents
 - **Infrastructure**: 3 fortified buildings, 15 safe houses, underground tunnel access
 - **Personnel**: 200+ individuals (various commitment levels)
 
