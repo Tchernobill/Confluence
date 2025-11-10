@@ -1,3 +1,8 @@
+---
+tags:
+  - Confluence
+  - protagonist-female-magic-user-northern-kingdoms
+---
 # The South Shore Slum: A Regional Guide
 *Visual Description and Geographic Distribution*
 

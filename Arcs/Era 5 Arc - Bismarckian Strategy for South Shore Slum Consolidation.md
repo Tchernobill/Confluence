@@ -37,7 +37,7 @@ The transformation of Phoenix Rising from single-territory protector to unified 
 
 ### The Seven Territories Overview
 
-Based on South Shore population of 1,500,000 across approximately 2,000 km²:
+Based on South Shore population of 1,500,000 across approximately 720 km²:
 #### 1. **Phoenix Rising Territory** (Formerly Vasquez - CONTROLLED)
 
 - **Location**: Central commercial district

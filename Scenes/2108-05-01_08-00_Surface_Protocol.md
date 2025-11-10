@@ -41,8 +41,7 @@ status: in progress
 last_updated: 2025-06-31 11:30
 words_count: "[TBD - TO BE CREATED]"
 ---
-
-# 1.01.002 - Surface Protocol
+# Surface Protocol
 
 ## Scene Information
 

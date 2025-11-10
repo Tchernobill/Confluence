@@ -35,7 +35,7 @@ last_updated: 2025-06-31 11:30
 words_count: "[TBD - count after prose complete]"
 ---
 
-# 1.01.001 - Morning Awakening
+# Morning Awakening
 
 ## Scene Information
 
