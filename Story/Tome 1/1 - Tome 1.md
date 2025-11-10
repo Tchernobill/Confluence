@@ -199,7 +199,7 @@ Summary: [[1.01.003 - Summary]]
 - Demonstrates technical competence, "The Artisan" reputation
 - **POV:** Kyr4n
 
-#### Scene [[1.01.004 - The Tomb]]
+#### Scene [[1.01.004 - The tomb]]
 Summary: [[1.01.004 - Summary]]
 **Date:** 2108-05-01 **Time:** 17:00-20:30
 
