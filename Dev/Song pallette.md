@@ -10,11 +10,11 @@ Feelings: Aggression, adrenaline, angst, intensity.
 
 ## Kyr4n's seeking connection
 **What Else Is There?** – Royksopp
-Music: Aggressive grunge guitars, pounding drums, driving bass, raw vocals.
-Tone: Defiant, energetic, abrasive.
-Mood: Rebellious, chaotic, urgent.
-Theme: Disillusionment, rejection of conformity, youthful frustration.
-Feelings: Aggression, adrenaline, angst, intensity.
+Music: 
+Tone: 
+Mood: 
+Theme: 
+Feelings: 
 ## Kyr4n's getting up to speed
 **Alpha Male** – Röyksopp
 Music: Expansive electronic soundscape, driving synth melodies, lush layers, evolving instrumental build-up.
