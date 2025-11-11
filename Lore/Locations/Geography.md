@@ -44,7 +44,7 @@ French cultural elements persist as status symbols - real wine, artisanal cheese
 
 ## The South Shore Slum ("The Shore")
 
-**Population**: 3,000,000  
+**Population**: 1,500,000  
 **Nickname**: "The Sprawl"  
 **Language**: Franglais Patois (evolved street dialect)
 

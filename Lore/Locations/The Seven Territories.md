@@ -45,15 +45,15 @@ Your population densities range from **~1100 people/km²** (current) up to **400
 
 ## 🧮 Population Distribution Logic
 
-|Territory|Population|% of Total|Density Plausibility (assuming equal land division ≈ 100 km² each)|
-|---|---|---|---|
-|Phoenix Rising|80 000|5 %|Dense urban core|
-|Northside Collective|200 000|13 %|High-density industrial|
-|Riverside Sovereignty|200 000|13 %|Linear population along river|
-|Mining Consortium|170 000|11 %|Moderate-density working class|
-|Greenfield Dominion|150 000|10 %|Sparse, hazardous zone|
-|Stacks Federation|450 000|30 %|Most populous, fragmented; believable given suburban spread|
-|Border March|270 000|18 %|Mid-density, militarized edges|
+| Territory             | Population | % of Total | Density Plausibility (assuming equal land division ≈ 100 km² each) |
+| --------------------- | ---------- | ---------- | ------------------------------------------------------------------ |
+| Phoenix Rising        | 80 000     | 5 %        | Dense urban core                                                   |
+| Northside Collective  | 200 000    | 13 %       | High-density industrial                                            |
+| Riverside Sovereignty | 200 000    | 13 %       | Linear population along river                                      |
+| Mining Consortium     | 170 000    | 11 %       | Moderate-density working class                                     |
+| Greenfield Dominion   | 150 000    | 10 %       | Sparse, hazardous zone                                             |
+| Stacks Federation     | 450 000    | 30 %       | Most populous, fragmented; believable given suburban spread        |
+| Border March          | 270 000    | 18 %       | Mid-density, militarized edges                                     |
 
 ✅ Totals = 1 520 000 — aligns with your stated “1.5 M” base population.  
 The proportions feel balanced, with the Stacks and Border zones containing the bulk of the population as one would expect.
@@ -90,11 +90,3 @@ The proportions feel balanced, with the Stacks and Border zones containing the b
 3. **Consider environmental pressure:**  
     At 1.5–3 M inhabitants, waste management, pollution, and resource scarcity can serve as both plot engines and symbolic elements.
     
-
----
-
-✅ **Conclusion:**  
-Your seven-territory framework is **geographically credible**, **population-balanced**, and **thematically rich**.  
-It reads as a believable socio-political structure for a cyberpunkized South Shore — dense enough for conflict, diverse enough for intrigue, and coherent enough for the reader to visualize.
-
-Would you like me to **map** those territories roughly onto the _real South Shore municipalities_ (e.g., which modern cities correspond to each one) in a markdown or visual map format?
