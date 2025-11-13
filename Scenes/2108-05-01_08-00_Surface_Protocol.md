@@ -1,7 +1,6 @@
 ---
-title:
-  - Surface Protocol
-description: "Kyr4n carefully emerges from his hidden hideout, navigating through underground tunnel systems and South Shore Slum streets to reach the underground market"
+title: Surface Protocol
+description: Kyr4n carefully emerges from his hidden hideout, navigating through underground tunnel systems and South Shore Slum streets to reach the underground market
 tags:
   - Confluence
   - Kyr4n
@@ -9,24 +8,18 @@ tags:
   - Tunnels
   - Urban Navigation
 type: scene
-publication_position: "1.01.002"  # Tome.Chapter.Scene
+publication_position: 1.01.002
 tome: 1
 chapter: 1
 scene_number: 2
 kyr4n_age: 18
-
-# Story Timeline
 story_date: 2108-05-01
-story_time: "08:00"
+story_time: 08:00
 story_date_end: 2108-05-01
 time_of_day: morning
-
-# Narrative Structure
 narrative_arc: "[TBD - Arc 1: The Scavenger]"
 scene_type: "[TBD - Transition / World-building / Character demonstration]"
-emotional_tone: "Cautious alertness and urban paranoia, methodical progression through dangerous territory"
-
-# Scene Context
+emotional_tone: Cautious alertness and urban paranoia, methodical progression through dangerous territory
 pov: Kyr4n
 characters_present:
   - "[[03.Hobbies/Writing/Confluence/Characters/Kyr4n/Kyr4n]]"
@@ -34,8 +27,6 @@ location: "[[Utility room access tunnels]] → [[Underground maintenance tunnel 
 plot_threads:
   - "[[Corporate Uprising]]"
   - "[[Kyr4n's Isolation]]"
-
-# Production Metadata
 version: "0.1"
 status: in progress
 last_updated: 2025-06-31 11:30

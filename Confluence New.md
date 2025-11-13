@@ -1,18 +1,4 @@
-## 🧭 Overall Dashboard Vision
-
-We’ll create a **single “Story Development Dashboard.md”** that uses **DataviewJS** to automatically display and summarize:
-
-1. 🧩 **Scenes Table** – sortable list with key metadata (date, title, status, word count, POV, tone)
-2. 👥 **Character Involvement Tracker** – each character with number of scenes, total words, and completion %
-3. 🌌 **Arcs & Threads Overview** – story and character arcs, listing all related scenes and their progress
-4. 📈 **Global Statistics** – total scenes, word count, progress breakdown, avg words per scene, etc.
-5. 🕒 **Timeline View** – scenes sorted by `story_date` and `story_time`
-6. 🔍 **Filters** (optional, via tags or inline queries)
-
----
-
 ## ⚙️ Structure of the Dashboard Note
-
 
 ## 📈 Global Statistics
 ```dataviewjs
@@ -36,11 +22,29 @@ dv.paragraph(`**Status Breakdown:** 🧠 ${planning} | ✏️ ${drafted} | 🔁 
 
 ## 🎬 Scene Index
 ```dataview
-TABLE story_date + " " + story_time AS "Date", title AS "Scene", pov AS "POV", emotional_tone AS "Tone", status AS "Status", words_count AS "Words"
+TABLE 
+	story_date + " " + story_time AS "Date", 
+	title AS "Scene", 
+	pov AS "POV", 
+	emotional_tone AS "Tone", 
+	status AS "Status", 
+	words_count AS "Words"
 FROM "03.Hobbies/Writing/Confluence/Scenes"
 SORT story_date + " " + story_time ASC
 ```
 
+```dataview
+TABLE
+  story_date + " " + story_time AS "📅 Date",
+  title AS "🎬 Title",
+  pov AS "👁️ POV",
+  emotional_tone AS "🎭 Tone",
+  status AS "📋 Status",
+  word_count AS "✍️ Words"
+FROM "03.Hobbies/Writing/Confluence/Scenes"
+WHERE type = "scene"
+SORT story_date + " " + story_time ASC
+```
 ---
 
 ## 👥 Character Tracker

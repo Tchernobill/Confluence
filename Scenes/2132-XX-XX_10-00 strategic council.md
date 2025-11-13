@@ -1,6 +1,5 @@
 ---
-title:
-  - Strategic Council - The Northside Opportunity
+title: Strategic Council
 description: Kyr4n convenes his senior leadership and squad commanders to decide Phoenix Rising's response to Northside Collective's planned attack on Greenfield Dominion
 tags:
   - Confluence

@@ -1,6 +1,5 @@
 ---
-title:
-  - Morning Awakening
+title: Morning Awakening
 description: Kyr4n awakens from a nostalgic dream of his mother's garden to the harsh reality of his concrete hideout
 tags:
   - Confluence
