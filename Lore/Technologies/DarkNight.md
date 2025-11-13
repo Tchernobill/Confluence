@@ -1,4 +1,7 @@
-**DarkNight** (designated **TMP-7734** in classified documentation) is an experimental nano-viral psychological warfare system rumored to have been developed in the late 2080s. Described in underground networks as the "ultimate torture device," DN represents a convergence of advanced nanotechnology, neural mapping, and psychological manipulation techniques.
+
+# DarkNight
+
+(designated **TMP-7734** in classified documentation) is an experimental nano-viral psychological warfare system rumored to have been developed in the late 2080s. Described in underground networks as the "ultimate torture device," DN represents a convergence of advanced nanotechnology, neural mapping, and psychological manipulation techniques.
 
 ## Classification and Designation
 

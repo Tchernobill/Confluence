@@ -1,6 +1,5 @@
 ---
-title:
-  - Scene Title
+title: Scene Title
 story_date: YYYY-MM-DD
 story_time: HH:MM
 story_date_end: YYYY-MM-DD
@@ -45,7 +44,7 @@ version: "0.1"
 created: YYYY-MM-DD
 last_updated: YYYY-MM-DD HH:MM
 revision_notes: Initial draft complete
-kyr4n_age: 18
+kyr4n_age: 0
 ---
 # [Scene Title]
 

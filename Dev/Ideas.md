@@ -1,3 +1,7 @@
+At a team meeting, Kyr4n ask Jin "How many bones in your collection". Jin reply with a smug face "Boss... I can't say that here. There's ladies!"
+Kyr4n then freeze for a moment, realizing that Jin 'set him up' weeks ago, to say that phrase just so that Jin could deliver this line.
+Kyr4n admit being that while being a tactical genius, he bow doen to the mastermind that Jin is. 
+
 ---
 
 When Sedh become self-aware, he is still relatively "dumb", limited by a quantized neural network. When transferred into the modified Egypt NPU, his cognitive functions expand greatly, reaching near human reasoning in days, with potential to slowly scale much more as he experience and learn, he grow.

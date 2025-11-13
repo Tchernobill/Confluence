@@ -13,7 +13,7 @@ tags:
   - Council_Meeting
 type: summary
 publication_position: 4.XX.XXX
-tome: 4
+era: 4
 chapter: XX
 scene_number: XXX
 story_date: 2132-XX-XX
@@ -82,7 +82,7 @@ words_count: "4500"
 - **From [[Previous Phoenix Rising Operations]]:** Organization has been consolidating single territory, building military capability, establishing legitimate business fronts. Ready to expand but hasn't taken major action yet.
 - **Unresolved Tension:** Phoenix Rising's growing capabilities need proving ground; other territories watching but uncertain about their intentions; Kyr4n's evolution from protector to something more authoritarian has been gradual but accelerating.
 - **Character State:**
-    - Kyr4n (age 46) is at mid-point between establishing Phoenix Rising (39) and Isa's return (51)—consultative but increasingly authoritarian
+    - Kyr4n is at mid-point between establishing Phoenix Rising and Isa's return —consultative but increasingly authoritarian
     - Marcus has been with organization for 9 years, growing more uneasy about gap between protective rhetoric and controlling reality
     - Alex is eager to prove Phoenix Rising's military capabilities
     - Squad leaders are trained and ready but untested in major operations
