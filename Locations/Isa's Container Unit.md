@@ -18,7 +18,7 @@ During the day, these windows provide a view across the smog haze toward the gle
 The door opens into a small airlock-style entry created by installing a partial wall 1.5 meters inside the first container. This serves dual purposes: security and privacy for client meetings. The outer section functions as a reception area and showroom, while the inner space serves as private quarters.
 
 ### Showroom & Office (First Container)
-The front container has been converted into a sophisticated business space that projects confidence and discretion - essential qualities for an underground implant dealer. Soft, warm LED lighting creates an atmosphere more reminiscent of an upscale medical clinic than a Stack dwelling.
+The front half of the container has been converted into a sophisticated business space that projects confidence and discretion - essential qualities for an underground implant dealer. Soft, warm LED lighting creates an atmosphere more reminiscent of an upscale medical clinic than a Stack dwelling.
 
 **Reception Area:**
 - Two comfortable chairs face each other across a low table made from polished salvaged metal

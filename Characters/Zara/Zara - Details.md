@@ -70,19 +70,32 @@ tags:
 
 ### Basic Description
 - **Height:** 5'6" (168cm)
-- **Build:** Compact muscular build, athletic dancer's physique optimized for combat and lethal efficiency. Every muscle serves a purpose—strength without bulk, speed without fragility
-- **Skin Tone:** Olive complexion with slight tan from outdoor training, Mediterranean coloring
+- **Build:** Compact muscular build, athletic physique optimized for combat and lethal efficiency. Every muscle serves a purpose—strength without bulk, speed without fragility
+- **Skin Tone:** Olive complexion with slight tan from outdoor training, Mediterranean colouring
 - **Hair:** Thick, voluminous dark brown curly hair that falls past her shoulders with natural texture and bounce. Usually pulled back in practical ponytail for combat, occasionally loose for special occasions or intimate moments
-- **Eyes:** Intense dark brown, almost black. Eyes that constantly scan, assess, calculate threat levels. When focused on someone, the weight of that gaze is palpable
+- **Eyes:** Intense dark brown, almost black. When focused on someone, the weight of that gaze is palpable
 - **Age Appearance:** Looks her age but with an intensity that adds gravitas
 
+---
+Elani nassif, of Lebanese heritage.
+### **Facial Feature Description**
+- **Face Shape:** Soft oval face with balanced proportions and a gently rounded jawline.
+- **Skin Tone:** Warm light-to-medium complexion with a natural, healthy glow.
+- **Eyes:** Medium-sized **almond-shaped brown eyes** with a calm, expressive look; the upper eyelids are softly curved, and the lower lash line is smooth and subtle.
+- **Brows:** **Naturally thick, dark eyebrows** with a gentle arch — a feature often associated with Levantine beauty.
+- **Nose:** Straight bridge with a softly rounded tip, harmonious with the rest of her facial structure.
+- **Lips:** Full, softly defined lips with a natural pink-red tone and a subtle, relaxed smile.
+- **Hair:** **Dark brown, naturally curly hair**, parted near the center, with soft volume framing the face.
+- **Jaw & Cheeks:** Smooth jawline, faint natural cheek contour, giving a youthful and approachable expression.
+- **Other Features:** Wearing silver hoop earrings that complement her overall appearance.
+- **Expression:** Gentle, calm, slightly playful expression.
+---
 ### Distinctive Features
 - **Knife scar across left ribs:** From her first assassination attempt that she survived—a reminder that she wasn't always the apex predator she is now. She traces it sometimes when thinking about how far she's come
 - **Burn mark on right shoulder blade:** Chemical interrogation during corporate training—a reminder of when she was owned rather than free
 - **Flame tattoo behind right ear:** Small, personal symbol. "Flame" as her handle, fire as her nature. Hidden unless she pulls her hair up
 - **Callused knuckles and palms:** Years of weapons training, blade work, combat conditioning. Her hands tell the story of violence
 - **Scars across torso and limbs:** Numerous small scars from training and operations, each one a lesson survived
-- **Predatory grace:** The way she moves—economical, purposeful, deadly—is itself distinctive
 
 ### Style & Presentation
 - **Clothing Preference:** Form-fitting black tactical gear with concealed weapons integrated throughout. Reinforced cyber-enhanced leather jacket. Combat boots with hidden blade compartments. Everything prioritizes function—ability to move, fight, kill—but the aesthetic of controlled lethality becomes its own style
@@ -97,7 +110,7 @@ tags:
 - **Facial Expressions:** Minimal. Stoic default. Small smile is usually predatory rather than warm. When genuine emotion shows, it's shocking
 - **Combat Stance:** Weight balanced, hands always ready, positioned for optimal threat response
 - **Constant Behaviors:** Room scanning, threat assessment, strategic positioning, unconscious weapon checks
-- **Nervous Habits:** Blade sharpening (meditation), checking weapon accessibility, positioning herself between threats and protected individuals
+- **Nervous Habits:** None, she's never nervous.
 
 ---
 
@@ -189,19 +202,12 @@ tags:
 ### Sample Dialogue
 
 **GREETING:** "Clear." [Simple confirmation of safety status]
-
 **CASUAL:** "Threat assessment complete. Three exits, two cameras, one distracted guard. Coffee first or should I handle it now?"
-
 **ANGRY:** [Very quiet] "You have three seconds to explain why I shouldn't end this conversation permanently."
-
 **SCARED:** [No external change] "Kyr4n, behind me. Now." [Fear channels immediately into protective action]
-
 **PERSUADING:** "You have two options. Option one: you leave now, stay breathing. Option two: you stay, stop breathing. Simple choice."
-
 **INTIMATE:** [Rare vulnerability] "You make me want to lower my guard. Do you know how terrifying that is for someone like me? ...Don't stop."
-
 **LYING:** [Doesn't lie to protected individuals—her honesty is part of her loyalty]
-
 **PROFESSIONAL:** "Target acquired. Elimination in progress. Minimal collateral. Clean exit secured."
 
 ---

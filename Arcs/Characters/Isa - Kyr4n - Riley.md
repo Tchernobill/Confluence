@@ -1,4 +1,4 @@
-# Relationship Evolution Arc – Tome 1 & 2 (Revised: DarkNight Infection Arc)
+# Relationship Evolution Arc – Tome 1 & 2
 
 ### Characters
 - **Kyr4n** — introverted scavenger / repair prodigy; analytical, emotionally repressed, later infected by DarkNight nanovirus causing paranoia and self-destructive decline.  

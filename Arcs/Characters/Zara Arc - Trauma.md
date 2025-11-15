@@ -35,7 +35,7 @@ Her trauma isn’t just backstory — it defines her **core motivations**, espec
 - **Dominance is a shield** — she plays the aggressor not out of lust, but out of fear.
 - **Emotional connections are dangerous** — because the only person she ever trusted _broke her_.
 
-She is **drawn to violent, powerful men**, not out of desire for abuse — but as if testing them: _Will you break me? Or will you protect me?_
+She is **drawn to violent, powerful people**, not out of desire for abuse — but as if testing them: _Will you break me? Or will you protect me?_
 
 Plausible and powerful foundation for her association between sex and violence, from a **psychological, neurobiological, and narrative** perspective.
 

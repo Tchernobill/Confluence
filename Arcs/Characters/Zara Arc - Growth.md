@@ -68,8 +68,8 @@ scenes:
 
 **Scenes**:
 
-- **"The Interrogation"** - First glimpse of Kyr4n's mysterious abilities (passive information extraction)
-- **"King of the Mat"** - Witnesses impossible combat capability, attraction intensifies
+- **"[[2109-07-15_00-00 - The Interrogation|The Interrogation]]"** - First glimpse of Kyr4n's mysterious abilities (passive information extraction)
+- **"[[2109-08-15_00-00 - King Of The Mat|King of the Mat]]"** - Witnesses impossible combat capability, attraction intensifies
 
 **Character Beats**:
 
@@ -89,7 +89,7 @@ scenes:
 
 **Scenes**:
 
-- **"The Taking"** - Zara initiates physical relationship, pushes past Kyr4n's hesitation
+- **"[[2109-08-20_00-00 - The Taking|The Taking]]"** - Zara initiates physical relationship, pushes past Kyr4n's hesitation
 - **"Aftermath"** - Internal reflection on feeling genuinely fulfilled for first time
 - **"The Arrangement"** - Pushes Kyr4n past emotional limits, establishes ongoing dynamic
 
