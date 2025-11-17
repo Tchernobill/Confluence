@@ -18,14 +18,14 @@ emotional_tone:
   - horror
   - psychological_crisis
 status: drafted
-publication_position: "4.05.005i"
+publication_position: 4.05.005i
 words_count: 3500
 estimated_reading_time: 14 minutes
 characters_present:
   - "[[Kyr4n]]"
   - "[[Zara]]"
   - "[[Evilisa]]"
-  - "[[Security Team]]" 
+  - "[[Security Team]]"
 relationship_developments:
   - "Kyr4n/Zara: physical intimacy reaches dangerous threshold"
   - "Kyr4n/Evilisa: manifestation grows stronger during intimacy"
@@ -74,6 +74,7 @@ created: 2025-06-07
 last_updated: 2025-11-08 14:55
 revision_notes: Revised with Evilisa integration
 kyr4n_age: 42
+era: 4
 ---
 # The Arrangement
 

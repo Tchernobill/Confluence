@@ -153,7 +153,7 @@ tags:
 - **[[Corporate Research Facility]]**: Heist location, viral exposure site
 - **Underground Safe House**: Immediate post-heist recovery
 - **Kyr4n's Workshop**: Medical monitoring during coma, Mira's upgrade location
-- **[[South Shore Slum]]**: Context for ongoing operations and life
+- **[[South Shore Slums]]**: Context for ongoing operations and life
 
 **World-building Elements**:
 
@@ -908,7 +908,7 @@ tags:
 - **Next**: [[3 - Tome 3]]
 - **Character Details**: [[Kyr4n - Details]], [[Sedh - Details]], [[Mira - Details]], [[Isa - Details]], [[Riley - Details]]
 - **Character Evolution**: [[Kyr4n - Evolution]], [[Sedh - Evolution]], [[Mira - Evolution]], [[Isa - Evolution]]
-- **World Building**: [[The Midnight Protocol]], [[Egypt NPUs]], [[Phoenix Recovery]], [[South Shore Slum]]
+- **World Building**: [[The Midnight Protocol]], [[Egypt NPUs]], [[Phoenix Recovery]], [[South Shore Slums]]
 - **Technology**: [[Electromagnetic Abilities]], [[Nanobotic Communication]], [[AI Consciousness]]
 
 ---

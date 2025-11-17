@@ -1,135 +1,87 @@
 ---
-
-title: "The Enforcer Incident"
-description: "Isa witnesses Kyr4n's lethal capabilities when a corporate enforcer attempts a shakedown at the underground market. Kyr4n's analytical violence and precision impress Isa, deepening her curiosity about him. She gifts him premium neural interface chips as an investment in his exceptional craftsmanship."
-
-# Core Metadata
-
+title: The Enforcer Incident
+description: Isa witnesses Kyr4n's lethal capabilities when a corporate enforcer attempts a shakedown at the underground market. Kyr4n's analytical violence and precision impress Isa, deepening her curiosity about him. She gifts him premium neural interface chips as an investment in his exceptional craftsmanship.
 type: scene
-status: in progress 
-version: "0.2" 
+status: in progress
+version: "0.2"
 last_updated: 2025-11-10
-
-# Publication Structure
-
 publication_position: 1.02.003
-
-# Tome.Chapter.Scene 
-tome: 1 
-chapter: 2 
+tome: 1
+chapter: 2
 scene_number: 3
-
-# Story Timeline
-
-story_date: 2108-05-01
-story_date_end: 2108-05-01 
-story_time: "09:30" 
-story_time_end: "[TBD - estimate 10:30 based on scene duration]" 
-time_of_day: evening 
-
-# NOTE: Contradicts 09:30 time - needs verification 
-
+story_date: 2108-05-31
+story_date_end: 2108-05-31
+story_time: 14:00
+story_time_end: 14:15
+time_of_day: evening
 kyr4n_age: 22
-
-# Narrative Structure
-
-narrative_arc: "Kyr4n's Early Years - Scavenger" 
-scene_type: "Action/Character Revelation" 
-scene_function: "Character development, relationship building, world-building"
-emotional_tone: "Tense violence transitioning to professional respect and curiosity" 
-pacing: "Fast-paced action followed by slower character interaction"
-
-# POV & Characters
-
+narrative_arc: Kyr4n's Early Years - Scavenger
+scene_type: Action/Character Revelation
+scene_function: Character development, relationship building, world-building
+emotional_tone: Tense violence transitioning to professional respect and curiosity
+pacing: Fast-paced action followed by slower character interaction
 pov: Kyr4n
-pov_style: "Third-person limited"
+pov_style: Third-person limited
 characters_present:
-
-- "[[Kyr4n]]"
-- "[[Isa]]"
-- "Corporate Enforcer (unnamed antagonist)"
-- "Market crowd (background)"
-
-# Setting
-
-location: 
-- [[South Shore Slum]] 
-- [[Underground Tech Market]] 
-- Near Kyr4n's stall"
-location_details: "Crowded underground market with hanging cables, salvaged equipment, maintenance tunnels" 
-atmosphere: "Tense, threatening, then curious and cautiously friendly"
-
-# Plot & Themes
-
+  - "[[Kyr4n]]"
+  - "[[Isa]]"
+  - Corporate Enforcer (unnamed antagonist)
+  - Market crowd (background)
+location:
+  - - - South Shore Slum
+  - - - Underground Tech Market
+  - Near Kyr4n's stall"
+location_details: Crowded underground market with hanging cables, salvaged equipment, maintenance tunnels
+atmosphere: Tense, threatening, then curious and cautiously friendly
 plot_threads:
-
-- "[[Kyr4n's Isolation]]"
-- "[[Kyr4n and Isa Relationship Development]]"
-- "[[Corporate Oppression]]"
-- "[[Violence as Technical Problem]]" 
-
+  - "[[Kyr4n's Isolation]]"
+  - "[[Kyr4n and Isa Relationship Development]]"
+  - "[[Corporate Oppression]]"
+  - "[[Violence as Technical Problem]]"
 primary_themes:
-- "Violence as analytical problem-solving"
-- "Power dynamics and corporate oppression"
-- "Professional respect and growing fascination"
-- "Hidden depths and capabilities"
-
+  - Violence as analytical problem-solving
+  - Power dynamics and corporate oppression
+  - Professional respect and growing fascination
+  - Hidden depths and capabilities
 symbolic_elements:
-- "Screwdriver as precision tool vs. brute force"
-- "PitBull MKIII as hidden lethality"
-- "Premium chips as investment in artistry"
-
-# Content Tracking
-
-words_count: "[TBD - approximately 3,200 words]" 
+  - Screwdriver as precision tool vs. brute force
+  - PitBull MKIII as hidden lethality
+  - Premium chips as investment in artistry
+words_count: "[TBD - approximately 3,200 words]"
 scenes_before: "[[1.02.002 - Contact]]"
 scenes_after: "[[1.02.004 - TBD]]"
-
-# Technical Elements
-
 tech_introduced:
-
-- "Enforcer armor servo systems"
-- "PitBull MKIII compact weapon"
-- "Military-grade neural interface chips (current generation)"
-- "Corporate enforcement gear with throat mods" 
-
-violence_level: "Moderate - one-sided combat with technical precision"
-
+  - Enforcer armor servo systems
+  - PitBull MKIII compact weapon
+  - Military-grade neural interface chips (current generation)
+  - Corporate enforcement gear with throat mods
+violence_level: Moderate - one-sided combat with technical precision
 world_building:
-- "Corporate shake-down practices"
-- "Underground market dynamics"
-- "Legal immunity for corporate security"
-
-# Writing Notes
-
+  - Corporate shake-down practices
+  - Underground market dynamics
+  - Legal immunity for corporate security
 strengths:
-
-- "Kyr4n's analytical approach to violence"
-- "Isa's fascination with his unique mindset"
-- "The contrast between politeness and capability"
-- "Technical precision in combat description"
-
+  - Kyr4n's analytical approach to violence
+  - Isa's fascination with his unique mindset
+  - The contrast between politeness and capability
+  - Technical precision in combat description
 areas_to_develop:
-- "[TBD]" 
-
+  - "[TBD]"
 continuity_notes:
-- "First clear demonstration of Kyr4n's combat capability to another character"
-- "Establishes Isa's pattern of investing in Kyr4n's work"
-- "Introduction of 'Everything deserves a second chance' philosophy" 
+  - First clear demonstration of Kyr4n's combat capability to another character
+  - Establishes Isa's pattern of investing in Kyr4n's work
+  - Introduction of 'Everything deserves a second chance' philosophy
 research_needed:
-- "[TBD]"
-
+  - "[TBD]"
 tags:
-
-- Confluence
-- Kyr4n
-- Isa
-- violence
-- character-development
-- market-scene
-- combat
-
+  - Confluence
+  - Kyr4n
+  - Isa
+  - violence
+  - character-development
+  - market-scene
+  - combat
+era: 1
 ---
 
 ## Scene Information

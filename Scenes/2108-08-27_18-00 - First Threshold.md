@@ -1,69 +1,69 @@
 ---
-
-title: First Threshold 
-story_date: 2108-08-27 
-story_time: 18:00 
-story_date_end: 2108-08-27 
-location: "[[Isa's Container Unit]]" 
-pov: "[[Kyr4n]]" 
+title: First Threshold
+story_date: 2108-08-27
+story_time: 18:00
+story_date_end: 2108-08-27
+location: "[[Isa's Container Unit]]"
+pov: "[[Kyr4n]]"
 narrative_arc: arc_01_the_scavenger
 scene_type:
-- introspection
-- dialogue
-- intimate
-- revelation
-- relationship_development emotional_tone:
-- intimate
-- tender
-- playful
-- overwhelming
-- discovering 
+  - introspection
+  - dialogue
+  - intimate
+  - revelation
+  - relationship_development emotional_tone:
+  - intimate
+  - tender
+  - playful
+  - overwhelming
+  - discovering
 status:
-- drafted publication_position: "Tome 1, Late Arc (Chapter 11)" 
-words_count: 3400 
-estimated_reading_time: 14 minutes 
+  - drafted publication_position: Tome 1, Late Arc (Chapter 11)
+words_count: 3400
+estimated_reading_time: 14 minutes
 characters_present:
-- "[[Kyr4n]]"
-- "[[Isa]]" 
+  - "[[Kyr4n]]"
+  - "[[Isa]]"
 relationship_developments:
-- "Kyr4n/Isa: first time in her personal space"
-- "Kyr4n/Isa: escalating physical intimacy"
-- "Kyr4n/Isa: Isa offering him a better life" 
+  - "Kyr4n/Isa: first time in her personal space"
+  - "Kyr4n/Isa: escalating physical intimacy"
+  - "Kyr4n/Isa: Isa offering him a better life"
 plot_threads:
-- "[[Thread: Kyr4n's Journey from Isolation]]"
-- "[[Thread: Kyr4n and Isa's Relationship]]"
-- "[[Thread: Phoenix Recovery Partnership]]"
+  - "[[Thread: Kyr4n's Journey from Isolation]]"
+  - "[[Thread: Kyr4n and Isa's Relationship]]"
+  - "[[Thread: Phoenix Recovery Partnership]]"
 character_arcs:
-- "[[Arc: Kyr4n Learning Connection]]"
-- "[[Arc: Isa Finding Safety]]"
-- "[[Arc: Kyr4n Accepting He Deserves Better]]" 
+  - "[[Arc: Kyr4n Learning Connection]]"
+  - "[[Arc: Isa Finding Safety]]"
+  - "[[Arc: Kyr4n Accepting He Deserves Better]]"
 thematic_elements:
-- isolation_vs_connection
-- scarcity_vs_abundance
-- vulnerability_as_strength
-- normalcy_in_dystopia
-- accepting_help 
-prev_scene: "[[The Riot Night]]" 
-next_scene: "[[2108-09-15_02-00_Quiet_Hours]]" 
+  - isolation_vs_connection
+  - scarcity_vs_abundance
+  - vulnerability_as_strength
+  - normalcy_in_dystopia
+  - accepting_help
+prev_scene: "[[The Riot Night]]"
+next_scene: "[[2108-09-15_02-00_Quiet_Hours]]"
 callbacks_to:
-- "[[The Riot - Isa staying in his utility room]]"
-- "[[The Riot Night]]"
-- "[[Kyr4n's underground utility room]]" 
+  - "[[The Riot - Isa staying in his utility room]]"
+  - "[[The Riot Night]]"
+  - "[[Kyr4n's underground utility room]]"
 setups_for:
-- "[[2108-09-15_02-00_Quiet_Hours]]"
-- "[[Established domestic intimacy]]" 
+  - "[[2108-09-15_02-00_Quiet_Hours]]"
+  - "[[Established domestic intimacy]]"
 content_warnings:
-- implied sexual content (non-explicit) contains_spoilers_for: [] 
+  - implied sexual content (non-explicit) contains_spoilers_for: []
 requires_knowledge_of:
-- Isa spent two days in Kyr4n's underground hideout during riots
-- Isa has seen his living conditions firsthand
-- Their relationship deepened during those two days 
-version: "0.2" 
-created: 2025-01-14 
-last_updated: 2025-01-14 03:45 
-revision_notes: "Revised to account for Isa having already stayed in his utility room"
+  - Isa spent two days in Kyr4n's underground hideout during riots
+  - Isa has seen his living conditions firsthand
+  - Their relationship deepened during those two days
+version: "0.2"
+created: 2025-01-14
+last_updated: 2025-01-14 03:45
+revision_notes: Revised to account for Isa having already stayed in his utility room
 kyr4n_age: 22
-
+era: 1
+description: Isa bring Kyr4n to her container unit for the first time.
 ---
 
 # First Threshold

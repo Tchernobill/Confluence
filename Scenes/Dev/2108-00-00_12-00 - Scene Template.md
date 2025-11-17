@@ -45,6 +45,7 @@ created: YYYY-MM-DD
 last_updated: YYYY-MM-DD HH:MM
 revision_notes: Initial draft complete
 kyr4n_age: 0
+era: # same as tome of volume, 1, 2, 3, 4, 5 or 6
 ---
 # [Scene Title]
 

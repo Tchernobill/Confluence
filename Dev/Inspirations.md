@@ -39,6 +39,7 @@ type: Document
 **Demolition Man** (1993) - Authoritarian future society
 - Sterile authority vs. chaotic underground - Clean corporate zones vs. messy slum reality
 - Social control through comfort - Population management through pleasure rather than fear
+- https://www.youtube.com/watch?v=TKS6V2Xdq1U
 
 **Cyberpunk Edge Runner**, Anime
 - Found Family Dynamics: Crew becomes chosen family in hostile world

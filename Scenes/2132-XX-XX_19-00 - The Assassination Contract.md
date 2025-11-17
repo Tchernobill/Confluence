@@ -1,3 +1,6 @@
+---
+era: 5
+---
 # The Assassination Contract
 
 ## Private Office Scene (Zara POV)

@@ -1,70 +1,70 @@
 ---
-
 title: A Night In The Stack
-story_date: 2108-09-15 
-story_time: 02:00 
-story_date_end: 2108-09-15 
+story_date: 2108-08-28
+story_time: 02:00
+story_date_end: 2108-09-28
 location: "[[Isa's Container Unit]]"
-pov: "[[Kyr4n]]" 
-narrative_arc: arc_01_the_scavenger 
+pov: "[[Kyr4n]]"
+narrative_arc: arc_01_the_scavenger
 scene_type:
-- introspection
-- dialogue
-- intimate
-- relationship_development 
+  - introspection
+  - dialogue
+  - intimate
+  - relationship_development
 emotional_tone:
-- intimate
-- tender
-- contemplative
-- peaceful
-- playful
+  - intimate
+  - tender
+  - contemplative
+  - peaceful
+  - playful
 status:
-- drafted publication_position: "Tome 1, Late Arc (Chapter 11 or 12)"
-words_count: 2650 
-estimated_reading_time: 11 minutes 
+  - drafted publication_position: Tome 1, Late Arc (Chapter 11 or 12)
+words_count: 2650
+estimated_reading_time: 11 minutes
 characters_present:
-- "[[Kyr4n]]"
-- "[[Isa]]" 
+  - "[[Kyr4n]]"
+  - "[[Isa]]"
 relationship_developments:
-- "Kyr4n/Isa: deepening intimacy through shared vulnerability"
-- "Kyr4n/Isa: mutual recognition of the safety they've created"
-- "Kyr4n/Isa: Isa's freedom to be playful and unguarded"
+  - "Kyr4n/Isa: deepening intimacy through shared vulnerability"
+  - "Kyr4n/Isa: mutual recognition of the safety they've created"
+  - "Kyr4n/Isa: Isa's freedom to be playful and unguarded"
 plot_threads:
-- "[[Thread: Kyr4n's Journey from Isolation]]"
-- "[[Thread: Kyr4n and Isa's Relationship]]"
-- "[[Thread: Phoenix Recovery Partnership]]"
+  - "[[Thread: Kyr4n's Journey from Isolation]]"
+  - "[[Thread: Kyr4n and Isa's Relationship]]"
+  - "[[Thread: Phoenix Recovery Partnership]]"
 character_arcs:
-- "[[Arc: Kyr4n Learning Connection]]"
-- "[[Arc: Isa Finding Safety]]"
-- "[[Arc: Kyr4n Learning to Be Present]]"
+  - "[[Arc: Kyr4n Learning Connection]]"
+  - "[[Arc: Isa Finding Safety]]"
+  - "[[Arc: Kyr4n Learning to Be Present]]"
 thematic_elements:
-- isolation_vs_connection
-- vulnerability_as_strength
-- freedom_through_trust
-- found_family
-- protection_and_safety
+  - isolation_vs_connection
+  - vulnerability_as_strength
+  - freedom_through_trust
+  - found_family
+  - protection_and_safety
 prev_scene: "[[Previous evening scene - TBD]]"
-next_scene: "[[Morning after scene - TBD]]" 
+next_scene: "[[Morning after scene - TBD]]"
 callbacks_to:
-- "[[Kyr4n's ventilation shaft hideout]]"
-- "[[Early Kyr4n/Isa business relationship]]"
-- "[[Kyr4n's emotional barriers]]" 
+  - "[[Kyr4n's ventilation shaft hideout]]"
+  - "[[Early Kyr4n/Isa business relationship]]"
+  - "[[Kyr4n's emotional barriers]]"
 setups_for:
-- "[[Arc 2: Viral infection destroying this intimacy]]"
-- "[[Arc 2: Isa's heartbreak at loss of connection]]"
-- "[[The cost of losing this safe space]]"
-content_warnings: [] 
-contains_spoilers_for: [] 
+  - "[[Arc 2: Viral infection destroying this intimacy]]"
+  - "[[Arc 2: Isa's heartbreak at loss of connection]]"
+  - "[[The cost of losing this safe space]]"
+content_warnings: []
+contains_spoilers_for: []
 requires_knowledge_of:
-- Kyr4n's isolated background
-- Kyr4n and Isa's developing relationship
-- Phoenix Recovery business partnership
+  - Kyr4n's isolated background
+  - Kyr4n and Isa's developing relationship
+  - Phoenix Recovery business partnership
 version: "0.1"
-created: 2025-01-14 
-last_updated: 2025-01-14 02:30 
-revision_notes: "Initial draft complete, needs integration with surrounding chapters"
+created: 2025-01-14
+last_updated: 2025-01-14 02:30
+revision_notes: Initial draft complete, needs integration with surrounding chapters
 kyr4n_age: 22
-
+era: 1
+description: Isa join sleepless Kyr4n outside, where they share a moment together and a few stray cats.
 ---
 
 # A Night In The Stack
@@ -600,7 +600,7 @@ For now, anyway.
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[Kyr4n]], [[Isa]] **Location Details:** [[Isa's Container Unit]], [[The Stacks]], [[South Shore Slum]] **Plot Threads:** [[Thread: Kyr4n's Journey from Isolation]], [[Thread: Kyr4n and Isa's Relationship]] **World-Building:** [[The Stacks Architecture]], [[Life in the South Shore Slum]] **Timeline:** [[Timeline: Arc 1 - The Scavenger]]
+**Character Sheets:** [[Kyr4n]], [[Isa]] **Location Details:** [[Isa's Container Unit]], [[The Stacks]], [[South Shore Slums]] **Plot Threads:** [[Thread: Kyr4n's Journey from Isolation]], [[Thread: Kyr4n and Isa's Relationship]] **World-Building:** [[The Stacks Architecture]], [[Life in the South Shore Slum]] **Timeline:** [[Timeline: Arc 1 - The Scavenger]]
 
 ---
 

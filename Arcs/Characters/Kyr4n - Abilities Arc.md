@@ -1,3 +1,5 @@
+Kyr4n never reveal the full extend of his abilities. While he cannot hide the fact that he is enhanced, he constantly remain vague, mysterious, evasive about his capacity, will never mention the nanobotic virus, will instead refer to it as his "framework"
+
 Era 1 - The Scavenger
 Kyr4n don't have any special abilities, he just have exceptional technical skills.
 

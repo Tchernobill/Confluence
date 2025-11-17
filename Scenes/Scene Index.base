@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("03.Hobbies/Writing/Confluence/Scenes")
+        - and:
+            - "!era.isEmpty()"
+    order:
+      - story_date
+      - story_time
+      - description
+      - file.name
+    sort:
+      - property: story_date
+        direction: ASC
+    columnSize:
+      note.story_date: 123

@@ -2,6 +2,8 @@
 
 ### **Timeline: 3 Months — 12 Beats**
 
+Began after install of the Egypt PNPU
+
 ---
 
 ### **Beat 1 – Diagnostic Silence (Week 1)**

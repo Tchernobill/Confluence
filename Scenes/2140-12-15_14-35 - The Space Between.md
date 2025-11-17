@@ -69,6 +69,7 @@ created: 2025-11-13
 last_updated: 2025-11-13
 revision_notes: Initial template creation
 kyr4n_age: 55
+era: "5"
 ---
 # The Space Between
 

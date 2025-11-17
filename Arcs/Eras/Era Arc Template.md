@@ -6,9 +6,9 @@ status: active
 timeline_start: 2108-04-01
 timeline_end: 2111-03-12
 theme: survival_vs_identity
-summary: "Kyr4n’s early years as a scavenger, surviving the underbelly of South Shore and building the foundation of his identity."
+summary: Kyr4n’s early years as a scavenger, surviving the underbelly of South Shore and building the foundation of his identity.
 locations:
-  - "[[South Shore Slum]]"
+  - "[[South Shore Slums]]"
   - "[[The Stacks]]"
 focus_characters:
   - "[[Kyr4n]]"

@@ -46,7 +46,7 @@ related_characters:
   - "[[Archives/Characters/Mains/Riley]]"
   - "[[Evil Isa]]"
 related_locations:
-  - "[[South Shore Slum]]"
+  - "[[South Shore Slums]]"
   - "[[Phoenix Recovery]]"
   - "[[Corporate Research Facility]]"
 related_organizations:

@@ -4,9 +4,6 @@ description: Kyr4n awakens from a nostalgic dream of his mother's garden to the 
 tags:
   - Confluence
   - Kyr4n
-  - Dream Sequence
-  - Morning Routine
-  - Key Scenes
 type: scene
 publication_position: 1.01.001
 tome: 1
@@ -32,6 +29,7 @@ version: "0.7"
 status: revision
 last_updated: 2025-06-31 11:30
 words_count: "[TBD - count after prose complete]"
+era: 1
 ---
 
 # Morning Awakening

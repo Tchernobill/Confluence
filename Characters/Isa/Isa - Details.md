@@ -40,7 +40,7 @@ related_characters:
   - "[[Archives/Characters/Mains/Marcus]]"
   - "[[Elena]]"
 related_locations:
-  - "[[South Shore Slum]]"
+  - "[[South Shore Slums]]"
   - "[[Phoenix Recovery]]"
 related_organizations:
   - "[[Phoenix Recovery]]"

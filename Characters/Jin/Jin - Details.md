@@ -38,7 +38,7 @@ related_characters:
   - "[[Kaia Okafor]]"
 related_locations:
   - "[[Phoenix Recovery]]"
-  - "[[South Shore Slum]]"
+  - "[[South Shore Slums]]"
   - "[[Underground Tech District]]"
 related_organizations:
   - "[[Phoenix Recovery]]"

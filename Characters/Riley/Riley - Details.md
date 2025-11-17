@@ -41,7 +41,7 @@ related_characters:
   - "[[Evilisa]]"
   - "[[Kovar]]"
 related_locations:
-  - "[[South Shore Slum]]"
+  - "[[South Shore Slums]]"
   - "[[The Crucible]]"
   - "[[Phoenix Recovery Compound]]"
 related_organizations:

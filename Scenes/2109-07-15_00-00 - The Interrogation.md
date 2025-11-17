@@ -1,3 +1,6 @@
+---
+era: 4
+---
 
 # **The Interrogation**
 
@@ -731,7 +734,7 @@
 
 - [[Organization Compound]]
 - [[Corporate District]]
-- [[South Shore Slum]]
+- [[South Shore Slums]]
 
 **Plot Threads:**
 
