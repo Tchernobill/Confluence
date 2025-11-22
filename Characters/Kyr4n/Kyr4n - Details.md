@@ -41,7 +41,7 @@ related_characters:
   - "[[Archives/Characters/Mains/Isa]]"
   - "[[Archives/Characters/Mains/Sedh]]"
   - "[[Archives/Characters/Mains/Mira]]"
-  - "[[Frank]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Frank]]"
   - "[[Archives/Characters/Mains/Marcus]]"
   - "[[Archives/Characters/Mains/Riley]]"
   - "[[Evil Isa]]"

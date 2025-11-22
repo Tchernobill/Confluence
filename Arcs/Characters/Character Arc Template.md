@@ -5,13 +5,13 @@ name: Kyr4n Learning Connection
 status: active
 theme: isolation_vs_connection
 focus_characters:
-  - "[[Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
 related_arcs:
   - "[[Isa Finding Safety]]"
 scenes:
   - "[[2108-05-01_afternoon_scene]]"
 progress: 0
-summary: "Tracks Kyr4n’s growth from detached survivalist to someone capable of trust and emotional intimacy."
+summary: Tracks Kyr4n’s growth from detached survivalist to someone capable of trust and emotional intimacy.
 ---
 # Character Arc: {{name}}
 

@@ -5,8 +5,8 @@ name: Zara's Growth
 status: active
 theme: power_vs_vulnerability
 focus_characters:
-  - "[[Zara]]"
-  - "[[Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence_bak/Characters/Zara]]"
+  - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
 progress: 0
 summary: Tracks Zara's personal growth from 'hothead assassin' to multi-layered character capable of trust and emotional intimacy. Through her evolving relationship with Kyr4n, Zara confronts her own capacity for vulnerability, moving from attraction based on power and danger to genuine trust requiring she expose her deepest traumas.
 related_arcs:

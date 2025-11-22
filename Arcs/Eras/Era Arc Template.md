@@ -11,8 +11,8 @@ locations:
   - "[[South Shore Slums]]"
   - "[[The Stacks]]"
 focus_characters:
-  - "[[Kyr4n]]"
-  - "[[Isa]]"
+  - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence_bak/Characters/Isa]]"
 scenes:
   - "[[2108-04-30_evening_scene]]"
   - "[[2108-05-01_afternoon_scene]]"

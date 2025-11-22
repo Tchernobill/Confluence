@@ -4,7 +4,7 @@ name: Kyr4n Learning Connection
 arc_type: character
 status: active
 theme: isolation_vs_connection
-focus_character: "[[Kyr4n]]"
+focus_character: "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
 related_arcs:
   - "[[Isa Finding Safety]]"
 related_threads:

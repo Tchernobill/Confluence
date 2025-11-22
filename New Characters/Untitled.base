@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("03.Hobbies/Writing/Confluence/New Characters")
+        - file.tags.contains("cast")
+    order:
+      - file.name
+      - DOB
+      - alignment
+      - gender
+      - archetype
+    sort:
+      - property: DOB
+        direction: ASC
+    columnSize:
+      file.name: 172

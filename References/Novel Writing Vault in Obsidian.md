@@ -545,29 +545,23 @@ Configure export to DOCX with standard manuscript format: body text with 1.5 lin
 **Templater plugin adds dynamic templating with JavaScript**. Create templates that prompt for input and auto-generate content:
 
 ```markdown
-<%*
-const chapter_num = await tp.system.prompt("Chapter Number");
-const scene_title = await tp.system.prompt("Scene Title");
-const new_title = chapter_num + " - " + scene_title;
-await tp.file.rename(new_title);
-_%>
 ---
-chapter: <% chapter_num %>
-title: "<% scene_title %>"
+chapter: null
+title: "null"
 characters_present: []
 location: 
 date_in_story: 
 status: draft-1
 word_count: 0
 words_goal: 3000
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
+created: 2025-11-18
 ---
 
-# <% new_title %>
+# null - null
 
 [Start writing here]
 
-<% await tp.file.move("Drafts/Current/" + new_title) %>
+
 ```
 
 This template prompts for chapter number and title, renames the file, fills in frontmatter, and moves the file to the correct location—all automatically.

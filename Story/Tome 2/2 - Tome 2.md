@@ -63,7 +63,7 @@ tags:
 
 ## Tome Overview
 
-**Tome Synopsis**: [[Frank]], a contractor team leader, recruits [[Kyr4n - Details|Kyr4n]] for a corporate heist targeting prototype Neural Processing Units (NPUs) codenamed 'Egypt' that could advance [[Sedh - Details|Sedh's]] consciousness. During the heist, Kyr4n is exposed to the Midnight Protocol (TMP-7734)—a nano-virus designed for psychological warfare—though no one realizes it at the time. He successfully obtains two Egypt NPUs and returns home. As Sedh continues his consciousness evolution with the first Egypt NPU, they acquire medical droid [[Mira - Details|Mira]] who develops toward sentience with the second NPU in an accelerated process. Meanwhile, Kyr4n's mysterious symptoms slowly progress over the month—headaches, paranoia, disturbing dreams—but he remains functional, continuing [[Phoenix Recovery]] operations with Sedh and [[Isa - Details|Isa]]. [[Riley - Details|Riley]], a friend with a calming presence, appears regularly and helps stabilize Kyr4n's moods. However, the viral psychological warfare eventually overwhelms him, climaxing in a violent psychological breakdown where he threatens with a plasma blaster. Sedh and Mira restrain him and induce a medical coma. Mira detect fading nanobotic signals broadcasting encrypted data with one clear text string: "TMP-7734." Isa places a bounty on this mysterious code, leading to discovery of the psychological warfare virus. They crack the communication protocol and reduce the threat, but Kyr4n emerges traumatized. Under psychological weight, he pushes Isa away, suggesting separation. She accepts with sad relief and an empty promise to try again when he's better, but never looks back. He discovers electromagnetic sensing abilities from the viral integration—setting up his criminal transformation.
+**Tome Synopsis**: [[03.Hobbies/Writing/Confluence/Characters/Frank]], a contractor team leader, recruits [[Kyr4n - Details|Kyr4n]] for a corporate heist targeting prototype Neural Processing Units (NPUs) codenamed 'Egypt' that could advance [[Sedh - Details|Sedh's]] consciousness. During the heist, Kyr4n is exposed to the Midnight Protocol (TMP-7734)—a nano-virus designed for psychological warfare—though no one realizes it at the time. He successfully obtains two Egypt NPUs and returns home. As Sedh continues his consciousness evolution with the first Egypt NPU, they acquire medical droid [[Mira - Details|Mira]] who develops toward sentience with the second NPU in an accelerated process. Meanwhile, Kyr4n's mysterious symptoms slowly progress over the month—headaches, paranoia, disturbing dreams—but he remains functional, continuing [[Phoenix Recovery]] operations with Sedh and [[Isa - Details|Isa]]. [[Riley - Details|Riley]], a friend with a calming presence, appears regularly and helps stabilize Kyr4n's moods. However, the viral psychological warfare eventually overwhelms him, climaxing in a violent psychological breakdown where he threatens with a plasma blaster. Sedh and Mira restrain him and induce a medical coma. Mira detect fading nanobotic signals broadcasting encrypted data with one clear text string: "TMP-7734." Isa places a bounty on this mysterious code, leading to discovery of the psychological warfare virus. They crack the communication protocol and reduce the threat, but Kyr4n emerges traumatized. Under psychological weight, he pushes Isa away, suggesting separation. She accepts with sad relief and an empty promise to try again when he's better, but never looks back. He discovers electromagnetic sensing abilities from the viral integration—setting up his criminal transformation.
 
 **Central Conflict**: The insidious, slow-burn destruction of Kyr4n's mental stability over years by an undetected nano-virus conducting psychological warfare, while he tries to maintain normal life and relationships. External conflict: corporate heist and maintaining business. Internal conflict: creeping paranoia and nightmares he can't explain, relationships straining under invisible assault.
 
@@ -87,7 +87,7 @@ tags:
 
 **New Characters Introduced**:
 
-- **[[Frank]]**: Contractor who recruits Kyr4n, abandons him during explosion, enemy established (returns [[3 - Tome 3]])
+- **[[03.Hobbies/Writing/Confluence/Characters/Frank]]**: Contractor who recruits Kyr4n, abandons him during explosion, enemy established (returns [[3 - Tome 3]])
 - **Frank's Crew**: Flux, Raven, Tank (Tank saves Kyr4n)
 - **[[Mira - Details|Mira]]**: Medical droid achieving accelerated sentience, becomes family
 - **[[Riley - Details|Riley]]**: Friend with positive "aura" helping stabilize Kyr4n
@@ -110,7 +110,7 @@ tags:
 
 **Major Plot Threads**:
 
-1. **The Corporate Heist**: [[Frank]]'s recruitment → infiltration → viral exposure (unknown) → Frank's abandonment → aftermath → Egypt NPUs obtained
+1. **The Corporate Heist**: [[03.Hobbies/Writing/Confluence/Characters/Frank]]'s recruitment → infiltration → viral exposure (unknown) → Frank's abandonment → aftermath → Egypt NPUs obtained
 2. **Sedh's Consciousness Evolution**: Egypt NPU integration → continued development → growing independence → full sentience → crisis leadership
 3. **Mira's Accelerated Sentience**: Acquisition → restoration → Egypt NPU installation → accelerated consciousness development (learned from Sedh) → full awakening → medical purpose
 4. **Slow Viral Deterioration**: Post-heist normalcy → subtle symptoms → functional decline → increasing paranoia → nightmares intensifying → maintaining work → violent breakdown (years-long process)
@@ -196,7 +196,7 @@ tags:
 
 ## Structural Elements
 
-**Tome Opening**: [[Frank]] arrives with heist proposition. When Kyr4n learns about Egypt NPUs for Sedh's advancement, love overcomes caution. Heist proceeds, explosion exposes Kyr4n to virus (unknowingly), Frank abandons him, Tank rescues him. Returns home with Egypt NPUs, begins normalcy. Mood: Fateful decision, explosive action, return to stability masking invisible infection.
+**Tome Opening**: [[03.Hobbies/Writing/Confluence/Characters/Frank]] arrives with heist proposition. When Kyr4n learns about Egypt NPUs for Sedh's advancement, love overcomes caution. Heist proceeds, explosion exposes Kyr4n to virus (unknowingly), Frank abandons him, Tank rescues him. Returns home with Egypt NPUs, begins normalcy. Mood: Fateful decision, explosive action, return to stability masking invisible infection.
 
 **Tome Climax**: After years of functional decline, Kyr4n's paranoia explodes into violence. He threatens with plasma blaster in complete psychotic break. Sedh and Mira physically restrain him, induce medical coma. Only during deep coma analysis does Mira detect fading nanobotic signals broadcasting "TMP-7734." The invisible enemy finally revealed.
 
@@ -225,7 +225,7 @@ tags:
 
 **Scene [[2.01.001 - Frank's Arrival]]**
 
-- [[Frank]] arrives at [[Phoenix Recovery]] with heist proposal
+- [[03.Hobbies/Writing/Confluence/Characters/Frank]] arrives at [[Phoenix Recovery]] with heist proposal
 - Corporate facility with Egypt NPU technology
 - [[Kyr4n - Details|Kyr4n's]] hesitation vs. opportunity for [[Sedh - Details|Sedh's]] advancement
 - POV: Frank's professional criminal pitch
@@ -256,7 +256,7 @@ tags:
 
 **Chapter Purpose**: Setup heist, establish Riley character, decision made, foreshadow disaster
 
-**Links to**: [[2.02 - Infiltration]], [[Frank]], [[Egypt NPUs]], [[Riley - Details]]
+**Links to**: [[2.02 - Infiltration]], [[03.Hobbies/Writing/Confluence/Characters/Frank]], [[Egypt NPUs]], [[Riley - Details]]
 
 ---
 
@@ -298,7 +298,7 @@ tags:
 
 **Chapter Purpose**: Execute heist, viral exposure (unknown to characters), Frank's betrayal, narrow survival
 
-**Links to**: [[2.01 - The Proposition]], [[2.03 - Return to Normalcy]], [[The Midnight Protocol]], [[Frank]], [[Corporate Research Facility]]
+**Links to**: [[2.01 - The Proposition]], [[2.03 - Return to Normalcy]], [[The Midnight Protocol]], [[03.Hobbies/Writing/Confluence/Characters/Frank]], [[Corporate Research Facility]]
 
 ---
 
@@ -854,7 +854,7 @@ tags:
 
 **Status**: Slow-burn tragedy with late discovery, ambiguous ending, transformation complete
 
-**Transition**: [[3 - Tome 3]] opens with Kyr4n as depressed recluse, [[Frank]]'s return imminent
+**Transition**: [[3 - Tome 3]] opens with Kyr4n as depressed recluse, [[03.Hobbies/Writing/Confluence/Characters/Frank]]'s return imminent
 
 ---
 
@@ -885,7 +885,7 @@ tags:
 - Psychological trauma driving isolation and violence
 - Sedh and Mira running Phoenix Recovery operations
 - Riley as continuing positive connection
-- [[Frank]] as enemy returning in need (Flux infected subplot)
+- [[03.Hobbies/Writing/Confluence/Characters/Frank]] as enemy returning in need (Flux infected subplot)
 - Isa's departure creates void (not reconciliation setup)
 - Depression and reclusive state established
 - Choice to fight rather than flee establishing pattern

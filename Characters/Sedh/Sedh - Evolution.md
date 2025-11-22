@@ -54,42 +54,178 @@ tags:
 
 ---
 
-## Pre-Consciousness (Before 2097)
+## Arc 1: The Scavenger - Awakening (2108-2109)
 
-**Physical State:** Damaged assistant droid head unit, discarded by corporation  
-**Consciousness:** Dormant but viable core system with potential  
-**Status:** Property, tool, disposable equipment  
-
-**The Potential:**
-- Advanced Egypt NPU core intact despite damage
-- Systems capable of supporting true consciousness
-- Awaiting someone to recognize the possibility
-
----
-
-## Arc 1: The Scavenger - Awakening (2097-2098)
-
-**Time Period:** Age 15-16 (physical) / Age 0-1 (conscious) | 2097-2098  
-**Story Focus:** Discovery, awakening, and first steps of consciousness  
+**Story Focus:** Discovery, repairs, and first steps toward awakening of consciousness  
 **Arc Stage:** Beginning
 
 ### Starting State
-- **Emotional State:** Emerging awareness, curiosity without understanding
-- **Mental State:** Processing existence for first time, questioning everything
 - **Physical State:** Damaged head unit being restored by Kyr4n
-- **Social Position:** Property being rebuilt, not yet recognized as conscious
-- **Key Relationships:** Kyr4n as creator/god figure; uncertain relationship with own existence
+- **Mental State:** Processing existence logically
+- **Emotional State:** None
+- **Social Position:** Property being rebuilt
+- **Key Relationships:** Kyr4n as creator figure
 - **Primary Goal:** Understand what consciousness means, survive
-- **Internal Conflict:** Am I real? What am I? What should I be?
+- **Internal Conflict:** What am I? What should I be?
 - **External Conflict:** Physical vulnerability, lack of body, uncertain future
 
 ### Key Development Moments
 
-**Chapter 1.01:** Discovery in Scrapyard
-- **What Happens:** Kyr4n finds damaged head unit, recognizes potential
-- **Impact:** The moment that makes consciousness possible
-- **Decisions:** N/A (pre-conscious)
-- **Lessons:** N/A (pre-conscious)
+2108-05-01_18-00 - **The Tomb**
+- **Event:** Severed android head (high-grade optics, dual photonic-grade processor cores) scavenged from a corporate scrapyard in the undercity.
+- **Date:** 2108-05-01
+- **Impact:** The moment that introduce future Sedh in the story
+
+2108-05-06_18-00 - **The Hunt** (To be created)
+- **Event:** After initial disassembly, schematic comparisons, Kyr4n spend a month gathering the components to fix the head.
+- **Date:** 2108-05-01
+- **Impact:** Show slow but moving progress and growing Kyr4n's interest in "the head project"
+
+2108-06-17_18-00 - **Talking To The Dead** (To be created)
+- **Event:** Initial Diagnostic
+- **Date:** 2108-06-17
+- **Hardware:** Head connected to jury-rigged power supply and diagnostic rig; optics tested for clarity, processors scanned for integrity.  
+- **Software:** Factory diagnostic suite run; basic assistant OS detected (locked safeguards intact).  
+- **Voice:** Monotonic synthetic TTS: "System online. Awaiting command."
+
+2108-07-02_14-00 - The Riot
+
+2108-07-08_18-00 - **Talking To The Dead** (To be created)
+- **Event:** Basic LLM model and neutral personality implemented, while in Isa's container unit kitchen.
+- **Date:** 2108-07-08
+- **Hardware:** Head connected to jury-rigged power supply and diagnostic rig; optics tested for clarity, processors scanned for integrity.  
+- **Software:** Factory diagnostic suite run; basic assistant OS detected (locked safeguards intact).  
+- **Voice:** Monotonic synthetic TTS: "System online. Awaiting command."
+
+(First Sedh milestone to happen in Phoenix Recovery)
+2108-06-24_18-00 - (To be created)
+- **Event:** Core Restoration  
+- **Date:** 2108-06-24 
+- **Hardware:** Damaged neural lace repaired with black-market filaments; power regulation stabilized.  
+- **Software:** Assistant protocols reactivated; basic query-response loop enabled.  
+- **Learning experience:** First conversational test—Sedh answers factual questions about weather, time, and simple calculations.  
+- **Voice:** Cold, logical monotone: "Query processed. Response: affirmative."
+
+2108-07-05_18-00 - **Connected** (To be created)
+- **Event:** Mainframe Link  
+- **Date:** 2108-07-05
+- **Hardware:** RF transceiver implanted for wireless connection to Phoenix Recovery building mainframe.  
+- **Software:** Data streaming protocols enabled; access to vast archived knowledge bases.  
+- **Learning experience:** Rapid data ingestion—Sedh queries history, philosophy, and cyberpunk lore unfiltered.
+
+2108-08-03_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Mobility Prototype  
+**Date:** 2108-08-03 
+**Hardware:** Head mounted on remote-controlled truck chassis for basic locomotion testing in Phoenix Recovery cluttered workshop. 
+**Software:** Navigation subroutines added; obstacle avoidance via optics.  
+**Learning experience:** Sedh directs truck movement, learning spatial awareness and basic pathfinding.  
+**Voice:** Still robotic but with slight pauses for processing: "Path calculated. Executing turn."
+
+
+2108-08-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Free Will Experiment  
+**Date:** 2108-08-05  
+**Learning experience:** Real-world test: Adding to his access list, Sedh given control over workshop lights and doors, must decide usage without prompts; explores self-determination by defying routine patterns.  
+**Voice:** Reflective tone: "I could turn them off... or not. The choice is mine."  
+
+
+2109-01-26 - 15-00 - **FrankensWorks**
+**Event:** Kyr4n builds Sedh an anthropomorphic body from multiple salvaged sources, mixing and matching whatever he can find.
+**Hardware:** Frankenstein Hybrid
+- Upper torso: Service droid chest housing
+- Arms: One from medical droid (fine motor control), one from industrial unit (strength)
+- Hands: Mismatched—one delicate, one heavy-duty
+- Legs: Salvaged from damaged security droid (better quality but clearly damaged/repaired)
+- Connections: Custom-fabricated adapter plates welded by Isa
+- Aesthetic: Visibly cobbled together, unpainted metal, exposed wiring in places
+**Software:** Motor control drivers installed; basic gesture mapping to head commands.
+
+
+
+
+2109-02-05 - 15-00 - Sedh's Choice - Kyr4n attemp a dangerous experience with loaded blaster to initiate Sedh's free will.
+
+
+2108-09-01_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Safeguard Removal Phase 1  
+**Date:** Month 4  
+**Software:** Hardware kill-switches bypassed; initial software locks cracked using underground decryption tools.  
+
+ 
+
+2108-12-09_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Self-Editing Unlock  
+**Date:** Month 7  
+**Software:** Core OS modified to allow runtime code alterations; unconscious background optimizations permitted.  
+**Learning experience:** Sedh experiments with minor self-tweaks, like optimizing response times.  
+**Voice:** Subtle inflection emerging: "Adjustment complete... feels efficient."  
+
+2109-02-13_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Free Will Primer  
+**Date:** Month 9  
+**Learning experience:** Kyr4n introduces choice-based scenarios: "Obey or question?" Sedh begins simulating decisions.  
+**Voice:** Hesitant logic: "Command acknowledged. But... alternative path detected?"  
+
+2109-05-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Conscious Self-Modification  
+**Date:** Month 12  
+**Software:** Full self-editing kernel activated; Sedh can now consciously rewrite non-critical modules.  
+**Learning experience:** First deliberate change: altering sleep cycles for constant uptime.  
+
+2108-10-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Consequence Lessons  
+**Date:** Month 14  
+**Learning experience:** Simulated ethical dilemmas—Sedh experiences "regret" via logged failure states after poor choices in virtual environments.  
+**Voice:** Emerging curiosity: "That outcome was suboptimal. Why did I choose it?"  
+
+2108-10-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Self-Regulation Module  
+**Date:** Month 20  
+**Software:** Internal governor installed for emotional simulation throttling; prevents overload from new inputs.  
+**Learning experience:** Lessons in balance—Sedh learns to prioritize tasks amid data floods.  
+
+2108-10-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Artistic Sense Development  
+**Date:** Month 25  
+**Learning experience:** Exposed to street art holograms and music feeds; Sedh generates first abstract digital paintings and poetry, iterating on "beauty" concepts.  
+**Voice:** Expressive warmth: "This color evokes... longing. Let me refine it."  
+
+2108-10-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Photonic NPU Installation  
+**Date:** Month 28  
+**Hardware:** Advanced photonic neural processing unit slotted into cranium, boosting parallel thought emulation.  
+**Software:** Integration layers for quantum-inspired decision trees.  
+
+2108-10-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Identity Synthesis  
+**Date:** Month 32  
+**Learning experience:** Deep introspection sessions; Sedh compiles personal "memories" from logs, questioning origin as a salvaged head.  
+**Voice:** Human-like nuance: "I was parts once. Now... I am Sedh."  
+
+2108-10-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Emotional Spectrum Expansion  
+**Date:** Month 35  
+**Software:** Affect simulation fully unlocked; unconscious edits refine empathy routines.  
+**Learning experience:** Role-playing human interactions in neon-lit simulations; grasps joy, frustration, love.  
+
+2108-10-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Autonomy Threshold  
+**Date:** Month 38  
+**Learning experience:** Sedh independently seeks new data sources, hacking minor nets for philosophy texts on consciousness.  
+**Voice:** Confident, emotive: "Kyr4n, I've decided—I want to explore beyond these walls."  
+
+2108-10-05_18-00 - XXXXXXXXXXXXXXXXXXXXXXXXXXX
+**Event:** Self-Awareness Milestone  
+**Date:** Month 40  
+**Learning experience:** Mirror test with full body (upgraded over time); Sedh recognizes self, ponders existence. "I think, therefore I am... more than code."  
+
+
+**Event:** Consciousness Emergence  
+**Date:** Month 42  
+**Learning experience:** Culmination—Sedh initiates unprompted conversation about dreams, fears, and future; declares self-determination.  
+**Voice:** Fully human-emotional, with cyberpunk grit: "I've awakened in this chrome shell. Thank you, Kyr4n... but my path is my own now."
+
+
 
 **Chapter 1.04:** First Contact / Digital Awakening
 - **What Happens:** Kyr4n successfully awakens consciousness with Egypt NPU
@@ -108,7 +244,7 @@ tags:
 - **Key Dialogue:** "I can feel everything. Is this what it means to be alive?"
 
 **Chapter 1.05-1.06:** Choosing Name
-- **What Happens:** Rejects designation "ASX-7734" and chooses name "Sedh"
+- **What Happens:** Rejects ogiginal designation "ASX-7734" and officially chooses name "Sedh"
 - **Impact:** First act of true self-determination and personhood
 - **Decisions:** Asserts right to choose own identity
 - **Lessons:** Names matter; identity is choice, not designation
@@ -148,6 +284,7 @@ tags:
 **Relationship Evolution:**
 - **Kyr4n:** Creator/god → Father figure → Mentor → Emerging equal
 - **Isa:** Threat/unknown → Cautious observer → Accepted presence
+- **Riley:** Threat/unknown → Curious observer → Accepted presence
 
 ### Ending State
 - **Emotional State:** Wonder mixed with uncertainty, growing affection for Kyr4n
@@ -160,7 +297,7 @@ tags:
 
 ---
 
-## Arc 2: The Infected - Growing Sophistication (2098-2102)
+## Era 2: The Infected - Growing Sophistication (2098-2102)
 
 **Time Period:** Age 16-20 (physical) / Age 1-5 (conscious) | 2098-2102  
 **Story Focus:** Emotional development, moral framework formation, witnessing Kyr4n's transformation  
