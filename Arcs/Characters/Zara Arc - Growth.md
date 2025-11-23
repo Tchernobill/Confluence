@@ -68,7 +68,13 @@ scenes:
 
 **Scenes**:
 
-- **"[[2109-07-15_00-00 - The Interrogation|The Interrogation]]"** - First glimpse of Kyr4n's mysterious abilities (passive information extraction)
+- [[The Market Encounter|The Market Encounter]] - Zara is introduced and recruited
+- **[[First Training Session|First Training Session]]** - Recognizing oddness (enhanced reflexes, spatial awareness)
+- **[[The Behemoth Incident|The Behemoth Incident]]** - Impossible combat + genuine humanity
+- **[[Training Session Two|Training Session Two]]** - Power dynamic established (submission hold, "not a threat")
+- **[[The Question|The Question]]** - Vulnerability revealed, attraction acknowledged but not acted on
+- **[[2109-07-15_00-00 - The Interrogation|The Interrogation]]** - Mysterious abilities she can't detect
+- **[[The Assassination Attempt|The Assassination Attempt]]** - She proves her value, mutual respect
 - **"[[2109-08-15_00-00 - King Of The Mat|King of the Mat]]"** - Witnesses impossible combat capability, attraction intensifies
 
 **Character Beats**:

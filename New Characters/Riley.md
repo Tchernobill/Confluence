@@ -3,14 +3,14 @@ type: character
 character_name: Riley
 aliases:
   - None
-DOB: 2086-07-14
-archetype: "The Martyr / The Free Spirit"
-gender: "Male"
+DOB: 2084-07-14
+archetype: The Free Spirit
+gender: Male
 mbti: ENFP
 enneagram: 7w9
 alignment: Neutral Good
 character_type: supporting
-importance_level: 5
+importance_level: 3
 affiliation:
   - Independent
   - Phoenix Recovery (Contractor)
@@ -20,28 +20,28 @@ related_characters:
 evolution:
   - arc: 1
     age: 24
-    role: "Courier"
-    alignment: "Neutral Good"
-    status: "Active"
-    key_change: "Meets Kyr4n"
+    role: Courier
+    alignment: Neutral Good
+    status: Active
+    key_change: Meets Kyr4n
   - arc: 3
     age: 27
-    role: "Mentor/Friend"
-    alignment: "Neutral Good"
-    status: "Active"
-    key_change: "Teaches meditation to Kyr4n"
+    role: Mentor/Friend
+    alignment: Neutral Good
+    status: Active
+    key_change: Teaches meditation to Kyr4n
   - arc: 5
     age: 29
-    role: "Sacrifice"
-    alignment: "Neutral Good"
-    status: "Deceased"
-    key_change: "Executed by Kovar, triggers Kyr4n's break"
+    role: Sacrifice
+    alignment: Neutral Good
+    status: Deceased
+    key_change: Executed by Kovar, triggers Kyr4n's break
 tags:
   - cast
   - deceased
   - moral_compass
   - courier
-image: "Attachments/Riley.png"
+image: Attachments/Riley.png
 status: deceased
 version: "1.0"
 last_updated: 2025-11-21
