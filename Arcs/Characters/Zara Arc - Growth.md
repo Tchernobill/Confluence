@@ -37,7 +37,7 @@ scenes:
 
 **Key Relationship**: Zara & Kyr4n - A relationship built on mutual recognition of darkness, evolving from physical attraction to psychological intimacy
 
-**Timeline**: Tome 4 (Era 4: The Boss, 2125-2140)
+**Timeline**: Era 4: The Boss
 
 ---
 

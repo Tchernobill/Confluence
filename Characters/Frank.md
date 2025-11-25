@@ -1,19 +1,66 @@
+---
+type: character
+character_name: Franklin Carver
+aliases:
+  - The Architect
+DOB: 2074-03-10
+archetype: The Opportunist
+gender: Male
+mbti: ENTP
+enneagram: 3w7
+alignment: Chaotic Neutral
+character_type: antagonist
+importance_level: 3
+affiliation:
+  - Independent Contractor
+related_characters:
+  - "[[03.Hobbies/Writing/Confluence/Characters/Kyr4n]]"
+  - "[[Flux]]"
+evolution:
+  - arc: 2
+    age: 34
+    role: Heist Leader
+    alignment: Chaotic Neutral
+    status: Active
+    key_change: Betrays Kyr4n in panic
+  - arc: 3
+    age: 41
+    role: Supplicant
+    alignment: True Neutral
+    status: Active
+    key_change: Seeks help for Flux, serves as intel asset
+tags:
+  - cast
+  - criminal
+  - contractor
+  - betrayal
+image: Attachments/Frank.png
+status: active
+version: "1.0"
+last_updated: 2025-11-21
+---
 # Frank - Character Details
 
 ---
+
 ## Basic Information
 
 **Full Name:** Franklin "Frank" Carver  
 **Nickname/Alias:** Frank (exclusively), "The Architect" (professional reputation)  
-**Born:** 2074, South Shore Slum
+**Age (Current/Tome Relevant):**
+
+- Tome 2 (2108): 34 years old
+- Tome 3 (2115): 41 years old
+
+**Born:** 2074, South Shore Slum, Neo-Montreal  
 **Current Residence:** Rotates between safe houses across South Shore and Mid-City zones  
 **Occupation:** Professional contractor/heist specialist, crew leader  
 **Social Class:** Mid-level criminal operator—successful enough for comfort, not successful enough to escape the game
 
 **Role in Story:**
 
-- **Tome 2:** Recruiter and heist leader whose panic expose Kyr4n to DarkNight
-- **Tome 3:** Resurface seeking help from the man he betrayed
+- **Tome 2:** Recruiter and heist leader whose panic destroys Kyr4n's life
+- **Tome 3:** Cautious supplicant seeking help from the man he betrayed
 - **Recurring:** Complicated intelligence source with massive unresolved guilt
 
 ---
