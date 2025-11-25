@@ -96,8 +96,9 @@ scenes:
 **Scenes**:
 
 - **"[[2109-08-20_00-00 - The Taking|The Taking]]"** - Zara initiates physical relationship, pushes past Kyr4n's hesitation
-- **"Aftermath"** - Internal reflection on feeling genuinely fulfilled for first time
-- **"The Arrangement"** - Pushes Kyr4n past emotional limits, establishes ongoing dynamic
+- **"[[Aftermath|Aftermath]]"** - Internal reflection on feeling genuinely fulfilled for first time
+- **"[[2109-08-24_00-00 - The Arrangement|The Arrangement]]"** - Pushes Kyr4n past emotional limits, break ongoing dynamic
+- **"[[The Morning After|The Morning after]]"** - Zara and Kyr4n meet in the hall to talk about yesterday
 
 **Character Beats**:
 
@@ -111,7 +112,7 @@ scenes:
 
 - Kyr4n's emotional vulnerability during physical intimacy is unexpected and compelling
 - His awkwardness combined with capability creates unique dynamic
-- Zara begins experiencing fulfillment rather than just physical release
+- Zara begins experiencing fulfilment rather than just physical release
 - First hints that she might want more than just physical connection
 
 **Narrative Function**: Establish physical relationship as gateway to deeper emotional connection
@@ -125,6 +126,7 @@ scenes:
 
 **Scenes**:
 
+- **"Demonstration"** - Demonstration
 - **"DayLight Modifications Attempt"** - Kyr4n attempts personality modifications (motivated by Evilisa and preparing for relationship with Zara)
 - **"The Crisis"** - DayLight modifications backfire, Zara witnesses Kyr4n's struggle
 - **"Revelation"** - Kyr4n discloses DarkNight, DayLight, full scope of abilities
