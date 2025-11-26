@@ -72,7 +72,9 @@ scenes:
 - **[[2109-08-10_16-00 - The Interrogation|The Interrogation]]** - Mysterious abilities she can't detect
 - **[[2109-08-11_15-00 - The Question|The Question]]** - Vulnerability revealed, attraction acknowledged but not acted on
 - **[[2109-08-17_09-00 - The Assassination Attempt|The Assassination Attempt]]** - She proves her value, mutual respect
-- **"[[2109-08-15_00-00 - King Of The Mat|King of the Mat]]"** - Witnesses impossible combat capability, attraction intensifies
+- **[[2109-08-15_00-00 - King Of The Mat|King of the Mat]]** - Witnesses impossible combat capability, attraction intensifies
+- [[2109-08-17_09-00 - The Assassination Attempt]] - 
+- [[2109-08-20_14-30 - The Intel]] - 
 
 **Character Beats**:
 
@@ -92,11 +94,11 @@ scenes:
 
 **Scenes**:
 
-- **"[[2109-08-20_22-00 - The Taking|The Taking]]"** - Zara initiates physical relationship, pushes past Kyr4n's hesitation
-- **"[[2109-08-21_01-01 - Aftermath|Aftermath]]"** - Internal reflection on feeling genuinely fulfilled for first time
-- **"[[2109-08-22_00-00 - The Request|The Request]]"** - Zara find the courage to ask about the neural bridge
-- **"[[2109-08-24_00-00 - The Arrangement - Kyr4n - Draft 1|The Arrangement]]"** - Pushes Kyr4n past emotional limits, break ongoing dynamic
-- **"[[2109-08-25_06-30 - The Morning After|The Morning after]]"** - Zara and Kyr4n meet in the hall to talk about yesterday
+- **[[2109-08-20_22-00 - The Taking|The Taking]]** - Zara initiates physical relationship, pushes past Kyr4n's hesitation
+- **[[2109-08-21_01-01 - Aftermath|Aftermath]]** - Internal reflection on feeling genuinely fulfilled for first time
+- **[[2109-08-22_00-00 - The Request|The Request]]** - Zara find the courage to ask about the neural bridge
+- **[[2109-08-24_00-00 - The Arrangement - Kyr4n - Draft 1|The Arrangement]]** - Pushes Kyr4n past emotional limits, break ongoing dynamic
+- **[[2109-08-25_06-30 - The Morning After|The Morning after]]** - Zara and Kyr4n meet in the hall to talk about yesterday
 
 **Character Beats**:
 
@@ -124,11 +126,11 @@ scenes:
 
 **Scenes**:
 
-- **"[[2109-08-28_11-00 - Demonstration]]"** - Demonstration of Kyr4n's fighting abilities while attempting professional boundaries
-- **"DayLight Modifications Attempt"** - Kyr4n attempts personality modifications (motivated by Evilisa and preparing for relationship with Zara)
-- **"The Crisis"** - DayLight modifications backfire, Zara witnesses Kyr4n's struggle
-- **"Revelation"** - Kyr4n discloses DarkNight, DayLight, full scope of abilities
-- **"Ultimate Faith"** - Kyr4n asks inner circle to be failsafe if he becomes monster
+- **[[2109-08-28_11-00 - Demonstration]]** - Demonstration of Kyr4n's fighting abilities while attempting professional boundaries
+- **DayLight Modifications Attempt** - Kyr4n attempts personality modifications (motivated by Evilisa and preparing for relationship with Zara)
+- **[[03.Hobbies/Writing/Confluence/Story/Era 4 - The Boss/Crisis|Crisis]]** - DayLight modifications backfire, Zara witnesses Kyr4n's struggle
+- **Revelation** - Kyr4n discloses DarkNight, DayLight, full scope of abilities
+- **Ultimate Faith** - Kyr4n asks inner circle to be failsafe if he becomes monster
 
 **Character Beats**:
 
@@ -284,7 +286,9 @@ _[Update as scenes are written/revised]_
 
 ### Zara's Voice Evolution
 
-**Early Arc**: Confident, aggressive, controlled, testing **Mid Arc**: Protective, concerned, slightly unnerved by emotional investment **Late Arc**: Vulnerable but determined, willing to risk exposure for connection
+**Early Arc**: Confident, aggressive, controlled, testing 
+**Mid Arc**: Protective, concerned, slightly unnerved by emotional investment 
+**Late Arc**: Vulnerable but determined, willing to risk exposure for connection
 
 ### Show Don't Tell Opportunities
 
@@ -389,7 +393,7 @@ _[Update as scenes are written/revised]_
 ## Involved Scenes
 ```dataview
 TABLE story_date AS "Date", title AS "Scene", status
-FROM "03.Hobbies/Writing/Confluence/Scenes"
+FROM "03.Hobbies/Writing/Confluence/Story"
 WHERE contains(character_arcs, this.file.link)
 SORT story_date ASC
 ```
@@ -399,27 +403,15 @@ SORT story_date ASC
 #### Revised Sequence for Era 4
 
 "The interrogation" → Kyr4n display mysterious ways to passively extract information from someone
-
 "King of the Mat" → Kyr4n display advanced to impossible fight capacity
-
 (Need something to display Zara increasing attraction/desire toward Kyr4n)
-
 "The Taking" → Zara push Kyr4n into intimate physical relationship
-
 "Aftermath" → Zara reflect on feeling fulfilled from relationship for the first time
-
 "The Arrangement" → Zara push Kyr4n further pass his emotional limits, 
-
 NEW Scene - Kyr4n attempts DayLight modifications (motivated by both Evilisa and preparing for Zara)
-
 "The Crisis" → DayLight mod modifications backfire for a moment (this scene have Zara building more desire for Kyr4n, should be adapted)
-
 "Inner Santuary" → 
-
 "Revelation" → Kyr4n disclose DarkNight, DayLight, most of his abilities
-
 "Ultimate Faith" → Ask inner circle to be failsafe if he turn into the monster
-
 NEW Scene - An adaptation of "The Other Interrogation" → Zara approaches Kyr4n about interrogation, mind-reading, asks for it, Kyr4n and Zara discuss the risks, agree to attempt neural bridge
-
 "The Dark Maze" → Kyr4n do the neural bridge with Zara and go explore her brain with her.
