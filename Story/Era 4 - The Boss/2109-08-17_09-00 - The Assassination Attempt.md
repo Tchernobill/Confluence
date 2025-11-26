@@ -4,7 +4,7 @@ story_date: 2109-08-01
 story_time: 10:30
 story_date_end: 2109-08-01
 location: "[[South Shore Slums]]"
-pov: "[[Kyr4n]]" / "[[Zara]]"
+pov: "[[Zara]]"
 narrative_arc: Zara_Growth_Arc
 scene_type:
   - action
@@ -22,7 +22,7 @@ estimated_reading_time: 18 minutes
 characters_present:
   - "[[Kyr4n]]"
   - "[[Zara]]"
-  - "[[Marcus]]" (extraction only)
+  - "[[Marcus]]"
   - Unnamed professional assassin
 relationship_developments:
   - "Kyr4n/Zara: Mutual protection established - he saves her, she saves him"
@@ -91,7 +91,7 @@ era: 4
 
 ### What Came Before (Previous Scene Connections)
 
-**From [[2109-07-17_The Question]]:**
+**From [[2109-07-17_The Question|The Question]]:**
 - Zara learned Kyr4n was transformed against his will into something inhuman
 - He admitted he doesn't know if he's still human
 - She chose to stay and protect him despite not understanding what he is
@@ -512,12 +512,12 @@ era: 4
 - The "darkness" he carries
 - Zara's choice to stay despite not understanding
 
-**From [[Training Session Two]]:**
+**From [[2109-07-31_06-00 - Training Session Two]]:**
 - Her recognition he can be dangerous (submission hold)
 - His spatial awareness demonstrated in training
 - His comment about her "not being a threat"
 
-**From [[The Behemoth Incident]]:**
+**From [[2109-07-30_16-00 - The Behemoth Incident]]:**
 - His dangerous state when fighting (smiling during violence)
 - His ability to take damage that should be fatal
 - The thing that emerges when he's truly threatened
@@ -598,6 +598,10 @@ era: 4
 - Do you want to know who hired the assassin?
 
 ---
+
+[[2109-08-17_09-00 - The Assassination Attempt - Draft 1|Draft 1]]
+
+
 
 ## 📚 Related Documents
 

@@ -86,7 +86,7 @@ era: 4
 ## 🔗 Narrative Context
 
 ### What Came Before (Previous Scene Connections)
-- **From [[The Morning After]]:** Kyr4n agreed to consider helping Zara understand herself; asked for a few days to "figure some stuff out"; secretly needs better control before attempting neural bridge
+- **From [[2109-08-25_06-30 - The Morning After]]:** Kyr4n agreed to consider helping Zara understand herself; asked for a few days to "figure some stuff out"; secretly needs better control before attempting neural bridge
 - **Unresolved Tension:** Will he agree to help her? What is he preparing for? Can he maintain control during intimate neural work?
 - **Character State:** Zara waiting for his answer; Kyr4n attempting dangerous self-modification; Marcus unaware of specifics; Sedh monitoring closely; Evilisa not wanting to loose any control over Kyr4n
 
@@ -97,7 +97,7 @@ era: 4
 4. **Emotional Journey:** Urgent concern → horror → determination to help → relief/exhaustion
 
 ### What This Sets Up (Future Scene Connections)
-- **For [[Aftermath]]:** Processing what they witnessed; his explanation (partial); renewed discussion of neural bridge
+- **For [[2109-08-21_01-01 - Aftermath]]:** Processing what they witnessed; his explanation (partial); renewed discussion of neural bridge
 - **For [[The Dark Maze]]:** Establishes he has control issues but is working on them; shows level of trust required
 - **Foreshadowing:** References to Isa (unnamed) create mystery; Evilisa's presence hints at psychological complexity; failsafe suggests this could happen again
 
@@ -152,26 +152,43 @@ era: 4
 - Marcus will ask if the update can be aborted, Sedh will reply that it's too late, it have to run through until failure or success
 - When Zara state that this is dangerous, Kyr4n reply snarky "What day are we today? Oh yeah, it's Wednesday!"
 - During the Integration progress, Kyr4n's speech pass progressively from Elliot Alderson to Mr. Robot (both from TV series Mr Robot)
+- No reference to virus, nanobotic, infection, this is still a secret. All reference to the way Kyr4n work must be vague or evasive, only mentionning his framework.
+- Kyr4n doesn't explain to them how it work, he's much less technical than usual, he's tired, stressed, increasingly under pressure from ghost Evilisa being more and more upset at him.
+- Eviliisa is present, invisible to all but Kyr4n. Her dialogue is in Italic
+- Sometime Evilisa speak over other characters so if Kyr4n answer her, others characters get confused, adding to the chaos and stress
+- The more the integration percentage increase, the more Evilisa is upset and toxic, verbally abusive, until around 90% where she is no longer mentioned (faded unnoticed)
 ### Opening Beat
 **Anchor:** 2230 hours, Marcus's quarters, urgent comm from Sedh
-**Hook:** "Marcus! Urgent! Kyr4n's private workshop. Now!" - unusual urgency, the AI using exclamation points was never seen before
-**Mood/Atmosphere:** Immediate tension, something wrong, military response
+**Hook:** "Marcus! You are urgently requested in Kyr4n's private workshop. Now!" - unusual urgency, the AI using exclamation points was never seen before
+**Mood/Atmosphere:** Immediate tension, something wrong
 
-### Key Story Beats (in sequence)
-1. **Urgent Summons:** Sedh calls Marcus; Zara follows; rapid movement through compound
-2. **First Sight:** Enter to see Kyr4n restrained, hands on metal table, Sedh monitoring
-3. **Refusal to Leave:** Kyr4n tells Zara to go; she refuses; "if I shouldn't see this, I definitely want to see it"
-4. **Situation Explained:** Sedh provides clinical update; Kyr4n's framework update integration at 43%; under increasing stress
-5. **First Signs:** Kyr4n glancing at empty space; responding to things others can't hear; temperature rising
-6. **Failsafe Retrieved:** Kyr4n request Marcus retrieve a vest he made; Zara installs it on Kyr4n; doesn't know it's explosives
-7. **Objections**: Sedh express being against that vest, when Zara ask, he explain it detonate inward; then Marcus object to it; Kyr4n shout at him "WE HAVE A DEAL MARCUS! take the remote"; Zara ask about secret deal, is ignored
-8. **Percentage Climbing:** Integration advancing; physical signs worsening; darkness emerging
-9. **Evilisa's Fury:** Kyr4n arguing with hallucination about changes; mentions Frank (others confused)c, he's mentally unstable
-10. **The Isa Taunt:** Evilisa brings up Isa's abandonment; Kyr4n shouts he's the one who got rid of her; Zara curious about identity of that woman
-11. **Temperature Critical:** Table heating from electromagnetic emission; buzzing noise, electromagnetic manifestation in the room
-12. **Reasonable Moment:** Most dangerous - reaching 85%, he sounds calm now, asks to be freed, almost convincing, Sedh tell Marcus not to.
-13. **Critical Point:** Nearly loses complete control; darkness fully visible; everyone terrified
-14. **Resolution:** Integration pass 95% and stabilizes; Sedh say it worked, exhausted collapse; danger passes
+### Suggested events to include:
+
+- Sedh is waiting outside Kyr4n's workshop and will say something like system integration in progress, Kyr4n is implementing structural changes to his framework architecture but the changes are significant and causing much more stress than we anticipated. 
+- Sedh suggested Marcus presence as a precaution in case the integration fail. It is currently at 55% and progressing and he remain confident they will not need to reach the failsafe protocol (obscure reference to Kyr4n/Marcus secret deal that Marcus kill Kyr4n if it is needed)
+- Sedh also add that unfortunatly, under the current circumstances, his workshop cannot be considered a safe environment for himself, so I'll will assist from the hall remotely via the room comm system.
+- When Kyr4n see Zara enter, he ask her not to be there, Zara refuse; "if I shouldn't see this, I definitely want to see it"
+- Marcus ask if this... thing, can be aborthed. Sedh; not possible, it is failure or success
+- Marcus ask what happen if failure
+- Kyr4n tell we'll need the vest, instruct him to retreive some sort of tactical vest to be strapped on his chest
+- Sedh strongly object to the vest
+- Zara ask about the vest
+- Sedh inform them that it is remote controlled shaped charges pointed inward along the spine, suggest to vacate the room before activating
+- Marcus refuse, then Kyr4n remind him they have a deal!
+- Zara ask what deal but is ignored
+- Kyr4n finish the explaination with a lighter but dont worry, once we reach 100%, cake should be served.
+- As integration progress, there is random buzzing noise, electromagnetic manifestation in the room
+- Tension build up in the workshop, Sedh warn of sign of cognitive fragmentation, need to regulate better
+- Kyr4n arguing with hallucination about changes; mentions Frank (others confused)c, he's mentally unstable
+- Evilisa brings up Isa's abandonment; Kyr4n shouts he's the one who got rid of her; Zara curious about identity of that woman, she is ignored again
+- When reaching 85%, Kyr4n calm down, sounds ok, asks to be freed as restrains hurting him a bit
+- Marcus have a doubt but Kyr4n insist
+- Sedh very strongly advise not to release him, Kyr4n insist strongly, Marcus side with Sedh and step back
+- Nearly loses complete control; darkness fully visible; everyone terrified
+- Integration pass 95% and stabilizes; Sedh say Kyr4n's stabilising
+- After full integration sucessful, Kyr4n is back to himself, but drained.
+- Marcus is very upset and demand answers on WTF just happened.
+- Kyr4n look at him, appologies, say he understand his concerns. He ask for a few hours to recover, then he will reveal everything, whole truth about himself
 
 ### Closing Beat
 **Changed State:** Crisis passed; Kyr4n exhausted; everyone shaken; trust deepened through shared trauma
@@ -264,7 +281,7 @@ era: 4
 - He sees/hears things others don't (Evilisa)
 
 ### References to Previous Scenes
-- **From [[The Morning After]]:** His request for time to "figure stuff out" - this is what he was doing
+- **From [[2109-08-25_06-30 - The Morning After]]:** His request for time to "figure stuff out" - this is what he was doing
 - **From [[The Arrangement]]:** Cracked tiles showing his loss of control when pushed
 - **Callback:** His constant control being necessary for safety
 
@@ -291,6 +308,7 @@ era: 4
 
 ## 📄 Draft Text
 
+[[Crisis - Draft 1|Draft 1]]
 
 
 ---

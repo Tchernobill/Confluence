@@ -99,7 +99,7 @@ era: 4
 4. **Emotional Journey:** Professional respect (Marcus/Zara) → confusion and suspicion (Zara about Kyr4n) → pragmatic acceptance of employment
 
 ### What This Sets Up (Future Scene Connections)
-- **For [[4.01.004 - First Training Session]]:** Agreement to train Kyr4n creates situation where disconnect between appearance and capability begins showing
+- **For [[2109-07-30_06-00 - First Training Session|2109-07-30_06-00 - First Training Session]]:** Agreement to train Kyr4n creates situation where disconnect between appearance and capability begins showing
 - **Foreshadowing:** Kyr4n's claim "I'm not a fighter" (false but technically true about training); Marcus's surprised eyebrow raise; gang members backing off for no visible reason
 - **Promises to Reader:** Zara will discover the truth about what she's protecting; training sessions will reveal unexpected elements; the mystery of the takeover will eventually be explained
 
@@ -238,7 +238,7 @@ era: 4
 - **Callback:** Rico Vasquez's death and clean sweep of inner circle
 
 ### Plants for Future Scenes
-- **For [[First Training Session]]:** Agreement to train sets up scene where disconnect begins showing
+- **For [[2109-07-30_06-00 - First Training Session]]:** Agreement to train sets up scene where disconnect begins showing
 - **For [[Zara Power Discovery]]:** Her enhanced senses failing to detect threat is plant for eventual revelation about electromagnetic abilities
 - **Foreshadowing:** Gang members backing off mysteriously; Marcus's surprise at "not a fighter" claim; Zara's sense of wrongness she can't identify
 
@@ -322,7 +322,9 @@ Establish character voices clearly, create genuine mystery about Kyr4n's capabil
 
 ## 📄 Draft Text
 
-[Scene text provided in previous response - "The Market Encounter" full prose]
+[[2109-07-29_10-45 - The Market Encounter - Draft 1|Draft 1]] - Initial writing
+[[2109-07-29_10-45 - The Market Encounter - Draft 2|Draft 2]] - Prose Polishing Rules applied
+
 
 ---
 

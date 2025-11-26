@@ -61,7 +61,7 @@ TABLE WITHOUT ID
   story_time as "Time",
   link(file.name, title) as "Title",
   description as "Description"
-FROM "03.Hobbies/Writing/Confluence/Scenes"
+FROM "03.Hobbies/Writing/Confluence/Story"
 WHERE era = 4
 SORT file.link ASC
 ```

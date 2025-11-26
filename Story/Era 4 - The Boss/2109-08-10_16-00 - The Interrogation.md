@@ -326,3 +326,8 @@ Kyr4n rejects the binary of "Torture vs. Failure." He uses intimacy as a third o
 2.  **Zara's Frustration:** Her reaction anchors the "reality" of the scene—that this looks insane to a professional.
 3.  **Kyr4n's Nature:** Establish that he is a creature who thrives on this contact, separating him from normal human baselines.
 4.  **The Subversion:** The reader expects a "mind rape" allegory, but gets a "mutual moment of beauty" that functions as espionage.
+
+
+
+
+[[2109-08-10_16-00 - The Interrogation - Draft 1|Draft 1]]

@@ -14,10 +14,10 @@ related_arcs:
   - "[[Kyr4n Emotional Evolution]]"
   - "[[Inner Circle Trust Dynamics]]"
 scenes:
-  - "[[2109-07-15_00-00 - The Interrogation]]"
+  - "[[2109-08-10_16-00 - The Interrogation]]"
   - "[[King of the Mat]]"
   - "[[The Taking]]"
-  - "[[Aftermath]]"
+  - "[[2109-08-21_01-01 - Aftermath]]"
   - "[[The Arrangement]]"
   - "[[DayLight Modifications Attempt]]"
   - "[[The Crisis]]"
@@ -32,11 +32,8 @@ scenes:
 ## Arc Overview
 
 **Core Transformation**: Hothead assassin → Emotionally vulnerable partner capable of radical trust
-
 **Central Question**: Can someone defined by violence and control surrender to genuine intimacy without losing their sense of self?
-
 **Key Relationship**: Zara & Kyr4n - A relationship built on mutual recognition of darkness, evolving from physical attraction to psychological intimacy
-
 **Timeline**: Era 4: The Boss
 
 ---
@@ -68,13 +65,13 @@ scenes:
 
 **Scenes**:
 
-- [[The Market Encounter|The Market Encounter]] - Zara is introduced and recruited
-- **[[First Training Session|First Training Session]]** - Recognizing oddness (enhanced reflexes, spatial awareness)
-- **[[The Behemoth Incident|The Behemoth Incident]]** - Impossible combat + genuine humanity
-- **[[Training Session Two|Training Session Two]]** - Power dynamic established (submission hold, "not a threat")
-- **[[The Question|The Question]]** - Vulnerability revealed, attraction acknowledged but not acted on
-- **[[2109-07-15_00-00 - The Interrogation|The Interrogation]]** - Mysterious abilities she can't detect
-- **[[The Assassination Attempt|The Assassination Attempt]]** - She proves her value, mutual respect
+- [[2109-07-29_10-45 - The Market Encounter|The Market Encounter]] - Zara is introduced and recruited
+- **[[2109-07-30_06-00 - First Training Session|First Training Session]]** - Recognizing oddness (enhanced reflexes, spatial awareness)
+- **[[2109-07-30_16-00 - The Behemoth Incident|The Behemoth Incident]]** - Impossible combat + genuine humanity
+- **[[2109-07-31_06-00 - Training Session Two|Training Session Two]]** - Power dynamic established (submission hold, "not a threat")
+- **[[2109-08-10_16-00 - The Interrogation|The Interrogation]]** - Mysterious abilities she can't detect
+- **[[2109-08-11_15-00 - The Question|The Question]]** - Vulnerability revealed, attraction acknowledged but not acted on
+- **[[2109-08-17_09-00 - The Assassination Attempt|The Assassination Attempt]]** - She proves her value, mutual respect
 - **"[[2109-08-15_00-00 - King Of The Mat|King of the Mat]]"** - Witnesses impossible combat capability, attraction intensifies
 
 **Character Beats**:
@@ -95,10 +92,11 @@ scenes:
 
 **Scenes**:
 
-- **"[[2109-08-20_00-00 - The Taking|The Taking]]"** - Zara initiates physical relationship, pushes past Kyr4n's hesitation
-- **"[[Aftermath|Aftermath]]"** - Internal reflection on feeling genuinely fulfilled for first time
-- **"[[2109-08-24_00-00 - The Arrangement|The Arrangement]]"** - Pushes Kyr4n past emotional limits, break ongoing dynamic
-- **"[[The Morning After|The Morning after]]"** - Zara and Kyr4n meet in the hall to talk about yesterday
+- **"[[2109-08-20_22-00 - The Taking|The Taking]]"** - Zara initiates physical relationship, pushes past Kyr4n's hesitation
+- **"[[2109-08-21_01-01 - Aftermath|Aftermath]]"** - Internal reflection on feeling genuinely fulfilled for first time
+- **"[[2109-08-22_00-00 - The Request|The Request]]"** - Zara find the courage to ask about the neural bridge
+- **"[[2109-08-24_00-00 - The Arrangement - Kyr4n - Draft 1|The Arrangement]]"** - Pushes Kyr4n past emotional limits, break ongoing dynamic
+- **"[[2109-08-25_06-30 - The Morning After|The Morning after]]"** - Zara and Kyr4n meet in the hall to talk about yesterday
 
 **Character Beats**:
 
@@ -126,7 +124,7 @@ scenes:
 
 **Scenes**:
 
-- **"Demonstration"** - Demonstration
+- **"[[2109-08-28_11-00 - Demonstration]]"** - Demonstration of Kyr4n's fighting abilities while attempting professional boundaries
 - **"DayLight Modifications Attempt"** - Kyr4n attempts personality modifications (motivated by Evilisa and preparing for relationship with Zara)
 - **"The Crisis"** - DayLight modifications backfire, Zara witnesses Kyr4n's struggle
 - **"Revelation"** - Kyr4n discloses DarkNight, DayLight, full scope of abilities
@@ -264,11 +262,11 @@ scenes:
 
 ### Completed Scenes
 
-- [ ] "The Interrogation" - Setup: Kyr4n's mysterious abilities
-- [ ] "King of the Mat" - Escalation: Physical capability demonstration
-- [ ] "The Taking" - Turning Point 1: Physical intimacy initiated
-- [ ] "Aftermath" - Internal: First fulfillment recognition
-- [ ] "The Arrangement" - Establishment: Ongoing dynamic defined
+- [x] "The Interrogation" - Setup: Kyr4n's mysterious abilities
+- [x] "King of the Mat" - Escalation: Physical capability demonstration
+- [x] "The Taking" - Turning Point 1: Physical intimacy initiated
+- [x] "Aftermath" - Internal: First fulfillment recognition
+- [x] "The Arrangement" - Establishment: Ongoing dynamic defined
 - [ ] "DayLight Modifications Attempt" - Complication: Kyr4n's changes
 - [ ] "The Crisis" - Crisis: Modifications backfire
 - [ ] "Revelation" - Disclosure: Full truth revealed

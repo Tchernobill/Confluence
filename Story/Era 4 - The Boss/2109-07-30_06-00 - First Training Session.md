@@ -85,7 +85,7 @@ era: 4
 ## 🔗 Narrative Context
 
 ### What Came Before (Previous Scene Connections)
-- **From [[The Market Encounter]]:** Zara agreed to become Kyr4n's bodyguard after assessing him as completely untrained and vulnerable; Marcus hinted that appearances were deceiving but provided no specifics
+- **From [[2109-07-29_10-45 - The Market Encounter|The Market Encounter]]:** Zara agreed to become Kyr4n's bodyguard after assessing him as completely untrained and vulnerable; Marcus hinted that appearances were deceiving but provided no specifics
 - **Unresolved Tension:** How did this untrained baseline human actually take down Rico Vasquez and his enhanced guards?
 - **Character State:** Zara is professionally skeptical and curious; Kyr4n is cooperative but doesn't understand his own capabilities; Marcus is amused watching this unfold
 
@@ -96,6 +96,7 @@ era: 4
 4. **Emotional Journey:** Professional assessment → puzzlement → growing curiosity → determined to understand the puzzle
 
 ### What This Sets Up (Future Scene Connections)
+- **For [[2109-07-30_16-00 - The Behemoth Incident|2109-07-30_16-00 - The Behemoth Incident]]**: Kyr4n killed Behemoth in brutal combat, took severe injuries that should be fatal, showed genuine grief for victims, honored fallen enforcer Carlos Mendez
 - **For [[Second Training Session]]:** Zara will push harder to find his limits, leading to more dramatic revelations
 - **For [[Future Combat Scene]]:** Established that Kyr4n's abilities work instinctively without proper technique, which will create specific tactical advantages and vulnerabilities
 - **Foreshadowing:** Static-like sensation when Zara invades his space hints at electromagnetic abilities
@@ -318,7 +319,15 @@ Establish training dynamic, reveal abilities gradually through natural testing p
 - Heavy-handed foreshadowing
 - Making Kyr4n seem deliberately mysterious (he's genuinely confused)
 
+
 ---
+
+## 📄 Draft Text
+
+[[2109-07-30_06-00 - First Training Session - Draft 1|Draft 1]]
+
+---
+
 
 ## 🔍 Post-Writing Reflection
 

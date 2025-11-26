@@ -88,9 +88,9 @@ era: 4
 ## 🔗 Narrative Context
 
 ### What Came Before (Previous Scene Connections)
-- **From [[2119-07-15 - Behemoth Fight]]:** Kyr4n took massive damage fighting Behemoth; should be hospitalized for weeks
-- **From [[2119-07-15 - Doctor's Visit]]:** Dr. Vasquez confirmed rapid healing but couldn't explain it
-- **From [[2119-07-15 - First Training Session]]:** Zara noted his terrible technique but exceptional reflexes/awareness
+- **From [[2119-07-15 - Behemoth Incident|Behemoth Incident]]:** Kyr4n took massive damage fighting Behemoth; should be hospitalized for weeks
+- **From [[2109-07-30_19-00 - The Doctor Visit|The Doctor Visit]]:** Dr. Vasquez confirmed rapid healing but couldn't explain it
+- **From [[2119-07-15 - First Training Session|First Training Session]]:** Zara noted his terrible technique but exceptional reflexes/awareness
 - **Unresolved Tension:** What actually is Kyr4n? How does he heal so fast? What are his real capabilities?
 - **Character State:** Zara is professional but deeply curious/frustrated; Kyr4n is secretive but cooperative
 
@@ -239,7 +239,7 @@ era: 4
 - He shows awareness and restraint (ends it immediately)
 
 ### References to Previous Scenes
-- **From [[First Training Session]]:** His terrible form, spatial awareness, quick reflexes
+- **From [[2109-07-30_06-00 - First Training Session]]:** His terrible form, spatial awareness, quick reflexes
 - **From [[Behemoth Fight]]:** Specific injuries he sustained, should be hospitalized
 - **From [[Doctor's Visit]]:** Medical clearance for "light training," residual rib soreness
 - **Callback:** Her enhanced senses that should make her superior
@@ -332,6 +332,11 @@ era: 4
 - Simple attraction (it's complex—identity crisis + power recognition)
 
 ---
+## 📄 Draft Text
+
+[[2109-07-31_06-00 - Training Session Two - Draft 1|Draft 1]]
+
+---
 
 ## 🔍 Post-Writing Reflection
 
@@ -367,7 +372,7 @@ era: 4
 **Plot Threads:** [[Thread: Zara Integration]], [[Thread: Kyr4n's Abilities]], [[Thread: Power Dynamics]]
 **World-Building:** [[Enhanced Humans Psychology]], [[Combat Training Culture]]
 **Timeline:** [[2119-07 Early Organization Building]]
-**Previous Scenes:** [[First Training Session]], [[Behemoth Fight]], [[Doctor's Visit]]
+**Previous Scenes:** [[2109-07-30_06-00 - First Training Session]], [[Behemoth Fight]], [[Doctor's Visit]]
 **Future Payoffs:** [[Kyr4n/Zara Intimate Relationship]], [[Complete Loyalty Development]]
 
 ---

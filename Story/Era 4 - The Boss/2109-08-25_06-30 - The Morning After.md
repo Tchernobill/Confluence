@@ -336,7 +336,7 @@ Awkward morning after; mutual apology; boundaries; request and tentative agreeme
 
 ## 📄 Draft Text
 
-[Scene text provided in previous message]
+[[2109-08-25_06-30 - The Morning After - Draft 1|Draft 1]]
 
 ---
 

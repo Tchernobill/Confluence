@@ -97,7 +97,7 @@ era: 4
 ## 🔗 Narrative Context
 
 ### What Came Before (Previous Scene Connections)
-- **From [[4.01.002 - First Training Session]]:** Zara just spent morning training Kyr4n, established he has terrible form but unexplained physical advantages (speed, reflexes, spatial awareness, no fatigue)
+- **From [[4.01.002 - First Training Session|First Training Session]]:** Zara just spent morning training Kyr4n, established he has terrible form but unexplained physical advantages (speed, reflexes, spatial awareness, no fatigue)
 - **Unresolved Tension:** Zara doesn't understand what Kyr4n is, Marcus won't explain, mystery building about his true nature
 - **Character State:** Zara intrigued but frustrated, unpacking in new quarters believing she's protecting a vulnerable civilian; Kyr4n has been calm and analytical all day; Marcus comfortable with mysteries
 
@@ -108,7 +108,7 @@ era: 4
 4. **Emotional Journey:** Tension → horror (child's death) → desperate concern (Kyr4n outmatched) → confusion (he's winning?) → shock (he wins) → respect (aftermath humanity)
 
 ### What This Sets Up (Future Scene Connections)
-- **For [[4.01.004 - Medical Aftermath]]:** Kyr4n's injuries should be fatal but he's healing impossibly fast
+- **For [[4.01.004 - Medical Aftermath|Medical Aftermath]]:** Kyr4n's injuries should be fatal but he's healing impossibly fast
 - **For [[Future Scenes]]:** Zara's determination to understand what he is, territory-wide reputation shift ("new boss actually cares"), Behemoth's death becoming legend
 - **Foreshadowing:** His enjoyment of violence (smile during combat) foreshadows future addiction, electromagnetic abilities hint at full power reveal
 - **Promises to Reader:** Eventually Zara will learn the truth, the mystery has consistent internal logic, Kyr4n's humanity is genuine not facade
@@ -383,7 +383,7 @@ Complete narrative with proper pacing, establish visceral combat feel, balance m
 
 ## 📄 Draft Text
 
-[Scene text provided in previous response - 6,247 words]
+[[2109-07-30_16-00 - The Behemoth Incident - Draft 1|Draft 1]]
 
 ---
 

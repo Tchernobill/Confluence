@@ -3,16 +3,22 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("03.Hobbies/Writing/Confluence/Scenes")
+        - file.inFolder("03.Hobbies/Writing/Confluence/Story")
         - and:
             - "!era.isEmpty()"
     order:
+      - era
       - story_date
       - story_time
-      - description
+      - title
       - file.name
+      - description
     sort:
       - property: story_date
         direction: ASC
     columnSize:
       note.story_date: 123
+      note.story_time: 69
+      note.title: 264
+      file.name: 88
+      note.description: 384

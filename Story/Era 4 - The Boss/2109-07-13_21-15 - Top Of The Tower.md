@@ -64,6 +64,7 @@ last_updated: 2025-11-25 21:30
 revision_notes: Initial draft complete - established Marcus POV, introduced Kyr4n, set tone
 kyr4n_age: 33
 era: 4
+description: Kyr4n began era 4 when meeting with Rico The Grip Vasquez
 ---
 # Top of the Tower
 
@@ -353,7 +354,7 @@ Establish atmosphere, Marcus's voice and internal conflict, Kyr4n's unsettling c
 
 ## 📄 Draft Text
 
-[[2109-07-13_21-15 - Draft 1|Draft 1]]
+[[2109-07-13_21-15 - Top Of The Tower - Draft 1|Draft 1]]
 
 
 ---

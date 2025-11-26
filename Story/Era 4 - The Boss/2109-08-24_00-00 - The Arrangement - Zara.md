@@ -27,7 +27,7 @@ estimated_reading_time: 26 minutes
 characters_present:
   - "[[Zara]]"
   - "[[Kyr4n]]"
-  - "[[Marcus]]" (brief appearance)
+  - "[[Marcus]]" 
   - Security team observers (background)
 relationship_developments:
   - "Kyr4n/Zara: physical intimacy escalates dangerously; Zara realizes she pushed him too far"
@@ -383,7 +383,7 @@ Show her POV throughout; establish motivation; build to cracked tiles moment
 
 ## 📄 Draft Text
 
-[Full scene text provided in previous message - "The Arrangement - Zara's POV"]
+[[2109-08-24_00-00 - The Arrangement - Zara - Draft 1|Draft 1]]
 
 ---
 

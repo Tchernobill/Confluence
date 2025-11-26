@@ -93,13 +93,13 @@ era: 4
 ## 🔗 Narrative Context
 
 ### What Came Before (Previous Scene Connections)
-- **From [[4.01.003 - The Behemoth Incident]]:** Kyr4n killed Behemoth in brutal combat, took severe injuries that should be fatal, showed genuine grief for victims, honored fallen enforcer Carlos Mendez
+- **From [[4.01.003 - The Behemoth Incident|The Behemoth Incident]]:** Kyr4n killed Behemoth in brutal combat, took severe injuries that should be fatal, showed genuine grief for victims, honoured fallen enforcer Carlos Mendez
 - **Unresolved Tension:** How is Kyr4n healing so fast? What are his true intentions? Will people trust his vision for change?
 - **Character State:** Kyr4n is physically injured but healing rapidly, emotionally drained from the fight, contemplative about his purpose; Elena has heard about the fight and is concerned both medically and politically
 
 ### What This Scene Accomplishes
 1. **Plot Development:** Elena joins Kyr4n's inner circle as medical infrastructure planner; establishes medical documentation of his anomalous healing
-2. **Character Growth:** Kyr4n articulates his philosophical foundation clearly for first time; Elena overcomes skepticism to commit to his vision
+2. **Character Growth:** Kyr4n articulates his philosophical foundation clearly for first time; Elena overcomes scepticism to commit to his vision
 3. **Information Revealed:** Kyr4n's healing is documented as abnormal with "biological interference"; his motivations are humanist/systems-optimization focused; he views the territory as broken machinery to be repaired
 4. **Emotional Journey:** From clinical medical examination → growing mutual respect → vulnerable philosophical sharing → commitment to shared purpose
 
