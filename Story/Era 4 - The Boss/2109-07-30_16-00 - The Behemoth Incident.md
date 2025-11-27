@@ -422,13 +422,13 @@ Complete narrative with proper pacing, establish visceral combat feel, balance m
 
 **Character Sheets:** 
 - [[Kyr4n - Summary]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]] 
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Evolution]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]] 
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Evolution]]
 - [[Marcus - Summary]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Marcus/Marcus - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Marcus/Marcus - Details]]
 - [[Zara - Summary]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Details]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Evolution]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Evolution]]
 
 **Location Details:** 
 - [[South Shore Slum]]

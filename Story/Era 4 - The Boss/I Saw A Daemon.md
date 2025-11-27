@@ -17,7 +17,7 @@ story_date: 2125-[month]-[day]
 story_date_end: 2125-[month]-[day]
 pov: Isa
 characters_present:
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]"
   - "[[03.Hobbies/Writing/Confluence/Characters/Kyr4n]]"
   - "[[David]]"
   - Phoenix Rising tactical team members
@@ -400,8 +400,8 @@ Capturing cinematic quality and emotional atmosphere matching "Hallelujah" by Re
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa 1/Isa - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]]
-**Character Evolution:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa 1/Isa - Evolution]], [[Kyr4n - Tome 4]]
+**Character Sheets:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa 1/Isa - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]]
+**Character Evolution:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa 1/Isa - Evolution]], [[Kyr4n - Tome 4]]
 **Location Details:** [[South Shore Slum - Market District]], [[Phoenix Rising Territory]]
 **Plot Threads:** [[Isa and Kyr4n Relationship Arc]], [[Phoenix Rising Consolidation]], [[Guild of Merchants and Traders]]
 **World-Building:** [[Phoenix Rising Organization]], [[Territorial Defense Operations]], [[Electromagnetic Enhancement Abilities]]

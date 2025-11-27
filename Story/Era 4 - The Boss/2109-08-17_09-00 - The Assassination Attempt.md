@@ -4,7 +4,7 @@ story_date: 2109-08-01
 story_time: 10:30
 story_date_end: 2109-08-01
 location: "[[South Shore Slums]]"
-pov: "[[Zara]]"
+pov: "[[03.Hobbies/Writing/Confluence/Characters/Zara]]"
 narrative_arc: Zara_Growth_Arc
 scene_type:
   - action
@@ -16,13 +16,13 @@ emotional_tone:
   - protective
 status:
   - drafted
-publication_position: "Tome 4, Chapter 3"
+publication_position: Tome 4, Chapter 3
 words_count: 4800
 estimated_reading_time: 18 minutes
 characters_present:
-  - "[[Kyr4n]]"
-  - "[[Zara]]"
-  - "[[Marcus]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Zara]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Marcus]]"
   - Unnamed professional assassin
 relationship_developments:
   - "Kyr4n/Zara: Mutual protection established - he saves her, she saves him"
@@ -55,7 +55,7 @@ content_warnings:
   - combat_sequences
   - explosive_injury
   - assassination
-contains_spoilers_for: 
+contains_spoilers_for:
   - Kyr4n's spatial awareness capabilities
   - His dangerous state when injured/defensive
   - Zara's elite professional assassin background
@@ -606,9 +606,9 @@ era: 4
 ## 📚 Related Documents
 
 **Character Sheets:** 
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Details]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Marcus/Marcus - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Marcus/Marcus - Details]]
 
 **Location Details:** 
 - [[South Shore Slums]]

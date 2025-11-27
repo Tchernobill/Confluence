@@ -19,7 +19,7 @@ scene_type: "[TBD - Character introduction / Establishing status quo]"
 emotional_tone: Melancholic nostalgia transitioning to gritty determination
 pov: Kyr4n
 characters_present:
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n]]"
   - "[[Mother (memory)]]"
 location: "[[Utility room hideout]] (2m x 4m concrete hideout, 40 meters below South Shore Slum)"
 plot_threads:

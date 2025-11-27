@@ -37,19 +37,19 @@ thematic_elements:
   - self_understanding_necessity
   - protection_vs_help
   - trust_through_honesty
-prev_scene: "[[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.005i - The Arrangement]]"
+prev_scene: "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]]"
 next_scene: "[[4.06.002 - The Crisis]]"
 callbacks_to:
-  - "[[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.005i - The Arrangement]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]]"
   - "[[4.05.004b - The Request]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.004 - Aftermath]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]]"
 setups_for:
   - "[[4.06.002 - The Crisis]]"
   - "[[4.07.001 - The Dark Maze]]"
 content_warnings: []
 contains_spoilers_for: []
 requires_knowledge_of:
-  - "[[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.005i - The Arrangement]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]]"
 version: "2.0"
 created: 2024-11-24
 last_updated: 2024-11-24 01:30
@@ -77,7 +77,7 @@ era: 4
 ## 🔗 Narrative Context
 
 ### What Came Before (Previous Scene Connections)
-- **From [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.005i - The Arrangement]]:** Shower encounter where Zara pushed Kyr4n past limits; tiles cracked under his hands; both realized the danger; she fled in psychological crisis
+- **From [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]]:** Shower encounter where Zara pushed Kyr4n past limits; tiles cracked under his hands; both realized the danger; she fled in psychological crisis
 - **From [[4.05.004b - The Request]]:** Five days ago Zara asked for neural bridge, was refused; tried physical approach instead
 - **Unresolved Tension:** Can they maintain working relationship? Will he help her understand herself? What will happen with neural bridge request?
 - **Character State:** Zara enters guilty about pushing him, desperate for understanding; Kyr4n enters guilty about losing control, protective but conflicted about helping
@@ -232,7 +232,7 @@ era: 4
 - Working relationship preserved (briefing at 1400)
 
 ### References to Previous Scenes
-- **From [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.005i - The Arrangement]]:** Cracked tiles, his horror, her pushing past limits, both sleepless after
+- **From [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]]:** Cracked tiles, his horror, her pushing past limits, both sleepless after
 - **From [[4.05.004b - The Request]]:** Previous neural bridge request and refusal
 - **Callback:** Her pattern of not knowing why she seeks danger (Aftermath)
 
@@ -372,12 +372,12 @@ Awkward morning after; mutual apology; boundaries; request and tentative agreeme
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[Zara - Summary]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Evolution]], [[Kyr4n - Summary]]
+**Character Sheets:** [[Zara - Summary]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Evolution]], [[Kyr4n - Summary]]
 **Location Details:** [[South Shore Slum - Organization Tower]], [[Communal Lounge]]
 **Plot Threads:** [[Zara Vulnerability Arc]], [[Neural Bridge Development]], [[Kyr4n's Control Issues]]
 **World-Building:** [[Organization Structure]], [[Professional Boundaries]]
 **Timeline:** [[Tome 4 Timeline]], [[Era 4 Events]]
-**Related Scenes:** [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.005i - The Arrangement]], [[4.05.004b - The Request]], [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.004 - Aftermath]]
+**Related Scenes:** [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]], [[4.05.004b - The Request]], [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]]
 **Future Scenes:** [[4.06.002 - The Crisis]], [[4.07.001 - The Dark Maze]]
 
 ---

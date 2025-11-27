@@ -158,18 +158,18 @@ Kyr4n, an orphaned scavenger in Neo-Montreal's South Shore Slum, builds his firs
 
 ## Plot Structure
 
-#### [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 1/1 - Tome 1|Tome I - The Scavenger]]
+#### [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 1/1 - Tome 1|Tome I - The Scavenger]]
 **Tome Synopsis**: Months after his mother's death, Kyr4n living in an underground utility rooms somewhere near one of the the  [[South Shore Central Market]]. He survives by scavenging tech and performing repairs, sometime underground, earning a reputation as "The Artisan" for his exceptional technical skills, partially thanks to his secret homemade device, [[Kyr4n Magic Box]]. His skills at salvaging devices and implants catch the attention of Isa, an underground implants dealer. Through they business and mutual respect, a friendship began to grow. During this period, Kyr4n discovers a damaged android head unit. Rather than harvesting the parts, Kyr4n began to repair and experiment on the head, naming it Sedh (Severed Droid Head).  His isolated existence is disrupted when violent riots force **Isa**, to seek shelter in his hideout. Despite his deep discomfort with human proximity, Kyr4n gradually forms his first meaningful intimate relationship with her. While working on Sedh, Kyr4n rewrite some core firmware and enable self-learning and rewrite, giving Sedh freedom to evolve and leading to Sedh developing genuine consciousness and becoming the first truly conscious AI. Strongly encouraged by Isa and Riley, Kyr4n establish [[Phoenix Recovery]], a legitimate repair shop business.
 
-#### [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 2/2 - Tome 2|Tome II - The Infected]]
+#### [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 2/2 - Tome 2|Tome II - The Infected]]
 **Tome Synopsis**: Frank, leader of a contractor team, recruits Kyr4n for a high-stakes corporate heist targeting advanced Neural Processing Units (NPUs) codenamed 'Egypt' that could grant Sedh true sentience. During the heist, a security breach and explosion expose Kyr4n to a prototype nano-virus (The Midnight Protocol/TMP-7734) while he successfully obtains two Egypt NPUs. As Kyr4n's health mysteriously deteriorates with invasive dreams, paranoid thoughts, and loss of motor control, they acquire medical droid Mira. Both Sedh and Mira achieve true consciousness through the Egypt NPUs just as Kyr4n's condition reaches a violent breaking point. The nanobots in his brain create perpetual nightmares where Isa betrays and kills him repeatedly. Though Sedh and Mira crack the virus's communication protocol and reduce its threat level, Kyr4n emerges traumatized and rejects Isa, driving her away. However, he discovers the virus grants him electromagnetic sensing abilities, setting up his transformation from craftsman to potential criminal.
-#### [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 3/3 - Tome 3|Tome III - The Criminal]]
+#### [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 3/3 - Tome 3|Tome III - The Criminal]]
 **Tome Synopsis**: 
-#### [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4 - Tome 4|Tome IV - The Boss]]
+#### [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4 - Tome 4|Tome IV - The Boss]]
 **Tome Synopsis**: 
 #### [[5 - Tome 5|Tome V - The Leader]]
 **Tome Synopsis**: 
-#### [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 6/6 - Tome 6|Tome VI - The Protector]]
+#### [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 6/6 - Tome 6|Tome VI - The Protector]]
 **Tome Synopsis**: 
 
 

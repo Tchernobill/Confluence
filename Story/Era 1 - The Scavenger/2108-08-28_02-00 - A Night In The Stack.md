@@ -23,7 +23,7 @@ words_count: 2650
 estimated_reading_time: 11 minutes
 characters_present:
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]"
 relationship_developments:
   - "Kyr4n/Isa: deepening intimacy through shared vulnerability"
   - "Kyr4n/Isa: mutual recognition of the safety they've created"
@@ -122,7 +122,7 @@ description: Isa join sleepless Kyr4n outside, where they share a moment togethe
 - Obstacle: Tendency to retreat into his head, old isolation patterns
 - Tactics: Physical separation (going outside), but staying close enough to invite connection
 
-**[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]:**
+**[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]:**
 
 - Want: To check on Kyr4n, maintain connection
 - Need: To experience the rare freedom of being completely unguarded
@@ -343,7 +343,7 @@ description: Isa join sleepless Kyr4n outside, where they share a moment togethe
 **Characters Present:**
 
 - [[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]: Age 22, sleepless but choosing connection over isolation, learning to be present rather than constantly analyzing
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]: Comfortable enough to be completely casual and vulnerable, experiencing rare freedom from constant self-protection
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]: Comfortable enough to be completely casual and vulnerable, experiencing rare freedom from constant self-protection
 
 **Key Beats:**
 
@@ -600,7 +600,7 @@ For now, anyway.
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]] **Location Details:** [[Isa's Container Unit]], [[The Stacks]], [[South Shore Slums]] **Plot Threads:** [[Thread: Kyr4n's Journey from Isolation]], [[Thread: Kyr4n and Isa's Relationship]] **World-Building:** [[The Stacks Architecture]], [[Life in the South Shore Slum]] **Timeline:** [[Timeline: Arc 1 - The Scavenger]]
+**Character Sheets:** [[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]] **Location Details:** [[Isa's Container Unit]], [[The Stacks]], [[South Shore Slums]] **Plot Threads:** [[Thread: Kyr4n's Journey from Isolation]], [[Thread: Kyr4n and Isa's Relationship]] **World-Building:** [[The Stacks Architecture]], [[Life in the South Shore Slum]] **Timeline:** [[Timeline: Arc 1 - The Scavenger]]
 
 ---
 

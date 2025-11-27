@@ -367,7 +367,7 @@ era: 4
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Details]]
+**Character Sheets:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Details]]
 **Location Details:** [[Underground Training Facility]]
 **Plot Threads:** [[Thread: Zara Integration]], [[Thread: Kyr4n's Abilities]], [[Thread: Power Dynamics]]
 **World-Building:** [[Enhanced Humans Psychology]], [[Combat Training Culture]]

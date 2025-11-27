@@ -23,7 +23,7 @@ words_count: 3400
 estimated_reading_time: 14 minutes
 characters_present:
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]"
 relationship_developments:
   - "Kyr4n/Isa: first time in her personal space"
   - "Kyr4n/Isa: escalating physical intimacy"

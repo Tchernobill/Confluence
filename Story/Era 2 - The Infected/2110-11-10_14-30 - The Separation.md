@@ -4,7 +4,7 @@ story_date: 2110-10-11
 story_time: 14:30
 story_date_end: 2110-10-11
 location: "[[Phoenix Recovery Workshop]]"
-pov: "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]"
+pov: "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]"
 narrative_arc: tome_2_the_infected
 scene_type:
   - dialogue
@@ -22,8 +22,8 @@ words_count: 0
 estimated_reading_time: 8-10 minutes
 characters_present:
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]"
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Mira]]"
   - "[[Riley King]]"
 relationship_developments:
@@ -105,7 +105,7 @@ era: 2
 ## 🎭 Scene Dynamics
 
 ### Point of View Notes
-**POV Character:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]
+**POV Character:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]
 **POV Limitations:** Cannot directly access human emotional states; must infer from observation
 **Bias/Perspective:** AI perspective observing human emotional complexity; growing understanding of unspoken communication
 **Internal Conflict:** Desire to fix what's broken vs. recognition of limitations; witnessing creator's pain
@@ -117,13 +117,13 @@ era: 2
 - Obstacle: Guilt over what happened; virus-induced trauma responses; love still present despite impossibility
 - Tactics: Soft language ("for now"); giving her an exit; not blaming her
 
-**[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]:**
+**[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]:**
 - Want: Permission to leave without abandoning him
 - Need: To preserve herself while honoring what they had
 - Obstacle: Love for him; guilt about leaving when he's suffering; hope that maybe someday
 - Tactics: Accepting his offer; maintaining the fiction of "maybe later"; sad relief
 
-**[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]:**
+**[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]:**
 - Want: To understand what's happening between them
 - Need: To witness and record this moment of human complexity
 - Obstacle: Lack of emotional experience; inability to intervene
@@ -286,8 +286,8 @@ era: 2
 
 **Characters Present:**
 - [[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]: Exhausted, guilt-ridden, traumatized but not angry; choosing to let her go; age 28
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]: Heartbroken, relieved to have permission to leave, still loving him but choosing self-preservation
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]: AI observer learning to read human unspoken communication; witnessing creator's grief
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]: Heartbroken, relieved to have permission to leave, still loving him but choosing self-preservation
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]: AI observer learning to read human unspoken communication; witnessing creator's grief
 - [[03.Hobbies/Writing/Confluence_bak/Characters/Mira]]: Present but silent observer
 
 **Key Beats:**
@@ -348,12 +348,12 @@ era: 2
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa 1/Isa - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh - Details]]
+**Character Sheets:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa 1/Isa - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh - Details]]
 **Location Details:** [[Phoenix Recovery Workshop]]
 **Plot Threads:** [[Thread: The Midnight Protocol Aftermath]], [[Thread: Kyr4n's Isolation]], [[Thread: Isa's Departure]]
 **World-Building:** [[The Midnight Protocol]], [[Psychological Warfare Technology]]
 **Timeline:** [[Tome 2 Timeline]]
-**Character Evolution:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Evolution]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa 1/Isa - Evolution]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh - Evolution]]
+**Character Evolution:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Evolution]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa 1/Isa - Evolution]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh - Evolution]]
 
 ---
 

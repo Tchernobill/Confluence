@@ -48,7 +48,7 @@ prev_scene: "[[4.05.004b - The Request]]"
 next_scene: "[[4.06.001 - The Other Interrogation Discussion]]"
 callbacks_to:
   - "[[4.05.003 - The Taking]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.004 - Aftermath]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]]"
   - "[[4.05.004b - The Request]]"
 setups_for:
   - "[[4.06.001 - The Other Interrogation Discussion]]"
@@ -62,7 +62,7 @@ content_warnings:
 contains_spoilers_for: []
 requires_knowledge_of:
   - "[[4.05.003 - The Taking]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.004 - Aftermath]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]]"
   - "[[4.05.004b - The Request]]"
 version: "2.0"
 created: 2024-11-23

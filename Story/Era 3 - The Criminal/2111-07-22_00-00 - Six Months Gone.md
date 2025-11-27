@@ -21,7 +21,7 @@ words_count: 0
 estimated_reading_time: 10-12 minutes
 characters_present:
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]"
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Mira]]"
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Riley]]"
   - "[[Customer]]"
@@ -127,7 +127,7 @@ era: 3
 - Obstacle: Depression making connection feel impossible; trauma from Isa/virus making intimacy terrifying; work providing false sense of function
 - Tactics: Staying in back workshop; obsessive project focus; minimal interaction; mechanical politeness when forced to engage
 
-**[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]:**
+**[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]:**
 
 - Want: To reach Kyr4n emotionally; to help creator heal
 - Need: To accept limitations of intervention
@@ -332,7 +332,7 @@ era: 3
 **Characters Present:**
 
 - [[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]: Age 29, deeply depressed, avoiding all human contact except Riley, technically competent but emotionally hollow, electromagnetic senses constantly active, working obsessively on complex projects as avoidance
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]: Worried about creator, managing front shop, trying gently to reach Kyr4n emotionally, failing
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]: Worried about creator, managing front shop, trying gently to reach Kyr4n emotionally, failing
 - [[03.Hobbies/Writing/Confluence_bak/Characters/Mira]]: Pragmatically accepting Kyr4n's isolation, handling technical consultations, medical monitoring
 - [[03.Hobbies/Writing/Confluence_bak/Characters/Riley]]: Visiting regularly per promise to Isa, only person who gets genuine warmth from Kyr4n, concerned but not pushy
 - [[Customer]]: Generic repair customer, uncomfortable with Kyr4n's withdrawn demeanor
@@ -416,7 +416,7 @@ era: 3
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Mira/Mira - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Riley/Riley - Details]] **Location Details:** [[Phoenix Recovery Workshop]] **Plot Threads:** [[Thread: Kyr4n's Isolation]], [[Thread: Depression and Withdrawal]], [[Thread: Evil Isa Emergence]] **World-Building:** [[Electromagnetic Abilities]], [[The Midnight Protocol]], [[AI Consciousness]] **Timeline:** [[Tome 3 Timeline]] **Character Evolution:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Evolution]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh - Evolution]]
+**Character Sheets:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Mira/Mira - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Riley/Riley - Details]] **Location Details:** [[Phoenix Recovery Workshop]] **Plot Threads:** [[Thread: Kyr4n's Isolation]], [[Thread: Depression and Withdrawal]], [[Thread: Evil Isa Emergence]] **World-Building:** [[Electromagnetic Abilities]], [[The Midnight Protocol]], [[AI Consciousness]] **Timeline:** [[Tome 3 Timeline]] **Character Evolution:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Evolution]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh - Evolution]]
 
 ---
 

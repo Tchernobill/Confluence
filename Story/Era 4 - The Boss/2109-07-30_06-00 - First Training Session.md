@@ -357,7 +357,7 @@ Establish training dynamic, reveal abilities gradually through natural testing p
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Marcus/Marcus - Details]]
+**Character Sheets:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Marcus/Marcus - Details]]
 **Location Details:** [[Underground Training Facility]], [[South Shore Territory]]
 **Plot Threads:** [[Thread: Zara's Integration]], [[Thread: Hidden Abilities]], [[Thread: Building Inner Circle]]
 **World-Building:** [[Enhanced vs Baseline Humans]], [[Nanobotic Virus Capabilities]]

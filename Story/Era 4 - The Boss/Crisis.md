@@ -4,7 +4,7 @@ story_date: 2109-09-02
 story_time: 22:30
 story_date_end: 2109-09-03
 location: "[[South Shore Slum - Kyr4n's Private Workshop]]"
-pov: "[[Zara]]"
+pov: "[[03.Hobbies/Writing/Confluence/Characters/Zara]]"
 narrative_arc: zara_vulnerability_arc
 scene_type:
   - psychological_horror
@@ -17,14 +17,14 @@ emotional_tone:
   - claustrophobic
 status:
   - drafted
-publication_position: "4.06.002"
+publication_position: 4.06.002
 words_count: 2900
 estimated_reading_time: 12 minutes
 characters_present:
-  - "[[Zara]]"
-  - "[[Marcus]]"
-  - "[[Sedh]]"
-  - "[[Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Zara]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Marcus]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Sedh]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Kyr4n]]"
   - "[[Evilisa]]"
 relationship_developments:
   - "Zara/Kyr4n: witnesses his darkness and chooses to stay; trust deepened through shared crisis"
@@ -580,14 +580,14 @@ Basic psychological progression; establishing the sequence of events; getting ch
 ## 🔗 Related Documents
 
 **Character Sheets:** 
-- [[Zara - Details]] (voice patterns, tactical mindset, curse style)
+- [[03.Hobbies/Writing/Confluence.old_vault/Characters/Zara - Details]] (voice patterns, tactical mindset, curse style)
 - [[Zara - Summary]] (quick reference)
-- [[Marcus - Details]] (military speech, loyalty conflict, chrome arm)
+- [[03.Hobbies/Writing/Confluence.old_vault/Characters/Marcus - Details]] (military speech, loyalty conflict, chrome arm)
 - [[Marcus - Summary]] (quick reference)  
-- [[Kyr4n - Details]] (Elliot/Mr. Robot voice patterns, abilities, isolation)
+- [[03.Hobbies/Writing/Confluence.old_vault/Characters/Kyr4n - Details]] (Elliot/Mr. Robot voice patterns, abilities, isolation)
 - [[Kyr4n - Summary]] (quick reference)
-- [[Kyr4n - Evolution]] (personality across arcs)
-- [[Sedh - Details]] (AI emotional development, relationship with Kyr4n)
+- [[03.Hobbies/Writing/Confluence.old_vault/Characters/Kyr4n - Evolution]] (personality across arcs)
+- [[03.Hobbies/Writing/Confluence.old_vault/Characters/Sedh - Details]] (AI emotional development, relationship with Kyr4n)
 - [[Evilisa - Details]] (psychological projection, toxic patterns)
 - [[Evilisa - Evolution]] (manifestation progression)
 

@@ -353,7 +353,7 @@ Establish philosophical depth, create intimate atmosphere, balance medical myste
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[Dr. Elena Vasquez - Details]]
+**Character Sheets:** [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]], [[Dr. Elena Vasquez - Details]]
 **Location Details:** [[Kyr4n's Private Quarters]], [[South Shore Slums]]
 **Plot Threads:** [[Thread: Territory Transformation]], [[Thread: Hidden Enhancement]], [[Thread: Building Inner Circle]]
 **World-Building:** [[Medical Technology]], [[Criminal Territory Structure]], [[Nanobotic Virus]]

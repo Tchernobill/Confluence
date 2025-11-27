@@ -4,7 +4,7 @@ story_date: 2109-08-26
 story_time: 14:00
 story_date_end: 2109-08-26
 location: "[[South Shore Slum - Training Room Alpha]], [[South Shore Slum - Kyr4n's Private Quarters]]"
-pov: "[[Zara]]"
+pov: "[[03.Hobbies/Writing/Confluence/Characters/Zara]]"
 narrative_arc: zara_vulnerability_arc
 scene_type:
   - intimate
@@ -25,9 +25,9 @@ publication_position: ""
 words_count: 6500
 estimated_reading_time: 26 minutes
 characters_present:
-  - "[[Zara]]"
-  - "[[Kyr4n]]"
-  - "[[Marcus]]" 
+  - "[[03.Hobbies/Writing/Confluence/Characters/Zara]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Marcus]]"
   - Security team observers (background)
 relationship_developments:
   - "Kyr4n/Zara: physical intimacy escalates dangerously; Zara realizes she pushed him too far"
@@ -49,7 +49,7 @@ prev_scene: "[[4.05.004b - The Request]]"
 next_scene: "[[4.06.001 - The Other Interrogation Discussion]]"
 callbacks_to:
   - "[[4.05.003 - The Taking]]"
-  - "[[4.05.004 - Aftermath]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]]"
   - "[[4.05.004b - The Request]]"
 setups_for:
   - "[[4.06.001 - The Other Interrogation Discussion]]"
@@ -64,7 +64,7 @@ content_warnings:
 contains_spoilers_for: []
 requires_knowledge_of:
   - "[[4.05.003 - The Taking]]"
-  - "[[4.05.004 - Aftermath]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]]"
   - "[[4.05.004b - The Request]]"
 version: "2.0"
 created: 2024-11-23
@@ -94,7 +94,7 @@ era: 4
 
 ### What Came Before (Previous Scene Connections)
 - **From [[4.05.004b - The Request]]:** Zara asked Kyr4n for neural bridge extraction; he refused due to risks and care for her; she accepted but felt frustrated by protective refusal; marks from first encounter have completely faded; professional functioning maintained between them
-- **From [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.004 - Aftermath]]:** She experienced first fulfilling intimacy but began questioning why violence feels like safety; decided she needed neural bridge to understand herself
+- **From [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]]:** She experienced first fulfilling intimacy but began questioning why violence feels like safety; decided she needed neural bridge to understand herself
 - **From [[4.05.003 - The Taking]]:** First physical encounter after he showed care for her survival over mission success
 - **Unresolved Tension:** Why does violence feel like safety? What childhood trauma created these patterns? How will she get answers if he won't help? Can she maintain professional boundaries while pursuing physical intimacy?
 - **Character State:** Zara enters frustrated by refusal, marks faded triggering need, consciously choosing physical over mental intimacy, determined to push him past control
@@ -275,7 +275,7 @@ era: 4
 
 ### References to Previous Scenes
 - **From [[4.05.004b - The Request]]:** His refusal, "adapted not broken" line, protective reasoning, technical challenges, her frustration
-- **From [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.004 - Aftermath]]:** Marks fading, first fulfilling intimacy, questioning why violence feels like safety, recognition of trauma patterns
+- **From [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]]:** Marks fading, first fulfilling intimacy, questioning why violence feels like safety, recognition of trauma patterns
 - **From [[4.05.003 - The Taking]]:** Anal sex established, his "I've got you" line, care response trigger, marks from first time
 - **Callback:** Training tension mirrors their professional functioning; non-verbal communication echoes her pattern; pushing limits consistent with character
 
@@ -421,12 +421,12 @@ Show her POV throughout; establish motivation; build to cracked tiles moment
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[Zara - Summary]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Details]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Zara/Zara - Evolution]], [[Kyr4n - Summary]]
+**Character Sheets:** [[Zara - Summary]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Details]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Zara/Zara - Evolution]], [[Kyr4n - Summary]]
 **Location Details:** [[South Shore Slum - Training Room Alpha]], [[South Shore Slum - Organization Tower]], [[Kyr4n's Private Quarters]]
 **Plot Threads:** [[Zara Vulnerability Arc]], [[Neural Bridge Development]], [[Kyr4n's Dangerous Capabilities]]
 **World-Building:** [[Enhanced Strength]], [[Refugee Camp System]], [[Professional Boundaries in Organization]]
 **Timeline:** [[Tome 4 Timeline]], [[Era 4 Events]]
-**Related Scenes:** [[4.05.003 - The Taking]], [[03.Hobbies/Writing/Confluence/Archives/Story/Tome 4/4.05.004 - Aftermath]], [[4.05.004b - The Request]]
+**Related Scenes:** [[4.05.003 - The Taking]], [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.004 - Aftermath]], [[4.05.004b - The Request]]
 **Future Scenes:** [[4.06.001 - The Other Interrogation Discussion]], [[4.07.001 - The Dark Maze]]
 
 ---

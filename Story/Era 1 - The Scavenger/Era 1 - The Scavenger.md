@@ -3,7 +3,7 @@
 ## Overview
 This period establishes the semi-cyberpunk world of Neo-Montreal's South Shore Slum and introduces key relationships that persist across the entire timeline, marking Kyr4n's transition from isolated survival to tentative connection before his later transformations into a criminal overlord and eventual reformer.
 
-### General Summary
+## General Summary
 Months after losing his mother, Kyr4n ekes out a living in an underground utility room near the South Shore Central Market, scavenging technology and performing repairs to survive. His exceptional skills, aided by a secret homemade device nicknamed the Magic Box, earn him a reputation as "The Artisan" in the underground economy. This draws the attention of Isa Mercer, an underground implants dealer, sparking a business partnership that blossoms into genuine friendship and mutual respect amid the slum's harsh realities.
 
 Kyr4n also connects with Riley, a charismatic and resourceful ally who becomes both a trusted friend and romantic interest. Riley, with his deep knowledge of the slum's underbelly and survival instincts honed from years of navigating its dangers, helps Kyr4n source rare components and fend off threats from rival scavengers. Their relationship adds layers of emotional support and shared ambition to Kyr4n's life, challenging his isolation and laying the groundwork for the found family that sustains him through future trials.

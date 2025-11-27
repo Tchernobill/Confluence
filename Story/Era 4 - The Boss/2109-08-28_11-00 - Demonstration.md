@@ -5,7 +5,7 @@ story_time: 14:30
 story_date_end: 2109-08-29
 story_time_end: 15:15
 location: "[[South Shore Slum - Organisation Compound Training Room]]"
-pov: "[[Marcus]]"
+pov: "[[03.Hobbies/Writing/Confluence/Characters/Marcus]]"
 narrative_arc: inner_circle_trust_building
 scene_type:
   - action
@@ -18,14 +18,14 @@ emotional_tone:
   - supportive
 status:
   - drafted
-publication_position: "4.05.005"
+publication_position: 4.05.005
 words_count: 6847
 estimated_reading_time: 28 minutes
 characters_present:
-  - "[[Marcus]]"
-  - "[[Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Marcus]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Kyr4n]]"
   - "[[Alex]]"
-  - "[[Zara]]"
+  - "[[03.Hobbies/Writing/Confluence/Characters/Zara]]"
 relationship_developments:
   - "Inner Circle/Kyr4n: vulnerability through power demonstration"
   - "Zara/Kyr4n: professional boundaries maintained post-intimacy, gentle support emerging"
@@ -50,18 +50,18 @@ prev_scene: "[[4.05.006 - The Morning After]]"
 next_scene: "[[4.06.002 - Crisis]]"
 callbacks_to:
   - "[[4.05.006 - The Morning After]]"
-  - "[[4.05.005i - The Arrangement]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]]"
   - "[[Behemoth Fight]]"
 setups_for:
   - "[[4.06.002 - Crisis]]"
   - "[[4.07.001 - The Dark Maze]]"
-  - "Future metabolic crisis scenarios"
+  - Future metabolic crisis scenarios
 content_warnings:
   - graphic_violence_against_training_dummy
   - physical_exhaustion
   - metabolic_crisis
   - intense_combat_sequence
-contains_spoilers_for: 
+contains_spoilers_for:
   - Kyr4n's electromagnetic abilities
   - His fear of losing control
   - Metabolic costs of power use
@@ -503,7 +503,7 @@ era: 4
 
 ### References to Previous Scenes
 - **From [[4.05.006 - The Morning After]]:** Three days since promise to work on control; boundaries established; Zara's understanding of control issues
-- **From [[4.05.005i - The Arrangement]]:** Cracked tiles incident informing Zara's careful support; both understanding danger of lost control
+- **From [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]]:** Cracked tiles incident informing Zara's careful support; both understanding danger of lost control
 - **From [[Behemoth Fight]]:** Three weeks ago; footage shows impossible victory; establishes pattern Alex analyzed
 - **Callback to training:** Marcus-taught stance dissolves instantly; years of teaching versus natural instinct
 - **Callback to isolation:** "Carrying too much alone for too long" echoing his history
@@ -737,11 +737,11 @@ era: 4
 
 **Character Sheets:** 
 - [[Marcus - Summary]]
-- [[Marcus - Details]] (includes Spartan-style voice notes)
+- [[03.Hobbies/Writing/Confluence.old_vault/Characters/Marcus - Details]] (includes Spartan-style voice notes)
 - [[Kyr4n - Summary]]
-- [[Kyr4n - Details]] (electromagnetic abilities section)
+- [[03.Hobbies/Writing/Confluence.old_vault/Characters/Kyr4n - Details]] (electromagnetic abilities section)
 - [[Zara - Summary]]
-- [[Zara - Details]] (boundary management)
+- [[03.Hobbies/Writing/Confluence.old_vault/Characters/Zara - Details]] (boundary management)
 - [[Alex - Summary]]
 
 **Location Details:** 
@@ -769,7 +769,7 @@ era: 4
 
 **Related Scenes:** 
 - [[4.05.006 - The Morning After]] (three days before)
-- [[4.05.005i - The Arrangement]] (cracked tiles incident)
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Story/Tome 4/4.05.005i - The Arrangement]] (cracked tiles incident)
 - [[Behemoth Fight]] (three weeks before, footage shown)
 - [[4.06.002 - Crisis]] (follows this)
 - [[4.07.001 - The Dark Maze]] (neural bridge work)

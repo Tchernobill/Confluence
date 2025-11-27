@@ -22,7 +22,7 @@ scene_type: "[TBD - Transition / World-building / Character demonstration]"
 emotional_tone: Cautious alertness and urban paranoia, methodical progression through dangerous territory
 pov: Kyr4n
 characters_present:
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n]]"
 location: "[[Utility room access tunnels]] → [[Underground maintenance tunnel network]] → [[South Shore Slum surface streets]] → [[Underground market entrance]]"
 plot_threads:
   - "[[Corporate Uprising]]"

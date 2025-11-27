@@ -33,7 +33,7 @@ characters_present:
   - "[[Zara Al-Rashid]]"
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Jin]]"
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Mira]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]"
   - "[[Carmen 'Cutter' Rivera]]"
   - "[[Dmitri 'Tank' Volkov]]"
   - "[[Sarah 'Ghost' Chen]]"
@@ -1115,14 +1115,14 @@ Marcus descended to the operations floor and began making it happen.
 
 **Character Sheets:**
 
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Kyr4n/Kyr4n - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n - Details]]
 - [[Marcus Chen - Details]]
 - [[Alex Martino - Details]]
 - [[Aurelio Marchetti - Details]]
 - [[Zara Al-Rashid - Details]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Jin/Jin - Details]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Mira/Mira - Details]]
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Jin/Jin - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Mira/Mira - Details]]
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh - Details]]
 - [[Carmen 'Cutter' Rivera - Details]] (needs creation)
 - [[Dmitri 'Tank' Volkov - Details]] (needs creation)
 - [[Sarah 'Ghost' Chen - Details]] (needs creation)

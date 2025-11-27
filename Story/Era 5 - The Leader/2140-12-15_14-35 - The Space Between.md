@@ -24,8 +24,8 @@ estimated_reading_time: 12-15 minutes
 characters_present:
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
   - "[[Helen]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Marcus/Marcus]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Marcus/Marcus]]"
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Zara]]"
   - "[[03.Hobbies/Writing/Confluence/Archives/Random/Alex/Alex]]"
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Jin]]"
@@ -128,7 +128,7 @@ era: "5"
 - Obstacle: Witnessing impossible physiology; readings that make no sense; visible nanobots
 - Tactics: Monitoring vitals, coordinating with Sedh, managing team's panic
 
-**[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]:**
+**[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]:**
 - Want: To interface with DayLight virus and coordinate emergency response
 - Need: To act as bridge between viral protocols and human medicine
 - Obstacle: Viral network responding too fast; Kyr4n's consciousness inaccessible
@@ -140,7 +140,7 @@ era: "5"
 - Obstacle: No combat solution exists; can only watch
 - Tactics: Staying present, offering protection, refusing to leave
 
-**[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Marcus/Marcus]]:**
+**[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Marcus/Marcus]]:**
 - Want: To find tactical solution to medical crisis
 - Need: To trust Helen and Sedh's expertise
 - Obstacle: Witnessing leader's vulnerability; no military solution
@@ -342,8 +342,8 @@ era: "5"
 **Characters Present:** 
 - [[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]: Consciousness fragmenting, experiencing non-linear time, terror of virus making decisions without him, brief lucid moments
 - [[Helen]]: Chief medical officer, maternal horror, monitoring impossible vitals, coordinating with Sedh
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]]: AI interfacing with viral network, translating emergency protocols, detecting anomaly
-- [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Marcus/Marcus]]: Military advisor, helpless without tactical solution, securing perimeter
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]]: AI interfacing with viral network, translating emergency protocols, detecting anomaly
+- [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Marcus/Marcus]]: Military advisor, helpless without tactical solution, securing perimeter
 - [[03.Hobbies/Writing/Confluence_bak/Characters/Zara]]: Bodyguard/assassin, refusing to leave, struggling with powerlessness
 - [[03.Hobbies/Writing/Confluence/Archives/Random/Alex/Alex]], [[03.Hobbies/Writing/Confluence_bak/Characters/Jin]], [[03.Hobbies/Writing/Confluence_bak/Characters/Kaia]]: Supporting roles, specific reactions to horror
 
@@ -415,7 +415,7 @@ era: "5"
 
 ## 🔗 Related Documents
 
-**Character Sheets:** [[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]], [[Helen]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Sedh/Sedh]], [[03.Hobbies/Writing/Confluence/Archives/Old Characters/Marcus/Marcus]], [[03.Hobbies/Writing/Confluence_bak/Characters/Zara]], [[03.Hobbies/Writing/Confluence/Archives/Random/Alex/Alex]], [[03.Hobbies/Writing/Confluence_bak/Characters/Jin]], [[03.Hobbies/Writing/Confluence_bak/Characters/Kaia]]
+**Character Sheets:** [[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]], [[Helen]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Sedh/Sedh]], [[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Marcus/Marcus]], [[03.Hobbies/Writing/Confluence_bak/Characters/Zara]], [[03.Hobbies/Writing/Confluence/Archives/Random/Alex/Alex]], [[03.Hobbies/Writing/Confluence_bak/Characters/Jin]], [[03.Hobbies/Writing/Confluence_bak/Characters/Kaia]]
 **Location Details:** [[Phoenix Recovery Compound]]
 **Plot Threads:** [[Cost of Power]], [[DayLight Virus Limits]], [[Kyr4n's Vulnerability]]
 **World-Building:** [[DayLight Virus]], [[Nanobotic Regeneration]], [[Enhancement Costs]]

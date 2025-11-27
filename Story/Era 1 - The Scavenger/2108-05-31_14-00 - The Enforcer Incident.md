@@ -24,7 +24,7 @@ pov: Kyr4n
 pov_style: Third-person limited
 characters_present:
   - "[[03.Hobbies/Writing/Confluence_bak/Characters/Kyr4n]]"
-  - "[[03.Hobbies/Writing/Confluence/Archives/Old Characters/Isa/Isa]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Isa/Isa]]"
   - Corporate Enforcer (unnamed antagonist)
   - Market crowd (background)
 location:
