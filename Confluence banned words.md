@@ -1,3 +1,0 @@
-Predatory
-Chen
-move economy

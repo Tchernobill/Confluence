@@ -15,16 +15,16 @@ The first artificial intelligence to achieve consciousness through choice rather
 **[[03.Hobbies/Writing/Confluence/Characters/Mira]] (The Healer)**  
 A medical droid whose consciousness awakened not through philosophy but through the urgent need to save a dying patient, she serves as the family’s fierce medical guardian. She embodies the concept that care is the genesis of the soul, protecting the physical vessels of those Sedh protects spiritually.
 
-**[[03.Hobbies/Writing/Confluence/Characters/Jin]] "Patch" (The Engineer)**  
+**[[Jin]] "Patch" (The Engineer)**  
 A brilliant but socially awkward engineer seeking redemption for a catastrophic medical failure, he channels his obsessive perfectionism into building the organization’s technical infrastructure. He views the world through the lens of solvable circuit diagrams, finding safety in machines that human relationships cannot provide.
 
-**[[03.Hobbies/Writing/Confluence/Characters/Marcus]] (The Enabler)**  
+**[[Marcus]] (The Enabler)**  
 A gruff former military commander who serves as Kyr4n’s surrogate father, shielding his charge with lethal pragmatism while secretly dying inside over the moral compromises required to keep him alive. He is the reluctant enabler who carries a secret termination order he prays he never has to execute.
 
 **[[Alex]] (The Commander)**  
 A tactical prodigy whose hero worship of Kyr4n blinds them to their own leadership potential, they serve as the military hammer of the organization. Their journey requires shattering the image of their idol to step out of his shadow and become a leader in their own right.
 
-**[[03.Hobbies/Writing/Confluence/Characters/Helene]] (The Matriarch)**  
+**[[Helene]] (The Matriarch)**  
 A fallen aristocrat who rebuilt her dignity as the organization’s administrative matriarch, she balances maternal warmth with a spine of steel. Having survived brutal exploitation, she now heals the family’s wounds while suppressing her own complex romantic feelings for its leader.
 
 **[[Nathalie]] (The Operator)**  

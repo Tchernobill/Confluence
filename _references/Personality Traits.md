@@ -1,0 +1,31 @@
+- **Introverted/Extroverted**: Preference for solitude and internal experiences versus seeking external stimulation and interaction with others.
+- **Optimistic/Pessimistic**: Tendency to look at the positives and expect the best versus focusing on negatives and expecting the worst.
+- **Friendly/Aloof**: Being sociable and easy to get along with versus distant and reserved in social situations.
+- **Confident/Insecure**: Having self-assurance and trust in one's abilities versus lacking confidence and feeling self-doubt.
+- **Empathetic/Insensitive**: Ability to understand and share the feelings of others versus lacking empathy and being unaware or indifferent to others' emotions.
+
+- **Adventurous/Cautious**: Willingness to take risks and try new experiences versus being careful and avoiding risks.
+- **Ambitious/Unambitious**: Having a strong desire to succeed or achieve something versus lacking ambition or motivation.
+- **Assertive/Passive**: Being confident and self-assured in expressing needs and opinions versus being inclined to avoid confrontation and let others take the lead.
+- **Creative/Unimaginative**: Having original ideas and imagination versus lacking creativity and new ideas.
+- **Curious/Uninterested**: Having a strong desire to learn or know more about something versus showing little interest in learning or exploring.
+- **Disciplined/Undisciplined**: Showing control in one's behavior and being organized versus lacking self-control and being disorganized.
+- **Generous/Selfish**: Willingness to give or share freely versus being primarily concerned with one's own benefits.
+- **Honest/Deceptive**: Being truthful and sincere versus being inclined to lie or deceive.
+- **Independent/Dependent**: Being self-reliant and able to do things for oneself versus relying on others for support.
+- **Intelligent/Unintelligent**: Having or showing intelligence and understanding versus lacking intelligence or understanding.
+- **Loyal/Disloyal**: Showing firm and constant support to someone or something versus lacking loyalty.
+- **Meticulous/Careless**: Paying careful attention to detail versus being inattentive to details.
+- **Patient/Impatient**: Able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious versus easily annoyed or provoked.
+- **Practical/Impractical**: Being sensible and realistic in approach versus not being sensible or realistic.
+- **Resilient/Fragile**: Being able to recover quickly from difficult conditions versus being easily harmed or affected by something.
+- **Responsible/Irresponsible**: Being dependable and making good decisions versus being careless and not dependable.
+- **Selfless/Self-Centered**: Concerned more with the needs and wishes of others than with one's own versus being preoccupied with oneself and one's own affairs.
+- **Sensitive/Insensitive**: Quickly detecting or responding to slight changes, signals, or influences versus not noticing or not being affected by the feelings of others.
+- **Serious/Lighthearted**: Being solemn and thoughtful versus being cheerful and carefree.
+- **Spontaneous/Planned**: Acting on impulse or feeling versus planning things in advance.
+- **Stubborn/Flexible**: Being determined to not change attitude or position on something versus being ready and able to change so as to adapt to different circumstances.
+- **Sympathetic/Apathetic**: Showing feelings of pity and sorrow for someone else's misfortune versus showing no interest or concern.
+- **Talkative/Reserved**: Tending to talk a great deal versus being reluctant to talk or share information.
+- **Thoughtful/Inconsiderate**: Considering the needs and feelings of others versus not thinking about the effects of one's actions on others.
+- **Trustworthy/Untrustworthy**: Able to be relied on as honest and truthful versus not able to be relied upon.
