@@ -60,7 +60,7 @@ last_updated: 2025-11-21
 ## Basic Information
 
 **Full Name:** Evilisa
-**Nickname/Alias:** "EvI," "E.I."  
+**Nickname/Alias:** "E.I.", "EvI"  
 **Born:** First manifestation Arc 2 (approximately 2106-2107), after Isa's departure  
 **Current Residence:** Kyr4n's virus-enhanced consciousness  
 **Occupation:** Psychological processing mechanism / Crisis response manifestation  
