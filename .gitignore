@@ -4,6 +4,8 @@ config.local.js
 # Ignore all files with an extension
 *.log
 *.tmp
+/.tmp*
+
 
 # Ignore a folder
 _misc/
