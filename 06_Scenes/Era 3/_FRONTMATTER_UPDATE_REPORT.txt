@@ -1,0 +1,15 @@
+CONFLUENCE FRONTMATTER BATCH UPDATE REPORT
+================================================================================
+Date: 2026-01-02 17:08:29
+Total files: 9
+Successful: 9
+Failed: 0
+
+TRANSFORMATIONS APPLIED:
+  • scene_style_tone → emotional_tone
+  • scenes_before → prev_scene
+  • scenes_after → next_scene
+  • primary_themes → thematic_elements
+  • Moved extra properties to comments
+  • Added all 27 required fields
+

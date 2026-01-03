@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("05_Timeline/Era 1")
+    order:
+      - file.name
+      - story_date
+      - pov
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: story_date
+        direction: DESC
+    columnSize:
+      note.story_date: 118

@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.inFolder("05_Timeline/Era 4")
+    - '!file.inFolder("05_Timeline/Era 4/Drafts")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - story_date
+      - story_time
+      - pov
+      - character_arcs
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: pov
+        direction: DESC
+    columnSize:
+      note.story_date: 120

@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("06_Scenes")
+        - type == "scene_summary"
+    order:
+      - title
+      - story_date
+      - type
+      - file.name
+    sort:
+      - property: story_date
+        direction: ASC
+      - property: file.path
+        direction: DESC
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      note.title: 266
+      note.story_date: 159
+      note.type: 177

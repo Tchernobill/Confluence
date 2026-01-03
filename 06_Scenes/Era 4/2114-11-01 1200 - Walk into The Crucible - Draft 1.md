@@ -1,0 +1,209 @@
+---
+title:
+  - Walk into The Crucible
+type: draft
+status: in progress
+scene_type: []
+emotional_tone: []
+story_date: 2122-02-01 12:00:00
+pov: Kyr4n
+location: "[[The Crucible]]"
+characters_present:
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Kyr4n/Kyr4n]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Marcus/Marcus]]"
+  - "[[03.Hobbies/Writing/Confluence/misc/Archives/Old Characters/Riley/Riley]]"
+  - "[[Kovar]]"
+  - "[[Evilisa]]"
+narrative_arc: arc_identifier
+relationship_developments: []
+plot_threads:
+  - "[[Riley's Death]]"
+  - "[[Technomancer Legend]]"
+  - "[[Loss of Control]]"
+character_arcs: []
+thematic_elements: []
+prev_scene: ""
+next_scene: ""
+callbacks_to: []
+setups_for: []
+content_warnings: []
+contains_spoilers_for: []
+requires_knowledge_of: []
+words_count: 2709
+estimated_reading_time: 0 minutes
+version: "0.1"
+created: 2114-11-01
+last_updated: 2026-01-02 17:07
+revision_notes: Frontmatter standardized
+---
+Marcus burst through the workshop door, his military bearing compromised by panic. "They have Riley."
+
+Kyr4n didn't look up from the circuit board he was examining, though his hands stilled. The electromagnetic field around his fingers dissipated. "Who."
+
+"Kovar's crew. They—" Marcus caught his breath. "They grabbed him two hours ago. Neutral territory, broad daylight."
+
+Kyr4n froze. "Where."
+
+"The Crucible. Kovar's sending a message—Riley for you. Straight trade."
+
+Isa emerged from the back room, her augmented eye already scrolling through surveillance feeds. "It's a trap. Obviously."
+
+"Obviously," Kyr4n agreed, standing. His voice remained flat, emotionless, but Marcus noticed his expression.
+
+"We can mobilize the crew," Marcus offered. "Full tactical response. Extract Riley before—"
+
+"No." Kyr4n moved toward his equipment locker. "No need to escalate this into territorial war. Kovar wants me. He gets me."
+
+Kyr4n pulled out his armoured coat, running his fingers along the reinforced plating. "Send word to Kovar. I accept."
+
+"Boss—" Marcus started.
+
+"Riley is my friend." The simple statement carried finality. Kyr4n's dark eyes met Marcus's. "I'll get him back first, then I'll figure something out, don't worry."
+
+---
+
+The South Shore marketplace buzzed with its usual chaos—vendors hawking salvage, addicts hunting their next fix, children darting between stalls. The crowd's energy shifted when Kyr4n arrived, conversations dying mid-sentence as people recognized him.
+
+Four of Kovar's men waited by the fountain, their gang colours obvious despite attempts at casual positioning. The lead enforcer, a steel-armed bruiser named Tank, stepped forward.
+
+"The Slum Deamon himself." Tank's grin revealed gold teeth. "Boss says you come alone, you come clean. No weapons, no devices, no augmentations you can remove."
+
+*Beside Kyr4n, visible only to him, Evilisa materialized like smoke given form. She wore Isa's face but wrong—too sharp at the edges, too bright in the eyes. "Oh, this is delicious," she purred, circling Tank with predatory interest. "They want to humiliate you. Strip you bare in front of everyone." She leaned in close to Kyr4n's ear, her breath electric against his skin. "I wonder if they know you actually like it when I make you beg."*
+
+Kyr4n studied the enforcers with the same detached analysis he'd apply to malfunctioning hardware. "I can't remove augmentations."
+
+"Then you strip everything else. Here. Now."
+
+*Evilisa clapped her hands in mock delight. "Oh yes! Let's show them what a pathetic, baseline nothing you really are." She ran her fingers down his chest, her touch crackling with static only he could feel. "Remember that time you cried when I told you how small you looked? How unremarkable? This will be just like that, but better."*
+
+A few onlookers lingered at the market's edges, curiosity overcoming self-preservation. Most of the crowd had already begun dispersing—nobody wanted to witness whatever came next.
+
+Kyr4n shrugged off his armored coat first, folding it with mechanical precision. "I really like this coat," he said conversationally, handing it to Tank. "I want it back after."
+
+The enforcer's grin faltered at the casual tone. "Just keep stripping."
+
+*"Look at you, pretending to be calm," Evilisa laughed, her form flickering between solid and static. "But I know better. I know how you hate your pale, weak body. How you think everyone can see what a disappointment you are." She pressed against him as he removed his shirt, her hands roaming possessively. "They're all thinking it—the great Slum Deamon is just another scared little boy."*
+
+Piece by piece, Kyr4n removed everything. Boots, pants, shirt, undergarments. Each item folded and stacked with the same methodical care. The marketplace had nearly emptied now, only a handful of the boldest or most foolish remaining to watch.
+
+Without his signature coat, without any visible augmentations, Kyr4n appeared utterly baseline human. Pale skin, average build, no obvious modifications. One watching scavenger whispered to another, "Maybe the stories are just hype. Looks normal to me."
+
+*Evilisa cackled at that, dancing around his naked form. "Normal! They called you normal!" She gestured at his exposed genitals with cruel amusement. "Well, below normal if we're being honest. No wonder you never wanted Isa to see you in daylight." She traced a finger down his spine, her nail leaving trails of phantom pain. "All that power inside, and you're still just meat. Disappointing meat."*
+
+Tank gestured toward the industrial district. "Walk."
+
+---
+
+Kyr4n moved through enemy territory with mechanical purpose. His bare feet found their path automatically, avoiding broken glass and toxic puddles without conscious thought. The cold didn't touch him—his nervous system had filtered out such irrelevant input, everything focused on the objective ahead.
+
+*Evilisa strutted beside him, her feet never touching the ground, her form shifting between Isa's likeness and something more predatory. "Riley," she said, the name dripping with disdain. "Your precious little friend. The one who teaches you to breathe and meditate because you're too broken to manage your own emotions." She laughed, the sound like breaking glass. "You know he pities you, right? They all do. Poor, damaged Kyr4n who needs someone to hold his hand."*
+
+Riley was 2.7 kilometers away. Based on Kovar's psychological profile, he had perhaps twenty minutes before the gangster's patience expired. Multiple tactical approaches calculated and discarded. All projections ended the same: violence.
+
+The streets grew emptier as they moved deeper into Kovar's territory. Those few pedestrians they encountered quickly crossed to avoid the procession—a naked man surrounded by armed escorts meant nothing good. Kyr4n registered their fear with the same detachment he noted the wind speed and ambient temperature. Data points. Nothing more.
+
+*"Data points," Evilisa mocked, now walking backward in front of him, her body phasing through obstacles. "That's all people are to you now. Numbers to calculate, problems to solve. Except you can't solve anything, can you?" She pressed close, her lips brushing his ear. "You couldn't save your mother. You couldn't keep Isa. And you won't save Riley. You're walking naked to your failure, and part of you knows it. Part of you wants it."*
+
+They'd covered half the distance when one escort decided to test the legend. Pike, young and eager to prove himself, darted forward to shove Kyr4n from behind.
+
+Without breaking stride, without even turning his head, Kyr4n's hand swept backward in a casual arc. The back of his fist connected with Pike's jaw at the precise angle and velocity to trigger immediate unconsciousness. The enforcer crumpled mid-step.
+
+*"Ooh, the puppy has teeth," Evilisa cooed, examining the fallen man. "But only for the weak ones. Only for those who can't really hurt you." She skipped ahead, her form becoming more unstable, more electric. "Wait until Kovar sees you. Naked, pathetic, pretending to be dangerous. He has augmentations where it counts—not like you."*
+
+Tank raised his weapon reflexively, then lowered it as Kyr4n continued walking as if nothing had happened. The remaining escorts maintained a more respectful distance.
+
+---
+
+The Crucible loomed ahead—a rusted platform where Kovar held his executions. Not public spectacles, but quiet demonstrations of inevitability. Riley knelt at its center, hands bound, blood trailing from a split lip. Alive. Breathing. Salvageable.
+
+Kovar stood motionless beside the kneeling man, a monument carved from meat and steel. Broad shoulders, laborer's build, one side of his jaw replaced with brushed metal that caught the dying light. His pale eyes never left Kyr4n as he approached, unblinking, patient as stone. His crew formed a loose circle, recording everything on their devices, but Kovar himself made no gesture toward performance.
+
+When Kyr4n stopped at the platform's edge, Kovar finally moved—slow, deliberate, lighting a cigarette. The flame illuminated scars across his knuckles, old violence written in flesh. He took a long drag, exhaled, then spoke in a voice like gravel settling.
+
+"You came." Not a question. A statement of fact. "Naked. Alone." Another drag, studying Kyr4n with those unblinking eyes. "You thought that would mean something."
+
+*Evilisa's attention suddenly shifted to Kovar, her mockery of Kyr4n forgotten. "This one's different," she murmured, circling the still figure. "Look at him. No swagger. No performance. He doesn't need to prove anything." She touched Kovar's jaw, her fingers passing through. "He already knows how this ends."*
+
+Kyr4n's' electromagnetic senses mapped every weapon, every augmentation, every potential threat. Seventeen hostiles. Four primary targets. Ninety-three percent probability of total elimination within forty seconds—if required.
+
+But Riley first. Always him objective first.
+
+Kovar took three slow steps forward, each footfall deliberate, stopping just outside Kyr4n's reach. "You wanted to be myth," he said softly, almost intimate. "The Slum Daemon. The legend." He flicked ash from his cigarette, the gesture somehow containing threat. "But here you are. Just meat. Just fear. Barely a man"
+
+"We both made mistakes," Kyr4n said, maintaining his flat affect despite Kovar's proximity. "I operated in your territory. You took from me. Let's correct these mistakes. Let Riley go."
+
+Kovar studied him for a long moment, then reached out—slow, inevitable—and placed one heavy hand on Kyr4n's bare shoulder. The touch was almost gentle, but it carried weight like a mountain settling. "You think this is negotiation." His thumb pressed slightly into Kyr4n's collarbone. "You think words will change what's already in motion?."
+
+He turned his head slightly, not quite looking at Riley. "I heard your friend taught you meditation. Breathing exercises." His grip tightened fractionally. "He told me, while we waited. Said you needed help with control." Kovar's pale eyes returned to Kyr4n's. "I don't think he helped enough."
+
+*"He's going to do it," Evilisa whispered, her form suddenly going very still, watching Kovar with something approaching respect. "He's not angry. He's not proving anything. He's just..."*
+
+Kovar released Kyr4n's shoulder, stepped back, drew his pistol with the same unhurried precision. Chrome plating, functional rather than decorative. "The message isn't about territory." He turned toward Riley, weapon rising. "It's simpler than that."
+
+The gunshot cut him off. Casual. Mid-sentence. Riley's head snapped forward as the bullet entered his neck. No ceremony. No final words. Just the casual execution of predetermined fact.
+
+Kyr4n's enhanced senses experienced it all in excruciating detail. The projectile's path. The severing of carotid and jugular. The electromagnetic cascade of Riley's neural activity—brilliant, then dimming, then stuttering. His medical implant's frantic attempts to stem the damage. The heart's electrical signature growing erratic. Weaker. Stopping.
+
+2.3 seconds. His friend's entire existence reduced to 2.3 seconds of biometric data.
+
+*For those same 2.3 seconds, Evilisa stood frozen, her expression locked in shock. Then, as Riley's bioelectrical signature flatlined, she shattered. "NO!" The scream tore from her throat, her form exploding into chaotic static. "RILEY! NO NO NO NO!" She wheeled on Kovar, her face distorting into something inhuman. "YOU KILLED HIM! HE WAS EVERYTHING! HE WAS THE ONE WHO MATTERED THE MOST!"*
+
+Inside Kyr4n, something fundamental cracked. The careful compartmentalization he'd maintained since the infection, the rigid control that kept his humanity separate from his capabilities—it shattered like overstressed metal. DayLight...
+
+*"BURN HIM!" Evilisa shrieked, her form now pure electrical chaos surrounding Kyr4n like a storm. "MAKE HIM SCREAM! BOIL HIS BLOOD! BURN HIS BONES" She was everywhere at once, feeding into his rage, amplifying it. "KILL THEM ALL! MAKE THEM SUFFER LIKE RILEY SUFFERED!"*
+
+Kovar was still talking. Something about messages and fear and respect. The words reached Kyr4n's ears but held no meaning. Everything had gone distant. Unreal. Except for the rage—clean and pure and absolute.
+
+"What's with the face?" Kovar asked, still holding the smoking weapon, watching Kyr4n with those unblinking eyes. He walked back slowly, each step measured. "You knew how this would end. We both did." He stopped directly in front of Kyr4n. "The question was always what you'd do about it."
+
+He reached out again, this time touching Kyr4n's temple with the gun barrel. Still warm. Still patient. "You want to kill me. I can see it." His voice dropped lower, almost tender. "But you're still thinking. Still calculating." He pressed the barrel slightly harder. "That's your weakness. You think when you should just be."
+
+The scream inside Kyr4n's mind wasn't entirely human. It carried harmonics that shouldn't exist in a throat—the shriek of overloading, the whine of electromagnetic buildup pushed beyond all safety limits.
+
+*Evilisa's scream, her fury feeding directly into the billions of nanobots throughout his body. "YES! YES! BURN! BURN! BURN!" Her form twisted around the electromagnetic field as it manifested, visible distortion bending the air itself.*
+
+Billions of nanobots throughout his body shifted from combat mode to a new undefined state simultaneously. The electromagnetic field they generated wasn't subtle anymore. It manifested as visible distortion, the air itself bending around him.
+
+As Kovar was pulling the trigger, the gun turned cherry red in his hand. He dropped it. "
+
+The gangster had one moment to stare at his burning palm before the field locked onto every piece of metal in his body. Augmentations, reinforcements, the trace metals in his blood—all of it began to heat. "What—" Kovar managed before the screaming started.
+
+*"MORE!" Evilisa howled, her form writhing in the electromagnetic storm. "Make him feel it! Every nerve! Every augmentation! Let him know what real power is!" She was laughing and crying simultaneously, her madness absolute. "For Riley! BURN FOR RILEY!"*
+
+The induction field intensified, focusing with terrible precision. Augmentations glowed cherry-red, then white-hot. Kovar screamed. His cybernetic jaw began to glow, as the metal in his bones conducted heat into surrounding tissue.
+
+The smell of cooking meat filled the air. Kovar's enhanced spine became a line of white heat. The reinforced bones in his arms conducted agony through every nerve. His crew stood frozen, unable to look away from their leader's immolation.
+
+Then the plasma field erupted, and even that impossible willpower couldn't hold him together anymore.
+
+The entire process took fifty-three seconds. Kovar's crew stood frozen, weapons forgotten, as their leader was reduced to carbonized bones and melted chrome.
+
+*As the last of Kovar's screams faded, Evilisa's form began to stabilize, her manic energy dissipating. She stood in the ashes, looking small and lost. "Riley," she whispered, and for a moment she looked exactly like Isa—vulnerable and grieving. Then she flickered, fading at the edges. "He's gone. Your only real friend is gone."*
+
+Kyr4n walked through the cooling remains without acknowledgment, kneeling beside Riley's body. His friend looked peaceful, almost sleeping if not for the hole in his neck and the spreading pool of blood.
+
+"I'm sorry," Kyr4n whispered, the first emotion he'd shown since arriving. "I was too slow. I'm sorry."
+
+*Evilisa knelt beside him, barely visible now, her voice growing distant. "Too slow," she echoed, but without cruelty. "Always too slow." She reached out to touch Riley's face, her hand passing through like mist. "He was the only one who saw you as human. Now there's just us." Her form flickered again, weaker. "Just us and the nothing we are."*
+
+Tires screeched as three armoured vehicles roared into the plaza. Phoenix Recovery's response team deployed with military precision—Marcus leading, establishing a perimeter while others moved to secure the scene.
+
+"Boss," Marcus said gently, draping Kyr4n's coat over his shoulders. "We need to go. Now."
+
+*Evilisa was barely a whisper now, a suggestion of form at the edge of vision. "They're taking you back," she murmured. "Back to pretend you're still one of them." She was fading, dissolving into static. "But we know better. We know what you really are now."*
+
+Kyr4n didn't respond, still kneeling beside Riley. Two team members carefully lifted the body, treating it with the reverence due a fallen comrade. Only then did Kyr4n allow Marcus to guide him toward the vehicles.
+
+*As they drove away, Evilisa's last words drifted through his mind like an echo: "I'll be here when you're alone again. I'm always here."*
+
+Behind them, Kovar's crew scattered into the slums, their recordings already uploading to the net. Within hours, the footage would spread through every territory, every market, every corporate database.
+
+The legend of Technomancer was born. And he could burn you from the inside out with a thought.
+
+---
+
+"Boss," Marcus ventured. "There are decisions to make. Kovar's territory—"
+"Not now."
+"The other gangs will—"
+"Not. Now."
+Marcus retreated, exchanging worried glances with Isa. They'd seen Kyr4n angry, seen him violent, seen him calculating. They'd never seen him broken.

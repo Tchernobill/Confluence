@@ -1,0 +1,17 @@
+CONFLUENCE FRONTMATTER BATCH UPDATE REPORT
+================================================================================
+Date: 2026-01-02 17:04:48
+Total files: 59
+Successful: 58
+Failed: 1
+
+TRANSFORMATIONS APPLIED:
+  • scene_style_tone → emotional_tone
+  • scenes_before → prev_scene
+  • scenes_after → next_scene
+  • primary_themes → thematic_elements
+  • Moved extra properties to comments
+  • Added all 27 required fields
+
+FAILED FILES:
+  • E:\Confluence\06_Scenes\Era 1\Summary.md: No frontmatter found

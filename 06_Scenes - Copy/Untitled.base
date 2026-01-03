@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("06_Scenes")
+    order:
+      - title
+      - story_date
+      - type
+      - file.path
+    sort:
+      - property: file.path
+        direction: DESC
+      - property: file.folder
+        direction: ASC
+      - property: story_date
+        direction: ASC
+    columnSize:
+      note.title: 266
+      note.story_date: 159
+      note.type: 103

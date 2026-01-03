@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("cast")
+    order:
+      - file.name
+      - DOB
+      - alignment
+      - gender
+      - archetype
+      - importance_level
+    sort:
+      - property: DOB
+        direction: DESC
+      - property: importance_level
+        direction: ASC
+    columnSize:
+      file.name: 172
+      note.alignment: 118
+      note.archetype: 134
